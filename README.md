@@ -1,6 +1,6 @@
 # RAG-based AI Teaching Assistant
 
-A retrieval-augmented generation (RAG) project designed to transform recorded web development lectures into an intelligent teaching assistant. The system processes lecture videos, converts them into text, creates semantic embeddings, and answers student questions using the most relevant course content.
+A retrieval-augmented generation (RAG) project designed to transform recorded web development lectures into an intelligent teaching assistant. The system processes lecture videos, converts them into text, creates semantic embeddings, and answers student questions using the most relevant course content. For this project, I used Code with Harry's Sigma Web Development Course as the training material for the RAG knowledge base.
 
 ## Project Overview
 
@@ -111,5 +111,6 @@ The assistant can answer questions such as:
 ## Notes
 
 - The assistant is intended for course-specific content and responds only to questions related to the available lesson material.
+- This project uses content from Code with Harry's Sigma Web Development Course as the training source for the RAG-based knowledge base.
 - Output quality depends on transcription accuracy, embedding quality, and the chosen LLM model.
 - GPU support is recommended for faster transcription with larger audio files.
