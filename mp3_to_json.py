@@ -22,31 +22,30 @@ for audio in audios:
         title = os.path.splitext(audio.split("_")[1])[0]
         print(f"Processing: {number} - {title}")
         
-        if int(number.split(" -")[0]) >= 39:
-            segments, info = model.transcribe(
-                audio=f"audios/{audio}",
-                language="hi",
-                task="translate",
-                word_timestamps=False
-            )
+        segments, info = model.transcribe(
+            audio=f"audios/{audio}",
+            language="hi",
+            task="translate",
+            word_timestamps=False
+        )
         
-            chunks = []
-            full_text_list = []
-            for segment in segments:
-                chunks.append({
-                    "number": number, 
-                    "title": title, 
-                    "start": segment.start, 
-                    "end": segment.end, 
-                    "text": segment.text
+        chunks = []
+        full_text_list = []
+        for segment in segments:
+            chunks.append({
+                "number": number, 
+                "title": title, 
+                "start": segment.start, 
+                "end": segment.end, 
+                "text": segment.text
                 })
-                full_text_list.append(segment.text)
+        full_text_list.append(segment.text)
             
-            full_text = "".join(full_text_list)
-            chunks_with_metadata = {"chunks": chunks, "text": full_text}
+        full_text = "".join(full_text_list)
+        chunks_with_metadata = {"chunks": chunks, "text": full_text}
 
-            output_filename = f"jsons/{audio}.json"
-            with open(output_filename, "w", encoding="utf-8") as f:
-                json.dump(chunks_with_metadata, f, ensure_ascii=False, indent=4)
+        output_filename = f"jsons/{audio}.json"
+        with open(output_filename, "w", encoding="utf-8") as f:
+            json.dump(chunks_with_metadata, f, ensure_ascii=False, indent=4)
                 
-            print(f"Saved to {output_filename}")
+        print(f"Saved to {output_filename}")
