@@ -1,0 +1,3995 @@
+{
+    "chunks": [
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " Guys, I had given you an exercise related to flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 3.3000000000000003,
+            "end": 5.12,
+            "text": " Many of you have solved it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 5.14,
+            "end": 9.120000000000001,
+            "text": " Now, I want to shoutout all those people who have solved it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 9.14,
+            "end": 12.66,
+            "text": " Like the video and write Sigma Batch OP in the comment section below."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 12.68,
+            "end": 14.040000000000001,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 14.06,
+            "end": 15.52,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 24.04,
+            "end": 25.740000000000002,
+            "text": " Guys, I have come to my computer screen."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 25.76,
+            "end": 27.5,
+            "text": " I will create a new folder here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 27.52,
+            "end": 29.28,
+            "text": " Video 43."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 29.28,
+            "end": 32.04,
+            "text": " We are going to solve our last exercise."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 32.06,
+            "end": 34.96,
+            "text": " First, I will create an index.html."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 34.980000000000004,
+            "end": 37.04,
+            "text": " index.html"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 37.06,
+            "end": 39.02,
+            "text": " I will add a boilerplate template here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 39.04,
+            "end": 43.34,
+            "text": " If you see here, we had to create a navbar from flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 43.36,
+            "end": 45.3,
+            "text": " I will go to the link."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 45.32,
+            "end": 50.74,
+            "text": " I will design the navbar using flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 50.760000000000005,
+            "end": 53.08,
+            "text": " The first thing I see here is"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 53.1,
+            "end": 54.980000000000004,
+            "text": " I have to reserve space for this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 55.0,
+            "end": 56.540000000000006,
+            "text": " This is the logo of UltraEdit."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 56.56,
+            "end": 59.28,
+            "text": " Then I have to write products, pricing, resources and about us."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 59.300000000000004,
+            "end": 61.2,
+            "text": " Let's go."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 61.22,
+            "end": 64.74,
+            "text": " The first thing I will do here is I will create a header."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 64.76,
+            "end": 66.64,
+            "text": " I will add nav in the header."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 66.66,
+            "end": 70.18,
+            "text": " I will add a div.logo in nav."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 70.2,
+            "end": 73.64,
+            "text": " Along with that, I will add div.write."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 73.66,
+            "end": 77.68,
+            "text": " Here, let's say I will write ul, which is our unordered list."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 77.7,
+            "end": 79.66,
+            "text": " Then some list items."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 79.68,
+            "end": 83.8,
+            "text": " I will write exactly the same list items that are there, like products."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 83.82,
+            "end": 84.86,
+            "text": " Alright."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 84.88,
+            "end": 89.08,
+            "text": " After that I will write the next list item is pricing."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 89.08,
+            "end": 98.08,
+            "text": " Pricing, Resources, Resources, About Us."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 98.08,
+            "end": 101.08,
+            "text": " And then you can add icons."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 101.08,
+            "end": 103.08,
+            "text": " But what I'll do here is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 103.08,
+            "end": 106.08,
+            "text": " I'll style our dot logo."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 106.08,
+            "end": 112.08,
+            "text": " I'll say, the width of my dot logo should be 40 pixels."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 112.08,
+            "end": 115.08,
+            "text": " And the height should be 23 pixels."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 115.08,
+            "end": 116.08,
+            "text": " I'll tell you why I'm doing this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 116.08,
+            "end": 119.08,
+            "text": " Color the background, let us say, blue."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 119.08,
+            "end": 120.08,
+            "text": " I've done this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 120.08,
+            "end": 122.08,
+            "text": " And if I show you its preview,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 122.08,
+            "end": 123.08,
+            "text": " it'll look something like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 123.08,
+            "end": 125.08,
+            "text": " And you'll say, what kind of joke is this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 125.08,
+            "end": 126.08,
+            "text": " It's not a joke."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 126.08,
+            "end": 129.07999999999998,
+            "text": " I'll make navbar a flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 129.07999999999998,
+            "end": 132.07999999999998,
+            "text": " And I'll say, display flex."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 132.07999999999998,
+            "end": 133.07999999999998,
+            "text": " I'll come back to navbar."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 133.07999999999998,
+            "end": 135.07999999999998,
+            "text": " But I want to show you a few things."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 135.07999999999998,
+            "end": 137.07999999999998,
+            "text": " I've made navbar a flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 137.07999999999998,
+            "end": 142.07999999999998,
+            "text": " And I'll have to make my ul a flexbox as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 142.07999999999998,
+            "end": 143.07999999999998,
+            "text": " In fact, I'll do one thing."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 143.07999999999998,
+            "end": 145.07999999999998,
+            "text": " I'll do dot right."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 145.07999999999998,
+            "end": 146.07999999999998,
+            "text": " I'll do that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 146.08,
+            "end": 148.08,
+            "text": " I'll do display flex."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 148.08,
+            "end": 149.08,
+            "text": " Sorry, I'll do it on ul."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 149.08,
+            "end": 152.08,
+            "text": " I'll do display flex on dot right's ul."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 152.08,
+            "end": 155.08,
+            "text": " By doing this, all of these will come horizontally like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 155.08,
+            "end": 158.08,
+            "text": " And after this, the ul of our,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 158.08,
+            "end": 163.08,
+            "text": " or I'll say, the li of dot right's ul,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 163.08,
+            "end": 164.08,
+            "text": " what you do is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 164.08,
+            "end": 168.08,
+            "text": " make the list style none."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 168.08,
+            "end": 170.08,
+            "text": " Okay, you've made list style none."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 170.08,
+            "end": 171.08,
+            "text": " Great."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 171.08,
+            "end": 172.08,
+            "text": " So it came like this here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 172.08,
+            "end": 173.08,
+            "text": " Now I'll show you something."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 173.08,
+            "end": 175.08,
+            "text": " Either you put background and find out where everything is."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 175.08,
+            "end": 177.08,
+            "text": " Otherwise, the best thing is to open chrome directly."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 177.08,
+            "end": 178.08,
+            "text": " Dev tools."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 178.08,
+            "end": 179.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 179.08,
+            "end": 181.08,
+            "text": " Right now, this is my navbar which is a flex."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 181.08,
+            "end": 183.08,
+            "text": " What I'll do first in this is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 183.08,
+            "end": 186.08,
+            "text": " I'll say, justify content."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 186.08,
+            "end": 187.08,
+            "text": " If you do center, center will come."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 187.08,
+            "end": 189.08,
+            "text": " And I'll try different values."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 189.08,
+            "end": 192.08,
+            "text": " So if I do this, flex end, flex start,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 192.08,
+            "end": 195.08,
+            "text": " space around is the property I'm looking for."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 195.08,
+            "end": 197.08,
+            "text": " And the align items,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 197.08,
+            "end": 199.08,
+            "text": " I'll do center."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 199.08,
+            "end": 200.08,
+            "text": " So that everything is centered vertically."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 200.08,
+            "end": 201.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 201.08,
+            "end": 202.08,
+            "text": " You've seen why I did this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 202.08,
+            "end": 203.08,
+            "text": " And in my flexbox video,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 203.08,
+            "end": 204.08,
+            "text": " I've told you very clearly that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 204.08,
+            "end": 205.08,
+            "text": " why I didn't do align content,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 205.08,
+            "end": 206.08,
+            "text": " why I did align items."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 206.08,
+            "end": 207.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 207.08,
+            "end": 208.08,
+            "text": " So you won't even ask me that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 208.08,
+            "end": 209.08,
+            "text": " I know that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 209.08,
+            "end": 210.08,
+            "text": " Because you know,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 210.08,
+            "end": 211.08,
+            "text": " if you ask me,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 211.08,
+            "end": 213.08,
+            "text": " then I'll directly send you in the flexbox video."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 213.08,
+            "end": 215.08,
+            "text": " So you have to read the whole thing."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 215.08,
+            "end": 217.08,
+            "text": " You have to go and watch the flexbox video."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 217.08,
+            "end": 218.08,
+            "text": " If you don't understand,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 218.08,
+            "end": 219.08,
+            "text": " then okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 219.08,
+            "end": 220.08,
+            "text": " So here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 220.08,
+            "end": 221.08,
+            "text": " I'll tell you in short."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 221.08,
+            "end": 223.08,
+            "text": " We use align items when we have only one row."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 223.08,
+            "end": 224.08,
+            "text": " If there are multiple rows,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 224.08,
+            "end": 225.08,
+            "text": " then we do align content."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 225.08,
+            "end": 226.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 226.08,
+            "end": 227.08,
+            "text": " I hope you understand all these things."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 227.08,
+            "end": 228.08,
+            "text": " Now look here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 228.08,
+            "end": 229.08,
+            "text": " What will happen?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 229.08,
+            "end": 231.08,
+            "text": " I've done space around here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 231.08,
+            "end": 232.08,
+            "text": " Here I want this logo."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 232.08,
+            "end": 233.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 233.08,
+            "end": 234.08,
+            "text": " I want this logo."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 234.08,
+            "end": 235.08,
+            "text": " So here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 235.08,
+            "end": 237.08,
+            "text": " I'll tap open image in new."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 237.08,
+            "end": 239.08,
+            "text": " Or I can use this logo like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 239.08,
+            "end": 240.08,
+            "text": " Which is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 240.08,
+            "end": 241.08,
+            "text": " to be honest,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 241.08,
+            "end": 242.08,
+            "text": " not a very good practice."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 242.08,
+            "end": 243.08,
+            "text": " Why isn't this a good practice?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 243.08,
+            "end": 244.08,
+            "text": " Why am I saying this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 244.08,
+            "end": 245.08,
+            "text": " You'll say,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 245.08,
+            "end": 246.08,
+            "text": " you're using it yourself."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 246.08,
+            "end": 247.08,
+            "text": " And you're saying,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 247.08,
+            "end": 248.08,
+            "text": " not a very good practice."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 248.08,
+            "end": 249.08,
+            "text": " So look here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 249.08,
+            "end": 250.08,
+            "text": " What can happen is that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 250.08,
+            "end": 251.08,
+            "text": " this image,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 251.08,
+            "end": 253.08,
+            "text": " can disappear from this link in the future."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 253.08,
+            "end": 254.08,
+            "text": " You can't depend on your website,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 254.08,
+            "end": 256.08000000000004,
+            "text": " on any other website."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 256.08000000000004,
+            "end": 257.08000000000004,
+            "text": " You can't say that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 257.08000000000004,
+            "end": 259.08000000000004,
+            "text": " I'm going to do this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 259.08000000000004,
+            "end": 261.08000000000004,
+            "text": " from the website of UltraEdit."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 261.08000000000004,
+            "end": 262.08000000000004,
+            "text": " I'm going to depend on it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 262.08000000000004,
+            "end": 263.08000000000004,
+            "text": " That its logo,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 263.08,
+            "end": 264.08,
+            "text": " which I'm using."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 264.08,
+            "end": 265.08,
+            "text": " No, you won't do this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 265.08,
+            "end": 266.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 266.08,
+            "end": 267.08,
+            "text": " After this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 267.08,
+            "end": 268.08,
+            "text": " the width and height of the logo,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 268.08,
+            "end": 269.08,
+            "text": " which I've done,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 269.08,
+            "end": 271.08,
+            "text": " I dot logo's img."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 271.08,
+            "end": 274.08,
+            "text": " Never directly target the img."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 274.08,
+            "end": 275.08,
+            "text": " Make the selector like this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 275.08,
+            "end": 277.08,
+            "text": " that you're doing only this img."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 277.08,
+            "end": 278.08,
+            "text": " It shouldn't be like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 278.08,
+            "end": 279.08,
+            "text": " The images of the whole page,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 279.08,
+            "end": 280.08,
+            "text": " which you've put in the footer,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 280.08,
+            "end": 281.08,
+            "text": " the height and width of that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 281.08,
+            "end": 282.08,
+            "text": " which you're giving here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 282.08,
+            "end": 283.08,
+            "text": " So you have to give that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 283.08,
+            "end": 284.08,
+            "text": " Assume,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 284.08,
+            "end": 285.08,
+            "text": " 34 pixels,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 285.08,
+            "end": 286.08,
+            "text": " which is its width."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 286.08,
+            "end": 287.08,
+            "text": " Let us say,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 287.08,
+            "end": 288.08,
+            "text": " I'm giving 34 pixels,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 288.08,
+            "end": 289.08,
+            "text": " which is a little small."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 289.08,
+            "end": 290.08,
+            "text": " I'll remove this background color,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 290.08,
+            "end": 291.08,
+            "text": " blue from here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 291.08,
+            "end": 292.08,
+            "text": " Assume,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 292.08,
+            "end": 293.08,
+            "text": " I'll give it 134."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 293.08,
+            "end": 294.08,
+            "text": " No,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 294.08,
+            "end": 295.08,
+            "text": " actually,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 295.08,
+            "end": 296.08,
+            "text": " it's not big."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 296.08,
+            "end": 297.08,
+            "text": " To be honest,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 297.08,
+            "end": 298.08,
+            "text": " it's absolutely fine."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 298.08,
+            "end": 299.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 299.08,
+            "end": 300.08,
+            "text": " In fact,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 300.08,
+            "end": 301.08,
+            "text": " I'll increase it more."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 301.08,
+            "end": 302.08,
+            "text": " I'll make it 164."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 302.08,
+            "end": 303.08,
+            "text": " Yes,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 303.08,
+            "end": 304.08,
+            "text": " it's a little fine now."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 304.08,
+            "end": 305.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 305.08,
+            "end": 306.08,
+            "text": " Now,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 306.08,
+            "end": 307.08,
+            "text": " I've told you about the gap property,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 307.08,
+            "end": 308.08,
+            "text": " in Flexbox."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 308.08,
+            "end": 309.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 309.08,
+            "end": 310.08,
+            "text": " see here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 310.08,
+            "end": 311.08,
+            "text": " when your knowledge increases,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 311.08,
+            "end": 312.08,
+            "text": " this happens."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 312.08,
+            "end": 313.08,
+            "text": " Now,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 313.08,
+            "end": 314.08,
+            "text": " what I'll do here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 314.08,
+            "end": 315.08,
+            "text": " I'll say,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 315.08,
+            "end": 316.08,
+            "text": " make the gap 34 pixels."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 316.08,
+            "end": 317.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 317.08,
+            "end": 318.08,
+            "text": " we had to make the gap 34 pixels,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 318.08,
+            "end": 319.08,
+            "text": " there's a gap all around it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 319.08,
+            "end": 320.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 320.08,
+            "end": 321.08,
+            "text": " see here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 321.08,
+            "end": 322.08,
+            "text": " we've made this navbar."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 322.08,
+            "end": 323.08,
+            "text": " I told you,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 323.08,
+            "end": 324.08,
+            "text": " we'll learn from here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 324.08,
+            "end": 325.08,
+            "text": " A lot of things happen"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 325.08,
+            "end": 326.08,
+            "text": " through pure CSS as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 326.08,
+            "end": 327.08,
+            "text": " But,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 327.08,
+            "end": 328.08,
+            "text": " again,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 328.08,
+            "end": 329.08,
+            "text": " I told you,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 329.08,
+            "end": 330.08,
+            "text": " take it easy."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 330.08,
+            "end": 331.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 331.08,
+            "end": 332.08,
+            "text": " here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 332.08,
+            "end": 333.08,
+            "text": " I'll see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 333.08,
+            "end": 334.08,
+            "text": " this image,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 334.08,
+            "end": 335.08,
+            "text": " this image,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 335.08,
+            "end": 336.08,
+            "text": " which is coming in here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 336.08,
+            "end": 337.08,
+            "text": " where is it coming from?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 337.08,
+            "end": 338.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 338.08,
+            "end": 339.08,
+            "text": " I guess,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 339.08,
+            "end": 340.08,
+            "text": " this is an XML."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 340.08,
+            "end": 341.08,
+            "text": " I'm not sure,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 341.08,
+            "end": 342.08,
+            "text": " what is the scene of this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 342.08,
+            "end": 343.08,
+            "text": " Background."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 343.08,
+            "end": 344.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 344.08,
+            "end": 345.08,
+            "text": " Let's see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 345.08,
+            "end": 346.08,
+            "text": " where is this image coming from?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 346.08,
+            "end": 347.08,
+            "text": " Open image in new tab."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 347.08,
+            "end": 348.08,
+            "text": " To be honest,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 348.08,
+            "end": 349.08,
+            "text": " I didn't pay much attention to this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 349.08,
+            "end": 350.08,
+            "text": " where this image is coming from."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 350.08,
+            "end": 351.08,
+            "text": " But,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 351.08,
+            "end": 352.08,
+            "text": " now,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 352.08,
+            "end": 353.08,
+            "text": " what I'll do here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 353.08,
+            "end": 354.08,
+            "text": " is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 354.08,
+            "end": 355.08,
+            "text": " either,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 355.08,
+            "end": 356.08,
+            "text": " I'll put this image in li."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 356.08,
+            "end": 357.08,
+            "text": " But,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 357.08,
+            "end": 361.08,
+            "text": " if I put a div dot end here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 361.08,
+            "end": 363.08,
+            "text": " and I put an img here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 363.08,
+            "end": 364.08,
+            "text": " something like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 364.08,
+            "end": 365.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 365.08,
+            "end": 366.08,
+            "text": " see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 366.08,
+            "end": 367.08,
+            "text": " it came down because of div."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 367.08,
+            "end": 368.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 368.08,
+            "end": 369.08,
+            "text": " it might be a good idea"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 369.08,
+            "end": 371.08,
+            "text": " to put this div inside of"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 371.08,
+            "end": 372.08,
+            "text": " this flexbox"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 372.08,
+            "end": 373.08,
+            "text": " as an li."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 373.08,
+            "end": 374.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 374.08,
+            "end": 375.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 375.08,
+            "end": 376.08,
+            "text": " if I do li here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 376.08,
+            "end": 377.08,
+            "text": " let's see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 377.08,
+            "end": 380.08,
+            "text": " how I can do this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 380.08,
+            "end": 381.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 381.08,
+            "end": 383.08,
+            "text": " where is my,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 383.08,
+            "end": 384.08,
+            "text": " here it is."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 384.08,
+            "end": 385.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 385.08,
+            "end": 386.08,
+            "text": " Good."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 386.08,
+            "end": 387.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 387.08,
+            "end": 388.08,
+            "text": " as you can see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 388.08,
+            "end": 389.08,
+            "text": " this image also came here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 389.08,
+            "end": 390.08,
+            "text": " Like,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 390.08,
+            "end": 391.08,
+            "text": " it was here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 391.08,
+            "end": 392.08,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 392.08,
+            "end": 393.08,
+            "text": " This image came here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 393.08,
+            "end": 394.08,
+            "text": " Good."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 394.08,
+            "end": 395.08,
+            "text": " Now,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 395.08,
+            "end": 396.08,
+            "text": " if you want,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 396.08,
+            "end": 397.08,
+            "text": " if you want an icon,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 397.08,
+            "end": 398.08,
+            "text": " you can also take that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 398.08,
+            "end": 399.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 399.08,
+            "end": 400.08,
+            "text": " what I'll do is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 400.08,
+            "end": 401.08,
+            "text": " this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 401.08,
+            "end": 402.08,
+            "text": " this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 402.08,
+            "end": 403.08,
+            "text": " this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 403.08,
+            "end": 404.08,
+            "text": " where will this come from?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 404.08,
+            "end": 405.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 405.08,
+            "end": 406.08,
+            "text": " this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 406.08,
+            "end": 407.08,
+            "text": " I need SVG for this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 407.08,
+            "end": 408.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 408.08,
+            "end": 409.08,
+            "text": " first of all,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 409.08,
+            "end": 410.08,
+            "text": " I'll see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 410.08,
+            "end": 411.08,
+            "text": " I'll use SVG in this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 411.08,
+            "end": 412.08,
+            "text": " This is a content of after."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 412.08,
+            "end": 413.08,
+            "text": " So,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 413.08,
+            "end": 414.08,
+            "text": " here you can see,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 414.08,
+            "end": 415.08,
+            "text": " that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 415.08,
+            "end": 416.08,
+            "text": " He made this by using CSS."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 416.08,
+            "end": 417.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 417.08,
+            "end": 418.08,
+            "text": " I am just seeing"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 418.08,
+            "end": 419.08,
+            "text": " that how he made it"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 419.08,
+            "end": 420.08,
+            "text": " by using CSS."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 420.08,
+            "end": 421.08,
+            "text": " Content three,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 421.08,
+            "end": 422.08,
+            "text": " and here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 422.08,
+            "end": 423.08,
+            "text": " again,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 423.08,
+            "end": 424.08,
+            "text": " I don't know how they have done it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 424.08,
+            "end": 425.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 425.08,
+            "end": 426.08,
+            "text": " I don't want to spend time"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 426.08,
+            "end": 427.08,
+            "text": " in talking about"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 427.08,
+            "end": 428.08,
+            "text": " how he did it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 428.08,
+            "end": 429.08,
+            "text": " But,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 429.08,
+            "end": 430.08,
+            "text": " if I talk about"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 430.08,
+            "end": 431.08,
+            "text": " a very quick and dirty"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 431.08,
+            "end": 432.08,
+            "text": " method,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 432.08,
+            "end": 433.08,
+            "text": " then,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 433.08,
+            "end": 434.08,
+            "text": " I will say,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 434.08,
+            "end": 435.08,
+            "text": " down arrow."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 435.08,
+            "end": 436.08,
+            "text": " And,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 436.08,
+            "end": 437.08,
+            "text": " I will take down arrow"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 437.08,
+            "end": 438.08,
+            "text": " as a grup."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 438.08,
+            "end": 439.08,
+            "text": " Here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 439.08,
+            "end": 448.58,
+            "text": " huge icons, ok, so actually it's a huge icons website, huge icons, and let me see if I get this icon here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 448.58,
+            "end": 456.58,
+            "text": " so the stroke icons are free, down arrow, ok, there are many more websites, arrow, arrow,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 456.58,
+            "end": 464.58,
+            "text": " see I got this, I copied this SVG, and I'll put it here after all, ok, I'll put it here first,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 464.58,
+            "end": 469.58,
+            "text": " then put it here, let me see how it looks, ok, so I'll have to see how this looks,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 469.58,
+            "end": 476.58,
+            "text": " where is my website, here it is, see down arrow looks like this, so I'll have to work on down arrow,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 476.58,
+            "end": 484.58,
+            "text": " so maybe what I'll do, I'll show you what I'll do, whatever I've written here, this, this, this, and this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 484.58,
+            "end": 494.58,
+            "text": " I'll put this in a span, ok, and I'll only do an opening span tag, and here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 494.58,
+            "end": 498.58,
+            "text": " This is my SVG, before that, a closing span tag."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 500.08,
+            "end": 502.58,
+            "text": " I pressed Windows by mistake, no problem."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 503.08,
+            "end": 504.58,
+            "text": " It happens, there is no problem."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 505.58,
+            "end": 509.58,
+            "text": " And look at this, according to me, things will get better."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 509.58,
+            "end": 511.08,
+            "text": " But I have to do one more thing, let me tell you."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 511.58,
+            "end": 514.5799999999999,
+            "text": " So I did all this, if I do inspect element,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 514.5799999999999,
+            "end": 516.5799999999999,
+            "text": " then you see, there is a problem."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 516.5799999999999,
+            "end": 519.5799999999999,
+            "text": " I think the most dangerous power of flexbox is that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 519.5799999999999,
+            "end": 523.5799999999999,
+            "text": " suppose I made li to flexbox, I said display flex,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 523.58,
+            "end": 525.58,
+            "text": " and I will do justify content,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 525.58,
+            "end": 526.58,
+            "text": " there is no need to do center,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 526.58,
+            "end": 528.58,
+            "text": " I don't even need to do align item center,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 528.58,
+            "end": 530.58,
+            "text": " all this has already been done by removing it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 530.58,
+            "end": 532.58,
+            "text": " I will definitely do align item center,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 532.58,
+            "end": 534.58,
+            "text": " so that everything comes in the center."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 534.58,
+            "end": 537.58,
+            "text": " So I have to do li display flex and align item center."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 537.58,
+            "end": 539.58,
+            "text": " Let's go, let's go."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 539.58,
+            "end": 547.58,
+            "text": " So I have to do display flex and align item center."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 547.58,
+            "end": 549.58,
+            "text": " And here you can see, if you want,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 549.58,
+            "end": 551.58,
+            "text": " you can change its width and height SVG."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 551.58,
+            "end": 553.58,
+            "text": " So I will change its width and height."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 553.58,
+            "end": 555.58,
+            "text": " And we will see that,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 555.58,
+            "end": 558.58,
+            "text": " how much smaller it is by doing 14."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 558.58,
+            "end": 561.58,
+            "text": " By doing 14, I think this is perfect."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 561.58,
+            "end": 563.58,
+            "text": " Rest, you will find out which font is this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 563.58,
+            "end": 564.58,
+            "text": " And you are good to go."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 564.58,
+            "end": 566.58,
+            "text": " But what I will do here is,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 566.58,
+            "end": 568.58,
+            "text": " that I will bring it from google,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 568.58,
+            "end": 570.58,
+            "text": " suppose I see this font, which font is this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 570.58,
+            "end": 572.58,
+            "text": " If they have given family,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 572.58,
+            "end": 575.58,
+            "text": " then you can go to computer and search for family."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 575.58,
+            "end": 576.58,
+            "text": " C-O-G-Y"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 576.58,
+            "end": 579.58,
+            "text": " So if I say font family here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 579.58,
+            "end": 582.58,
+            "text": " where is my font family?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 582.58,
+            "end": 585.58,
+            "text": " Nav's font family,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 585.58,
+            "end": 587.58,
+            "text": " C-O-G-Y."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 587.58,
+            "end": 589.58,
+            "text": " And let's see how it looks."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 589.58,
+            "end": 590.58,
+            "text": " And the exact font,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 590.58,
+            "end": 591.58,
+            "text": " if I don't have it,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 591.58,
+            "end": 593.58,
+            "text": " then it won't look exactly the way I want it to."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 593.58,
+            "end": 595.58,
+            "text": " But it is looking pretty good, to be honest."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 595.58,
+            "end": 597.58,
+            "text": " So if I reload it,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 597.58,
+            "end": 599.58,
+            "text": " and I show you here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 599.58,
+            "end": 601.58,
+            "text": " then see, it came like this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 601.58,
+            "end": 602.58,
+            "text": " and it came like this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 602.58,
+            "end": 604.58,
+            "text": " Maybe I need to increase its height a little."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 604.58,
+            "end": 606.58,
+            "text": " So here it is written 14."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 606.58,
+            "end": 608.58,
+            "text": " By doing change all occurrences."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 608.58,
+            "end": 610.58,
+            "text": " Maybe we will make it 18."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 610.58,
+            "end": 611.58,
+            "text": " Or we will do 19,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 611.58,
+            "end": 612.58,
+            "text": " if 18 doesn't look right."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 612.58,
+            "end": 613.58,
+            "text": " I think 18 is good."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 613.58,
+            "end": 615.58,
+            "text": " Let's do it 20."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 615.58,
+            "end": 616.58,
+            "text": " These are trial and errors,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 616.58,
+            "end": 618.58,
+            "text": " you can easily do at home."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 618.58,
+            "end": 619.58,
+            "text": " But you got the point,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 619.58,
+            "end": 621.58,
+            "text": " how these things are made."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 621.58,
+            "end": 622.58,
+            "text": " Now yes, I know,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 622.58,
+            "end": 624.58,
+            "text": " there is some padding on the left and right of the switch."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 624.58,
+            "end": 626.58,
+            "text": " So if you want, you can give it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 626.58,
+            "end": 627.58,
+            "text": " If you don't want to give it, then leave it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 627.58,
+            "end": 628.58,
+            "text": " There is no problem."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 628.58,
+            "end": 629.58,
+            "text": " I am feeling good anyway."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 629.58,
+            "end": 631.58,
+            "text": " But I am just telling you,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 631.58,
+            "end": 632.58,
+            "text": " if you want to give it,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 632.58,
+            "end": 633.58,
+            "text": " then give it."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 633.58,
+            "end": 634.58,
+            "text": " The span in li,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 634.58,
+            "end": 636.58,
+            "text": " say something like this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 636.58,
+            "end": 638.58,
+            "text": " that the span in li,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 638.58,
+            "end": 639.58,
+            "text": " the span in this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 639.58,
+            "end": 640.58,
+            "text": " the span in this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 640.58,
+            "end": 642.58,
+            "text": " I want padding,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 642.58,
+            "end": 643.58,
+            "text": " say 0,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 643.58,
+            "end": 644.58,
+            "text": " 9 pixels."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 644.58,
+            "end": 645.58,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 645.58,
+            "end": 646.58,
+            "text": " So by doing this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 646.58,
+            "end": 647.58,
+            "text": " this is the padding."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 647.58,
+            "end": 648.58,
+            "text": " Maybe 9 pixels,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 648.58,
+            "end": 649.58,
+            "text": " I gave it a little more harsh."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 649.58,
+            "end": 650.58,
+            "text": " But you got the point."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 650.58,
+            "end": 651.58,
+            "text": " Take as much padding as you want."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 651.58,
+            "end": 652.58,
+            "text": " Do the cursor pointer here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 652.58,
+            "end": 653.58,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 653.58,
+            "end": 654.58,
+            "text": " Do the cursor pointer in li."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 654.58,
+            "end": 655.58,
+            "text": " So if you take the arrow,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 655.58,
+            "end": 656.58,
+            "text": " then your hand will come."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 656.58,
+            "end": 657.58,
+            "text": " Look,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 657.58,
+            "end": 658.58,
+            "text": " I will take the arrow on it,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 658.58,
+            "end": 659.58,
+            "text": " the hand has come."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 659.58,
+            "end": 660.58,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 660.58,
+            "end": 661.58,
+            "text": " So this is how production websites are made."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 661.58,
+            "end": 662.58,
+            "text": " It's not like,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 662.58,
+            "end": 664.58,
+            "text": " it's a big game to make production websites."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 664.58,
+            "end": 665.58,
+            "text": " And it's not like,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 665.58,
+            "end": 666.58,
+            "text": " it's a big game to make production websites."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 666.58,
+            "end": 667.58,
+            "text": " And it's not like,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 667.58,
+            "end": 668.58,
+            "text": " it's a big game to make production websites."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 668.58,
+            "end": 669.58,
+            "text": " And it's not like,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 669.58,
+            "end": 670.58,
+            "text": " it's a big game to make production websites."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 670.58,
+            "end": 671.58,
+            "text": " If UltraEdit has made a website,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 671.58,
+            "end": 672.58,
+            "text": " then it will be made like this only."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 672.58,
+            "end": 673.58,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 673.58,
+            "end": 674.58,
+            "text": " So you got the point."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 674.58,
+            "end": 675.58,
+            "text": " Okay."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 675.58,
+            "end": 676.58,
+            "text": " Now look here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 676.58,
+            "end": 677.58,
+            "text": " UltraEdit is here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 677.58,
+            "end": 678.58,
+            "text": " this is here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 678.58,
+            "end": 679.58,
+            "text": " this is here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 679.58,
+            "end": 680.58,
+            "text": " doing hover etc."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 680.58,
+            "end": 681.58,
+            "text": " Now let's go to this exercise"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 681.58,
+            "end": 682.58,
+            "text": " and I want to give shoutout to the people"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 682.58,
+            "end": 683.58,
+            "text": " who have solved this."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 683.58,
+            "end": 684.58,
+            "text": " So I will scroll down"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 684.58,
+            "end": 685.58,
+            "text": " and I will give shoutout from above as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 685.58,
+            "end": 686.58,
+            "text": " I will give shoutout from above as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 686.58,
+            "end": 687.58,
+            "text": " I will give shoutout from above as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 687.58,
+            "end": 688.58,
+            "text": " This time I had told you"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 688.58,
+            "end": 689.58,
+            "text": " earlier also that"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 689.58,
+            "end": 690.58,
+            "text": " I am going to shoutout a lot of people"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 690.58,
+            "end": 691.58,
+            "text": " in this video."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 691.58,
+            "end": 692.58,
+            "text": " So shoutout to Atmosphere Lyrics,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 692.58,
+            "end": 693.58,
+            "text": " shoutout to Ameesh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 693.58,
+            "end": 694.58,
+            "text": " shoutout to Dev Dutt Paul,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 694.58,
+            "end": 696.58,
+            "text": " shoutout to Om Naliya Para,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 696.58,
+            "end": 697.58,
+            "text": " shoutout to Code with Naeem."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 697.58,
+            "end": 698.58,
+            "text": " Let me tell you,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 698.58,
+            "end": 699.58,
+            "text": " in this video,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 699.58,
+            "end": 700.58,
+            "text": " now I am giving shoutouts only."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 700.58,
+            "end": 701.58,
+            "text": " So if you are in a hurry,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 701.58,
+            "end": 702.58,
+            "text": " if you have an exam"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 702.58,
+            "end": 703.58,
+            "text": " or if you have taken a very short time,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 703.58,
+            "end": 704.58,
+            "text": " then you can leave the video"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 704.58,
+            "end": 705.58,
+            "text": " in the next video."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 705.58,
+            "end": 706.58,
+            "text": " But I am going to give shoutout"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 706.58,
+            "end": 707.58,
+            "text": " to everyone here as well."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 707.58,
+            "end": 708.58,
+            "text": " Shoutout to Code with Naeem,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 708.58,
+            "end": 709.58,
+            "text": " shoutout to Nishan,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 709.58,
+            "end": 710.58,
+            "text": " shoutout to Otaku Gamer,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 710.58,
+            "end": 711.58,
+            "text": " shoutout to Panda Indite,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 711.58,
+            "end": 712.58,
+            "text": " shoutout to Game Shorts,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 712.58,
+            "end": 713.58,
+            "text": " shoutout to Ovas,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 713.58,
+            "end": 714.58,
+            "text": " shoutout to Nadeem,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 714.58,
+            "end": 715.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 715.58,
+            "end": 716.58,
+            "text": " shoutout to Dakisu,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 716.58,
+            "end": 717.58,
+            "text": " shoutout to Ankit,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 717.58,
+            "end": 718.58,
+            "text": " shoutout to Ankit,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 718.58,
+            "end": 719.58,
+            "text": " shoutout to Ankit,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 719.58,
+            "end": 720.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 720.58,
+            "end": 721.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 721.58,
+            "end": 722.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 722.58,
+            "end": 723.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 723.58,
+            "end": 724.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 724.58,
+            "end": 725.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 725.58,
+            "end": 726.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 726.58,
+            "end": 727.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 727.58,
+            "end": 728.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 728.58,
+            "end": 729.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 729.58,
+            "end": 730.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 730.58,
+            "end": 731.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 731.58,
+            "end": 732.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 732.58,
+            "end": 733.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 733.58,
+            "end": 734.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 734.58,
+            "end": 735.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 735.58,
+            "end": 736.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 736.58,
+            "end": 737.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 737.58,
+            "end": 738.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 738.58,
+            "end": 739.58,
+            "text": " shoutout to Taukeer Sheikh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 739.58,
+            "end": 768.9000000000001,
+            "text": " Nishan Mughal, Bhagya Shri Patil, Neel Kumar, Himanshu Indoriya, Shahida Begum, Utkarsh, Artik Roy, Umesh Technique, Jai Shri Ram, Soham Singh Rajput, Alfia Khanam, Ajit, Atmosphere Lyrics,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 768.9,
+            "end": 795.04,
+            "text": " Beunique, Dhanjit Zanath, Tech Shamsi, Rahul Samanta, Chaitanya Zunkurkar, Love39 Gaming, YT Sort Xpoint, Gorkira Singh Ghuman, Abdus Samat Patil, 7901, Raja Fahad,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 795.04,
+            "end": 798.04,
+            "text": " Now I will scroll down a little bit, and while scrolling down,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 798.04,
+            "end": 803.18,
+            "text": " I will give shout out to the people who solved it first."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 803.18,
+            "end": 817.06,
+            "text": " So from here, I will look at the solutions for Mac Gaming, Lmortexm, Sanju, Bera, Neelam, Kwana, Shub, Ajay, then Islamix, then Ravi, Karan Singh, then Little Fiction Shots, then Rahat PY,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 817.06,
+            "end": 821.68,
+            "text": " then Aman Negi, who still hasn't been solved, whoever will solve it, I will look at the solution."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 821.68,
+            "end": 827.7199999999999,
+            "text": " User, then Cody Anderson, then Paramjit Singh, then Ravi, Karan Singh, then Mac Gaming, thenл"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 828.04,
+            "end": 845.04,
+            "text": " Navneet Gupta, Saif Ansari, Rule Breaker, Patel Manan, Arnav Adol, Sharash Enrique, Rishabh, Jack Coder, Rahat PY, Love Mark Khel, Billionaire Vikas,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 845.04,
+            "end": 870.28,
+            "text": " Amina Handle, Bhawani Jangit, Mohamed Tanveer Alam, Nishant, Love Kumar, Wiki, Shree Fanesha, Animals Funny Videos, Felix, Bhawan Jangit, Mohit, Mohamed Tanveer Alam,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 870.28,
+            "end": 874.76,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 874.76,
+            "end": 874.9399999999999,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 874.9399999999999,
+            "end": 875.02,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.02,
+            "end": 875.04,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.04,
+            "end": 875.06,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.06,
+            "end": 875.0799999999999,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.0799999999999,
+            "end": 875.0999999999999,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.0999999999999,
+            "end": 875.12,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.12,
+            "end": 875.16,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.16,
+            "end": 875.18,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.18,
+            "end": 875.1999999999999,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.1999999999999,
+            "end": 875.24,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.24,
+            "end": 875.28,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.28,
+            "end": 875.3,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.3,
+            "end": 875.3399999999999,
+            "text": " Abuzar Afridi, Vizor Gaming, Rishabh,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 875.34,
+            "end": 881.24,
+            "text": " Tiger, then Vijaylakshmi Gupta, then Godwit Krishwan, then Lakshman, Bhai Shukarma, then"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 881.24,
+            "end": 889.5,
+            "text": " User, then Bhargav Parmar, then Usenothing, then Rahul Bajwa, then Vivaan Yadav, then"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 889.5,
+            "end": 899.6800000000001,
+            "text": " Godwit Rohit, then his name is Yusuf Khan, then he is our Jamil, Askira Askiri, I am"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 899.6800000000001,
+            "end": 906.48,
+            "text": " sorry if I pronounced it wrong, Sharif Rayan, Van Shop, then Tech Shamsi, Ali Hamza, Chetan"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 906.48,
+            "end": 913.94,
+            "text": " Upadhyay, then Sankesh Sarangi, Gaurav, Shivam, Chaitanya, then Kartik, then Rathan Virat,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 914.0200000000001,
+            "end": 924.24,
+            "text": " then Vishal, then Abu Dharus Karchu, Shivam, B Quoter Games, Maan Kotari, then Quester,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 924.24,
+            "end": 929.6600000000001,
+            "text": " then Awaiz Mughal, then Zeeshan, then Mr. Web Developer, Kodwit Sunil, then Shira,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 929.6800000000001,
+            "end": 936.6400000000001,
+            "text": " then Sejal Patil, then Vardhan The Programmer, Rishabh, then Freestyle Joy, then Swaroop"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 936.6400000000001,
+            "end": 944.98,
+            "text": " Mahata, then Teertharaj Turkkar, then Tanmay Tanay, then Teertharaj Turkkar again came,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 945.1400000000001,
+            "end": 953.0600000000001,
+            "text": " and Kodwit Dheria, then BTechBlog, then NMN Chinu, then OAS, then Helix, then Digital"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 953.0600000000001,
+            "end": 959.6600000000001,
+            "text": " Goldmine, Tiger, Shakeel, Journey, Vivek, then after that Sigma Batch OP Bro, Vivek"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 959.66,
+            "end": 968.66,
+            "text": " Palikte, then RRC Gaming 47, Shakeel, Kodwit Rahul, Burr Gant, and Shakeel Ahmed, Laksharaj"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 968.66,
+            "end": 974.86,
+            "text": " Das, Laksharaj Das has been watching my videos since a very long time, big shoutout, then"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 974.86,
+            "end": 984.04,
+            "text": " Legendary Gaming, then It's Me Dilip, KodxBug, then Sabah Sahar, Mayur Garg, Bobin, Dasvi"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 984.04,
+            "end": 989.64,
+            "text": " Valla, Vicky Shukla, Deepak Bindh, Aziz Jain."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 989.66,
+            "end": 1001.18,
+            "text": " Juttji, Deepak Bindh, Vicky Shukla, Prayanshu, Aadvik Swaraj, Dipta Tanukundu, then Adams"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1001.18,
+            "end": 1010.48,
+            "text": " Fact, then Aritrik Roy, then Crispy, then Mr. Prateek Dole, then Chetan Singh, then Old"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1010.48,
+            "end": 1016.9,
+            "text": " SD Song, then Laiba Khan, then after that, here Prateek gave the source code, so let's"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1016.9,
+            "end": 1019.52,
+            "text": " open Prateek's source code, let's do that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1019.66,
+            "end": 1023.48,
+            "text": " And I hope I didn't miss anyone's source code, in fact, I did miss it while giving"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1023.48,
+            "end": 1024.48,
+            "text": " a shoutout."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1024.48,
+            "end": 1032.22,
+            "text": " So here is the source code of Dipta Tanukundu, they have matched the title very well, I'm"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1032.22,
+            "end": 1033.22,
+            "text": " very happy."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1033.22,
+            "end": 1038.22,
+            "text": " Now they have used display inline flex, which is good, they didn't use display flex, because"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1038.22,
+            "end": 1041.42,
+            "text": " they wanted to use flex while taking inline properties."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1041.42,
+            "end": 1047.18,
+            "text": " Very good, I'm so happy, they have used this image directly, which is actually a good thing"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1047.18,
+            "end": 1048.18,
+            "text": " according to me."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1048.18,
+            "end": 1049.18,
+            "text": " And what image is this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1049.18,
+            "end": 1054.0,
+            "text": " I want to see, nice, they have used the same image which we used, and it's a very good thing,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1054.0,
+            "end": 1058.8,
+            "text": " you all use very good common sense, I like it a lot, and I also learn a lot from you guys"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1058.8,
+            "end": 1059.8,
+            "text": " by looking at you guys."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1059.8,
+            "end": 1064.8,
+            "text": " So here you can see that they have done the same thing that I have done, they have matched"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1064.8,
+            "end": 1069.8,
+            "text": " the font weight a little bit, which is a good thing, that if you are making a clone of something,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1069.8,
+            "end": 1074.0,
+            "text": " you will want to make it completely static, I don't want to compromise on that, I love"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1074.0,
+            "end": 1077.0,
+            "text": " this mentality, that if you are making a clone of something, you will want to make it completely"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1077.0,
+            "end": 1078.0,
+            "text": " static, I don't want to compromise on that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1078.0,
+            "end": 1080.22,
+            "text": " I love this mentality, whose solution is this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1080.22,
+            "end": 1086.38,
+            "text": " Codex bug, amazing man, shoutout to you, and after this, RRC Gaming has also solved this,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1086.38,
+            "end": 1089.72,
+            "text": " they have done the same thing, and I'm so happy that you have matched exactly the font"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1089.72,
+            "end": 1096.52,
+            "text": " family, that clone means clone, I don't want to compromise, I love this mentality, after"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1096.52,
+            "end": 1103.0,
+            "text": " this, a solution has been given by Journey07, and they have not capitalized U, they have"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1103.0,
+            "end": 1105.0,
+            "text": " made it with a little less heart."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1105.0,
+            "end": 1106.0,
+            "text": " But the thing is, I hope that U is here, I hope that U is here, I hope that U is here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1106.0,
+            "end": 1107.0,
+            "text": " I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1107.0,
+            "end": 1108.0,
+            "text": " I hope that U is here, I hope that U is here."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1108.0,
+            "end": 1110.2,
+            "text": " U is here, yes, U is here, and they made it U- GOD , GOOD!"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1110.2,
+            "end": 1111.42,
+            "text": " NICE BUG MAN!"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1111.42,
+            "end": 1112.2,
+            "text": " AMAZING, and else?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1112.2,
+            "end": 1114.0,
+            "text": " Did anyone else solve this?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1114.0,
+            "end": 1120.8,
+            "text": " Yes, did it, I mean Mr. Web developer did it, and he has done exactly the same thing,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1120.8,
+            "end": 1121.8,
+            "text": " which is amazing."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1121.8,
+            "end": 1124.32,
+            "text": " They missed the side image, but that is fine."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1124.32,
+            "end": 1128.9,
+            "text": " And they used Ahref, but I am happy, I'm so happy that they used it, because look,"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1128.9,
+            "end": 1132.9,
+            "text": " eventually if you click on it, then it's better if you use link, I didn't use the link, I"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1132.9,
+            "end": 1133.9,
+            "text": " should have done that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1133.9,
+            "end": 1134.9,
+            "text": " I should have done that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1134.9,
+            "end": 1135.9,
+            "text": " I should have used the link."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1135.9,
+            "end": 1136.9,
+            "text": " But I done the same, I should have done that."
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1136.9,
+            "end": 1137.9,
+            "text": " Blidente video quality, boss face removed"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1138.0,
+            "end": 1143.0,
+            "text": " I hope I didn't miss anyone's solution"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1143.0,
+            "end": 1148.0,
+            "text": " Did I miss anyone's solution?"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1148.0,
+            "end": 1153.0,
+            "text": " I did miss Saif Ansari's solution and Navneet Kumar's"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1153.0,
+            "end": 1156.0,
+            "text": " So Saif Ansari has done the same thing"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1156.0,
+            "end": 1161.0,
+            "text": " And Navneet Gupta has done the same"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1161.0,
+            "end": 1164.0,
+            "text": " Which is very nice"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1164.0,
+            "end": 1169.0,
+            "text": " And I guess I didn't miss anyone's solution after this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1169.0,
+            "end": 1174.0,
+            "text": " Shoutout to everyone who solved this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1174.0,
+            "end": 1179.0,
+            "text": " I'll play this visual shoutout"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1179.0,
+            "end": 1187.0,
+            "text": " I'll play it like this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1187.0,
+            "end": 1190.0,
+            "text": " I hope you don't feel uncomfortable watching this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1190.0,
+            "end": 1193.0,
+            "text": " I tried my best to shoutout everyone"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1193.0,
+            "end": 1194.0,
+            "text": " I hope you enjoyed this"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1194.0,
+            "end": 1198.0,
+            "text": " And if you haven't accessed the sigma and development playlist yet"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1198.0,
+            "end": 1199.0,
+            "text": " Do access it"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1199.0,
+            "end": 1200.0,
+            "text": " That's it for now"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1200.0,
+            "end": 1202.0,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1202.0,
+            "end": 1205.0,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "43",
+            "title": "720p",
+            "start": 1224.0,
+            "end": 1226.0,
+            "text": " Bye"
+        }
+    ],
+    "text": " Guys, I had given you an exercise related to flexbox. Many of you have solved it. Now, I want to shoutout all those people who have solved it. Like the video and write Sigma Batch OP in the comment section below. Let's go to the computer screen. Let's roll the intro. Guys, I have come to my computer screen. I will create a new folder here. Video 43. We are going to solve our last exercise. First, I will create an index.html. index.html I will add a boilerplate template here. If you see here, we had to create a navbar from flexbox. I will go to the link. I will design the navbar using flexbox. The first thing I see here is I have to reserve space for this. This is the logo of UltraEdit. Then I have to write products, pricing, resources and about us. Let's go. The first thing I will do here is I will create a header. I will add nav in the header. I will add a div.logo in nav. Along with that, I will add div.write. Here, let's say I will write ul, which is our unordered list. Then some list items. I will write exactly the same list items that are there, like products. Alright. After that I will write the next list item is pricing. Pricing, Resources, Resources, About Us. And then you can add icons. But what I'll do here is, I'll style our dot logo. I'll say, the width of my dot logo should be 40 pixels. And the height should be 23 pixels. I'll tell you why I'm doing this. Color the background, let us say, blue. I've done this. And if I show you its preview, it'll look something like this. And you'll say, what kind of joke is this? It's not a joke. I'll make navbar a flexbox. And I'll say, display flex. I'll come back to navbar. But I want to show you a few things. I've made navbar a flexbox. And I'll have to make my ul a flexbox as well. In fact, I'll do one thing. I'll do dot right. I'll do that. I'll do display flex. Sorry, I'll do it on ul. I'll do display flex on dot right's ul. By doing this, all of these will come horizontally like this. And after this, the ul of our, or I'll say, the li of dot right's ul, what you do is, make the list style none. Okay, you've made list style none. Great. So it came like this here. Now I'll show you something. Either you put background and find out where everything is. Otherwise, the best thing is to open chrome directly. Dev tools. Okay. Right now, this is my navbar which is a flex. What I'll do first in this is, I'll say, justify content. If you do center, center will come. And I'll try different values. So if I do this, flex end, flex start, space around is the property I'm looking for. And the align items, I'll do center. So that everything is centered vertically. Okay. You've seen why I did this. And in my flexbox video, I've told you very clearly that, why I didn't do align content, why I did align items. Okay. So you won't even ask me that. I know that. Because you know, if you ask me, then I'll directly send you in the flexbox video. So you have to read the whole thing. You have to go and watch the flexbox video. If you don't understand, then okay. So here, I'll tell you in short. We use align items when we have only one row. If there are multiple rows, then we do align content. Okay. I hope you understand all these things. Now look here. What will happen? I've done space around here. Here I want this logo. Okay. I want this logo. So here, I'll tap open image in new. Or I can use this logo like this. Which is, to be honest, not a very good practice. Why isn't this a good practice? Why am I saying this? You'll say, you're using it yourself. And you're saying, not a very good practice. So look here. What can happen is that, this image, can disappear from this link in the future. You can't depend on your website, on any other website. You can't say that, I'm going to do this from the website of UltraEdit. I'm going to depend on it. That its logo, which I'm using. No, you won't do this. Okay. After this, the width and height of the logo, which I've done, I dot logo's img. Never directly target the img. Make the selector like this, that you're doing only this img. It shouldn't be like this. The images of the whole page, which you've put in the footer, the height and width of that, which you're giving here. So you have to give that. Assume, 34 pixels, which is its width. Let us say, I'm giving 34 pixels, which is a little small. I'll remove this background color, blue from here. Assume, I'll give it 134. No, actually, it's not big. To be honest, it's absolutely fine. Okay. In fact, I'll increase it more. I'll make it 164. Yes, it's a little fine now. Okay. Now, I've told you about the gap property, in Flexbox. So, see here, when your knowledge increases, this happens. Now, what I'll do here, I'll say, make the gap 34 pixels. So, we had to make the gap 34 pixels, there's a gap all around it. So, see here, we've made this navbar. I told you, we'll learn from here. A lot of things happen through pure CSS as well. But, again, I told you, take it easy. And, here, I'll see, this image, this image, which is coming in here, where is it coming from? So, I guess, this is an XML. I'm not sure, what is the scene of this? Background. Okay. Let's see, where is this image coming from? Open image in new tab. To be honest, I didn't pay much attention to this, where this image is coming from. But, now, what I'll do here, is, either, I'll put this image in li. But, if I put a div dot end here, and I put an img here, something like this. So, see, it came down because of div. So, it might be a good idea to put this div inside of this flexbox as an li. Okay. So, if I do li here, let's see, how I can do this. And, where is my, here it is. Okay. Good. And, as you can see, this image also came here. Like, it was here. Okay. This image came here. Good. Now, if you want, if you want an icon, you can also take that. So, what I'll do is, this, this, this, where will this come from? So, this, I need SVG for this. So, first of all, I'll see, I'll use SVG in this. This is a content of after. So, here you can see, that, He made this by using CSS. And, I am just seeing that how he made it by using CSS. Content three, and here, again, I don't know how they have done it. And, I don't want to spend time in talking about how he did it. But, if I talk about a very quick and dirty method, then, I will say, down arrow. And, I will take down arrow as a grup. Here, huge icons, ok, so actually it's a huge icons website, huge icons, and let me see if I get this icon here, so the stroke icons are free, down arrow, ok, there are many more websites, arrow, arrow, see I got this, I copied this SVG, and I'll put it here after all, ok, I'll put it here first, then put it here, let me see how it looks, ok, so I'll have to see how this looks, where is my website, here it is, see down arrow looks like this, so I'll have to work on down arrow, so maybe what I'll do, I'll show you what I'll do, whatever I've written here, this, this, this, and this, I'll put this in a span, ok, and I'll only do an opening span tag, and here, This is my SVG, before that, a closing span tag. I pressed Windows by mistake, no problem. It happens, there is no problem. And look at this, according to me, things will get better. But I have to do one more thing, let me tell you. So I did all this, if I do inspect element, then you see, there is a problem. I think the most dangerous power of flexbox is that, suppose I made li to flexbox, I said display flex, and I will do justify content, there is no need to do center, I don't even need to do align item center, all this has already been done by removing it. I will definitely do align item center, so that everything comes in the center. So I have to do li display flex and align item center. Let's go, let's go. So I have to do display flex and align item center. And here you can see, if you want, you can change its width and height SVG. So I will change its width and height. And we will see that, how much smaller it is by doing 14. By doing 14, I think this is perfect. Rest, you will find out which font is this. And you are good to go. But what I will do here is, that I will bring it from google, suppose I see this font, which font is this. If they have given family, then you can go to computer and search for family. C-O-G-Y So if I say font family here, where is my font family? Nav's font family, C-O-G-Y. And let's see how it looks. And the exact font, if I don't have it, then it won't look exactly the way I want it to. But it is looking pretty good, to be honest. So if I reload it, and I show you here, then see, it came like this, and it came like this. Maybe I need to increase its height a little. So here it is written 14. By doing change all occurrences. Maybe we will make it 18. Or we will do 19, if 18 doesn't look right. I think 18 is good. Let's do it 20. These are trial and errors, you can easily do at home. But you got the point, how these things are made. Now yes, I know, there is some padding on the left and right of the switch. So if you want, you can give it. If you don't want to give it, then leave it. There is no problem. I am feeling good anyway. But I am just telling you, if you want to give it, then give it. The span in li, say something like this, that the span in li, the span in this, the span in this, I want padding, say 0, 9 pixels. Okay. So by doing this, this is the padding. Maybe 9 pixels, I gave it a little more harsh. But you got the point. Take as much padding as you want. Do the cursor pointer here. Okay. Do the cursor pointer in li. So if you take the arrow, then your hand will come. Look, I will take the arrow on it, the hand has come. Okay. So this is how production websites are made. It's not like, it's a big game to make production websites. And it's not like, it's a big game to make production websites. And it's not like, it's a big game to make production websites. And it's not like, it's a big game to make production websites. If UltraEdit has made a website, then it will be made like this only. Okay. So you got the point. Okay. Now look here, UltraEdit is here, this is here, this is here, doing hover etc. Now let's go to this exercise and I want to give shoutout to the people who have solved this. So I will scroll down and I will give shoutout from above as well. I will give shoutout from above as well. I will give shoutout from above as well. This time I had told you earlier also that I am going to shoutout a lot of people in this video. So shoutout to Atmosphere Lyrics, shoutout to Ameesh, shoutout to Dev Dutt Paul, shoutout to Om Naliya Para, shoutout to Code with Naeem. Let me tell you, in this video, now I am giving shoutouts only. So if you are in a hurry, if you have an exam or if you have taken a very short time, then you can leave the video in the next video. But I am going to give shoutout to everyone here as well. Shoutout to Code with Naeem, shoutout to Nishan, shoutout to Otaku Gamer, shoutout to Panda Indite, shoutout to Game Shorts, shoutout to Ovas, shoutout to Nadeem, shoutout to Taukeer Sheikh, shoutout to Dakisu, shoutout to Ankit, shoutout to Ankit, shoutout to Ankit, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, shoutout to Taukeer Sheikh, Nishan Mughal, Bhagya Shri Patil, Neel Kumar, Himanshu Indoriya, Shahida Begum, Utkarsh, Artik Roy, Umesh Technique, Jai Shri Ram, Soham Singh Rajput, Alfia Khanam, Ajit, Atmosphere Lyrics, Beunique, Dhanjit Zanath, Tech Shamsi, Rahul Samanta, Chaitanya Zunkurkar, Love39 Gaming, YT Sort Xpoint, Gorkira Singh Ghuman, Abdus Samat Patil, 7901, Raja Fahad, Now I will scroll down a little bit, and while scrolling down, I will give shout out to the people who solved it first. So from here, I will look at the solutions for Mac Gaming, Lmortexm, Sanju, Bera, Neelam, Kwana, Shub, Ajay, then Islamix, then Ravi, Karan Singh, then Little Fiction Shots, then Rahat PY, then Aman Negi, who still hasn't been solved, whoever will solve it, I will look at the solution. User, then Cody Anderson, then Paramjit Singh, then Ravi, Karan Singh, then Mac Gaming, thenл Navneet Gupta, Saif Ansari, Rule Breaker, Patel Manan, Arnav Adol, Sharash Enrique, Rishabh, Jack Coder, Rahat PY, Love Mark Khel, Billionaire Vikas, Amina Handle, Bhawani Jangit, Mohamed Tanveer Alam, Nishant, Love Kumar, Wiki, Shree Fanesha, Animals Funny Videos, Felix, Bhawan Jangit, Mohit, Mohamed Tanveer Alam, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Abuzar Afridi, Vizor Gaming, Rishabh, Tiger, then Vijaylakshmi Gupta, then Godwit Krishwan, then Lakshman, Bhai Shukarma, then User, then Bhargav Parmar, then Usenothing, then Rahul Bajwa, then Vivaan Yadav, then Godwit Rohit, then his name is Yusuf Khan, then he is our Jamil, Askira Askiri, I am sorry if I pronounced it wrong, Sharif Rayan, Van Shop, then Tech Shamsi, Ali Hamza, Chetan Upadhyay, then Sankesh Sarangi, Gaurav, Shivam, Chaitanya, then Kartik, then Rathan Virat, then Vishal, then Abu Dharus Karchu, Shivam, B Quoter Games, Maan Kotari, then Quester, then Awaiz Mughal, then Zeeshan, then Mr. Web Developer, Kodwit Sunil, then Shira, then Sejal Patil, then Vardhan The Programmer, Rishabh, then Freestyle Joy, then Swaroop Mahata, then Teertharaj Turkkar, then Tanmay Tanay, then Teertharaj Turkkar again came, and Kodwit Dheria, then BTechBlog, then NMN Chinu, then OAS, then Helix, then Digital Goldmine, Tiger, Shakeel, Journey, Vivek, then after that Sigma Batch OP Bro, Vivek Palikte, then RRC Gaming 47, Shakeel, Kodwit Rahul, Burr Gant, and Shakeel Ahmed, Laksharaj Das, Laksharaj Das has been watching my videos since a very long time, big shoutout, then Legendary Gaming, then It's Me Dilip, KodxBug, then Sabah Sahar, Mayur Garg, Bobin, Dasvi Valla, Vicky Shukla, Deepak Bindh, Aziz Jain. Juttji, Deepak Bindh, Vicky Shukla, Prayanshu, Aadvik Swaraj, Dipta Tanukundu, then Adams Fact, then Aritrik Roy, then Crispy, then Mr. Prateek Dole, then Chetan Singh, then Old SD Song, then Laiba Khan, then after that, here Prateek gave the source code, so let's open Prateek's source code, let's do that. And I hope I didn't miss anyone's source code, in fact, I did miss it while giving a shoutout. So here is the source code of Dipta Tanukundu, they have matched the title very well, I'm very happy. Now they have used display inline flex, which is good, they didn't use display flex, because they wanted to use flex while taking inline properties. Very good, I'm so happy, they have used this image directly, which is actually a good thing according to me. And what image is this? I want to see, nice, they have used the same image which we used, and it's a very good thing, you all use very good common sense, I like it a lot, and I also learn a lot from you guys by looking at you guys. So here you can see that they have done the same thing that I have done, they have matched the font weight a little bit, which is a good thing, that if you are making a clone of something, you will want to make it completely static, I don't want to compromise on that, I love this mentality, that if you are making a clone of something, you will want to make it completely static, I don't want to compromise on that. I love this mentality, whose solution is this? Codex bug, amazing man, shoutout to you, and after this, RRC Gaming has also solved this, they have done the same thing, and I'm so happy that you have matched exactly the font family, that clone means clone, I don't want to compromise, I love this mentality, after this, a solution has been given by Journey07, and they have not capitalized U, they have made it with a little less heart. But the thing is, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here, I hope that U is here. U is here, yes, U is here, and they made it U- GOD , GOOD! NICE BUG MAN! AMAZING, and else? Did anyone else solve this? Yes, did it, I mean Mr. Web developer did it, and he has done exactly the same thing, which is amazing. They missed the side image, but that is fine. And they used Ahref, but I am happy, I'm so happy that they used it, because look, eventually if you click on it, then it's better if you use link, I didn't use the link, I should have done that. I should have done that. I should have used the link. But I done the same, I should have done that. Blidente video quality, boss face removed I hope I didn't miss anyone's solution Did I miss anyone's solution? I did miss Saif Ansari's solution and Navneet Kumar's So Saif Ansari has done the same thing And Navneet Gupta has done the same Which is very nice And I guess I didn't miss anyone's solution after this Shoutout to everyone who solved this I'll play this visual shoutout I'll play it like this I hope you don't feel uncomfortable watching this I tried my best to shoutout everyone I hope you enjoyed this And if you haven't accessed the sigma and development playlist yet Do access it That's it for now Thank you so much guys for watching this video And I will see you next time Bye"
+}

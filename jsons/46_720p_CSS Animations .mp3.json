@@ -1,0 +1,5444 @@
+{
+    "chunks": [
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " We saw transitions in CSS"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 2.0,
+            "end": 3.5,
+            "text": " What an amazing thing it was"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 3.5,
+            "end": 4.8,
+            "text": " By making smooth transitions"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 4.8,
+            "end": 6.8,
+            "text": " Our website was looking very good"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 6.8,
+            "end": 8.5,
+            "text": " Animations are also very similar"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 8.5,
+            "end": 10.5,
+            "text": " The only difference between transition and animation is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 10.5,
+            "end": 12.0,
+            "text": " With the help of animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " You can change more than one property"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 15.0,
+            "end": 17.5,
+            "text": " You can change more than one property in transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 17.5,
+            "end": 19.5,
+            "text": " But you can define in animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 19.5,
+            "end": 22.0,
+            "text": " Which property will go from where to where"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 22.0,
+            "end": 23.0,
+            "text": " In how much time"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 23.0,
+            "end": 24.5,
+            "text": " What will be the keyframes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 24.5,
+            "end": 25.5,
+            "text": " What are keyframes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 25.5,
+            "end": 28.0,
+            "text": " In this video, I am going to tell you everything"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 28.0,
+            "end": 30.0,
+            "text": " Just like this video"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 30.0,
+            "end": 33.0,
+            "text": " And write sigma batches in the comment section"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 33.0,
+            "end": 34.0,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 34.0,
+            "end": 35.0,
+            "text": " To understand all these things"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 35.0,
+            "end": 37.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 45.0,
+            "end": 47.0,
+            "text": " So guys, I have come to my computer screen"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 47.0,
+            "end": 49.0,
+            "text": " And I have made this folder called video46"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " And I have opened it in VS code"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 51.0,
+            "end": 55.0,
+            "text": " And I have also made a file called index.html"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 55.0,
+            "end": 57.0,
+            "text": " My computer is running slow"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 57.0,
+            "end": 58.0,
+            "text": " My hands are shaking fast"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 58.0,
+            "end": 59.0,
+            "text": " My computer is hanging"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 59.0,
+            "end": 60.0,
+            "text": " No problem"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " Today we are going to see CSS animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 62.0,
+            "end": 64.0,
+            "text": " And to see CSS animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 64.0,
+            "end": 66.0,
+            "text": " I will make a container again"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 66.0,
+            "end": 67.0,
+            "text": " And I will make a box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 67.0,
+            "end": 68.0,
+            "text": " Many people ask"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " You have already told the transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 70.0,
+            "end": 71.0,
+            "text": " What is the need of animation?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 71.0,
+            "end": 72.0,
+            "text": " There is a need"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 72.0,
+            "end": 74.0,
+            "text": " Sometimes some complex things happen"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 74.0,
+            "end": 77.0,
+            "text": " Which we have to do through CSS animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 77.0,
+            "end": 79.0,
+            "text": " Let me show you what I am talking about"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 79.0,
+            "end": 81.0,
+            "text": " First of all, you can access this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 81.0,
+            "end": 84.0,
+            "text": " I have also added the source code of the previous videos"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 84.0,
+            "end": 87.0,
+            "text": " So you can also access the source code"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 87.0,
+            "end": 88.0,
+            "text": " I will write here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 88.0,
+            "end": 89.0,
+            "text": " OX"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 89.0,
+            "end": 90.0,
+            "text": " And here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 90.0,
+            "end": 91.0,
+            "text": " To enter some styles"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 91.0,
+            "end": 92.0,
+            "text": " I write style here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 92.0,
+            "end": 93.0,
+            "text": " And in every video"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 93.0,
+            "end": 94.0,
+            "text": " I tell you again and again"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 94.0,
+            "end": 95.0,
+            "text": " That I made this style tag"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 95.0,
+            "end": 96.0,
+            "text": " I made this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 96.0,
+            "end": 98.0,
+            "text": " So that I want to keep complete transparency"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " Some people will be like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 100.0,
+            "end": 101.0,
+            "text": " Who are watching this course"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 101.0,
+            "end": 102.0,
+            "text": " Some people will be like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 102.0,
+            "end": 103.0,
+            "text": " Who are watching this course"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 103.0,
+            "end": 104.0,
+            "text": " Only to learn this specific video"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 104.0,
+            "end": 105.0,
+            "text": " CSS animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 105.0,
+            "end": 107.0,
+            "text": " So I have to take care of both"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 107.0,
+            "end": 108.0,
+            "text": " I hope that makes sense"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 108.0,
+            "end": 109.0,
+            "text": " Now I will show you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 109.0,
+            "end": 110.0,
+            "text": " Nothing happened here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 110.0,
+            "end": 111.0,
+            "text": " This box has come"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 111.0,
+            "end": 112.0,
+            "text": " Now what I will do"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 112.0,
+            "end": 113.0,
+            "text": " I will fast forward things a little"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " And here I will add some styles quickly"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 115.0,
+            "end": 116.0,
+            "text": " Like I did here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 116.0,
+            "end": 117.0,
+            "text": " ATVH"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 117.0,
+            "end": 118.0,
+            "text": " VW"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " And this is something like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 120.0,
+            "end": 121.0,
+            "text": " This is a box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 121.0,
+            "end": 122.0,
+            "text": " And this is its parent box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 122.0,
+            "end": 123.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 123.0,
+            "end": 124.0,
+            "text": " I will change the background of the parent box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 124.0,
+            "end": 126.0,
+            "text": " Yes, it looks much better now"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 126.0,
+            "end": 127.0,
+            "text": " Now you will see here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 127.0,
+            "end": 128.0,
+            "text": " I have given the width type to the box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " I have also given it to its container"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 130.0,
+            "end": 131.0,
+            "text": " And I want to make some animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " To make animations in CSS"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 133.0,
+            "end": 136.0,
+            "text": " You use directly keyframes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 136.0,
+            "end": 137.0,
+            "text": " So here you wrote keyframes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 137.0,
+            "end": 139.0,
+            "text": " After that you can put the name of the animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 139.0,
+            "end": 140.0,
+            "text": " I can write its name anything"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 140.0,
+            "end": 141.0,
+            "text": " I can write its name"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 141.0,
+            "end": 143.0,
+            "text": " Harry's animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 143.0,
+            "end": 144.0,
+            "text": " Brother Harry's animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 144.0,
+            "end": 145.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 145.0,
+            "end": 146.0,
+            "text": " So I"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " To make it a little more readable"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 148.0,
+            "end": 149.0,
+            "text": " I mean I can write anything"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 149.0,
+            "end": 150.0,
+            "text": " Name"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 150.0,
+            "end": 151.0,
+            "text": " Understand it like a variable"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 151.0,
+            "end": 152.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 152.0,
+            "end": 153.0,
+            "text": " Give it any name"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 153.0,
+            "end": 154.0,
+            "text": " I wrote Harry's animation here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 154.0,
+            "end": 155.0,
+            "text": " I can say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 155.0,
+            "end": 156.0,
+            "text": " That this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 156.0,
+            "end": 157.0,
+            "text": " From"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 157.0,
+            "end": 158.0,
+            "text": " From here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 158.0,
+            "end": 159.0,
+            "text": " To"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 159.0,
+            "end": 160.0,
+            "text": " Go here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 160.0,
+            "end": 161.0,
+            "text": " And which properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 161.0,
+            "end": 162.0,
+            "text": " From where to where"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 162.0,
+            "end": 163.0,
+            "text": " To change"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 163.0,
+            "end": 164.0,
+            "text": " I will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 164.0,
+            "end": 165.0,
+            "text": " The transform"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 165.0,
+            "end": 166.0,
+            "text": " Transform"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 166.0,
+            "end": 167.0,
+            "text": " Translate"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 167.0,
+            "end": 168.0,
+            "text": " X"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 168.0,
+            "end": 169.0,
+            "text": " Assume"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 169.0,
+            "end": 170.0,
+            "text": " I will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 170.0,
+            "end": 171.0,
+            "text": " I did 10"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 171.0,
+            "end": 172.0,
+            "text": " I did 10 pixels"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " This animation starts from here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 174.0,
+            "end": 175.0,
+            "text": " Or I can leave the form empty"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 175.0,
+            "end": 176.0,
+            "text": " I can say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " Translate it in 1000 pixels"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 178.0,
+            "end": 179.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 179.0,
+            "end": 180.0,
+            "text": " So you see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 180.0,
+            "end": 181.0,
+            "text": " As soon as this animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 181.0,
+            "end": 182.0,
+            "text": " I will apply on the box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 182.0,
+            "end": 183.0,
+            "text": " How will I apply"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 183.0,
+            "end": 184.0,
+            "text": " Animation on the box"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 184.0,
+            "end": 185.0,
+            "text": " Now see here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 185.0,
+            "end": 186.0,
+            "text": " First you will put the name"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 186.0,
+            "end": 187.0,
+            "text": " Then duration"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 187.0,
+            "end": 188.0,
+            "text": " Then timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 188.0,
+            "end": 189.0,
+            "text": " Then delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 189.0,
+            "end": 190.0,
+            "text": " Then iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 190.0,
+            "end": 191.0,
+            "text": " Then direction"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 191.0,
+            "end": 192.0,
+            "text": " Then fill mode"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 192.0,
+            "end": 193.0,
+            "text": " Vs code is helping you so much"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 193.0,
+            "end": 194.0,
+            "text": " Telling you what will come"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 194.0,
+            "end": 195.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 195.0,
+            "end": 196.0,
+            "text": " You can fill them"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 196.0,
+            "end": 197.0,
+            "text": " But for now"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 197.0,
+            "end": 198.0,
+            "text": " What Vs code told you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 198.0,
+            "end": 199.0,
+            "text": " Leave it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 199.0,
+            "end": 200.0,
+            "text": " I will write here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 200.0,
+            "end": 201.0,
+            "text": " Simply"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 201.0,
+            "end": 202.0,
+            "text": " Harry's animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 202.0,
+            "end": 203.0,
+            "text": " Ok"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 203.0,
+            "end": 204.0,
+            "text": " I wrote Harry's animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 204.0,
+            "end": 205.0,
+            "text": " Now here you will see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 205.0,
+            "end": 206.0,
+            "text": " This animation did not apply"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 206.0,
+            "end": 207.0,
+            "text": " You see this animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 207.0,
+            "end": 208.0,
+            "text": " Did not apply at all"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 208.0,
+            "end": 209.0,
+            "text": " Now what I will do"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 209.0,
+            "end": 210.0,
+            "text": " That an animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " There is a property called duration"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 212.0,
+            "end": 213.0,
+            "text": " There are many properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 213.0,
+            "end": 214.0,
+            "text": " About animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 214.0,
+            "end": 215.0,
+            "text": " Now you will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 215.0,
+            "end": 216.0,
+            "text": " We had a transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 216.0,
+            "end": 217.0,
+            "text": " So what is the need of animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 217.0,
+            "end": 218.0,
+            "text": " Animation takes things"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 218.0,
+            "end": 219.0,
+            "text": " To a different level"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 219.0,
+            "end": 220.0,
+            "text": " You see here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 220.0,
+            "end": 221.0,
+            "text": " Duration"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 221.0,
+            "end": 222.0,
+            "text": " Timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 222.0,
+            "end": 223.0,
+            "text": " Name"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 223.0,
+            "end": 224.0,
+            "text": " Delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 224.0,
+            "end": 225.0,
+            "text": " Fill mode"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 225.0,
+            "end": 226.0,
+            "text": " I don't know what properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 226.0,
+            "end": 227.0,
+            "text": " You will get to see here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 227.0,
+            "end": 228.0,
+            "text": " Pertaining to animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 228.0,
+            "end": 229.0,
+            "text": " And here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 229.0,
+            "end": 230.0,
+            "text": " All these properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 230.0,
+            "end": 231.0,
+            "text": " That work"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 231.0,
+            "end": 232.0,
+            "text": " I will do animation duration here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 232.0,
+            "end": 233.0,
+            "text": " Three seconds"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 233.0,
+            "end": 234.0,
+            "text": " I will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 234.0,
+            "end": 235.0,
+            "text": " If you want animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 235.0,
+            "end": 236.0,
+            "text": " So as soon as I reload it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 236.0,
+            "end": 237.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 237.0,
+            "end": 238.0,
+            "text": " It is translating 100 pixels"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 238.0,
+            "end": 239.0,
+            "text": " And after that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 239.0,
+            "end": 240.0,
+            "text": " It is coming back"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 240.0,
+            "end": 241.0,
+            "text": " Can I repeat it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 241.0,
+            "end": 242.0,
+            "text": " Yes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 242.0,
+            "end": 243.0,
+            "text": " I can repeat it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 243.0,
+            "end": 244.0,
+            "text": " By using animation repeat property"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 244.0,
+            "end": 245.0,
+            "text": " But one thing"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 245.0,
+            "end": 246.0,
+            "text": " I want to tell you here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 246.0,
+            "end": 247.0,
+            "text": " That I too"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 247.0,
+            "end": 248.0,
+            "text": " There is nothing"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 248.0,
+            "end": 249.0,
+            "text": " I don't know"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 249.0,
+            "end": 250.0,
+            "text": " I don't know"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 250.0,
+            "end": 251.0,
+            "text": " I know everything"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 251.0,
+            "end": 252.0,
+            "text": " I also refer"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 252.0,
+            "end": 253.0,
+            "text": " This kind of documentation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 253.0,
+            "end": 254.0,
+            "text": " These properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 254.0,
+            "end": 255.0,
+            "text": " From today"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 255.0,
+            "end": 256.0,
+            "text": " Even after 5 days"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 256.0,
+            "end": 257.0,
+            "text": " 99% of you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 257.0,
+            "end": 258.0,
+            "text": " Will not remember"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 258.0,
+            "end": 259.0,
+            "text": " There is an exception of 1%"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 259.0,
+            "end": 260.0,
+            "text": " Some people remember"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 260.0,
+            "end": 261.0,
+            "text": " They have a habit"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 261.0,
+            "end": 262.0,
+            "text": " To remember"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 262.0,
+            "end": 263.0,
+            "text": " But"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " I am telling you the reality"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 265.0,
+            "end": 266.0,
+            "text": " That you people"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 266.0,
+            "end": 267.0,
+            "text": " Will not remember this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 267.0,
+            "end": 268.0,
+            "text": " And you people"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 268.0,
+            "end": 269.0,
+            "text": " Will have to come here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 269.0,
+            "end": 270.0,
+            "text": " And refer"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 270.0,
+            "end": 271.0,
+            "text": " From somewhere"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 271.0,
+            "end": 272.0,
+            "text": " You will have to refer"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 272.0,
+            "end": 273.0,
+            "text": " You will have to see the documentation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 273.0,
+            "end": 274.0,
+            "text": " And the best way"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 274.0,
+            "end": 275.0,
+            "text": " To see the documentation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 275.0,
+            "end": 276.0,
+            "text": " Is to do anything"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 276.0,
+            "end": 277.0,
+            "text": " Pertaining to animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 277.0,
+            "end": 278.0,
+            "text": " Or hover"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 278.0,
+            "end": 279.0,
+            "text": " Click on mdn reference"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " You will reach this page directly"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 281.0,
+            "end": 282.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 282.0,
+            "end": 283.0,
+            "text": " Do it one by one"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 283.0,
+            "end": 284.0,
+            "text": " See all the properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 284.0,
+            "end": 285.0,
+            "text": " Animation duration"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 285.0,
+            "end": 286.0,
+            "text": " How long will the animation last"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 286.0,
+            "end": 287.0,
+            "text": " Then it happens"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 287.0,
+            "end": 288.0,
+            "text": " Your animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 288.0,
+            "end": 289.0,
+            "text": " To repeat"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 289.0,
+            "end": 290.0,
+            "text": " Or not"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 290.0,
+            "end": 291.0,
+            "text": " And animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 291.0,
+            "end": 292.0,
+            "text": " To repeat"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 292.0,
+            "end": 293.0,
+            "text": " For this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 293.0,
+            "end": 294.0,
+            "text": " What do you use"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 294.0,
+            "end": 295.0,
+            "text": " Animation iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 295.0,
+            "end": 296.0,
+            "text": " How many times"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 296.0,
+            "end": 297.0,
+            "text": " The animation should run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 297.0,
+            "end": 298.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 298.0,
+            "end": 299.0,
+            "text": " So here you see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 299.0,
+            "end": 300.0,
+            "text": " Select a count to start"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 300.0,
+            "end": 301.0,
+            "text": " Assume"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 301.0,
+            "end": 302.0,
+            "text": " Animation finished"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 302.0,
+            "end": 303.0,
+            "text": " It ran once"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 303.0,
+            "end": 304.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 304.0,
+            "end": 305.0,
+            "text": " Once the animation will run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 305.0,
+            "end": 306.0,
+            "text": " Then the second time"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 306.0,
+            "end": 307.0,
+            "text": " Will run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 307.0,
+            "end": 308.0,
+            "text": " And the third time"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 308.0,
+            "end": 309.0,
+            "text": " Will not run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 309.0,
+            "end": 310.0,
+            "text": " Because it is count 2"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 310.0,
+            "end": 311.0,
+            "text": " So we also use"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 311.0,
+            "end": 312.0,
+            "text": " Iteration count property"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 312.0,
+            "end": 313.0,
+            "text": " We will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 313.0,
+            "end": 314.0,
+            "text": " Animation iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 314.0,
+            "end": 315.0,
+            "text": " Animation iteration count 3"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 315.0,
+            "end": 316.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 316.0,
+            "end": 317.0,
+            "text": " I will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 317.0,
+            "end": 318.0,
+            "text": " My animation will run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 318.0,
+            "end": 319.0,
+            "text": " Three times"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 319.0,
+            "end": 320.0,
+            "text": " So as soon as"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 320.0,
+            "end": 321.0,
+            "text": " I reload it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 321.0,
+            "end": 322.0,
+            "text": " You see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 322.0,
+            "end": 323.0,
+            "text": " Then after this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 323.0,
+            "end": 324.0,
+            "text": " 2"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 324.0,
+            "end": 325.0,
+            "text": " Then after this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 325.0,
+            "end": 326.0,
+            "text": " 3"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 326.0,
+            "end": 327.0,
+            "text": " Means bro"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 327.0,
+            "end": 328.0,
+            "text": " Run my animation three times"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 328.0,
+            "end": 329.0,
+            "text": " And three times"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 329.0,
+            "end": 330.0,
+            "text": " My animation ran"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 330.0,
+            "end": 331.0,
+            "text": " As you can see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 331.0,
+            "end": 332.0,
+            "text": " One thing you want to tell people"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 332.0,
+            "end": 333.0,
+            "text": " If you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 333.0,
+            "end": 334.0,
+            "text": " Animation iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 334.0,
+            "end": 335.0,
+            "text": " Make it infinite"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 335.0,
+            "end": 336.0,
+            "text": " It will keep running"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 336.0,
+            "end": 337.0,
+            "text": " Assume I want"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 337.0,
+            "end": 338.0,
+            "text": " My animation in a second"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 338.0,
+            "end": 339.0,
+            "text": " To end"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 339.0,
+            "end": 340.0,
+            "text": " So you see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 340.0,
+            "end": 341.0,
+            "text": " As soon as I do this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 341.0,
+            "end": 342.0,
+            "text": " It will keep running"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 342.0,
+            "end": 343.0,
+            "text": " It will keep running"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 343.0,
+            "end": 344.0,
+            "text": " It will keep running"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 344.0,
+            "end": 345.0,
+            "text": " Now here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 345.0,
+            "end": 346.0,
+            "text": " I can change its timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 346.0,
+            "end": 347.0,
+            "text": " And I can say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 347.0,
+            "end": 348.0,
+            "text": " That the animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 348.0,
+            "end": 349.0,
+            "text": " Timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 349.0,
+            "end": 350.0,
+            "text": " Do it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 350.0,
+            "end": 351.0,
+            "text": " We have already"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 351.0,
+            "end": 352.0,
+            "text": " Transitioned the timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 352.0,
+            "end": 353.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 353.0,
+            "end": 354.0,
+            "text": " One is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 354.0,
+            "end": 355.0,
+            "text": " Ease in"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 355.0,
+            "end": 356.0,
+            "text": " One is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 356.0,
+            "end": 357.0,
+            "text": " Ease out"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 357.0,
+            "end": 358.0,
+            "text": " One is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 358.0,
+            "end": 359.0,
+            "text": " Ease"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 359.0,
+            "end": 360.0,
+            "text": " And one is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 360.0,
+            "end": 361.0,
+            "text": " Ease in out"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 361.0,
+            "end": 362.0,
+            "text": " Assume I do"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 362.0,
+            "end": 363.0,
+            "text": " Ease out"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 363.0,
+            "end": 364.0,
+            "text": " So by doing ease out"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 364.0,
+            "end": 365.0,
+            "text": " The animation will run like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 365.0,
+            "end": 366.0,
+            "text": " As you can see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 366.0,
+            "end": 367.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 367.0,
+            "end": 368.0,
+            "text": " I can change this function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 368.0,
+            "end": 369.0,
+            "text": " By clicking here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 369.0,
+            "end": 370.0,
+            "text": " Can you see below"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 370.0,
+            "end": 371.0,
+            "text": " By clicking here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 371.0,
+            "end": 372.0,
+            "text": " I can change it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 372.0,
+            "end": 373.0,
+            "text": " And I can make my function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 373.0,
+            "end": 374.0,
+            "text": " Assume I want to make"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 374.0,
+            "end": 375.0,
+            "text": " A little aggressive function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 375.0,
+            "end": 376.0,
+            "text": " Which"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 376.0,
+            "end": 377.0,
+            "text": " Runs very fast"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 377.0,
+            "end": 378.0,
+            "text": " And at the time of ending"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 378.0,
+            "end": 379.0,
+            "text": " Slow down"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 379.0,
+            "end": 380.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 380.0,
+            "end": 381.0,
+            "text": " As you know"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 381.0,
+            "end": 382.0,
+            "text": " How does a boat run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 382.0,
+            "end": 383.0,
+            "text": " So you see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 383.0,
+            "end": 384.0,
+            "text": " If I make it like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 384.0,
+            "end": 385.0,
+            "text": " So you see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 385.0,
+            "end": 386.0,
+            "text": " How it will be"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 386.0,
+            "end": 387.0,
+            "text": " Function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 387.0,
+            "end": 388.0,
+            "text": " See this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 388.0,
+            "end": 389.0,
+            "text": " This is the function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 389.0,
+            "end": 390.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 390.0,
+            "end": 391.0,
+            "text": " As if someone"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 391.0,
+            "end": 392.0,
+            "text": " On a floor"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 392.0,
+            "end": 393.0,
+            "text": " Someone pushed something"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 393.0,
+            "end": 394.0,
+            "text": " Like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 394.0,
+            "end": 395.0,
+            "text": " And once this function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 395.0,
+            "end": 396.0,
+            "text": " Is made"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 396.0,
+            "end": 397.0,
+            "text": " You can copy this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 397.0,
+            "end": 398.0,
+            "text": " Cubic Bezier"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 398.0,
+            "end": 399.0,
+            "text": " Like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 399.0,
+            "end": 400.0,
+            "text": " And after copying it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " You can replace this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 401.0,
+            "end": 402.0,
+            "text": " Cubic Bezier"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 402.0,
+            "end": 403.0,
+            "text": " Here"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 403.0,
+            "end": 404.0,
+            "text": " In the animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 404.0,
+            "end": 405.0,
+            "text": " Timing function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 405.0,
+            "end": 406.0,
+            "text": " Oops"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 406.0,
+            "end": 407.0,
+            "text": " First I will remove it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 407.0,
+            "end": 408.0,
+            "text": " And then I will replace it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 408.0,
+            "end": 409.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 409.0,
+            "end": 410.0,
+            "text": " I hope"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 410.0,
+            "end": 411.0,
+            "text": " You will use this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 411.0,
+            "end": 412.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 412.0,
+            "end": 413.0,
+            "text": " I have made my own"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 413.0,
+            "end": 414.0,
+            "text": " Animation Timing Function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 414.0,
+            "end": 415.0,
+            "text": " Then after this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 415.0,
+            "end": 416.0,
+            "text": " Already"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 416.0,
+            "end": 417.0,
+            "text": " I told you about"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 417.0,
+            "end": 418.0,
+            "text": " Animation Iteration Count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 418.0,
+            "end": 419.0,
+            "text": " Animation Delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 419.0,
+            "end": 420.0,
+            "text": " Means"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 420.0,
+            "end": 421.0,
+            "text": " After how long"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 421.0,
+            "end": 422.0,
+            "text": " The animation starts"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " Assume I do animation delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 423.0,
+            "end": 424.0,
+            "text": " Assume"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 424.0,
+            "end": 425.0,
+            "text": " One second"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 425.0,
+            "end": 426.0,
+            "text": " As soon as you reload the page"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 426.0,
+            "end": 427.0,
+            "text": " It will run after one second"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 427.0,
+            "end": 428.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 428.0,
+            "end": 429.0,
+            "text": " You see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 429.0,
+            "end": 430.0,
+            "text": " It started after one second"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 430.0,
+            "end": 431.0,
+            "text": " And then it will repeat"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 431.0,
+            "end": 432.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 432.0,
+            "end": 433.0,
+            "text": " So after how long"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 433.0,
+            "end": 434.0,
+            "text": " The animation should run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 434.0,
+            "end": 435.0,
+            "text": " This animation delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 435.0,
+            "end": 436.0,
+            "text": " Tells"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 436.0,
+            "end": 437.0,
+            "text": " If I do 11 seconds"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 437.0,
+            "end": 438.0,
+            "text": " Then it will start after 11 seconds"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 438.0,
+            "end": 439.0,
+            "text": " After all"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 439.0,
+            "end": 440.0,
+            "text": " So all these properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 440.0,
+            "end": 441.0,
+            "text": " We have"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 441.0,
+            "end": 442.0,
+            "text": " Related to animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 442.0,
+            "end": 443.0,
+            "text": " Now"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 443.0,
+            "end": 444.0,
+            "text": " What is the need of transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 444.0,
+            "end": 445.0,
+            "text": " If animation and transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 445.0,
+            "end": 446.0,
+            "text": " What to use"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 446.0,
+            "end": 447.0,
+            "text": " Many people ask"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 447.0,
+            "end": 448.0,
+            "text": " So I will say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 448.0,
+            "end": 449.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 449.0,
+            "end": 450.0,
+            "text": " It worked"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 450.0,
+            "end": 451.0,
+            "text": " After 10-11 seconds"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 451.0,
+            "end": 452.0,
+            "text": " Animation and transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " Use transition for simple properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 453.0,
+            "end": 454.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 454.0,
+            "end": 455.0,
+            "text": " If you want to make complex animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 455.0,
+            "end": 456.0,
+            "text": " Which are repeated"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 456.0,
+            "end": 457.0,
+            "text": " You have to put in different elements"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 457.0,
+            "end": 458.0,
+            "text": " So you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 458.0,
+            "end": 459.0,
+            "text": " Can make an animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 459.0,
+            "end": 460.0,
+            "text": " With the name of Harry"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 460.0,
+            "end": 461.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 461.0,
+            "end": 462.0,
+            "text": " You can use it in multiple places"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 462.0,
+            "end": 463.0,
+            "text": " So it is your own use case"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 463.0,
+            "end": 464.0,
+            "text": " There is nothing like"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 464.0,
+            "end": 465.0,
+            "text": " One is fast"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 465.0,
+            "end": 466.0,
+            "text": " The other is slow"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 466.0,
+            "end": 467.0,
+            "text": " Or"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 467.0,
+            "end": 468.0,
+            "text": " With all these things"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 468.0,
+            "end": 469.0,
+            "text": " You have to use animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 469.0,
+            "end": 470.0,
+            "text": " Or use transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 470.0,
+            "end": 471.0,
+            "text": " Where your use case is"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 471.0,
+            "end": 472.0,
+            "text": " Which makes your code"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 472.0,
+            "end": 473.0,
+            "text": " More maintainable"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 473.0,
+            "end": 474.0,
+            "text": " And by doing"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 474.0,
+            "end": 475.0,
+            "text": " What"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 475.0,
+            "end": 476.0,
+            "text": " You are getting easier"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 476.0,
+            "end": 477.0,
+            "text": " You can use that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 477.0,
+            "end": 478.0,
+            "text": " If you think"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 478.0,
+            "end": 479.0,
+            "text": " That"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 479.0,
+            "end": 480.0,
+            "text": " Your simple transition"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 480.0,
+            "end": 481.0,
+            "text": " Is working"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 481.0,
+            "end": 482.0,
+            "text": " Then use that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 482.0,
+            "end": 483.0,
+            "text": " If you think"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 483.0,
+            "end": 484.0,
+            "text": " You will use all these properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 484.0,
+            "end": 485.0,
+            "text": " Or any of these properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 485.0,
+            "end": 486.0,
+            "text": " Like delay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 486.0,
+            "end": 487.0,
+            "text": " Iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 487.0,
+            "end": 488.0,
+            "text": " So you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 488.0,
+            "end": 489.0,
+            "text": " Use animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 489.0,
+            "end": 490.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 490.0,
+            "end": 491.0,
+            "text": " By the way"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 491.0,
+            "end": 492.0,
+            "text": " Transition also makes animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 492.0,
+            "end": 493.0,
+            "text": " In a way"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " But the transition property"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 494.0,
+            "end": 495.0,
+            "text": " Is different"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 495.0,
+            "end": 496.0,
+            "text": " Animation is different"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 496.0,
+            "end": 497.0,
+            "text": " I hope"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 497.0,
+            "end": 498.0,
+            "text": " This thing is clear to you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 498.0,
+            "end": 499.0,
+            "text": " You have seen"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 499.0,
+            "end": 500.0,
+            "text": " Iteration count"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 500.0,
+            "end": 501.0,
+            "text": " Animation direction"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 501.0,
+            "end": 502.0,
+            "text": " Is very important"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 502.0,
+            "end": 503.0,
+            "text": " Sometimes"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 503.0,
+            "end": 504.0,
+            "text": " You can also"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 504.0,
+            "end": 505.0,
+            "text": " Alternate"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 505.0,
+            "end": 506.0,
+            "text": " Or alternate reverse it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 506.0,
+            "end": 507.0,
+            "text": " Now what is this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 507.0,
+            "end": 508.0,
+            "text": " Let me tell you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 508.0,
+            "end": 509.0,
+            "text": " If suppose"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 509.0,
+            "end": 510.0,
+            "text": " I did it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 510.0,
+            "end": 511.0,
+            "text": " Animation direction"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 511.0,
+            "end": 512.0,
+            "text": " Reverse"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 512.0,
+            "end": 513.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 513.0,
+            "end": 514.0,
+            "text": " Suppose I reverse it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 514.0,
+            "end": 515.0,
+            "text": " Let me do it for a second"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 515.0,
+            "end": 516.0,
+            "text": " Otherwise after 11 seconds"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 516.0,
+            "end": 517.0,
+            "text": " The animation will start"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 517.0,
+            "end": 518.0,
+            "text": " Which I don't want"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 518.0,
+            "end": 519.0,
+            "text": " Now see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 519.0,
+            "end": 520.0,
+            "text": " If I reverse it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 520.0,
+            "end": 521.0,
+            "text": " It will start upside down"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 521.0,
+            "end": 522.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 522.0,
+            "end": 523.0,
+            "text": " It is starting upside down"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 523.0,
+            "end": 524.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 524.0,
+            "end": 525.0,
+            "text": " If I do this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 525.0,
+            "end": 526.0,
+            "text": " Suppose"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 526.0,
+            "end": 527.0,
+            "text": " I do alternate reverse"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 527.0,
+            "end": 528.0,
+            "text": " So what will happen"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 528.0,
+            "end": 529.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 530.5,
+            "end": 531.5,
+            "text": " It is coming like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 531.5,
+            "end": 532.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 532.0,
+            "end": 533.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 533.0,
+            "end": 534.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 534.0,
+            "end": 535.0,
+            "text": " This is going like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 535.0,
+            "end": 536.0,
+            "text": " You see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 536.0,
+            "end": 537.0,
+            "text": " If I do this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 537.0,
+            "end": 538.0,
+            "text": " Like this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 538.0,
+            "end": 539.0,
+            "text": " It will go straight"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 539.0,
+            "end": 540.0,
+            "text": " See"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 540.0,
+            "end": 541.0,
+            "text": " Okay"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 541.0,
+            "end": 542.0,
+            "text": " Many times"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 542.0,
+            "end": 543.0,
+            "text": " It happens"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 543.0,
+            "end": 544.0,
+            "text": " When I make animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 544.0,
+            "end": 545.0,
+            "text": " If you know"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 545.0,
+            "end": 546.0,
+            "text": " Physics"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 546.0,
+            "end": 547.0,
+            "text": " You must have heard"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 547.0,
+            "end": 548.0,
+            "text": " The name of simple harmonic motion"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 548.0,
+            "end": 549.0,
+            "text": " If I want to make an animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 549.0,
+            "end": 550.0,
+            "text": " I can do it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 550.0,
+            "end": 551.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 551.0,
+            "end": 552.0,
+            "text": " Mathematics"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 552.0,
+            "end": 553.0,
+            "text": " Is directly related"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 553.0,
+            "end": 554.0,
+            "text": " To it"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 554.0,
+            "end": 555.0,
+            "text": " You can write exact function"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 555.0,
+            "end": 556.0,
+            "text": " What is simple harmonic motion"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 556.0,
+            "end": 557.0,
+            "text": " Show it to a block"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 557.0,
+            "end": 565.0,
+            "text": " I don't want to go into all those things now, but I am telling you that you can make good physics simulations by using CSS only."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 565.0,
+            "end": 571.0,
+            "text": " You can make good intros for your videos by using CSS only. Just think about it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 571.0,
+            "end": 577.0,
+            "text": " You can make it. You can do things by writing code. So I hope you understand what I am telling you."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 577.0,
+            "end": 583.0,
+            "text": " After this comes animation play start. I will comment it out and I will leave infinite as it is."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 583.0,
+            "end": 588.0,
+            "text": " After this comes animation play state. What is animation play state?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 588.0,
+            "end": 592.0,
+            "text": " If I talk about its values, then you can see that in animation play state, your values come."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 592.0,
+            "end": 596.0,
+            "text": " It comes paused and running. If you want to pause it, you can pause it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 596.0,
+            "end": 600.0,
+            "text": " Ideally, we pause our animations by using JavaScript whenever we need it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 600.0,
+            "end": 604.0,
+            "text": " So now I have paused the animation. So you have to see one thing here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 604.0,
+            "end": 613.0,
+            "text": " When I run animation play state, and as soon as I pause, I will pause where I will pause."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 613.0,
+            "end": 617.0,
+            "text": " See, it stopped there. As soon as I remove it, it will start running from there."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 617.0,
+            "end": 622.0,
+            "text": " So if you want it to stop there and start running from there, then you can pause the animation."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 622.0,
+            "end": 624.0,
+            "text": " It becomes difficult to do all this in transition."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 624.0,
+            "end": 628.0,
+            "text": " When you can do all the things along with the properties of animation, it becomes very difficult in transition."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 628.0,
+            "end": 632.0,
+            "text": " That's it. Now I will tell you that we are all lazy."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 632.0,
+            "end": 636.0,
+            "text": " And we are such people who write lorem 45. We don't even write 49."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 636.0,
+            "end": 638.0,
+            "text": " It is around 4 or 5, that's why we write."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 638.0,
+            "end": 642.0,
+            "text": " So for people like us, the shorthand of animation is that in one property,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 642.0,
+            "end": 646.0,
+            "text": " you set all these things, okay?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 646.0,
+            "end": 648.0,
+            "text": " Now I have heard one thing."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 648.0,
+            "end": 651.0,
+            "text": " Unfortunately, these things happen in many colleges."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 651.0,
+            "end": 654.0,
+            "text": " You are asked to remember all this in animation."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 654.0,
+            "end": 656.0,
+            "text": " What happens in the animation shorthand?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 656.0,
+            "end": 660.0,
+            "text": " If I write animation like this, see, a shorthand gives you VS code."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " People ask you to remember it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 662.0,
+            "end": 665.0,
+            "text": " I am strongly against learning and memorizing."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 665.0,
+            "end": 668.0,
+            "text": " I tell you to use VS code."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 668.0,
+            "end": 672.0,
+            "text": " It is telling you to put the name, duration, timing function, delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " Or you can put iteration count."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " Or you can put direction or fill mode."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 676.0,
+            "end": 679.0,
+            "text": " Now I will tell you quickly about animation fill mode too."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 679.0,
+            "end": 682.0,
+            "text": " But you can fill all these things and do everything in one property."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 682.0,
+            "end": 685.0,
+            "text": " So let's say I put Harry's animation here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 685.0,
+            "end": 688.0,
+            "text": " Harry's animation."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 688.0,
+            "end": 690.0,
+            "text": " Let's say I put one second in duration."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 690.0,
+            "end": 694.0,
+            "text": " Let's say I put ease in out in timing function."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 694.0,
+            "end": 697.0,
+            "text": " And I put two seconds in delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 697.0,
+            "end": 700.0,
+            "text": " And I make it three seconds so that the animation runs for three seconds."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 700.0,
+            "end": 703.0,
+            "text": " I put infinite in iteration count."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 703.0,
+            "end": 704.0,
+            "text": " Infinite."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 704.0,
+            "end": 708.0,
+            "text": " I put reverse in direction."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 708.0,
+            "end": 709.0,
+            "text": " I put reverse."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 709.0,
+            "end": 712.0,
+            "text": " Or I don't want to use direction and I don't want to use any property."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 712.0,
+            "end": 714.0,
+            "text": " I can leave it empty."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 714.0,
+            "end": 716.0,
+            "text": " So let me show you reloading."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 716.0,
+            "end": 718.0,
+            "text": " Here Harry's animation is not defined."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 718.0,
+            "end": 721.0,
+            "text": " See, if you wrote the name of the animation wrong, it will tell you."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 721.0,
+            "end": 723.0,
+            "text": " So I didn't put capital K."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " And now my animation will run."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 725.0,
+            "end": 727.0,
+            "text": " See, my animation is running."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 727.0,
+            "end": 729.0,
+            "text": " And all these things are being applied here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " See, everything is being applied."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 731.0,
+            "end": 734.0,
+            "text": " Now let's say I want this animation delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 734.0,
+            "end": 736.0,
+            "text": " I'll do one thing here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 736.0,
+            "end": 739.0,
+            "text": " I'll comment out the shorthand of the animation and keep it up."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 739.0,
+            "end": 742.0,
+            "text": " First came name, then duration, then timing function, then delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 742.0,
+            "end": 743.0,
+            "text": " Let's say I don't want to give delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " I want to remove delay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 745.0,
+            "end": 746.0,
+            "text": " Will it work then?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 746.0,
+            "end": 747.0,
+            "text": " Yes, of course."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 747.0,
+            "end": 748.0,
+            "text": " Then only this property will work."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 748.0,
+            "end": 750.0,
+            "text": " You can see that even if I miss one property in between,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 750.0,
+            "end": 753.0,
+            "text": " then automatically it's smart enough to pick all these properties."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 753.0,
+            "end": 754.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 754.0,
+            "end": 755.0,
+            "text": " I hope you understand."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 755.0,
+            "end": 758.0,
+            "text": " Now one thing that I didn't tell you is animation fill mode."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 758.0,
+            "end": 759.0,
+            "text": " Let's talk about it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 759.0,
+            "end": 760.0,
+            "text": " Now what will I do here?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 760.0,
+            "end": 762.0,
+            "text": " I'll turn the animation repeat to 1."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 762.0,
+            "end": 763.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " Here I'll turn the iteration count to 1."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " That means my animation will run only once."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 767.0,
+            "end": 768.0,
+            "text": " As you can see here,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 768.0,
+            "end": 770.0,
+            "text": " this animation will run only once."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 770.0,
+            "end": 771.0,
+            "text": " And what will I do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 771.0,
+            "end": 775.0,
+            "text": " I'll turn its background color, let us say red."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 775.0,
+            "end": 778.0,
+            "text": " And I'll finally turn its background color of the box from red."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 778.0,
+            "end": 780.0,
+            "text": " I'll remove background color from here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 780.0,
+            "end": 783.0,
+            "text": " From red to background color, let's say I do yellow."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 783.0,
+            "end": 784.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 784.0,
+            "end": 785.0,
+            "text": " So if here,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 785.0,
+            "end": 787.0,
+            "text": " my animation fill mode,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 787.0,
+            "end": 788.0,
+            "text": " I'll leave it empty."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 788.0,
+            "end": 789.0,
+            "text": " That means I'll keep it as none."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 789.0,
+            "end": 790.0,
+            "text": " By default, it's a none."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 790.0,
+            "end": 791.0,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 791.0,
+            "end": 792.0,
+            "text": " It's starting from here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 792.0,
+            "end": 793.0,
+            "text": " See, my box is starting from here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 793.0,
+            "end": 794.0,
+            "text": " It turned red."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 794.0,
+            "end": 795.0,
+            "text": " Then it came here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 795.0,
+            "end": 796.0,
+            "text": " It turned yellow."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 796.0,
+            "end": 798.0,
+            "text": " And then it became as it was by default."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 798.0,
+            "end": 799.0,
+            "text": " That means there was no background in it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 799.0,
+            "end": 800.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 800.0,
+            "end": 801.0,
+            "text": " Now what will I do here?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 801.0,
+            "end": 802.0,
+            "text": " I'll forward it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 802.0,
+            "end": 803.0,
+            "text": " Forwards."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 803.0,
+            "end": 804.0,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 804.0,
+            "end": 806.0,
+            "text": " See, it'll move forward."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 806.0,
+            "end": 807.0,
+            "text": " And it'll stay here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 807.0,
+            "end": 810.0,
+            "text": " That means it'll retain its final property."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 810.0,
+            "end": 811.0,
+            "text": " It wasn't retaining it earlier."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 811.0,
+            "end": 812.0,
+            "text": " Earlier, what was happening?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 812.0,
+            "end": 815.0,
+            "text": " Animation was running and it was going back to the way it was."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 815.0,
+            "end": 816.0,
+            "text": " That means animation ran."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 816.0,
+            "end": 818.0,
+            "text": " And then it forgot that it was animation."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 818.0,
+            "end": 821.0,
+            "text": " That means it retained its properties."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 821.0,
+            "end": 823.0,
+            "text": " If I do it backwards,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 823.0,
+            "end": 825.0,
+            "text": " if I do it backwards,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 825.0,
+            "end": 826.0,
+            "text": " then you'll see what will happen."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 826.0,
+            "end": 827.0,
+            "text": " Then a very strange thing will happen."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 827.0,
+            "end": 828.0,
+            "text": " So see this."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 828.0,
+            "end": 829.0,
+            "text": " It came here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 829.0,
+            "end": 831.0,
+            "text": " And as soon as I did it backwards,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 831.0,
+            "end": 834.0,
+            "text": " it retained it from our initial style."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 834.0,
+            "end": 835.0,
+            "text": " Now see here,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 835.0,
+            "end": 837.0,
+            "text": " I'll do animation delay for 3 seconds."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 837.0,
+            "end": 839.0,
+            "text": " So as soon as I do animation delay for 3 seconds,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 839.0,
+            "end": 841.0,
+            "text": " till the animation delay is set,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 841.0,
+            "end": 843.0,
+            "text": " it'll come to the properties of the first keyframe."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 843.0,
+            "end": 845.0,
+            "text": " Then it'll return to the way it was."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 845.0,
+            "end": 846.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 846.0,
+            "end": 848.0,
+            "text": " So I hope you understand all this."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 848.0,
+            "end": 849.0,
+            "text": " And to be very honest,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 849.0,
+            "end": 851.0,
+            "text": " this property isn't used a lot."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 851.0,
+            "end": 852.0,
+            "text": " If I tell you."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 852.0,
+            "end": 855.0,
+            "text": " But if I remove the animation property and apply it,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 855.0,
+            "end": 856.0,
+            "text": " then you'll see"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 856.0,
+            "end": 857.0,
+            "text": " that after 3 seconds,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 857.0,
+            "end": 858.0,
+            "text": " this animation is applied."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 858.0,
+            "end": 859.0,
+            "text": " See it came here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 859.0,
+            "end": 860.0,
+            "text": " And then finally,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 860.0,
+            "end": 861.0,
+            "text": " what did it do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 861.0,
+            "end": 862.0,
+            "text": " That the situation it was in,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 862.0,
+            "end": 864.0,
+            "text": " it did it again."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 864.0,
+            "end": 865.0,
+            "text": " Now I'll remove the animation and apply it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 865.0,
+            "end": 866.0,
+            "text": " So see,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 866.0,
+            "end": 867.0,
+            "text": " it'll be red after 3 seconds."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 867.0,
+            "end": 868.0,
+            "text": " See, it's red."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 868.0,
+            "end": 869.0,
+            "text": " And it started running."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 869.0,
+            "end": 870.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 870.0,
+            "end": 872.0,
+            "text": " But if I do it backwards here,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 872.0,
+            "end": 873.0,
+            "text": " then you'll see that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 873.0,
+            "end": 875.0,
+            "text": " it retained the properties of the previous keyframe."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 875.0,
+            "end": 878.0,
+            "text": " And the first keyframe is here,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 878.0,
+            "end": 879.0,
+            "text": " which I've put in from."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 879.0,
+            "end": 880.0,
+            "text": " And after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 880.0,
+            "end": 881.0,
+            "text": " what did it do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 881.0,
+            "end": 882.0,
+            "text": " It started running."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 882.0,
+            "end": 883.0,
+            "text": " And after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 883.0,
+            "end": 884.0,
+            "text": " what did it do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 884.0,
+            "end": 885.0,
+            "text": " It started running."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 885.0,
+            "end": 886.0,
+            "text": " And finally,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 886.0,
+            "end": 887.0,
+            "text": " the situation was the same."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 887.0,
+            "end": 888.0,
+            "text": " So if I remove it and apply it,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 888.0,
+            "end": 890.0,
+            "text": " then it'll be red immediately."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 890.0,
+            "end": 892.0,
+            "text": " It'll be red during the animation delay as well."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 892.0,
+            "end": 893.0,
+            "text": " And after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 893.0,
+            "end": 894.0,
+            "text": " it'll run."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 894.0,
+            "end": 895.0,
+            "text": " So this is what we have,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 895.0,
+            "end": 896.0,
+            "text": " animation fill mode."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 896.0,
+            "end": 897.0,
+            "text": " Again,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 897.0,
+            "end": 898.0,
+            "text": " it's used very rarely."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 898.0,
+            "end": 899.0,
+            "text": " But you should know what it is."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 899.0,
+            "end": 900.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 900.0,
+            "end": 901.0,
+            "text": " So you can use forwards or backwards."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 901.0,
+            "end": 903.0,
+            "text": " But you can use any of these properties"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 903.0,
+            "end": 904.0,
+            "text": " and apply animations."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 904.0,
+            "end": 906.0,
+            "text": " One more thing I'd like to tell you is that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 906.0,
+            "end": 908.0,
+            "text": " the CSS animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 908.0,
+            "end": 909.0,
+            "text": " can be made multiple."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 909.0,
+            "end": 911.0,
+            "text": " Let's say I make an animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 911.0,
+            "end": 912.0,
+            "text": " called Harry 2 here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 912.0,
+            "end": 913.0,
+            "text": " And I say that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 913.0,
+            "end": 914.0,
+            "text": " this time,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 914.0,
+            "end": 915.0,
+            "text": " I won't tell you from and to."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 915.0,
+            "end": 916.0,
+            "text": " This time,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 916.0,
+            "end": 917.0,
+            "text": " I'll tell you that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 917.0,
+            "end": 918.0,
+            "text": " when there's 0% animation,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 918.0,
+            "end": 919.0,
+            "text": " then what to do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 919.0,
+            "end": 920.0,
+            "text": " Then when there's 1%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 920.0,
+            "end": 921.0,
+            "text": " then what to do?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 921.0,
+            "end": 922.0,
+            "text": " I want to tell you this way."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 922.0,
+            "end": 923.0,
+            "text": " Let's say I want to tell you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 923.0,
+            "end": 924.0,
+            "text": " 0, 20%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 924.0,
+            "end": 925.0,
+            "text": " 50%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 925.0,
+            "end": 926.0,
+            "text": " 80%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 926.0,
+            "end": 927.0,
+            "text": " and 100%."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 927.0,
+            "end": 928.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 928.0,
+            "end": 930.0,
+            "text": " I want to do this."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 930.0,
+            "end": 931.0,
+            "text": " And I want to"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 931.0,
+            "end": 933.0,
+            "text": " transform this"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 933.0,
+            "end": 934.0,
+            "text": " and"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 934.0,
+            "end": 935.0,
+            "text": " translate it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 935.0,
+            "end": 936.0,
+            "text": " Or let me do one thing."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 936.0,
+            "end": 937.0,
+            "text": " This time,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 937.0,
+            "end": 938.0,
+            "text": " I'll put rotate in it."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 938.0,
+            "end": 939.0,
+            "text": " Rotate."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 939.0,
+            "end": 940.0,
+            "text": " And I'll say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 941.0,
+            "end": 942.0,
+            "text": " 300 degree."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 942.0,
+            "end": 943.0,
+            "text": " No, not 300."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 943.0,
+            "end": 944.0,
+            "text": " 100 degree."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 944.0,
+            "end": 945.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 945.0,
+            "end": 946.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 946.0,
+            "end": 947.0,
+            "text": " after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 947.0,
+            "end": 948.0,
+            "text": " I want this to be 200"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 948.0,
+            "end": 949.0,
+            "text": " at 20%."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 950.0,
+            "end": 951.0,
+            "text": " And"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 951.0,
+            "end": 952.0,
+            "text": " after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 952.0,
+            "end": 953.0,
+            "text": " I want"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 953.0,
+            "end": 954.0,
+            "text": " this to be"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 954.0,
+            "end": 955.0,
+            "text": " at 50%."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 955.0,
+            "end": 956.0,
+            "text": " Our"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 957.0,
+            "end": 958.0,
+            "text": " 220"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 958.0,
+            "end": 959.0,
+            "text": " and at 80%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 959.0,
+            "end": 960.0,
+            "text": " how much should this be?"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 960.0,
+            "end": 961.0,
+            "text": " Let's say"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 961.0,
+            "end": 962.0,
+            "text": " 500."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 962.0,
+            "end": 963.0,
+            "text": " And 500 is more."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 963.0,
+            "end": 964.0,
+            "text": " 300."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 964.0,
+            "end": 965.0,
+            "text": " And then"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 965.0,
+            "end": 966.0,
+            "text": " 310."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 966.0,
+            "end": 967.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 967.0,
+            "end": 968.0,
+            "text": " Let's say I want to do something like this."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 968.0,
+            "end": 970.0,
+            "text": " And here I'll do"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 970.0,
+            "end": 971.0,
+            "text": " rotate"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 971.0,
+            "end": 972.0,
+            "text": " 310 degree."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 972.0,
+            "end": 973.0,
+            "text": " Okay."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 973.0,
+            "end": 974.0,
+            "text": " Now I'll tell you"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 974.0,
+            "end": 976.0,
+            "text": " how to apply multiple animations."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 976.0,
+            "end": 978.0,
+            "text": " If you want to apply multiple animations,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 978.0,
+            "end": 979.0,
+            "text": " you can use"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 979.0,
+            "end": 980.0,
+            "text": " comma separated values."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 980.0,
+            "end": 981.0,
+            "text": " Here you can see that"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 981.0,
+            "end": 982.0,
+            "text": " I have used"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 982.0,
+            "end": 984.0,
+            "text": " comma separated values."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 984.0,
+            "end": 986.0,
+            "text": " And I put my first animation here."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 986.0,
+            "end": 987.0,
+            "text": " Then after that,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 987.0,
+            "end": 988.0,
+            "text": " I put its duration."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 988.0,
+            "end": 989.0,
+            "text": " Then I put timing function."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 989.0,
+            "end": 990.0,
+            "text": " Then I put daily."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 990.0,
+            "end": 991.0,
+            "text": " Then I put iteration count."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 991.0,
+            "end": 992.0,
+            "text": " Same I did with the second animation."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 992.0,
+            "end": 993.0,
+            "text": " My first animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 993.0,
+            "end": 995.0,
+            "text": " which only changes the background color,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 995.0,
+            "end": 996.0,
+            "text": " is that."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 996.0,
+            "end": 997.0,
+            "text": " And my second animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 997.0,
+            "end": 999.0,
+            "text": " which changes the transform"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 999.0,
+            "end": 1001.0,
+            "text": " from 0% all the way till 100%,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1001.0,
+            "end": 1002.0,
+            "text": " is that."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1002.0,
+            "end": 1003.0,
+            "text": " Let's see how it looks."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1003.0,
+            "end": 1004.0,
+            "text": " I'll reload."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1004.0,
+            "end": 1005.0,
+            "text": " So both the animations will run"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1005.0,
+            "end": 1006.0,
+            "text": " after delay of 3 seconds."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1006.0,
+            "end": 1007.0,
+            "text": " As soon as 3 seconds are completed,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1007.0,
+            "end": 1008.0,
+            "text": " it is rotating"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1008.0,
+            "end": 1009.0,
+            "text": " and the color is also changing."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1009.0,
+            "end": 1011.0,
+            "text": " And it is working according to these timings."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1011.0,
+            "end": 1013.0,
+            "text": " And it is working according to these functions."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1013.0,
+            "end": 1015.0,
+            "text": " You can always use one animation"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1015.0,
+            "end": 1017.0,
+            "text": " to animate multiple properties."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1017.0,
+            "end": 1018.0,
+            "text": " But again,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1018.0,
+            "end": 1020.0,
+            "text": " if you want to apply multiple animations,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1020.0,
+            "end": 1021.0,
+            "text": " for some reason,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1021.0,
+            "end": 1022.0,
+            "text": " let us say you already have animations,"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1022.0,
+            "end": 1024.0,
+            "text": " then you can use this property."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1024.0,
+            "end": 1026.0,
+            "text": " So this was about the animations of CSS."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1026.0,
+            "end": 1028.0,
+            "text": " Now you can apply multiple animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1028.0,
+            "end": 1030.0,
+            "text": " and do a lot of creative work."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1030.0,
+            "end": 1031.0,
+            "text": " Let me tell you this first."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1031.0,
+            "end": 1033.0,
+            "text": " And your imagination"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1033.0,
+            "end": 1035.0,
+            "text": " can take you very far."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1035.0,
+            "end": 1037.0,
+            "text": " The possibilities of CSS animations"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1037.0,
+            "end": 1039.0,
+            "text": " are endless."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1039.0,
+            "end": 1041.0,
+            "text": " And we are going to see it through projects."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1041.0,
+            "end": 1042.0,
+            "text": " You should definitely access"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1042.0,
+            "end": 1044.0,
+            "text": " the playlist of Sigma web development series."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1044.0,
+            "end": 1046.0,
+            "text": " And the source code is getting updated"
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1046.0,
+            "end": 1047.0,
+            "text": " time to time."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1047.0,
+            "end": 1049.0,
+            "text": " So you should not have any problem."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1049.0,
+            "end": 1051.0,
+            "text": " That's all for now in this video guys."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1051.0,
+            "end": 1052.0,
+            "text": " Thank you so much guys."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1052.0,
+            "end": 1053.0,
+            "text": " For watching this video."
+        },
+        {
+            "number": "46",
+            "title": "720p",
+            "start": 1053.0,
+            "end": 1055.0,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " We saw transitions in CSS What an amazing thing it was By making smooth transitions Our website was looking very good Animations are also very similar The only difference between transition and animation is With the help of animation You can change more than one property You can change more than one property in transition But you can define in animation Which property will go from where to where In how much time What will be the keyframes What are keyframes In this video, I am going to tell you everything Just like this video And write sigma batches in the comment section Let's go to the computer screen To understand all these things Let's roll the intro So guys, I have come to my computer screen And I have made this folder called video46 And I have opened it in VS code And I have also made a file called index.html My computer is running slow My hands are shaking fast My computer is hanging No problem Today we are going to see CSS animations And to see CSS animations I will make a container again And I will make a box Many people ask You have already told the transition What is the need of animation? There is a need Sometimes some complex things happen Which we have to do through CSS animations Let me show you what I am talking about First of all, you can access this I have also added the source code of the previous videos So you can also access the source code I will write here OX And here To enter some styles I write style here And in every video I tell you again and again That I made this style tag I made this So that I want to keep complete transparency Some people will be like this Who are watching this course Some people will be like this Who are watching this course Only to learn this specific video CSS animation So I have to take care of both I hope that makes sense Now I will show you Nothing happened here This box has come Now what I will do I will fast forward things a little And here I will add some styles quickly Like I did here ATVH VW And this is something like this This is a box And this is its parent box Ok I will change the background of the parent box Yes, it looks much better now Now you will see here I have given the width type to the box I have also given it to its container And I want to make some animations To make animations in CSS You use directly keyframes So here you wrote keyframes After that you can put the name of the animation I can write its name anything I can write its name Harry's animation Brother Harry's animation Ok So I To make it a little more readable I mean I can write anything Name Understand it like a variable Ok Give it any name I wrote Harry's animation here I can say That this From From here To Go here And which properties From where to where To change I will say The transform Transform Translate X Assume I will say I did 10 I did 10 pixels This animation starts from here Or I can leave the form empty I can say Translate it in 1000 pixels Ok So you see As soon as this animation I will apply on the box How will I apply Animation on the box Now see here First you will put the name Then duration Then timing function Then delay Then iteration count Then direction Then fill mode Vs code is helping you so much Telling you what will come Ok You can fill them But for now What Vs code told you Leave it I will write here Simply Harry's animation Ok I wrote Harry's animation Now here you will see This animation did not apply You see this animation Did not apply at all Now what I will do That an animation There is a property called duration There are many properties About animation Now you will say We had a transition So what is the need of animation Animation takes things To a different level You see here Duration Timing function Name Delay Fill mode I don't know what properties You will get to see here Pertaining to animation And here All these properties That work I will do animation duration here Three seconds I will say If you want animation So as soon as I reload it See It is translating 100 pixels And after that It is coming back Can I repeat it Yes I can repeat it By using animation repeat property But one thing I want to tell you here That I too There is nothing I don't know I don't know I know everything I also refer This kind of documentation These properties From today Even after 5 days 99% of you Will not remember There is an exception of 1% Some people remember They have a habit To remember But I am telling you the reality That you people Will not remember this And you people Will have to come here And refer From somewhere You will have to refer You will have to see the documentation And the best way To see the documentation Is to do anything Pertaining to animation Or hover Click on mdn reference You will reach this page directly And Do it one by one See all the properties Animation duration How long will the animation last Then it happens Your animation To repeat Or not And animation To repeat For this What do you use Animation iteration count How many times The animation should run Okay So here you see Select a count to start Assume Animation finished It ran once See Once the animation will run Then the second time Will run And the third time Will not run Because it is count 2 So we also use Iteration count property We will say Animation iteration count Animation iteration count 3 Okay I will say My animation will run Three times So as soon as I reload it You see Then after this 2 Then after this 3 Means bro Run my animation three times And three times My animation ran As you can see One thing you want to tell people If you Animation iteration count Make it infinite It will keep running Assume I want My animation in a second To end So you see As soon as I do this It will keep running It will keep running It will keep running Now here I can change its timing function And I can say That the animation Timing function Do it We have already Transitioned the timing function I will tell you One is Ease in One is Ease out One is Ease And one is Ease in out Assume I do Ease out So by doing ease out The animation will run like this As you can see Okay I can change this function By clicking here Can you see below By clicking here I can change it And I can make my function Assume I want to make A little aggressive function Which Runs very fast And at the time of ending Slow down Okay As you know How does a boat run So you see If I make it like this So you see How it will be Function See this This is the function Okay As if someone On a floor Someone pushed something Like this And once this function Is made You can copy this Cubic Bezier Like this And after copying it You can replace this Cubic Bezier Here In the animation Timing function Oops First I will remove it And then I will replace it Okay I hope You will use this See I have made my own Animation Timing Function Then after this Already I told you about Animation Iteration Count Animation Delay Means After how long The animation starts Assume I do animation delay Assume One second As soon as you reload the page It will run after one second Okay You see It started after one second And then it will repeat Okay So after how long The animation should run This animation delay Tells If I do 11 seconds Then it will start after 11 seconds After all So all these properties We have Related to animation Now What is the need of transition If animation and transition What to use Many people ask So I will say See It worked After 10-11 seconds Animation and transition Use transition for simple properties And If you want to make complex animations Which are repeated You have to put in different elements So you Can make an animation With the name of Harry And You can use it in multiple places So it is your own use case There is nothing like One is fast The other is slow Or With all these things You have to use animation Or use transition Where your use case is Which makes your code More maintainable And by doing What You are getting easier You can use that If you think That Your simple transition Is working Then use that If you think You will use all these properties Or any of these properties Like delay Iteration count So you Use animation Okay By the way Transition also makes animation In a way But the transition property Is different Animation is different I hope This thing is clear to you You have seen Iteration count Animation direction Is very important Sometimes You can also Alternate Or alternate reverse it Now what is this Let me tell you If suppose I did it Animation direction Reverse Okay Suppose I reverse it Let me do it for a second Otherwise after 11 seconds The animation will start Which I don't want Now see If I reverse it It will start upside down See It is starting upside down And If I do this Suppose I do alternate reverse So what will happen See It is coming like this See See See This is going like this You see If I do this Like this It will go straight See Okay Many times It happens When I make animations If you know Physics You must have heard The name of simple harmonic motion If I want to make an animation I can do it And Mathematics Is directly related To it You can write exact function What is simple harmonic motion Show it to a block I don't want to go into all those things now, but I am telling you that you can make good physics simulations by using CSS only. You can make good intros for your videos by using CSS only. Just think about it. You can make it. You can do things by writing code. So I hope you understand what I am telling you. After this comes animation play start. I will comment it out and I will leave infinite as it is. After this comes animation play state. What is animation play state? If I talk about its values, then you can see that in animation play state, your values come. It comes paused and running. If you want to pause it, you can pause it. Ideally, we pause our animations by using JavaScript whenever we need it. So now I have paused the animation. So you have to see one thing here. When I run animation play state, and as soon as I pause, I will pause where I will pause. See, it stopped there. As soon as I remove it, it will start running from there. So if you want it to stop there and start running from there, then you can pause the animation. It becomes difficult to do all this in transition. When you can do all the things along with the properties of animation, it becomes very difficult in transition. That's it. Now I will tell you that we are all lazy. And we are such people who write lorem 45. We don't even write 49. It is around 4 or 5, that's why we write. So for people like us, the shorthand of animation is that in one property, you set all these things, okay? Now I have heard one thing. Unfortunately, these things happen in many colleges. You are asked to remember all this in animation. What happens in the animation shorthand? If I write animation like this, see, a shorthand gives you VS code. People ask you to remember it. I am strongly against learning and memorizing. I tell you to use VS code. It is telling you to put the name, duration, timing function, delay. Or you can put iteration count. Or you can put direction or fill mode. Now I will tell you quickly about animation fill mode too. But you can fill all these things and do everything in one property. So let's say I put Harry's animation here. Harry's animation. Let's say I put one second in duration. Let's say I put ease in out in timing function. And I put two seconds in delay. And I make it three seconds so that the animation runs for three seconds. I put infinite in iteration count. Infinite. I put reverse in direction. I put reverse. Or I don't want to use direction and I don't want to use any property. I can leave it empty. So let me show you reloading. Here Harry's animation is not defined. See, if you wrote the name of the animation wrong, it will tell you. So I didn't put capital K. And now my animation will run. See, my animation is running. And all these things are being applied here. See, everything is being applied. Now let's say I want this animation delay. I'll do one thing here. I'll comment out the shorthand of the animation and keep it up. First came name, then duration, then timing function, then delay. Let's say I don't want to give delay. I want to remove delay. Will it work then? Yes, of course. Then only this property will work. You can see that even if I miss one property in between, then automatically it's smart enough to pick all these properties. Okay. I hope you understand. Now one thing that I didn't tell you is animation fill mode. Let's talk about it. Now what will I do here? I'll turn the animation repeat to 1. Okay. Here I'll turn the iteration count to 1. That means my animation will run only once. As you can see here, this animation will run only once. And what will I do? I'll turn its background color, let us say red. And I'll finally turn its background color of the box from red. I'll remove background color from here. From red to background color, let's say I do yellow. Okay. So if here, my animation fill mode, I'll leave it empty. That means I'll keep it as none. By default, it's a none. So what will happen? It's starting from here. See, my box is starting from here. It turned red. Then it came here. It turned yellow. And then it became as it was by default. That means there was no background in it. Okay. Now what will I do here? I'll forward it. Forwards. So what will happen? See, it'll move forward. And it'll stay here. That means it'll retain its final property. It wasn't retaining it earlier. Earlier, what was happening? Animation was running and it was going back to the way it was. That means animation ran. And then it forgot that it was animation. That means it retained its properties. If I do it backwards, if I do it backwards, then you'll see what will happen. Then a very strange thing will happen. So see this. It came here. And as soon as I did it backwards, it retained it from our initial style. Now see here, I'll do animation delay for 3 seconds. So as soon as I do animation delay for 3 seconds, till the animation delay is set, it'll come to the properties of the first keyframe. Then it'll return to the way it was. Okay. So I hope you understand all this. And to be very honest, this property isn't used a lot. If I tell you. But if I remove the animation property and apply it, then you'll see that after 3 seconds, this animation is applied. See it came here. And then finally, what did it do? That the situation it was in, it did it again. Now I'll remove the animation and apply it. So see, it'll be red after 3 seconds. See, it's red. And it started running. Okay. But if I do it backwards here, then you'll see that it retained the properties of the previous keyframe. And the first keyframe is here, which I've put in from. And after that, what did it do? It started running. And after that, what did it do? It started running. And finally, the situation was the same. So if I remove it and apply it, then it'll be red immediately. It'll be red during the animation delay as well. And after that, it'll run. So this is what we have, animation fill mode. Again, it's used very rarely. But you should know what it is. Okay. So you can use forwards or backwards. But you can use any of these properties and apply animations. One more thing I'd like to tell you is that the CSS animations can be made multiple. Let's say I make an animation called Harry 2 here. And I say that this time, I won't tell you from and to. This time, I'll tell you that when there's 0% animation, then what to do? Then when there's 1%, then what to do? I want to tell you this way. Let's say I want to tell you 0, 20%, 50%, 80%, and 100%. Okay. I want to do this. And I want to transform this and translate it. Or let me do one thing. This time, I'll put rotate in it. Rotate. And I'll say 300 degree. No, not 300. 100 degree. Okay. And after that, I want this to be 200 at 20%. And after that, I want this to be at 50%. Our 220 and at 80%, how much should this be? Let's say 500. And 500 is more. 300. And then 310. Okay. Let's say I want to do something like this. And here I'll do rotate 310 degree. Okay. Now I'll tell you how to apply multiple animations. If you want to apply multiple animations, you can use comma separated values. Here you can see that I have used comma separated values. And I put my first animation here. Then after that, I put its duration. Then I put timing function. Then I put daily. Then I put iteration count. Same I did with the second animation. My first animation which only changes the background color, is that. And my second animation which changes the transform from 0% all the way till 100%, is that. Let's see how it looks. I'll reload. So both the animations will run after delay of 3 seconds. As soon as 3 seconds are completed, it is rotating and the color is also changing. And it is working according to these timings. And it is working according to these functions. You can always use one animation to animate multiple properties. But again, if you want to apply multiple animations, for some reason, let us say you already have animations, then you can use this property. So this was about the animations of CSS. Now you can apply multiple animations and do a lot of creative work. Let me tell you this first. And your imagination can take you very far. The possibilities of CSS animations are endless. And we are going to see it through projects. You should definitely access the playlist of Sigma web development series. And the source code is getting updated time to time. So you should not have any problem. That's all for now in this video guys. Thank you so much guys. For watching this video. And I will see you next time."
+}

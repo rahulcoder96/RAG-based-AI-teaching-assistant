@@ -1,0 +1,3435 @@
+{
+    "chunks": [
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 0.0,
+            "end": 5.5,
+            "text": " If you remember, we had seen in HTML that there are some inline elements and some block elements."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 5.5,
+            "end": 9.24,
+            "text": " There we had talked that we can change this property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 9.24,
+            "end": 15.0,
+            "text": " In today's video, I will tell you how to change the display property with the help of CSS."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 15.0,
+            "end": 17.54,
+            "text": " And what is the display property in CSS."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 17.54,
+            "end": 20.8,
+            "text": " There are some default values of elements, how to change them."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 20.8,
+            "end": 25.3,
+            "text": " And by changing, what kind of changes we will get to see in their appearance."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 25.3,
+            "end": 28.98,
+            "text": " What is inline, what is inline block, what is flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 28.98,
+            "end": 31.740000000000002,
+            "text": " I am going to tell you all these things in this video."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 31.740000000000002,
+            "end": 32.96,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 32.96,
+            "end": 35.14,
+            "text": " Do write sigma batch op in the comments."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 35.14,
+            "end": 36.68,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 45.06,
+            "end": 48.74,
+            "text": " So guys, I have come to my computer screen and today we will talk about display property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 48.74,
+            "end": 50.06,
+            "text": " It is a very important property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 50.06,
+            "end": 54.66,
+            "text": " I had already told you in the HTML tutorial that there are some elements inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 54.66,
+            "end": 55.260000000000005,
+            "text": " And some more."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 55.26,
+            "end": 65.25999999999999,
+            "text": " Now I will show you some other things in this video about inline and block property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 65.25999999999999,
+            "end": 70.25999999999999,
+            "text": " Now I will quickly create a folder and name it as video23."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 70.25999999999999,
+            "end": 74.25999999999999,
+            "text": " After that I will click shift right and open with code."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 74.25999999999999,
+            "end": 79.25999999999999,
+            "text": " After opening with code, I will write index.html with exclamation mark."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 79.26,
+            "end": 85.26,
+            "text": " And here instead of document I will write css display property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 85.26,
+            "end": 89.26,
+            "text": " And if you want I can also turn on the screencast mode."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 89.26,
+            "end": 93.26,
+            "text": " So here we have to see about css display property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 93.26,
+            "end": 95.26,
+            "text": " I will create a style deck here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 95.26,
+            "end": 101.26,
+            "text": " And as I have already told you that some elements are our inline elements."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 101.26,
+            "end": 104.26,
+            "text": " Like if I create a div here and write I am a box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 104.26,
+            "end": 106.26,
+            "text": " And after that I will show you by previewing it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 106.26,
+            "end": 108.26,
+            "text": " Then you will say yes I know I am a box display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 108.26,
+            "end": 109.26,
+            "text": " Nothing."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 109.26,
+            "end": 110.26,
+            "text": " Nothing new in that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 110.26,
+            "end": 111.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 111.26,
+            "end": 117.26,
+            "text": " But if I tell you that actually you can convert it into an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 117.26,
+            "end": 119.26,
+            "text": " And this will also remain a div."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 119.26,
+            "end": 120.26,
+            "text": " What does that even mean?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 120.26,
+            "end": 122.26,
+            "text": " Let's do one thing here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 122.26,
+            "end": 124.26,
+            "text": " I will call it class equal to box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 124.26,
+            "end": 127.26,
+            "text": " And here I will put a css."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 127.26,
+            "end": 129.26,
+            "text": " Dot box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 129.26,
+            "end": 131.26,
+            "text": " Now here I will give you a pro tip."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 131.26,
+            "end": 136.26,
+            "text": " Many people are worried that we should indent our code."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 136.26,
+            "end": 138.26,
+            "text": " I will say when you are coding then write it roughly."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 138.26,
+            "end": 139.26,
+            "text": " Indent it at the wrong place."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 139.26,
+            "end": 140.26,
+            "text": " Listen to me fully."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 140.26,
+            "end": 141.26,
+            "text": " Don't listen to half."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 141.26,
+            "end": 143.26,
+            "text": " Indent it at the wrong place."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 143.26,
+            "end": 145.26,
+            "text": " Here I am writing box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 145.26,
+            "end": 149.26,
+            "text": " And I am writing border 2 pixel solid blue."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 149.26,
+            "end": 150.26,
+            "text": " Assume I have written it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 150.26,
+            "end": 152.26,
+            "text": " And right click and do format document."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 152.26,
+            "end": 155.26,
+            "text": " So automatically your code will be beautified."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 155.26,
+            "end": 156.26,
+            "text": " By vs code."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 156.26,
+            "end": 159.26,
+            "text": " So your vs code is already working for you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 159.26,
+            "end": 160.26,
+            "text": " So why you do it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 160.26,
+            "end": 161.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 161.26,
+            "end": 163.26,
+            "text": " So you see here content is only imo box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 163.26,
+            "end": 165.26,
+            "text": " But it took full width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 165.26,
+            "end": 167.26,
+            "text": " I will also put a universal selector."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 167.26,
+            "end": 171.26,
+            "text": " And I will say that zero the margin."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 171.26,
+            "end": 174.26,
+            "text": " And zero the padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 174.26,
+            "end": 175.26,
+            "text": " Thank you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 175.26,
+            "end": 176.26,
+            "text": " And it will go up."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 176.26,
+            "end": 177.26,
+            "text": " You see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 177.26,
+            "end": 180.26,
+            "text": " And it has given a border all around it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 180.26,
+            "end": 181.26,
+            "text": " Of blue color."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 181.26,
+            "end": 182.26,
+            "text": " Which I have requested from it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 182.26,
+            "end": 184.26,
+            "text": " Give a border of 2 pixel of blue color."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 184.26,
+            "end": 188.26,
+            "text": " Now I want it to work like an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 188.26,
+            "end": 189.26,
+            "text": " Can I do it?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 189.26,
+            "end": 190.26,
+            "text": " Yes I can."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 190.26,
+            "end": 191.26,
+            "text": " How? I will tell you now."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 191.26,
+            "end": 192.26,
+            "text": " Assume I have written span here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 192.26,
+            "end": 193.26,
+            "text": " I am a good."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 193.26,
+            "end": 195.26,
+            "text": " Then I wrote one more span."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 195.26,
+            "end": 196.26,
+            "text": " And then I wrote boy."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 196.26,
+            "end": 197.26,
+            "text": " So span."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 197.26,
+            "end": 199.26,
+            "text": " Because it is an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 199.26,
+            "end": 201.26,
+            "text": " It is a block level element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 201.26,
+            "end": 202.26,
+            "text": " So what will happen."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 202.26,
+            "end": 204.26,
+            "text": " It will come in one line."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 204.26,
+            "end": 205.26,
+            "text": " Something like this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 205.26,
+            "end": 206.26,
+            "text": " See I am a good boy."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 206.26,
+            "end": 207.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 207.26,
+            "end": 208.26,
+            "text": " It didn't break."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 208.26,
+            "end": 210.26,
+            "text": " But if I write one more div after div."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 210.26,
+            "end": 213.26,
+            "text": " And also a nice box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 213.26,
+            "end": 214.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 214.26,
+            "end": 215.26,
+            "text": " So you see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 215.26,
+            "end": 216.26,
+            "text": " Also a nice box came down."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 216.26,
+            "end": 217.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 217.26,
+            "end": 219.26,
+            "text": " It didn't come in one line."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 219.26,
+            "end": 221.26,
+            "text": " It took full width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 221.26,
+            "end": 223.26,
+            "text": " Now I want this I am a box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 223.26,
+            "end": 225.26,
+            "text": " To become an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 225.26,
+            "end": 228.26,
+            "text": " So I can set its display property here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 228.26,
+            "end": 230.26,
+            "text": " I can say display inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 230.26,
+            "end": 232.26,
+            "text": " And as soon as I do display inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 232.26,
+            "end": 233.26,
+            "text": " You see here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 233.26,
+            "end": 234.26,
+            "text": " It has become an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 234.26,
+            "end": 237.26,
+            "text": " That means after this if I put any other box here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 237.26,
+            "end": 239.26,
+            "text": " Assume I give class as equal to box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 239.26,
+            "end": 240.26,
+            "text": " This too."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 240.26,
+            "end": 242.26,
+            "text": " So this will also become an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 242.26,
+            "end": 248.26,
+            "text": " Because I have set the display property inline in the class box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 248.26,
+            "end": 251.26,
+            "text": " Now because I have set it as an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 251.26,
+            "end": 252.26,
+            "text": " That's why."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 252.26,
+            "end": 254.26,
+            "text": " It has become something like this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 254.26000000000002,
+            "end": 255.26000000000002,
+            "text": " It has become an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 255.26000000000002,
+            "end": 256.26,
+            "text": " And this was an inline element."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 256.26,
+            "end": 258.26,
+            "text": " So inline elements come one after the other."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 258.26,
+            "end": 259.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 259.26,
+            "end": 260.26,
+            "text": " Let's do one thing."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 260.26,
+            "end": 262.26,
+            "text": " Let's give padding inside this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 262.26,
+            "end": 263.26,
+            "text": " It will be fun."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 263.26,
+            "end": 264.26,
+            "text": " Let's give padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 264.26,
+            "end": 265.26,
+            "text": " It will be fun."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 265.26,
+            "end": 266.26,
+            "text": " I will give padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 266.26,
+            "end": 268.26,
+            "text": " My box will be awesome."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 268.26,
+            "end": 269.26,
+            "text": " I will give padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 269.26,
+            "end": 270.26,
+            "text": " How much padding should I give?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 270.26,
+            "end": 271.26,
+            "text": " I will give padding inside this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 271.26,
+            "end": 272.26,
+            "text": " I will give it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 272.26,
+            "end": 273.26,
+            "text": " Which money is being paid?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 273.26,
+            "end": 274.26,
+            "text": " I will give padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 274.26,
+            "end": 275.26,
+            "text": " It is 45 pixels."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 275.26,
+            "end": 276.26,
+            "text": " Wow."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 276.26,
+            "end": 277.26,
+            "text": " It will be good padding from all sides."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 277.26,
+            "end": 278.26,
+            "text": " It will be fun."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 278.26,
+            "end": 279.26,
+            "text": " What is this?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 279.26,
+            "end": 280.26,
+            "text": " Why padding did not start from the top?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 280.26,
+            "end": 281.26,
+            "text": " Why padding did not start from the top?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 281.26,
+            "end": 282.26,
+            "text": " Did we make any mistake with this?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 282.26,
+            "end": 283.26,
+            "text": " No."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 283.26,
+            "end": 284.26,
+            "text": " Did we make any mistake with this?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 284.26,
+            "end": 285.26,
+            "text": " No."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 285.26,
+            "end": 286.26,
+            "text": " I did not make any mistake."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 286.26,
+            "end": 287.26,
+            "text": " Actually, the padding is top."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 287.26,
+            "end": 288.26,
+            "text": " It does not respect this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 288.26,
+            "end": 290.26,
+            "text": " If your element is inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 290.26,
+            "end": 292.26,
+            "text": " So what will you have to do?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 292.26,
+            "end": 295.26,
+            "text": " If you add margin in this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 295.26,
+            "end": 297.26,
+            "text": " Then it will also behave in some way."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 297.26,
+            "end": 298.26,
+            "text": " Let's say we do margin."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 298.26,
+            "end": 299.26,
+            "text": " 34 pixels."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 299.26,
+            "end": 300.26,
+            "text": " So the margin has started from all sides."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 300.26,
+            "end": 301.26,
+            "text": " But it will not start from the top."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 301.26,
+            "end": 302.26,
+            "text": " You can see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 302.26,
+            "end": 304.26,
+            "text": " If you want this behavior to be fine."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 304.26,
+            "end": 306.26,
+            "text": " Then you can block it inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 306.26,
+            "end": 307.26,
+            "text": " As you can see here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 307.26,
+            "end": 309.26,
+            "text": " I have done this inline block here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 309.26,
+            "end": 311.26,
+            "text": " Along with that, if I remove the inline block from here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 311.26,
+            "end": 313.26,
+            "text": " And try to set its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 313.26,
+            "end": 317.26,
+            "text": " Let's say I want its width to be 344 pixels."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 317.26,
+            "end": 318.26,
+            "text": " It does not make any difference."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 318.26,
+            "end": 320.26,
+            "text": " I will increase its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 320.26,
+            "end": 322.26,
+            "text": " If I increase its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 322.26,
+            "end": 324.26,
+            "text": " It does not make any difference."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 324.26,
+            "end": 326.26,
+            "text": " And here Google Chrome is also telling me."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 326.26,
+            "end": 327.26,
+            "text": " Google Chrome is telling me."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 327.26,
+            "end": 329.26,
+            "text": " Oh brother."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 329.26,
+            "end": 332.26,
+            "text": " Display inline property prevents width from having an effect."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 332.26,
+            "end": 334.26,
+            "text": " So you cannot do this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 334.26,
+            "end": 335.26,
+            "text": " Says Google Chrome."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 335.26,
+            "end": 336.26,
+            "text": " Now I will say."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 336.26,
+            "end": 337.26,
+            "text": " I have to set its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 337.26,
+            "end": 338.26,
+            "text": " I have promised my client."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 338.26,
+            "end": 340.26,
+            "text": " That I will increase its width to here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 340.26,
+            "end": 343.26,
+            "text": " So you have to do inline block."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 343.26,
+            "end": 345.26,
+            "text": " You have to use display inline property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 345.26,
+            "end": 346.26,
+            "text": " If you want."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 346.26,
+            "end": 348.26,
+            "text": " That your width and margins obey very well."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 348.26,
+            "end": 350.26,
+            "text": " Then you have to do something like this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 350.26,
+            "end": 351.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 351.26,
+            "end": 352.26,
+            "text": " And you see here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 352.26,
+            "end": 353.26,
+            "text": " I have set its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 353.26,
+            "end": 355.26,
+            "text": " I have set its margin padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 355.26,
+            "end": 356.26,
+            "text": " So you can see from here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 356.26,
+            "end": 357.26,
+            "text": " This is its padding."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 357.26,
+            "end": 360.26,
+            "text": " The box is taking its width."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 360.26,
+            "end": 362.26,
+            "text": " And the padding is also set very well."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 362.26,
+            "end": 364.26,
+            "text": " I have also given it a border."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 364.26,
+            "end": 365.26,
+            "text": " So everything is done."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 365.26,
+            "end": 366.26,
+            "text": " Your work is done in this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 366.26,
+            "end": 367.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 367.26,
+            "end": 370.26,
+            "text": " So inline block property is useful for you in this way."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 370.26,
+            "end": 371.26,
+            "text": " Now I will tell you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 371.26,
+            "end": 372.26,
+            "text": " Display none."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 372.26,
+            "end": 373.26,
+            "text": " And about display block."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 373.26,
+            "end": 374.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 374.26,
+            "end": 375.26,
+            "text": " If you assume that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 375.26,
+            "end": 377.26,
+            "text": " And I will do one thing for this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 377.26,
+            "end": 379.26,
+            "text": " I will go to my settings."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 379.26,
+            "end": 380.26,
+            "text": " And you will say."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 380.26,
+            "end": 381.26,
+            "text": " What are you doing?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 381.26,
+            "end": 382.26,
+            "text": " What are you doing?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 382.26,
+            "end": 383.26,
+            "text": " I will show you what I am doing."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 383.26,
+            "end": 384.26,
+            "text": " I will go to settings here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 384.26,
+            "end": 386.26,
+            "text": " And I have disappeared a little bit."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 386.26,
+            "end": 388.26,
+            "text": " So that you do not have any problem."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 388.26,
+            "end": 390.26,
+            "text": " And I will do live preview."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 390.26,
+            "end": 391.26,
+            "text": " This is my setting."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 391.26,
+            "end": 392.26,
+            "text": " Live preview."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 392.26,
+            "end": 393.26,
+            "text": " Open preview."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 393.26,
+            "end": 394.26,
+            "text": " Target."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 394.26,
+            "end": 395.26,
+            "text": " I will do this embedded preview."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 395.26,
+            "end": 397.26,
+            "text": " And after doing embedded preview."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 397.26,
+            "end": 398.26,
+            "text": " What will I do?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 398.26,
+            "end": 399.26,
+            "text": " That I will preview it here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 399.26,
+            "end": 401.26,
+            "text": " And I will see this preview here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 401.26,
+            "end": 402.26,
+            "text": " You can see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 402.26,
+            "end": 403.26,
+            "text": " Why did I preview it?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 403.26,
+            "end": 404.26,
+            "text": " I want to tell you some properties."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 404.26,
+            "end": 405.26,
+            "text": " Now you see here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 405.26,
+            "end": 408.26,
+            "text": " If I do not inline block its display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 408.26,
+            "end": 409.26,
+            "text": " I will make its display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 409.26,
+            "end": 410.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 410.26,
+            "end": 411.26,
+            "text": " If I make its display none."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 411.26,
+            "end": 412.26,
+            "text": " Of the box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 412.26,
+            "end": 413.26,
+            "text": " Then it will disappear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 413.26,
+            "end": 414.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 414.26,
+            "end": 415.26,
+            "text": " And I do one thing."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 415.26,
+            "end": 416.26,
+            "text": " That this is my."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 416.26,
+            "end": 417.26,
+            "text": " This box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 417.26,
+            "end": 418.26,
+            "text": " The first one."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 418.26,
+            "end": 419.26,
+            "text": " I name it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 419.26,
+            "end": 420.26,
+            "text": " I add another class to it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 420.26,
+            "end": 421.26,
+            "text": " Box1."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 421.26,
+            "end": 422.26,
+            "text": " And after adding box1."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 422.26,
+            "end": 423.26,
+            "text": " What will I do?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 423.26,
+            "end": 424.26,
+            "text": " That here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 424.26,
+            "end": 425.26,
+            "text": " In fact."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 425.26,
+            "end": 426.26,
+            "text": " Here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 426.26,
+            "end": 427.26,
+            "text": " Dot box1."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 427.26,
+            "end": 428.26,
+            "text": " I will do."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 428.26,
+            "end": 429.26,
+            "text": " And I will not add its display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 429.26,
+            "end": 430.26,
+            "text": " And after adding box1."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 430.26,
+            "end": 431.26,
+            "text": " What will I do?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 431.26,
+            "end": 432.26,
+            "text": " I will make its display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 432.26,
+            "end": 433.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 433.26,
+            "end": 434.26,
+            "text": " So as soon as I did display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 434.26,
+            "end": 435.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 435.26,
+            "end": 436.26,
+            "text": " It has also disappeared that space."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 436.26,
+            "end": 437.26,
+            "text": " And the box has also disappeared."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 437.26,
+            "end": 438.26,
+            "text": " And if I remove it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 438.26,
+            "end": 439.26,
+            "text": " What will be display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 439.26,
+            "end": 440.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 440.26,
+            "end": 441.26,
+            "text": " So see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 441.26,
+            "end": 442.26,
+            "text": " IMO box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 442.26,
+            "end": 443.26,
+            "text": " It came here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 443.26,
+            "end": 444.26,
+            "text": " So I did display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 444.26,
+            "end": 445.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 445.26,
+            "end": 446.26,
+            "text": " I removed it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 446.26,
+            "end": 447.26,
+            "text": " I removed it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 447.26,
+            "end": 448.26,
+            "text": " I removed it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 448.26,
+            "end": 449.26,
+            "text": " I removed it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 449.26,
+            "end": 450.26,
+            "text": " As soon as I do display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 450.26,
+            "end": 451.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 451.26,
+            "end": 452.26,
+            "text": " The space I had to give this box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 452.26,
+            "end": 453.26,
+            "text": " That will also disappear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 453.26,
+            "end": 454.26,
+            "text": " And this box will disappear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 454.26,
+            "end": 455.26,
+            "text": " But."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 455.26,
+            "end": 456.26,
+            "text": " There is a visibility property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 456.26,
+            "end": 457.26,
+            "text": " If I do visibility."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 457.26,
+            "end": 458.26,
+            "text": " Hidden."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 458.26,
+            "end": 459.26,
+            "text": " Then the box will disappear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 459.26,
+            "end": 460.26,
+            "text": " But its space will remain."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 460.26,
+            "end": 461.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 461.26,
+            "end": 462.26,
+            "text": " So you want that space to remain."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 462.26,
+            "end": 463.26,
+            "text": " And."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 463.26,
+            "end": 464.26,
+            "text": " As soon as you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 464.26,
+            "end": 465.26,
+            "text": " Apply it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 465.26,
+            "end": 466.26,
+            "text": " Remove it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 466.26,
+            "end": 467.26,
+            "text": " Then the space will be intact."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 467.26,
+            "end": 468.26,
+            "text": " But if you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 468.26,
+            "end": 469.26,
+            "text": " Apply display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 469.26,
+            "end": 470.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 470.26,
+            "end": 471.26,
+            "text": " And remove it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 471.26,
+            "end": 472.26,
+            "text": " Then what will happen."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 472.26,
+            "end": 473.26,
+            "text": " That the space I had to give."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 473.26,
+            "end": 474.26,
+            "text": " That will also disappear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 474.26,
+            "end": 475.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 475.26,
+            "end": 476.26,
+            "text": " So this display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 476.26,
+            "end": 477.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 477.26,
+            "end": 478.26,
+            "text": " Is used here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 478.26,
+            "end": 479.26,
+            "text": " I hope."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 479.26,
+            "end": 480.26,
+            "text": " That you guys understood something."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 480.26,
+            "end": 481.26,
+            "text": " Now if you guys want."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 481.26,
+            "end": 482.26,
+            "text": " To remove display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 482.26,
+            "end": 483.26,
+            "text": " None."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 483.26,
+            "end": 484.26,
+            "text": " And to set its display again."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 484.26,
+            "end": 485.26,
+            "text": " Then you can set inline blocks."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 485.26,
+            "end": 486.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 486.26,
+            "end": 487.26,
+            "text": " And in flexbox."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 487.26,
+            "end": 488.26,
+            "text": " And in grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 488.26,
+            "end": 489.26,
+            "text": " We will read."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 489.26,
+            "end": 490.26,
+            "text": " What is display flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 490.26,
+            "end": 491.26,
+            "text": " And what is display grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 491.26,
+            "end": 492.26,
+            "text": " I want to show you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 492.26,
+            "end": 493.26,
+            "text": " Suppose I want."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 493.26,
+            "end": 494.26,
+            "text": " That this is my box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 494.26,
+            "end": 495.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 495.26,
+            "end": 496.26,
+            "text": " This is the box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 496.26,
+            "end": 497.26,
+            "text": " What happens in flexbox."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 497.26,
+            "end": 498.26,
+            "text": " That you can make anything."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 498.26,
+            "end": 499.26,
+            "text": " Flexbox."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 499.26,
+            "end": 500.26,
+            "text": " And I will say."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 500.26,
+            "end": 501.26,
+            "text": " 70 to 80 percent of the time."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 501.26,
+            "end": 502.26,
+            "text": " You will be using flexbox."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 502.26,
+            "end": 503.26,
+            "text": " To center things."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 503.26,
+            "end": 504.26,
+            "text": " Or you will be using it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 504.26,
+            "end": 505.26,
+            "text": " To scratch one side."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 505.26,
+            "end": 506.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 506.26,
+            "end": 507.26,
+            "text": " So here you see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 507.26,
+            "end": 508.26,
+            "text": " That this is my box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 508.26,
+            "end": 509.26,
+            "text": " Here also."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 509.26,
+            "end": 510.26,
+            "text": " A box is written."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 510.26,
+            "end": 511.26,
+            "text": " Suppose."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 511.26,
+            "end": 512.26,
+            "text": " I want to center."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 512.26,
+            "end": 513.26,
+            "text": " This box."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 513.26,
+            "end": 514.26,
+            "text": " Its content."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 514.26,
+            "end": 515.26,
+            "text": " So I will say."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 515.26,
+            "end": 516.26,
+            "text": " Display flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 516.26,
+            "end": 517.26,
+            "text": " Justify content center."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 517.26,
+            "end": 518.26,
+            "text": " You see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 518.26,
+            "end": 519.26,
+            "text": " It is centered up here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 519.26,
+            "end": 520.26,
+            "text": " You see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 520.26,
+            "end": 521.26,
+            "text": " By flexing."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 521.26,
+            "end": 522.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 522.26,
+            "end": 523.26,
+            "text": " So."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 523.26,
+            "end": 524.26,
+            "text": " I hope."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 524.26,
+            "end": 525.26,
+            "text": " You are understanding things."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 525.26,
+            "end": 526.26,
+            "text": " You are clear."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 526.26,
+            "end": 527.26,
+            "text": " Everything."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 527.26,
+            "end": 528.26,
+            "text": " And."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 528.26,
+            "end": 529.26,
+            "text": " After this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 529.26,
+            "end": 530.26,
+            "text": " Inline flex happens."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 530.26,
+            "end": 531.26,
+            "text": " If I flex it inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 531.26,
+            "end": 532.26,
+            "text": " Then it will come in the same line."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 532.26,
+            "end": 533.26,
+            "text": " I will show you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 533.26,
+            "end": 534.26,
+            "text": " Inline flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 534.26,
+            "end": 535.26,
+            "text": " So it was flexing first."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 535.26,
+            "end": 536.26,
+            "text": " So the rest of the things."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 536.26,
+            "end": 537.26,
+            "text": " Had fallen down."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 537.26,
+            "end": 538.26,
+            "text": " But by flexing inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 538.26,
+            "end": 539.26,
+            "text": " These things."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 539.26,
+            "end": 540.26,
+            "text": " Will not fall down."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 540.26,
+            "end": 541.26,
+            "text": " From the other side."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 541.26,
+            "end": 542.26,
+            "text": " I will tell you flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 542.26,
+            "end": 543.26,
+            "text": " I will tell you very clearly."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 543.26,
+            "end": 544.26,
+            "text": " Don't take tension."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 544.26,
+            "end": 545.26,
+            "text": " At all."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 545.26,
+            "end": 546.26,
+            "text": " After this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 546.26,
+            "end": 547.26,
+            "text": " Display grid happens."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 547.26,
+            "end": 548.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 548.26,
+            "end": 549.26,
+            "text": " After this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 549.26,
+            "end": 550.26,
+            "text": " Display grid happens."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 550.26,
+            "end": 551.26,
+            "text": " If you flex inline."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 551.26,
+            "end": 552.26,
+            "text": " Then here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 552.26,
+            "end": 553.26,
+            "text": " You can change the flex direction."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 553.26,
+            "end": 554.26,
+            "text": " You guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 554.26,
+            "end": 555.26,
+            "text": " After that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 555.26,
+            "end": 556.26,
+            "text": " You guys here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 556.26,
+            "end": 557.26,
+            "text": " Flex wrap."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 557.26,
+            "end": 558.26,
+            "text": " All these things."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 558.26,
+            "end": 559.26,
+            "text": " I will tell you in the upcoming videos."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 559.26,
+            "end": 560.26,
+            "text": " Don't take tension."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 560.26,
+            "end": 561.26,
+            "text": " If I grid the display."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 561.26,
+            "end": 562.26,
+            "text": " Something like this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 562.26,
+            "end": 563.26,
+            "text": " So it will tell you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 563.26,
+            "end": 564.26,
+            "text": " About the properties of the grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 564.26,
+            "end": 565.26,
+            "text": " And about the grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 565.26,
+            "end": 566.26,
+            "text": " I will tell you in the upcoming videos."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 566.26,
+            "end": 567.26,
+            "text": " But for now."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 567.26,
+            "end": 568.26,
+            "text": " You guys understand."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 568.26,
+            "end": 569.26,
+            "text": " That grid is also."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 569.26,
+            "end": 570.26,
+            "text": " A display property."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 570.26,
+            "end": 571.26,
+            "text": " Display grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 571.26,
+            "end": 572.26,
+            "text": " We can do."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 572.26,
+            "end": 573.26,
+            "text": " Inline grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 573.26,
+            "end": 574.26,
+            "text": " And I have."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 574.26,
+            "end": 575.26,
+            "text": " The link of MDN."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 575.26,
+            "end": 576.26,
+            "text": " It is written."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 576.26,
+            "end": 577.26,
+            "text": " By curating for you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 577.26,
+            "end": 578.26,
+            "text": " I copy it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 578.26,
+            "end": 579.26,
+            "text": " And paste it here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 579.26,
+            "end": 580.26,
+            "text": " In which."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 580.26,
+            "end": 581.26,
+            "text": " You will get to see."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 581.26,
+            "end": 582.26,
+            "text": " And you see here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 582.26,
+            "end": 583.26,
+            "text": " He told me."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 583.26,
+            "end": 584.26,
+            "text": " That this is an inline block."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 584.26,
+            "end": 585.26,
+            "text": " This display has disappeared from none."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 585.26,
+            "end": 586.26,
+            "text": " This happened with display flex."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 586.26,
+            "end": 587.26,
+            "text": " This happened with display grid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 587.26,
+            "end": 588.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 588.26,
+            "end": 589.26,
+            "text": " But I am telling you here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 589.26,
+            "end": 590.26,
+            "text": " That these are all properties."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 590.26,
+            "end": 591.26,
+            "text": " Which you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 591.26,
+            "end": 592.26,
+            "text": " What is."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 592.26,
+            "end": 593.26,
+            "text": " You can use."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 593.26,
+            "end": 594.26,
+            "text": " But again."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 594.26,
+            "end": 595.26,
+            "text": " Which was going to be used the most."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 595.26,
+            "end": 596.26,
+            "text": " I told you that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 596.26,
+            "end": 597.26,
+            "text": " Ninety-nine percent."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 597.26,
+            "end": 598.26,
+            "text": " Of the websites."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 598.26,
+            "end": 599.26,
+            "text": " You will make it from this."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 599.26,
+            "end": 600.26,
+            "text": " Okay."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 600.26,
+            "end": 601.26,
+            "text": " So here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 601.26,
+            "end": 602.26,
+            "text": " You guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 602.26,
+            "end": 603.26,
+            "text": " I will give you its link."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 603.26,
+            "end": 604.26,
+            "text": " I will close it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 604.26,
+            "end": 605.26,
+            "text": " And here you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 605.26,
+            "end": 606.26,
+            "text": " Which is."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 606.26,
+            "end": 607.26,
+            "text": " Exhaustive list."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 607.26,
+            "end": 608.26,
+            "text": " I will give its link."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 608.26,
+            "end": 609.26,
+            "text": " In case."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 609.26,
+            "end": 610.26,
+            "text": " You want to know."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 610.26,
+            "end": 611.26,
+            "text": " Then."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 611.26,
+            "end": 612.26,
+            "text": " You pick it up from here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 612.26,
+            "end": 613.26,
+            "text": " But again."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 613.26,
+            "end": 614.26,
+            "text": " We are going to learn."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 614.26,
+            "end": 615.26,
+            "text": " That matters."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 615.26,
+            "end": 616.26,
+            "text": " And."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 616.26,
+            "end": 617.26,
+            "text": " I told you guys earlier."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 617.26,
+            "end": 618.26,
+            "text": " We will learn only that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 618.26,
+            "end": 619.26,
+            "text": " Which matters."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 619.26,
+            "end": 620.26,
+            "text": " Because."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 620.26,
+            "end": 621.26,
+            "text": " If we fall behind the exhaustive list."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 621.26,
+            "end": 622.26,
+            "text": " Then."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 622.26,
+            "end": 623.26,
+            "text": " Our time."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 623.26,
+            "end": 624.26,
+            "text": " Is very limited."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 624.26,
+            "end": 625.26,
+            "text": " We have to learn things in a very short time."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 625.26,
+            "end": 626.26,
+            "text": " I hope."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 626.26,
+            "end": 627.26,
+            "text": " You guys understood."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 627.26,
+            "end": 628.26,
+            "text": " If you have not accessed the playlist."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 628.26,
+            "end": 629.26,
+            "text": " Then access it."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 629.26,
+            "end": 630.26,
+            "text": " Access it as soon as possible."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 630.26,
+            "end": 631.26,
+            "text": " By clicking here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 631.26,
+            "end": 632.26,
+            "text": " Bookmark."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 632.26,
+            "end": 633.26,
+            "text": " Or by clicking here."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 633.26,
+            "end": 634.26,
+            "text": " Save."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 634.26,
+            "end": 635.26,
+            "text": " And I would like."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 635.26,
+            "end": 636.26,
+            "text": " To request you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 636.26,
+            "end": 637.26,
+            "text": " That if you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 637.26,
+            "end": 638.26,
+            "text": " Have watched the videos."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 638.26,
+            "end": 639.26,
+            "text": " Then."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 639.26,
+            "end": 640.26,
+            "text": " Go to the first video."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 640.26,
+            "end": 641.26,
+            "text": " Because."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 641.26,
+            "end": 642.26,
+            "text": " This free course."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 642.26,
+            "end": 643.26,
+            "text": " We are underestimating."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 643.26,
+            "end": 644.26,
+            "text": " I got a lot of comments."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 644.26,
+            "end": 645.26,
+            "text": " That man."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 645.26,
+            "end": 646.26,
+            "text": " Your course is free."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 646.26,
+            "end": 647.26,
+            "text": " Then what."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 647.26,
+            "end": 648.26,
+            "text": " This faith course."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 648.26,
+            "end": 649.26,
+            "text": " Will the clash."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 649.26,
+            "end": 650.26,
+            "text": " Will be so good."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 650.26,
+            "end": 651.26,
+            "text": " I want to tell you guys."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 651.26,
+            "end": 652.26,
+            "text": " That I."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 652.26,
+            "end": 653.26,
+            "text": " As a paid."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 653.26,
+            "end": 654.26,
+            "text": " Course."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 654.26,
+            "end": 655.26,
+            "text": " Thought to keep."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 655.26,
+            "end": 656.26,
+            "text": " But I."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 656.26,
+            "end": 657.26,
+            "text": " Free it after."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 657.26,
+            "end": 658.26,
+            "text": " Along with that."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 658.26,
+            "end": 659.26,
+            "text": " A lot of people."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 659.26,
+            "end": 660.26,
+            "text": " You will also know."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 660.26,
+            "end": 661.26,
+            "text": " I want."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 661.26,
+            "end": 662.26,
+            "text": " To go to the first."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 662.26,
+            "end": 663.26,
+            "text": " Video."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 663.26,
+            "end": 664.26,
+            "text": " And tell them."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 664.26,
+            "end": 665.26,
+            "text": " Not based."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 665.26,
+            "end": 666.26,
+            "text": " On."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 666.26,
+            "end": 667.26,
+            "text": " What I am saying."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 667.26,
+            "end": 668.26,
+            "text": " And you."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 668.26,
+            "end": 669.26,
+            "text": " Don't influence yourself."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 669.26,
+            "end": 670.26,
+            "text": " With something."
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 670.26,
+            "end": 673.26,
+            "text": " Did this course make you a better developer?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 673.26,
+            "end": 676.26,
+            "text": " And as much as you have learned, I hope you will know"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 676.26,
+            "end": 679.26,
+            "text": " What kind of developer you will become after the upcoming videos"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 679.26,
+            "end": 684.26,
+            "text": " So I want you to give me 5 stars in the first video"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 684.26,
+            "end": 686.26,
+            "text": " That I will give this course 5 stars"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 686.26,
+            "end": 688.26,
+            "text": " What kind of course is this?"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 688.26,
+            "end": 689.26,
+            "text": " You guys must go here and write"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 689.26,
+            "end": 690.26,
+            "text": " I will like it from the bottom of my heart"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 690.26,
+            "end": 692.26,
+            "text": " And a good comment from you guys will make my day"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 692.26,
+            "end": 695.26,
+            "text": " I hope you guys are liking these videos very much"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 695.26,
+            "end": 697.26,
+            "text": " And this source code and all the things"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 697.26,
+            "end": 699.26,
+            "text": " I also gave you the link of cheat sheets"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 699.26,
+            "end": 701.26,
+            "text": " You have accessed all that"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 701.26,
+            "end": 703.26,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "23 - (720p)",
+            "title": "CSS Display Property ",
+            "start": 703.26,
+            "end": 705.26,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " If you remember, we had seen in HTML that there are some inline elements and some block elements. There we had talked that we can change this property. In today's video, I will tell you how to change the display property with the help of CSS. And what is the display property in CSS. There are some default values of elements, how to change them. And by changing, what kind of changes we will get to see in their appearance. What is inline, what is inline block, what is flex. I am going to tell you all these things in this video. Let's go to the computer screen. Do write sigma batch op in the comments. Let's roll the intro. So guys, I have come to my computer screen and today we will talk about display property. It is a very important property. I had already told you in the HTML tutorial that there are some elements inline. And some more. Now I will show you some other things in this video about inline and block property. Now I will quickly create a folder and name it as video23. After that I will click shift right and open with code. After opening with code, I will write index.html with exclamation mark. And here instead of document I will write css display property. And if you want I can also turn on the screencast mode. So here we have to see about css display property. I will create a style deck here. And as I have already told you that some elements are our inline elements. Like if I create a div here and write I am a box. And after that I will show you by previewing it. Then you will say yes I know I am a box display. Nothing. Nothing new in that. Okay. But if I tell you that actually you can convert it into an inline element. And this will also remain a div. What does that even mean? Let's do one thing here. I will call it class equal to box. And here I will put a css. Dot box. Now here I will give you a pro tip. Many people are worried that we should indent our code. I will say when you are coding then write it roughly. Indent it at the wrong place. Listen to me fully. Don't listen to half. Indent it at the wrong place. Here I am writing box. And I am writing border 2 pixel solid blue. Assume I have written it. And right click and do format document. So automatically your code will be beautified. By vs code. So your vs code is already working for you. So why you do it. Okay. So you see here content is only imo box. But it took full width. I will also put a universal selector. And I will say that zero the margin. And zero the padding. Thank you. And it will go up. You see. And it has given a border all around it. Of blue color. Which I have requested from it. Give a border of 2 pixel of blue color. Now I want it to work like an inline element. Can I do it? Yes I can. How? I will tell you now. Assume I have written span here. I am a good. Then I wrote one more span. And then I wrote boy. So span. Because it is an inline element. It is a block level element. So what will happen. It will come in one line. Something like this. See I am a good boy. Okay. It didn't break. But if I write one more div after div. And also a nice box. Okay. So you see. Also a nice box came down. Okay. It didn't come in one line. It took full width. Now I want this I am a box. To become an inline element. So I can set its display property here. I can say display inline. And as soon as I do display inline. You see here. It has become an inline element. That means after this if I put any other box here. Assume I give class as equal to box. This too. So this will also become an inline element. Because I have set the display property inline in the class box. Now because I have set it as an inline element. That's why. It has become something like this. It has become an inline element. And this was an inline element. So inline elements come one after the other. Okay. Let's do one thing. Let's give padding inside this. It will be fun. Let's give padding. It will be fun. I will give padding. My box will be awesome. I will give padding. How much padding should I give? I will give padding inside this. I will give it. Which money is being paid? I will give padding. It is 45 pixels. Wow. It will be good padding from all sides. It will be fun. What is this? Why padding did not start from the top? Why padding did not start from the top? Did we make any mistake with this? No. Did we make any mistake with this? No. I did not make any mistake. Actually, the padding is top. It does not respect this. If your element is inline. So what will you have to do? If you add margin in this. Then it will also behave in some way. Let's say we do margin. 34 pixels. So the margin has started from all sides. But it will not start from the top. You can see. If you want this behavior to be fine. Then you can block it inline. As you can see here. I have done this inline block here. Along with that, if I remove the inline block from here. And try to set its width. Let's say I want its width to be 344 pixels. It does not make any difference. I will increase its width. If I increase its width. It does not make any difference. And here Google Chrome is also telling me. Google Chrome is telling me. Oh brother. Display inline property prevents width from having an effect. So you cannot do this. Says Google Chrome. Now I will say. I have to set its width. I have promised my client. That I will increase its width to here. So you have to do inline block. You have to use display inline property. If you want. That your width and margins obey very well. Then you have to do something like this. Okay. And you see here. I have set its width. I have set its margin padding. So you can see from here. This is its padding. The box is taking its width. And the padding is also set very well. I have also given it a border. So everything is done. Your work is done in this. Okay. So inline block property is useful for you in this way. Now I will tell you. Display none. And about display block. Okay. If you assume that. And I will do one thing for this. I will go to my settings. And you will say. What are you doing? What are you doing? I will show you what I am doing. I will go to settings here. And I have disappeared a little bit. So that you do not have any problem. And I will do live preview. This is my setting. Live preview. Open preview. Target. I will do this embedded preview. And after doing embedded preview. What will I do? That I will preview it here. And I will see this preview here. You can see. Why did I preview it? I want to tell you some properties. Now you see here. If I do not inline block its display. I will make its display. None. If I make its display none. Of the box. Then it will disappear. Okay. And I do one thing. That this is my. This box. The first one. I name it. I add another class to it. Box1. And after adding box1. What will I do? That here. In fact. Here. Dot box1. I will do. And I will not add its display. And after adding box1. What will I do? I will make its display. None. So as soon as I did display. None. It has also disappeared that space. And the box has also disappeared. And if I remove it. What will be display. None. So see. IMO box. It came here. So I did display. None. I removed it. I removed it. I removed it. I removed it. As soon as I do display. None. The space I had to give this box. That will also disappear. And this box will disappear. But. There is a visibility property. If I do visibility. Hidden. Then the box will disappear. But its space will remain. Okay. So you want that space to remain. And. As soon as you. Apply it. Remove it. Then the space will be intact. But if you. Apply display. None. And remove it. Then what will happen. That the space I had to give. That will also disappear. Okay. So this display. None. Is used here. I hope. That you guys understood something. Now if you guys want. To remove display. None. And to set its display again. Then you can set inline blocks. Okay. And in flexbox. And in grid. We will read. What is display flex. And what is display grid. I want to show you. Suppose I want. That this is my box. Okay. This is the box. What happens in flexbox. That you can make anything. Flexbox. And I will say. 70 to 80 percent of the time. You will be using flexbox. To center things. Or you will be using it. To scratch one side. Okay. So here you see. That this is my box. Here also. A box is written. Suppose. I want to center. This box. Its content. So I will say. Display flex. Justify content center. You see. It is centered up here. You see. By flexing. Okay. So. I hope. You are understanding things. You are clear. Everything. And. After this. Inline flex happens. If I flex it inline. Then it will come in the same line. I will show you. Inline flex. So it was flexing first. So the rest of the things. Had fallen down. But by flexing inline. These things. Will not fall down. From the other side. I will tell you flex. I will tell you very clearly. Don't take tension. At all. After this. Display grid happens. Okay. After this. Display grid happens. If you flex inline. Then here. You can change the flex direction. You guys. After that. You guys here. Flex wrap. All these things. I will tell you in the upcoming videos. Don't take tension. If I grid the display. Something like this. So it will tell you. About the properties of the grid. And about the grid. I will tell you in the upcoming videos. But for now. You guys understand. That grid is also. A display property. Display grid. We can do. Inline grid. And I have. The link of MDN. It is written. By curating for you guys. I copy it. And paste it here. In which. You will get to see. And you see here. He told me. That this is an inline block. This display has disappeared from none. This happened with display flex. This happened with display grid. Okay. But I am telling you here. That these are all properties. Which you guys. What is. You can use. But again. Which was going to be used the most. I told you that. Ninety-nine percent. Of the websites. You will make it from this. Okay. So here. You guys. I will give you its link. I will close it. And here you guys. Which is. Exhaustive list. I will give its link. In case. You want to know. Then. You pick it up from here. But again. We are going to learn. That matters. And. I told you guys earlier. We will learn only that. Which matters. Because. If we fall behind the exhaustive list. Then. Our time. Is very limited. We have to learn things in a very short time. I hope. You guys understood. If you have not accessed the playlist. Then access it. Access it as soon as possible. By clicking here. Bookmark. Or by clicking here. Save. And I would like. To request you guys. That if you guys. Have watched the videos. Then. Go to the first video. Because. This free course. We are underestimating. I got a lot of comments. That man. Your course is free. Then what. This faith course. Will the clash. Will be so good. I want to tell you guys. That I. As a paid. Course. Thought to keep. But I. Free it after. Along with that. A lot of people. You will also know. I want. To go to the first. Video. And tell them. Not based. On. What I am saying. And you. Don't influence yourself. With something. Did this course make you a better developer? And as much as you have learned, I hope you will know What kind of developer you will become after the upcoming videos So I want you to give me 5 stars in the first video That I will give this course 5 stars What kind of course is this? You guys must go here and write I will like it from the bottom of my heart And a good comment from you guys will make my day I hope you guys are liking these videos very much And this source code and all the things I also gave you the link of cheat sheets You have accessed all that Thank you so much guys for watching this video And I will see you next time"
+}

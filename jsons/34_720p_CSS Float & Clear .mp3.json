@@ -1,0 +1,3127 @@
+{
+    "chunks": [
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 0.0,
+            "end": 2.7600000000000002,
+            "text": " In today's video, we will understand about float and clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 2.7600000000000002,
+            "end": 4.28,
+            "text": " Since the advent of flexbox,"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 4.28,
+            "end": 7.12,
+            "text": " The use of these properties has become very less."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 7.12,
+            "end": 10.040000000000001,
+            "text": " But if a client shows you a website"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 10.040000000000001,
+            "end": 12.16,
+            "text": " Which has float and clear,"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 12.16,
+            "end": 14.32,
+            "text": " Then you should have enough understanding"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 14.32,
+            "end": 16.52,
+            "text": " That you can understand what float and clear is."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 16.52,
+            "end": 18.080000000000002,
+            "text": " In this video, we are going to see this only."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 18.080000000000002,
+            "end": 19.68,
+            "text": " With high energy, do like the video"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 19.68,
+            "end": 22.080000000000002,
+            "text": " And do write Sigma Batch OP in the comment section below."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 22.080000000000002,
+            "end": 23.44,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 23.44,
+            "end": 24.92,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 30.0,
+            "end": 35.44,
+            "text": " Guys, I have entered the computer screen."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 35.44,
+            "end": 37.44,
+            "text": " But in this video, I will say something"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 37.44,
+            "end": 39.44,
+            "text": " That you will also say, what did you say?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 39.44,
+            "end": 41.44,
+            "text": " But before that, I want to explain to you"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 41.44,
+            "end": 43.44,
+            "text": " How float and clear works."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 43.44,
+            "end": 46.44,
+            "text": " So here you see, I am going to make a folder"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 46.44,
+            "end": 48.44,
+            "text": " With the name of video number 34."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 48.44,
+            "end": 50.44,
+            "text": " So I made a folder with the name of video 34."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 50.44,
+            "end": 53.0,
+            "text": " And I opened it in VS code."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 53.0,
+            "end": 55.64,
+            "text": " And what I am going to do here is"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 55.64,
+            "end": 58.64,
+            "text": " That I will show you here"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 58.64,
+            "end": 59.64,
+            "text": " On which HTML exactly"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 59.64,
+            "end": 62.08,
+            "text": " We will understand the concept of float and clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 62.08,
+            "end": 64.08,
+            "text": " And the thing about CSS float and clear"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 64.08,
+            "end": 66.08,
+            "text": " That I am going to tell you now"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 66.08,
+            "end": 68.08,
+            "text": " You will say, what did you say?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 68.08,
+            "end": 69.08,
+            "text": " So let's do one thing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 69.08,
+            "end": 72.08,
+            "text": " We will make a div with the name of .cards"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 72.08,
+            "end": 76.08,
+            "text": " And in it, I will do .card x 3"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 76.08,
+            "end": 77.08,
+            "text": " So there is one card."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 77.08,
+            "end": 79.08,
+            "text": " There are three more cards in it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 79.08,
+            "end": 83.08,
+            "text": " And I will make card 1, card 2, card 3 like this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 83.08,
+            "end": 85.08,
+            "text": " Here I will make card 2."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 85.08,
+            "end": 87.08,
+            "text": " Then I will make card 3."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 87.08,
+            "end": 89.08,
+            "text": " We have a very simple here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 89.08,
+            "end": 91.08,
+            "text": " I have written the HTML here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 91.08,
+            "end": 92.08,
+            "text": " I will do open in browser."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 92.08,
+            "end": 93.08,
+            "text": " It is looking something like this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 93.08,
+            "end": 94.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 94.08,
+            "end": 95.08,
+            "text": " Very good."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 95.08,
+            "end": 96.08,
+            "text": " Very beautiful."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 96.08,
+            "end": 97.08,
+            "text": " Now what is float and clear?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 97.08,
+            "end": 98.08,
+            "text": " Tell me this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 98.08,
+            "end": 99.08,
+            "text": " So let me tell you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 99.08,
+            "end": 100.08,
+            "text": " So what will happen is"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 100.08,
+            "end": 101.08,
+            "text": " Let us say I have put an img here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 101.08,
+            "end": 102.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 102.08,
+            "end": 105.08,
+            "text": " And I will take an image from here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 105.08,
+            "end": 107.08,
+            "text": " Open image in new tab."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 107.08,
+            "end": 108.08,
+            "text": " I will take some other image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 108.08,
+            "end": 110.08,
+            "text": " Which has a direct URL."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 110.08,
+            "end": 111.08,
+            "text": " Let's use this image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 111.08,
+            "end": 112.08,
+            "text": " That's it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 112.08,
+            "end": 113.08,
+            "text": " Let's use this image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 113.08,
+            "end": 114.08,
+            "text": " And now you see here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 114.08,
+            "end": 116.08,
+            "text": " As soon as I will use this image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 116.08,
+            "end": 117.08,
+            "text": " This image came here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 117.08,
+            "end": 118.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 118.08,
+            "end": 119.08,
+            "text": " Yes."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 119.08,
+            "end": 120.08,
+            "text": " I will give a width in this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 120.08,
+            "end": 122.08,
+            "text": " I will give width is equal to in this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 122.08,
+            "end": 123.08,
+            "text": " So I will keep here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 123.08,
+            "end": 126.08,
+            "text": " Width is equal to 23 pixels."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 126.08,
+            "end": 127.08,
+            "text": " And let's see."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 127.08,
+            "end": 129.07999999999998,
+            "text": " Our small image came here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 129.07999999999998,
+            "end": 130.07999999999998,
+            "text": " In fact, let's make it 230."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 130.07999999999998,
+            "end": 131.07999999999998,
+            "text": " If something is visible."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 131.07999999999998,
+            "end": 132.07999999999998,
+            "text": " So our image came here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 132.07999999999998,
+            "end": 133.07999999999998,
+            "text": " And below is card 1."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 133.07999999999998,
+            "end": 134.07999999999998,
+            "text": " This is card 2."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 134.07999999999998,
+            "end": 135.07999999999998,
+            "text": " This is card 3."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 135.07999999999998,
+            "end": 136.07999999999998,
+            "text": " You know."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 136.07999999999998,
+            "end": 137.07999999999998,
+            "text": " You said that it is looking very good."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 137.07999999999998,
+            "end": 138.07999999999998,
+            "text": " Tell me further."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 138.07999999999998,
+            "end": 139.07999999999998,
+            "text": " So the next scene is."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 139.07999999999998,
+            "end": 141.07999999999998,
+            "text": " Let us say that I put a paragraph below it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 141.07999999999998,
+            "end": 142.07999999999998,
+            "text": " In card 1."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 142.07999999999998,
+            "end": 145.07999999999998,
+            "text": " So I put a paragraph in the div of card 1."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 145.07999999999998,
+            "end": 147.07999999999998,
+            "text": " In which I write lorem 34."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 147.07999999999998,
+            "end": 148.07999999999998,
+            "text": " So if I write lorem 34 in this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 148.08,
+            "end": 150.08,
+            "text": " Then it will come down here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 150.08,
+            "end": 151.08,
+            "text": " But what will happen."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 151.08,
+            "end": 152.08,
+            "text": " If I."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 152.08,
+            "end": 153.08,
+            "text": " This image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 153.08,
+            "end": 154.08,
+            "text": " If I say this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 154.08,
+            "end": 155.08,
+            "text": " That brother."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 155.08,
+            "end": 160.08,
+            "text": " I want to float it in my image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 160.08,
+            "end": 161.08,
+            "text": " Left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 161.08,
+            "end": 162.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 162.08,
+            "end": 163.08,
+            "text": " I want to say float left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 163.08,
+            "end": 164.08,
+            "text": " So it will float to the left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 164.08,
+            "end": 167.08,
+            "text": " And it will allow the content on its right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 167.08,
+            "end": 168.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 168.08,
+            "end": 169.08,
+            "text": " Before it was not allowing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 169.08,
+            "end": 172.08,
+            "text": " But now it will allow the content on its right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 172.08,
+            "end": 174.08,
+            "text": " So this is our float."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 174.08,
+            "end": 176.08,
+            "text": " Now I want to show you some things here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 176.08,
+            "end": 177.08,
+            "text": " First of all."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 177.08,
+            "end": 179.08,
+            "text": " I will put a style here in dot cards."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 179.08,
+            "end": 184.08,
+            "text": " Which will be border 2 pixels solid black."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 184.08,
+            "end": 185.08,
+            "text": " And along with that."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 185.08,
+            "end": 186.08,
+            "text": " I have put this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 186.08,
+            "end": 187.08,
+            "text": " So see this came from black color."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 187.08,
+            "end": 188.08,
+            "text": " And why I have put this border."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 188.08,
+            "end": 189.08,
+            "text": " You will also know."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 189.08,
+            "end": 190.08,
+            "text": " And in dot card."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 190.08,
+            "end": 191.08,
+            "text": " I am going to put."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 191.08,
+            "end": 192.08,
+            "text": " Border 2 pixels solid red."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 192.08,
+            "end": 193.08,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 193.08,
+            "end": 194.08,
+            "text": " Why did you put this too."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 194.08,
+            "end": 195.08,
+            "text": " You will know."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 195.08,
+            "end": 196.08,
+            "text": " So I have put this here in cards."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 196.08,
+            "end": 197.08,
+            "text": " So every card has a red color border."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 197.08,
+            "end": 198.08,
+            "text": " And in the container there is a black color border."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 198.08,
+            "end": 199.08,
+            "text": " Now you have seen one thing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 199.08,
+            "end": 200.08,
+            "text": " Whenever we use float property."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 200.08,
+            "end": 201.08,
+            "text": " We have to put this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 201.08,
+            "end": 202.08,
+            "text": " So here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 202.08,
+            "end": 203.08,
+            "text": " I have put this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 203.08,
+            "end": 204.08,
+            "text": " So here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 204.08,
+            "end": 205.08,
+            "text": " I have put this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 205.08,
+            "end": 206.08,
+            "text": " So here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 206.08,
+            "end": 207.08,
+            "text": " When we use float property."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 207.08,
+            "end": 209.08,
+            "text": " So if image is being overflowed in container."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 209.08,
+            "end": 210.08,
+            "text": " So it overflowed."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 210.08,
+            "end": 212.08,
+            "text": " It will not accommodate in our container."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 212.08,
+            "end": 214.08,
+            "text": " So this can be used."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 214.08,
+            "end": 215.08,
+            "text": " For a property."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 215.08,
+            "end": 216.08,
+            "text": " So this is our parent container."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 216.08,
+            "end": 217.08,
+            "text": " In that."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 217.08,
+            "end": 218.08,
+            "text": " We can put."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 218.08,
+            "end": 219.08,
+            "text": " Display."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 219.08,
+            "end": 220.08,
+            "text": " And in display."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 220.08,
+            "end": 221.08,
+            "text": " We can put."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 221.08,
+            "end": 222.08,
+            "text": " Flow route."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 222.08,
+            "end": 223.08,
+            "text": " And when we write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 223.08,
+            "end": 224.08,
+            "text": " Display flow route here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 224.08,
+            "end": 225.08,
+            "text": " You can see."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 225.08,
+            "end": 226.08,
+            "text": " That this issue will be solved."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 226.08,
+            "end": 227.08,
+            "text": " This overflow won't happen."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 227.08,
+            "end": 228.08,
+            "text": " So this is one way."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 228.08,
+            "end": 229.08,
+            "text": " By putting display flow route."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 229.08,
+            "end": 230.08,
+            "text": " Which can be."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 230.08,
+            "end": 231.08,
+            "text": " USed."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 231.08,
+            "end": 232.08,
+            "text": " In ratings."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 232.08,
+            "end": 233.08,
+            "text": " So that."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 233.08,
+            "end": 234.08,
+            "text": " We can thing you all."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 234.08,
+            "end": 235.08,
+            "text": " If you write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 235.08,
+            "end": 239.58,
+            "text": " which is the container within which the elements can be fitted."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 239.58,
+            "end": 241.58,
+            "text": " If I float it to the right, what would happen?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 241.58,
+            "end": 244.58,
+            "text": " Nothing, it would float to the right and the content would come to the left side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 244.58,
+            "end": 245.58,
+            "text": " So, you can see here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 245.58,
+            "end": 249.08,
+            "text": " And it came to the right and the content is floating here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 249.08,
+            "end": 250.58,
+            "text": " If I had written lorem..."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 250.58,
+            "end": 254.08,
+            "text": " I would have written something big like lorem 333."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 254.08,
+            "end": 256.08000000000004,
+            "text": " Lorem 333."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 256.08000000000004,
+            "end": 258.58000000000004,
+            "text": " And lorem 333 is a good amount of text."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 258.58000000000004,
+            "end": 260.58000000000004,
+            "text": " Then also, you see, the text will not be cut."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 260.58000000000004,
+            "end": 262.08000000000004,
+            "text": " The image will float here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 262.08000000000004,
+            "end": 263.58000000000004,
+            "text": " And it will come like this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 263.58,
+            "end": 268.58,
+            "text": " So, this was used a lot earlier when we used to make newspaper type content."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 268.58,
+            "end": 273.58,
+            "text": " In most of the blogs, it was required that one side will have an image and one side will have a content."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 273.58,
+            "end": 276.58,
+            "text": " And the image is sometimes floating to the left and sometimes to the right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 276.58,
+            "end": 278.08,
+            "text": " And the article is being written."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 278.08,
+            "end": 281.58,
+            "text": " But the modern layouts are not designed like this at all."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 281.58,
+            "end": 282.58,
+            "text": " Now, you see here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 282.58,
+            "end": 284.08,
+            "text": " I will tell you what the meaning of clear is."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 284.08,
+            "end": 285.58,
+            "text": " When do we use clear?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 285.58,
+            "end": 286.58,
+            "text": " So, what did we do here?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 286.58,
+            "end": 289.58,
+            "text": " We said that the image will flow to the right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 289.58,
+            "end": 290.58,
+            "text": " We said that these are cards."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 290.58,
+            "end": 292.08,
+            "text": " We put borders on these cards."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 292.08,
+            "end": 293.58,
+            "text": " We saw which element exactly."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 293.58,
+            "end": 294.58,
+            "text": " Where and how much space it is taking."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 294.58,
+            "end": 295.58,
+            "text": " We also saw this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 295.58,
+            "end": 298.08,
+            "text": " Now, suppose I want that this specific div."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 298.08,
+            "end": 298.58,
+            "text": " This one."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 298.58,
+            "end": 299.58,
+            "text": " Which has more text."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 299.58,
+            "end": 304.08,
+            "text": " I want that it should not allow any element to flow on its right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 304.08,
+            "end": 305.08,
+            "text": " Listen to me carefully."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 305.08,
+            "end": 306.08,
+            "text": " I am repeating."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 306.08,
+            "end": 310.58,
+            "text": " It should not allow any element to float on its right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 310.58,
+            "end": 314.58,
+            "text": " So, it will say that no element should float on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 314.58,
+            "end": 317.08,
+            "text": " And for that, we use clear property."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 317.08,
+            "end": 319.58,
+            "text": " So, we will write clear here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 319.58,
+            "end": 322.58,
+            "text": " I will write exactly the second child of the card."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 322.58,
+            "end": 323.58,
+            "text": " Or I will write another one."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 323.58,
+            "end": 325.58,
+            "text": " I will put this class."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 325.58,
+            "end": 327.08,
+            "text": " But what will I do here?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 327.08,
+            "end": 328.58,
+            "text": " I will say dot card."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 328.58,
+            "end": 330.58,
+            "text": " And we will use nth child."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 330.58,
+            "end": 331.58,
+            "text": " And we will write 2."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 331.58,
+            "end": 333.08,
+            "text": " If the second one is this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 333.08,
+            "end": 334.58,
+            "text": " Then we will require background color."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 334.58,
+            "end": 337.58,
+            "text": " And clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 337.58,
+            "end": 340.08,
+            "text": " That means I don't want any element on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 340.08,
+            "end": 341.58,
+            "text": " This is the meaning of clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 341.58,
+            "end": 343.08,
+            "text": " So, what is this div saying?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 343.08,
+            "end": 345.58,
+            "text": " This div is saying that I don't want any element on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 345.58,
+            "end": 348.58,
+            "text": " Please, if any float is happening on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 348.58,
+            "end": 349.58,
+            "text": " Then remove it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 349.58,
+            "end": 350.58,
+            "text": " Give me my place."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 350.58,
+            "end": 351.58,
+            "text": " So, you see here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 351.58,
+            "end": 352.58,
+            "text": " It will look something like this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 352.58,
+            "end": 354.58,
+            "text": " As soon as I did clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 354.58,
+            "end": 356.58,
+            "text": " So, this div here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 356.58,
+            "end": 358.08,
+            "text": " This is our div."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 358.08,
+            "end": 359.58,
+            "text": " I have done nth child 2."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 359.58,
+            "end": 362.58,
+            "text": " And I will see which child it took."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 362.58,
+            "end": 363.58,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 363.58,
+            "end": 364.58,
+            "text": " So, I should have done nth child 3."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 364.58,
+            "end": 367.58,
+            "text": " Because this is the first child of the image."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 367.58,
+            "end": 368.58,
+            "text": " Of the cards."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 368.58,
+            "end": 369.58,
+            "text": " This is the second child."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 369.58,
+            "end": 370.58,
+            "text": " And this is the third child."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 370.58,
+            "end": 371.58,
+            "text": " So, I should have done nth child 3."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 371.58,
+            "end": 372.58,
+            "text": " So, see."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 372.58,
+            "end": 373.58,
+            "text": " What did it say?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 373.58,
+            "end": 376.58,
+            "text": " That I don't want any element floating on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 376.58,
+            "end": 377.58,
+            "text": " It said clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 377.58,
+            "end": 379.58,
+            "text": " So, it was given its place below."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 379.58,
+            "end": 380.58,
+            "text": " So, it was given its place."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 380.58,
+            "end": 381.58,
+            "text": " But this one."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 381.58,
+            "end": 383.58,
+            "text": " This one will float on its right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 383.58,
+            "end": 387.58,
+            "text": " So, whenever you want an element to fall down."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 387.58,
+            "end": 388.58,
+            "text": " So, you can do clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 388.58,
+            "end": 389.58,
+            "text": " You can do clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 389.58,
+            "end": 390.58,
+            "text": " You can do clear left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 390.58,
+            "end": 391.58,
+            "text": " You can do clear both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 391.58,
+            "end": 394.58,
+            "text": " Because I don't want any element on both sides."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 394.58,
+            "end": 397.58,
+            "text": " If you don't want any element on both sides of this div."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 397.58,
+            "end": 398.58,
+            "text": " Then you can say clear both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 398.58,
+            "end": 400.58,
+            "text": " It will neither come in left nor in right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 400.58,
+            "end": 403.58,
+            "text": " Now, if I float it from left to right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 403.58,
+            "end": 405.58,
+            "text": " So, you see what will happen."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 405.58,
+            "end": 406.58,
+            "text": " I will do it left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 406.58,
+            "end": 408.58,
+            "text": " If I do it float left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 408.58,
+            "end": 409.58,
+            "text": " So, it will float in left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 409.58,
+            "end": 411.58,
+            "text": " But now this div will allow."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 411.58,
+            "end": 412.58,
+            "text": " Because it was saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 412.58,
+            "end": 414.58,
+            "text": " Don't allow any element on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 414.58,
+            "end": 415.58,
+            "text": " What did it say on this div?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 415.58,
+            "end": 416.58,
+            "text": " It said clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 416.58,
+            "end": 418.58,
+            "text": " And clear right means."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 418.58,
+            "end": 420.58,
+            "text": " No element is allowed on my right side."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 420.58,
+            "end": 421.58,
+            "text": " To float."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 421.58,
+            "end": 422.58,
+            "text": " But it is allowed on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 422.58,
+            "end": 423.58,
+            "text": " So, it is allowed on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 423.58,
+            "end": 424.58,
+            "text": " See."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 424.58,
+            "end": 425.58,
+            "text": " But if I do clear both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 425.58,
+            "end": 426.58,
+            "text": " So, it means."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 426.58,
+            "end": 427.58,
+            "text": " Neither you will see me here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 427.58,
+            "end": 428.58,
+            "text": " Neither you will see me here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 428.58,
+            "end": 429.58,
+            "text": " Understand?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 429.58,
+            "end": 430.58,
+            "text": " This is what the element is saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 430.58,
+            "end": 431.58,
+            "text": " What is it saying?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 431.58,
+            "end": 432.58,
+            "text": " In the comment section below."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 432.58,
+            "end": 433.58,
+            "text": " Everyone write to me."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 433.58,
+            "end": 434.58,
+            "text": " What is this div saying?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 434.58,
+            "end": 435.58,
+            "text": " This div is saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 435.58,
+            "end": 436.58,
+            "text": " Don't see me."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 436.58,
+            "end": 437.58,
+            "text": " Understand?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 437.58,
+            "end": 438.58,
+            "text": " Neither you will see me in left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 438.58,
+            "end": 439.58,
+            "text": " Neither you will see me in right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 439.58,
+            "end": 440.58,
+            "text": " Everyone write this in the comment."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 440.58,
+            "end": 441.58,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 441.58,
+            "end": 442.58,
+            "text": " What is this div saying?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 442.58,
+            "end": 443.58,
+            "text": " This div is saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 443.58,
+            "end": 444.58,
+            "text": " Don't see me on my right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 444.58,
+            "end": 445.58,
+            "text": " While floating."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 445.58,
+            "end": 446.58,
+            "text": " Understand?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 446.58,
+            "end": 447.58,
+            "text": " Anyone."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 447.58,
+            "end": 448.58,
+            "text": " It is telling everyone."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 448.58,
+            "end": 449.58,
+            "text": " It is announcing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 449.58,
+            "end": 450.58,
+            "text": " It is saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 450.58,
+            "end": 451.58,
+            "text": " I will announce."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 451.58,
+            "end": 452.58,
+            "text": " Don't see me on my right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 452.58,
+            "end": 453.58,
+            "text": " Absolutely."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 453.58,
+            "end": 454.58,
+            "text": " So, that's why."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 454.58,
+            "end": 455.58,
+            "text": " It is showing on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 455.58,
+            "end": 456.58,
+            "text": " It can be seen on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 456.58,
+            "end": 457.58,
+            "text": " This image says."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 457.58,
+            "end": 458.58,
+            "text": " Brother, you didn't say no on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 458.58,
+            "end": 459.58,
+            "text": " Now, if it wants to say no in both places."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 459.58,
+            "end": 460.58,
+            "text": " Then it will clear both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 460.58,
+            "end": 461.58,
+            "text": " So, clear left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 461.58,
+            "end": 462.58,
+            "text": " Clear right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 462.58,
+            "end": 463.58,
+            "text": " By clearing both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 463.58,
+            "end": 464.58,
+            "text": " The element that it says no."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 464.58,
+            "end": 465.58,
+            "text": " It says don't see me."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 465.58,
+            "end": 466.58,
+            "text": " Neither you will see me here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 466.58,
+            "end": 467.58,
+            "text": " Neither you will see me here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 467.58,
+            "end": 468.58,
+            "text": " Understand?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 468.58,
+            "end": 469.58,
+            "text": " It is saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 469.58,
+            "end": 470.58,
+            "text": " Neither you will see me on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 470.58,
+            "end": 471.58,
+            "text": " Neither you will see me on right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 471.58,
+            "end": 472.58,
+            "text": " Everyone will write this in the comments."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 472.58,
+            "end": 473.58,
+            "text": " I don't know."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 473.58,
+            "end": 474.58,
+            "text": " There should be two interactions."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 474.58,
+            "end": 475.58,
+            "text": " I will feel bad if you don't write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 475.58,
+            "end": 476.58,
+            "text": " And if you write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 476.58,
+            "end": 477.58,
+            "text": " Then my day becomes."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 477.58,
+            "end": 478.58,
+            "text": " Write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 478.58,
+            "end": 479.58,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 479.58,
+            "end": 480.58,
+            "text": " What is this div saying?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 480.58,
+            "end": 481.58,
+            "text": " You have to write."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 481.58,
+            "end": 482.58,
+            "text": " My day becomes."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 482.58,
+            "end": 483.58,
+            "text": " Please write in the comments below."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 483.58,
+            "end": 484.58,
+            "text": " Now."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 484.58,
+            "end": 485.58,
+            "text": " We have seen this float."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 485.58,
+            "end": 486.58,
+            "text": " What is left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 486.58,
+            "end": 487.58,
+            "text": " Right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 487.58,
+            "end": 488.58,
+            "text": " Clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 488.58,
+            "end": 489.58,
+            "text": " Left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 489.58,
+            "end": 490.58,
+            "text": " Right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 490.58,
+            "end": 491.58,
+            "text": " And both."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 491.58,
+            "end": 492.58,
+            "text": " So, I have cleared both here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 492.58,
+            "end": 493.58,
+            "text": " So, neither it will be seen on left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 493.58,
+            "end": 494.58,
+            "text": " Neither it will be seen on right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 494.58,
+            "end": 495.58,
+            "text": " So, these are some of the basics."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 495.58,
+            "end": 496.58,
+            "text": " Now."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 496.58,
+            "end": 497.58,
+            "text": " Here I told you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 497.58,
+            "end": 498.58,
+            "text": " How to finish overflow."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 498.58,
+            "end": 499.58,
+            "text": " There are other ways to finish it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 499.58,
+            "end": 500.58,
+            "text": " For example."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 500.58,
+            "end": 501.58,
+            "text": " I have removed it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 501.58,
+            "end": 502.58,
+            "text": " Even then."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 502.58,
+            "end": 503.58,
+            "text": " There are ways to finish it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 503.58,
+            "end": 504.58,
+            "text": " Overflow."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 504.58,
+            "end": 505.58,
+            "text": " So."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 505.58,
+            "end": 506.58,
+            "text": " What are the ways?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 506.58,
+            "end": 507.58,
+            "text": " That you set the margin."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 507.58,
+            "end": 508.58,
+            "text": " Or you do overflow auto in it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 508.58,
+            "end": 509.58,
+            "text": " So."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 509.58,
+            "end": 510.58,
+            "text": " There are many ways."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 510.58,
+            "end": 511.58,
+            "text": " See."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 511.58,
+            "end": 512.5799999999999,
+            "text": " It is a simple thing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 512.5799999999999,
+            "end": 513.5799999999999,
+            "text": " But here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 513.5799999999999,
+            "end": 514.5799999999999,
+            "text": " I will say such a thing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 514.5799999999999,
+            "end": 515.5799999999999,
+            "text": " Float and clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 515.5799999999999,
+            "end": 516.5799999999999,
+            "text": " That after showing you the whole video."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 516.5799999999999,
+            "end": 517.5799999999999,
+            "text": " And why I made this video."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 517.5799999999999,
+            "end": 518.5799999999999,
+            "text": " I will also tell you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 518.5799999999999,
+            "end": 519.5799999999999,
+            "text": " That I don't want to use it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 519.5799999999999,
+            "end": 520.5799999999999,
+            "text": " Now."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 520.5799999999999,
+            "end": 521.5799999999999,
+            "text": " You will say."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 521.5799999999999,
+            "end": 522.5799999999999,
+            "text": " What happened?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 522.5799999999999,
+            "end": 523.5799999999999,
+            "text": " Now."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 523.5799999999999,
+            "end": 524.5799999999999,
+            "text": " Some of you will say."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 524.5799999999999,
+            "end": 525.5799999999999,
+            "text": " What is this?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 525.5799999999999,
+            "end": 526.5799999999999,
+            "text": " I mean."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 526.5799999999999,
+            "end": 527.5799999999999,
+            "text": " I told you so much."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 527.5799999999999,
+            "end": 528.5799999999999,
+            "text": " What is this?"
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 528.5799999999999,
+            "end": 529.5799999999999,
+            "text": " So."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 529.58,
+            "end": 530.58,
+            "text": " The thing is."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 530.58,
+            "end": 532.58,
+            "text": " To use float and clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 532.58,
+            "end": 533.58,
+            "text": " I avoid it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 533.58,
+            "end": 534.58,
+            "text": " Yes."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 534.58,
+            "end": 535.58,
+            "text": " I am saying clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 535.58,
+            "end": 536.58,
+            "text": " I am not saying."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 536.58,
+            "end": 537.58,
+            "text": " Do it sometimes."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 537.58,
+            "end": 538.58,
+            "text": " I am saying it clearly."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 538.58,
+            "end": 539.58,
+            "text": " Neither use float."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 539.58,
+            "end": 540.58,
+            "text": " Neither use clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 540.58,
+            "end": 541.58,
+            "text": " You should know these properties."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 541.58,
+            "end": 542.58,
+            "text": " So that no one asks you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 542.58,
+            "end": 543.58,
+            "text": " You should know."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 543.58,
+            "end": 544.58,
+            "text": " Because it is a very simple thing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 544.58,
+            "end": 546.58,
+            "text": " And if you see the old website."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 546.58,
+            "end": 547.58,
+            "text": " Or maintain it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 547.58,
+            "end": 548.58,
+            "text": " Someone used float."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 548.58,
+            "end": 549.58,
+            "text": " Or some such property."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 549.58,
+            "end": 550.58,
+            "text": " Then at least."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 550.58,
+            "end": 551.58,
+            "text": " You should be so good."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 551.58,
+            "end": 552.58,
+            "text": " That you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 552.58,
+            "end": 553.58,
+            "text": " Maintain the website."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 553.58,
+            "end": 554.58,
+            "text": " So."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 554.58,
+            "end": 555.58,
+            "text": " That is why."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 555.58,
+            "end": 556.58,
+            "text": " Float and clear."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 556.58,
+            "end": 557.58,
+            "text": " Is very important."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 557.58,
+            "end": 558.58,
+            "text": " For you to understand."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 558.58,
+            "end": 559.58,
+            "text": " But."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 559.58,
+            "end": 560.58,
+            "text": " If you want."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 560.58,
+            "end": 561.58,
+            "text": " To create layouts."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 561.58,
+            "end": 562.58,
+            "text": " From CSS grade."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 562.58,
+            "end": 563.58,
+            "text": " From flexbox."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 563.58,
+            "end": 564.58,
+            "text": " There are many more ways."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 564.58,
+            "end": 565.58,
+            "text": " Don't read in this circus."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 565.58,
+            "end": 566.58,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 566.58,
+            "end": 567.58,
+            "text": " Don't read at all."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 567.58,
+            "end": 568.58,
+            "text": " Float left."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 568.58,
+            "end": 569.58,
+            "text": " Float right."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 569.58,
+            "end": 570.58,
+            "text": " It gets a little confusing."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 570.58,
+            "end": 571.58,
+            "text": " Okay."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 571.58,
+            "end": 572.58,
+            "text": " And this is not the right way."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 572.58,
+            "end": 573.58,
+            "text": " To create layouts."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 573.58,
+            "end": 574.58,
+            "text": " In my opinion."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 574.58,
+            "end": 575.58,
+            "text": " It is my personal opinion."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 575.58,
+            "end": 576.58,
+            "text": " Don't make layouts with this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 576.58,
+            "end": 577.58,
+            "text": " Don't do styling with this."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 577.58,
+            "end": 578.58,
+            "text": " Don't do things here and there."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 578.58,
+            "end": 579.58,
+            "text": " Flexbox."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 579.58,
+            "end": 580.58,
+            "text": " Very easy."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 580.58,
+            "end": 581.58,
+            "text": " Very easy."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 581.58,
+            "end": 582.58,
+            "text": " We will see in two properties."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 582.58,
+            "end": 583.58,
+            "text": " In the video of flexbox."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 583.58,
+            "end": 584.58,
+            "text": " How we can set."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 584.58,
+            "end": 585.58,
+            "text": " And the websites that I will make."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 585.58,
+            "end": 586.58,
+            "text": " I will use very less."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 586.58,
+            "end": 587.58,
+            "text": " If I do."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 587.58,
+            "end": 588.58,
+            "text": " See."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 588.58,
+            "end": 589.58,
+            "text": " I am free."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 589.58,
+            "end": 590.58,
+            "text": " To use it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 590.58,
+            "end": 591.58,
+            "text": " You are also free."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 591.58,
+            "end": 592.58,
+            "text": " To use it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 592.58,
+            "end": 593.58,
+            "text": " It works."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 593.58,
+            "end": 594.58,
+            "text": " But."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 594.58,
+            "end": 595.58,
+            "text": " The thing is."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 595.58,
+            "end": 596.58,
+            "text": " If you want to make good websites."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 596.58,
+            "end": 597.58,
+            "text": " To make modern layouts."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 597.58,
+            "end": 598.58,
+            "text": " Don't use it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 598.58,
+            "end": 599.58,
+            "text": " As simple as that."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 599.58,
+            "end": 600.58,
+            "text": " With that said."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 600.58,
+            "end": 601.58,
+            "text": " If you have not accessed."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 601.58,
+            "end": 602.58,
+            "text": " The playlist of sigma web dev."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 602.58,
+            "end": 603.58,
+            "text": " Then do access it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 603.58,
+            "end": 604.58,
+            "text": " Click here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 604.58,
+            "end": 605.58,
+            "text": " And bookmark it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 605.58,
+            "end": 606.58,
+            "text": " Click here."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 606.58,
+            "end": 607.58,
+            "text": " And save it."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 607.58,
+            "end": 608.58,
+            "text": " Access the source code too."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 608.58,
+            "end": 609.58,
+            "text": " Like the video."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 609.58,
+            "end": 610.58,
+            "text": " Subscribe to the channel."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 610.58,
+            "end": 611.58,
+            "text": " Share the video."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 611.58,
+            "end": 612.58,
+            "text": " And do my name."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 612.58,
+            "end": 613.58,
+            "text": " Thank you so much guys."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 613.58,
+            "end": 614.58,
+            "text": " For watching this video."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 614.58,
+            "end": 615.58,
+            "text": " And I will see you."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 615.58,
+            "end": 616.58,
+            "text": " Next time."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 616.58,
+            "end": 617.58,
+            "text": " Bye."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 617.58,
+            "end": 618.58,
+            "text": " Bye."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 618.58,
+            "end": 619.58,
+            "text": " Bye."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 619.58,
+            "end": 620.58,
+            "text": " Bye."
+        },
+        {
+            "number": "34",
+            "title": "720p",
+            "start": 620.58,
+            "end": 621.08,
+            "text": " Bye."
+        }
+    ],
+    "text": " In today's video, we will understand about float and clear. Since the advent of flexbox, The use of these properties has become very less. But if a client shows you a website Which has float and clear, Then you should have enough understanding That you can understand what float and clear is. In this video, we are going to see this only. With high energy, do like the video And do write Sigma Batch OP in the comment section below. Let's go to the computer screen. Let's roll the intro. Guys, I have entered the computer screen. But in this video, I will say something That you will also say, what did you say? But before that, I want to explain to you How float and clear works. So here you see, I am going to make a folder With the name of video number 34. So I made a folder with the name of video 34. And I opened it in VS code. And what I am going to do here is That I will show you here On which HTML exactly We will understand the concept of float and clear. And the thing about CSS float and clear That I am going to tell you now You will say, what did you say? So let's do one thing. We will make a div with the name of .cards And in it, I will do .card x 3 So there is one card. There are three more cards in it. And I will make card 1, card 2, card 3 like this. Here I will make card 2. Then I will make card 3. We have a very simple here. I have written the HTML here. I will do open in browser. It is looking something like this. Okay. Very good. Very beautiful. Now what is float and clear? Tell me this. So let me tell you. So what will happen is Let us say I have put an img here. Okay. And I will take an image from here. Open image in new tab. I will take some other image. Which has a direct URL. Let's use this image. That's it. Let's use this image. And now you see here. As soon as I will use this image. This image came here. Okay. Yes. I will give a width in this. I will give width is equal to in this. So I will keep here. Width is equal to 23 pixels. And let's see. Our small image came here. In fact, let's make it 230. If something is visible. So our image came here. And below is card 1. This is card 2. This is card 3. You know. You said that it is looking very good. Tell me further. So the next scene is. Let us say that I put a paragraph below it. In card 1. So I put a paragraph in the div of card 1. In which I write lorem 34. So if I write lorem 34 in this. Then it will come down here. But what will happen. If I. This image. If I say this. That brother. I want to float it in my image. Left. Okay. I want to say float left. So it will float to the left. And it will allow the content on its right side. Okay. Before it was not allowing. But now it will allow the content on its right side. So this is our float. Now I want to show you some things here. First of all. I will put a style here in dot cards. Which will be border 2 pixels solid black. And along with that. I have put this. So see this came from black color. And why I have put this border. You will also know. And in dot card. I am going to put. Border 2 pixels solid red. Okay. Why did you put this too. You will know. So I have put this here in cards. So every card has a red color border. And in the container there is a black color border. Now you have seen one thing. Whenever we use float property. We have to put this. So here. I have put this. So here. I have put this. So here. When we use float property. So if image is being overflowed in container. So it overflowed. It will not accommodate in our container. So this can be used. For a property. So this is our parent container. In that. We can put. Display. And in display. We can put. Flow route. And when we write. Display flow route here. You can see. That this issue will be solved. This overflow won't happen. So this is one way. By putting display flow route. Which can be. USed. In ratings. So that. We can thing you all. If you write. which is the container within which the elements can be fitted. If I float it to the right, what would happen? Nothing, it would float to the right and the content would come to the left side. So, you can see here. And it came to the right and the content is floating here. If I had written lorem... I would have written something big like lorem 333. Lorem 333. And lorem 333 is a good amount of text. Then also, you see, the text will not be cut. The image will float here. And it will come like this. So, this was used a lot earlier when we used to make newspaper type content. In most of the blogs, it was required that one side will have an image and one side will have a content. And the image is sometimes floating to the left and sometimes to the right. And the article is being written. But the modern layouts are not designed like this at all. Now, you see here. I will tell you what the meaning of clear is. When do we use clear? So, what did we do here? We said that the image will flow to the right side. We said that these are cards. We put borders on these cards. We saw which element exactly. Where and how much space it is taking. We also saw this. Now, suppose I want that this specific div. This one. Which has more text. I want that it should not allow any element to flow on its right side. Listen to me carefully. I am repeating. It should not allow any element to float on its right side. So, it will say that no element should float on my right side. And for that, we use clear property. So, we will write clear here. I will write exactly the second child of the card. Or I will write another one. I will put this class. But what will I do here? I will say dot card. And we will use nth child. And we will write 2. If the second one is this. Then we will require background color. And clear right. That means I don't want any element on my right side. This is the meaning of clear right. So, what is this div saying? This div is saying that I don't want any element on my right side. Please, if any float is happening on my right side. Then remove it. Give me my place. So, you see here. It will look something like this. As soon as I did clear right. So, this div here. This is our div. I have done nth child 2. And I will see which child it took. Okay. So, I should have done nth child 3. Because this is the first child of the image. Of the cards. This is the second child. And this is the third child. So, I should have done nth child 3. So, see. What did it say? That I don't want any element floating on my right side. It said clear right. So, it was given its place below. So, it was given its place. But this one. This one will float on its right side. So, whenever you want an element to fall down. So, you can do clear. You can do clear right. You can do clear left. You can do clear both. Because I don't want any element on both sides. If you don't want any element on both sides of this div. Then you can say clear both. It will neither come in left nor in right. Now, if I float it from left to right. So, you see what will happen. I will do it left. If I do it float left. So, it will float in left. But now this div will allow. Because it was saying. Don't allow any element on my right side. What did it say on this div? It said clear right. And clear right means. No element is allowed on my right side. To float. But it is allowed on left. So, it is allowed on left. See. But if I do clear both. So, it means. Neither you will see me here. Neither you will see me here. Understand? This is what the element is saying. What is it saying? In the comment section below. Everyone write to me. What is this div saying? This div is saying. Don't see me. Understand? Neither you will see me in left. Neither you will see me in right. Everyone write this in the comment. Okay. What is this div saying? This div is saying. Don't see me on my right. While floating. Understand? Anyone. It is telling everyone. It is announcing. It is saying. I will announce. Don't see me on my right. Absolutely. So, that's why. It is showing on left. It can be seen on left. This image says. Brother, you didn't say no on left. Now, if it wants to say no in both places. Then it will clear both. So, clear left. Clear right. By clearing both. The element that it says no. It says don't see me. Neither you will see me here. Neither you will see me here. Understand? It is saying. Neither you will see me on left. Neither you will see me on right. Everyone will write this in the comments. I don't know. There should be two interactions. I will feel bad if you don't write. And if you write. Then my day becomes. Write. Okay. What is this div saying? You have to write. My day becomes. Please write in the comments below. Now. We have seen this float. What is left. Right. Clear. Left. Right. And both. So, I have cleared both here. So, neither it will be seen on left. Neither it will be seen on right. So, these are some of the basics. Now. Here I told you. How to finish overflow. There are other ways to finish it. For example. I have removed it. Even then. There are ways to finish it. Overflow. So. What are the ways? That you set the margin. Or you do overflow auto in it. So. There are many ways. See. It is a simple thing. But here. I will say such a thing. Float and clear. That after showing you the whole video. And why I made this video. I will also tell you. That I don't want to use it. Now. You will say. What happened? Now. Some of you will say. What is this? I mean. I told you so much. What is this? So. The thing is. To use float and clear. I avoid it. Yes. I am saying clear. I am not saying. Do it sometimes. I am saying it clearly. Neither use float. Neither use clear. You should know these properties. So that no one asks you. You should know. Because it is a very simple thing. And if you see the old website. Or maintain it. Someone used float. Or some such property. Then at least. You should be so good. That you. Maintain the website. So. That is why. Float and clear. Is very important. For you to understand. But. If you want. To create layouts. From CSS grade. From flexbox. There are many more ways. Don't read in this circus. Okay. Don't read at all. Float left. Float right. It gets a little confusing. Okay. And this is not the right way. To create layouts. In my opinion. It is my personal opinion. Don't make layouts with this. Don't do styling with this. Don't do things here and there. Flexbox. Very easy. Very easy. We will see in two properties. In the video of flexbox. How we can set. And the websites that I will make. I will use very less. If I do. See. I am free. To use it. You are also free. To use it. It works. But. The thing is. If you want to make good websites. To make modern layouts. Don't use it. As simple as that. With that said. If you have not accessed. The playlist of sigma web dev. Then do access it. Click here. And bookmark it. Click here. And save it. Access the source code too. Like the video. Subscribe to the channel. Share the video. And do my name. Thank you so much guys. For watching this video. And I will see you. Next time. Bye. Bye. Bye. Bye. Bye."
+}

@@ -1,0 +1,607 @@
+{
+    "chunks": [
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " I told you about flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 2.0,
+            "end": 4.0,
+            "text": " You understood it very well"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 4.0,
+            "end": 7.0,
+            "text": " Now it's time to check your flexbox skills"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 7.0,
+            "end": 10.0,
+            "text": " For which I have prepared an exercise for you"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 10.0,
+            "end": 12.0,
+            "text": " Which will be based on flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 12.0,
+            "end": 14.0,
+            "text": " If you can do this exercise"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 14.0,
+            "end": 17.0,
+            "text": " You must have understood the concept of flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 17.0,
+            "end": 19.0,
+            "text": " And in your web development projects"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 19.0,
+            "end": 22.0,
+            "text": " You are ready to use flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 22.0,
+            "end": 24.0,
+            "text": " Don't forget to like the video"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " And in the comment section below"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 26.0,
+            "end": 28.0,
+            "text": " Do write sigma patch"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 28.0,
+            "end": 30.0,
+            "text": " And in the comment screen below"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 30.0,
+            "end": 32.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 39.0,
+            "end": 41.0,
+            "text": " So guys the website we are going to make in this exercise"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 41.0,
+            "end": 44.0,
+            "text": " Is going to be very similar to a real world website"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 44.0,
+            "end": 46.0,
+            "text": " Means what we are going to do in this exercise"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 46.0,
+            "end": 49.0,
+            "text": " That you have to design a navbar"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " Of a website which I will give you"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 51.0,
+            "end": 52.0,
+            "text": " Using flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 52.0,
+            "end": 54.0,
+            "text": " You can't use anything else without flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " So I will give you a link in the description"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " You can go to this website"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " And here you have to design the navbar exactly"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 61.0,
+            "end": 65.0,
+            "text": " Now you don't have to make this hover functionality"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 65.0,
+            "end": 68.0,
+            "text": " You have to simply make the navbar here"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " Recreate the navbar"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 70.0,
+            "end": 71.0,
+            "text": " You don't have to make the part below"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " Although if you make this part"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 73.0,
+            "end": 74.0,
+            "text": " Then it's a very good thing"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " But again the exercise part won't be there"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 76.0,
+            "end": 77.0,
+            "text": " You just have to make the navbar"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 77.0,
+            "end": 79.0,
+            "text": " Try it and the whole website below will be made"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 79.0,
+            "end": 81.0,
+            "text": " So this is a very simple website"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " Which I have chosen for you guys"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 83.0,
+            "end": 84.0,
+            "text": " This is an ultra edit website"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 84.0,
+            "end": 87.0,
+            "text": " Ultra edit is a text editor"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 87.0,
+            "end": 89.0,
+            "text": " Which is a very heavy duty text editor"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 89.0,
+            "end": 91.0,
+            "text": " So you can download its free trial"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 91.0,
+            "end": 92.0,
+            "text": " And try it out"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 92.0,
+            "end": 94.0,
+            "text": " It's a very big editor"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 94.0,
+            "end": 95.0,
+            "text": " But in this exercise"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " I want you guys to design this navbar"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " I am giving you the link in the description"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 101.0,
+            "end": 104.0,
+            "text": " You have to design this and tell me"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 104.0,
+            "end": 106.0,
+            "text": " And it's simple according to me"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 106.0,
+            "end": 107.0,
+            "text": " Don't use grid"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " Use flexbox only"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " It's very straight forward"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " Where you will get these icons"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 113.0,
+            "end": 114.0,
+            "text": " Download the icons"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 114.0,
+            "end": 115.0,
+            "text": " From net"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 115.0,
+            "end": 116.0,
+            "text": " Take it from anywhere"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 116.0,
+            "end": 118.0,
+            "text": " Otherwise if you make it without icons"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 118.0,
+            "end": 119.0,
+            "text": " Then that should also be fine"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " But again you will get the icons"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 121.0,
+            "end": 123.0,
+            "text": " Otherwise take a screenshot of this"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " Take this with the snipping tool"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 125.0,
+            "end": 127.0,
+            "text": " But again if you don't get these icons"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 127.0,
+            "end": 128.0,
+            "text": " Then that should also be totally fine"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 128.0,
+            "end": 131.0,
+            "text": " I want everyone to solve this exercise quickly"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " And according to me it's very easy"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 133.0,
+            "end": 134.0,
+            "text": " It's not a big thing"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 134.0,
+            "end": 136.0,
+            "text": " I have already taught you guys flexbox"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 136.0,
+            "end": 137.0,
+            "text": " Very well"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 137.0,
+            "end": 139.0,
+            "text": " And I am going to give you all the English subtitles"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 139.0,
+            "end": 141.0,
+            "text": " And the timestamps"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 141.0,
+            "end": 144.0,
+            "text": " So this course is becoming the ultimate"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 144.0,
+            "end": 146.0,
+            "text": " And I am telling you guys"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " I want to tell you guys one more thing"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " That the sigma web developer course"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 150.0,
+            "end": 153.0,
+            "text": " Is a very dangerous web development course"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " And I am telling you guys this with all my heart"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 155.0,
+            "end": 156.0,
+            "text": " I have put so much effort in it"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " And the upcoming videos that are going to come"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 158.0,
+            "end": 160.0,
+            "text": " You don't have to go anywhere else"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 160.0,
+            "end": 163.0,
+            "text": " I can say this with you guys"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " We are going to do everything here"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " And if you haven't accessed this playlist yet"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 167.0,
+            "end": 168.0,
+            "text": " You can definitely access it"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " Click here and bookmark it"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " And click here and definitely save it"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 172.0,
+            "end": 173.0,
+            "text": " That's it for this video guys"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 173.0,
+            "end": 174.0,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 174.0,
+            "end": 175.0,
+            "text": " For watching this video"
+        },
+        {
+            "number": "41",
+            "title": "720p",
+            "start": 175.0,
+            "end": 178.0,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " I told you about flexbox You understood it very well Now it's time to check your flexbox skills For which I have prepared an exercise for you Which will be based on flexbox If you can do this exercise You must have understood the concept of flexbox And in your web development projects You are ready to use flexbox Don't forget to like the video And in the comment section below Do write sigma patch And in the comment screen below Let's roll the intro So guys the website we are going to make in this exercise Is going to be very similar to a real world website Means what we are going to do in this exercise That you have to design a navbar Of a website which I will give you Using flexbox You can't use anything else without flexbox So I will give you a link in the description You can go to this website And here you have to design the navbar exactly Now you don't have to make this hover functionality You have to simply make the navbar here Recreate the navbar You don't have to make the part below Although if you make this part Then it's a very good thing But again the exercise part won't be there You just have to make the navbar Try it and the whole website below will be made So this is a very simple website Which I have chosen for you guys This is an ultra edit website Ultra edit is a text editor Which is a very heavy duty text editor So you can download its free trial And try it out It's a very big editor But in this exercise I want you guys to design this navbar I am giving you the link in the description You have to design this and tell me And it's simple according to me Don't use grid Use flexbox only It's very straight forward Where you will get these icons Download the icons From net Take it from anywhere Otherwise if you make it without icons Then that should also be fine But again you will get the icons Otherwise take a screenshot of this Take this with the snipping tool But again if you don't get these icons Then that should also be totally fine I want everyone to solve this exercise quickly And according to me it's very easy It's not a big thing I have already taught you guys flexbox Very well And I am going to give you all the English subtitles And the timestamps So this course is becoming the ultimate And I am telling you guys I want to tell you guys one more thing That the sigma web developer course Is a very dangerous web development course And I am telling you guys this with all my heart I have put so much effort in it And the upcoming videos that are going to come You don't have to go anywhere else I can say this with you guys We are going to do everything here And if you haven't accessed this playlist yet You can definitely access it Click here and bookmark it And click here and definitely save it That's it for this video guys Thank you so much guys For watching this video And I will see you next time"
+}

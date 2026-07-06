@@ -1,0 +1,2315 @@
+{
+    "chunks": [
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 0.0,
+            "end": 5.5,
+            "text": " In this video, we will see how to add CSS to an HTML page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 5.5,
+            "end": 8.5,
+            "text": " There are three ways to add CSS to HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 8.5,
+            "end": 14.3,
+            "text": " The first way is Inline CSS which is added to HTML pages using the style attribute."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 14.3,
+            "end": 17.3,
+            "text": " The second way is Internal CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 17.3,
+            "end": 23.3,
+            "text": " Internal CSS means you add a style tag and put the CSS in the style tag of the HTML page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 23.3,
+            "end": 26.8,
+            "text": " After that, the most used one is External CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 26.8,
+            "end": 31.5,
+            "text": " It means you make a .css file and add all your styles in that .css file."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 31.5,
+            "end": 34.5,
+            "text": " I will tell you very closely in this video what is the difference between the three."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 34.5,
+            "end": 38.0,
+            "text": " When to use which and when to avoid which."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 38.0,
+            "end": 39.5,
+            "text": " I am very excited."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 39.5,
+            "end": 41.0,
+            "text": " Do like this video."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 41.0,
+            "end": 44.5,
+            "text": " And don't forget to write Sigma Batch OP in the comment section below."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 44.5,
+            "end": 46.0,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 46.0,
+            "end": 48.0,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 48.0,
+            "end": 61.2,
+            "text": " So, I have told you three ways to add CSS to any HTML page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 61.2,
+            "end": 67.2,
+            "text": " The first thing I will do is to create a folder named Video 15."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 67.2,
+            "end": 69.2,
+            "text": " I will right-click and open with code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 69.2,
+            "end": 75.2,
+            "text": " I will create an index.html and add a boilerplate template."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 75.2,
+            "end": 77.7,
+            "text": " If you haven't accessed the playlist yet, then do access it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 77.7,
+            "end": 80.4,
+            "text": " It is very important to access the playlist."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 80.4,
+            "end": 84.4,
+            "text": " Now, I will come back to my video 15 HTML code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 84.4,
+            "end": 86.4,
+            "text": " Suppose we have a basic HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 86.4,
+            "end": 88.4,
+            "text": " I have written I am a good boy."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 88.4,
+            "end": 90.4,
+            "text": " And after that, suppose I have added an h1 here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 90.4,
+            "end": 94.4,
+            "text": " And I have written about me."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 94.4,
+            "end": 96.4,
+            "text": " And here I have added in div I am a good boy."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 96.4,
+            "end": 98.4,
+            "text": " Suppose I have also added a paragraph."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 98.4,
+            "end": 104.4,
+            "text": " Everyone is good in some way or the other."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 104.4,
+            "end": 107.4,
+            "text": " Does this even make any sense?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 107.4,
+            "end": 109.4,
+            "text": " Suppose I have added this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 109.4,
+            "end": 111.4,
+            "text": " Here, I will click on view and do toggle word wrap."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 111.4,
+            "end": 113.4,
+            "text": " I will not right-click shift but right-click."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 113.4,
+            "end": 115.4,
+            "text": " I will go to command palette and toggle screencast mode."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 115.4,
+            "end": 117.4,
+            "text": " Now, listen to me carefully."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 117.4,
+            "end": 121.4,
+            "text": " Look, if I have to style it here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 121.4,
+            "end": 123.4,
+            "text": " then there is a very shortcut method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 123.4,
+            "end": 125.4,
+            "text": " Which I also call the desi method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 125.4,
+            "end": 127.4,
+            "text": " I mean, I have a very quick and dirty method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 127.4,
+            "end": 129.4,
+            "text": " That I will add a style tag here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 129.4,
+            "end": 131.4,
+            "text": " First of all, let's preview it and see how it looks."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 131.4,
+            "end": 133.4,
+            "text": " So, it looks something like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 133.4,
+            "end": 135.4,
+            "text": " I have zoomed it to show you."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 135.4,
+            "end": 136.4,
+            "text": " But it will look like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 136.4,
+            "end": 137.4,
+            "text": " Which is fine. Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 137.4,
+            "end": 139.4,
+            "text": " But I am zooming it so that you can see."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 139.4,
+            "end": 141.4,
+            "text": " Now, the about me is written."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 141.4,
+            "end": 143.4,
+            "text": " Suppose I want to make its background yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 143.4,
+            "end": 145.4,
+            "text": " And I want to make its font red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 145.4,
+            "end": 146.4,
+            "text": " For some weird reason. Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 146.4,
+            "end": 148.4,
+            "text": " Let's do it. Let's do it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 148.4,
+            "end": 150.4,
+            "text": " So, I have a very quick and dirty method."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 150.4,
+            "end": 152.4,
+            "text": " That I will add a style attribute here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 152.4,
+            "end": 155.4,
+            "text": " After that, I will write color here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 155.4,
+            "end": 157.4,
+            "text": " And suppose I write yellow here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 157.4,
+            "end": 159.4,
+            "text": " And you see, VS Code is helping me completely."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 159.4,
+            "end": 161.4,
+            "text": " It is supporting me completely in writing."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 161.4,
+            "end": 164.4,
+            "text": " Whatever I am thinking, it is giving me auto-complete."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 164.4,
+            "end": 166.4,
+            "text": " And that's one of the reasons we are using VS Code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 166.4,
+            "end": 169.4,
+            "text": " And if you go to Replicate or any online IDE,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 169.4,
+            "end": 171.4,
+            "text": " You get this kind of support."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 171.4,
+            "end": 173.4,
+            "text": " This is the reason why we don't do coding in Notepad."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 173.4,
+            "end": 175.4,
+            "text": " In the beginning, a lot of people asked me a question."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 175.4,
+            "end": 177.4,
+            "text": " Why don't we do it in Notepad?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 177.4,
+            "end": 178.4,
+            "text": " Why do we do it in this?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 178.4,
+            "end": 179.4,
+            "text": " What is there in this that is not in Notepad?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 179.4,
+            "end": 180.4,
+            "text": " So, this is it. Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 180.4,
+            "end": 182.4,
+            "text": " Now, suppose I want to add another property."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 182.4,
+            "end": 184.4,
+            "text": " First, let me show you that this property is applied."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 184.4,
+            "end": 186.4,
+            "text": " Now, you see, its color is yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 186.4,
+            "end": 188.4,
+            "text": " Now, suppose I want to make its background red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 188.4,
+            "end": 191.4,
+            "text": " Background color red. Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 191.4,
+            "end": 193.4,
+            "text": " And here, the background will also be red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 193.4,
+            "end": 195.4,
+            "text": " So, whatever I want to do here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 195.4,
+            "end": 197.4,
+            "text": " With the help of CSS, I can do that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 197.4,
+            "end": 200.4,
+            "text": " I want to add things to individual elements."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 200.4,
+            "end": 201.4,
+            "text": " So, I can do that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 201.4,
+            "end": 204.4,
+            "text": " Now, this is not considered a good practice."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 204.4,
+            "end": 206.4,
+            "text": " It is not considered a good practice."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 206.4,
+            "end": 207.4,
+            "text": " Why is it not considered a good practice?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 207.4,
+            "end": 208.4,
+            "text": " I will tell you in a while."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 208.4,
+            "end": 211.4,
+            "text": " But I will tell you two more ways."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 211.4,
+            "end": 214.4,
+            "text": " To add CSS to a webpage."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 214.4,
+            "end": 215.4,
+            "text": " Let me do one thing."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 215.4,
+            "end": 218.4,
+            "text": " The title of this, let me write the title of this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 218.4,
+            "end": 223.4,
+            "text": " Three ways to add CSS to HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 223.4,
+            "end": 224.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 224.4,
+            "end": 226.4,
+            "text": " The first way, which I have written."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 226.4,
+            "end": 227.4,
+            "text": " I will do one thing."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 227.4,
+            "end": 228.4,
+            "text": " I will use div here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 228.4,
+            "end": 229.4,
+            "text": " I will use ordered list."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 229.4,
+            "end": 230.4,
+            "text": " I will use OL."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 230.4,
+            "end": 231.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 231.4,
+            "end": 232.4,
+            "text": " And I will write a list item."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 232.4,
+            "end": 234.4,
+            "text": " And I am going to write here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 234.4,
+            "end": 236.4,
+            "text": " The first way is inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 236.4,
+            "end": 237.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 237.4,
+            "end": 238.4,
+            "text": " So, I have told you about inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 238.4,
+            "end": 240.4,
+            "text": " This is called inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 240.4,
+            "end": 242.4,
+            "text": " To hold any one element and"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 242.4,
+            "end": 245.4,
+            "text": " To write CSS in style attribute."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 245.4,
+            "end": 246.4,
+            "text": " What will happen?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 246.4,
+            "end": 249.4,
+            "text": " That CSS will be applied in that element."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 249.4,
+            "end": 251.4,
+            "text": " This will happen only."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 251.4,
+            "end": 253.4,
+            "text": " So, till now, we have learned about inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 253.4,
+            "end": 254.4,
+            "text": " This is the first way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 254.4,
+            "end": 256.4,
+            "text": " Now, I will tell you the second way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 256.4,
+            "end": 257.4,
+            "text": " Here, I will write li."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 257.4,
+            "end": 260.4,
+            "text": " The second way is internal CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 260.4,
+            "end": 261.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 261.4,
+            "end": 262.4,
+            "text": " So, the second way says that"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 262.4,
+            "end": 263.4,
+            "text": " Don't do like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 263.4,
+            "end": 264.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 264.4,
+            "end": 266.4,
+            "text": " I will replicate it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 266.4,
+            "end": 268.4,
+            "text": " And I will remove this style attribute."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 268.4,
+            "end": 269.4,
+            "text": " We will say don't do like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 269.4,
+            "end": 271.4,
+            "text": " Write a style tag."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 271.4,
+            "end": 272.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 272.4,
+            "end": 273.4,
+            "text": " Listen carefully."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 273.4,
+            "end": 274.4,
+            "text": " Don't get confused."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 274.4,
+            "end": 275.4,
+            "text": " Listen to me very carefully."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 275.4,
+            "end": 277.4,
+            "text": " Put the style tag here in the head."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 277.4,
+            "end": 278.4,
+            "text": " After title."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 278.4,
+            "end": 279.4,
+            "text": " Here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 279.4,
+            "end": 281.4,
+            "text": " And write your selector and declaration."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 281.4,
+            "end": 282.4,
+            "text": " Everything here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 282.4,
+            "end": 283.4,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 283.40000000000003,
+            "end": 284.40000000000003,
+            "text": " So, what is the selector?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 284.40000000000003,
+            "end": 285.40000000000003,
+            "text": " What is the selector?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 285.40000000000003,
+            "end": 286.40000000000003,
+            "text": " H1."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 286.40000000000003,
+            "end": 287.40000000000003,
+            "text": " I will write all the h1 of this page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 287.40000000000003,
+            "end": 288.40000000000003,
+            "text": " What should I do?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 288.40000000000003,
+            "end": 292.40000000000003,
+            "text": " Background it to yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 292.40000000000003,
+            "end": 294.40000000000003,
+            "text": " And color it to red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 294.40000000000003,
+            "end": 295.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 296.40000000000003,
+            "end": 298.40000000000003,
+            "text": " I think I did color yellow earlier."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 298.40000000000003,
+            "end": 300.40000000000003,
+            "text": " So, I will do color yellow background red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 300.40000000000003,
+            "end": 301.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 301.40000000000003,
+            "end": 302.40000000000003,
+            "text": " Color it to yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 302.40000000000003,
+            "end": 303.40000000000003,
+            "text": " And background it to red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 303.40000000000003,
+            "end": 304.40000000000003,
+            "text": " That's it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 304.40000000000003,
+            "end": 305.40000000000003,
+            "text": " So, I did color yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 305.40000000000003,
+            "end": 306.40000000000003,
+            "text": " And background it to red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 306.40000000000003,
+            "end": 308.40000000000003,
+            "text": " It will still be the same as before."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 308.40000000000003,
+            "end": 311.40000000000003,
+            "text": " But, how is this different from inline CSS?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 311.40000000000003,
+            "end": 312.40000000000003,
+            "text": " In inline CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 312.40000000000003,
+            "end": 314.40000000000003,
+            "text": " I have to add style to every element."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 314.40000000000003,
+            "end": 315.40000000000003,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 315.40000000000003,
+            "end": 317.40000000000003,
+            "text": " Here, if I have 100 h1 on my page,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 317.40000000000003,
+            "end": 319.40000000000003,
+            "text": " Then, I can do this automatically."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 319.40000000000003,
+            "end": 321.40000000000003,
+            "text": " But, here, individually,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 321.40000000000003,
+            "end": 323.40000000000003,
+            "text": " I have to add style to every element."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 323.40000000000003,
+            "end": 324.40000000000003,
+            "text": " Style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 324.40000000000003,
+            "end": 325.40000000000003,
+            "text": " Style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 325.40000000000003,
+            "end": 326.40000000000003,
+            "text": " I have to do style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 326.40000000000003,
+            "end": 327.40000000000003,
+            "text": " Again and again."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 327.40000000000003,
+            "end": 329.40000000000003,
+            "text": " So, I don't want to do it again and again."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 329.40000000000003,
+            "end": 330.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 330.40000000000003,
+            "end": 331.40000000000003,
+            "text": " Let's assume that I have done it again and again."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 331.40000000000003,
+            "end": 333.40000000000003,
+            "text": " I have added style is equal to to every element."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 333.40000000000003,
+            "end": 335.40000000000003,
+            "text": " Now, let's assume that I have to change it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 335.40000000000003,
+            "end": 336.40000000000003,
+            "text": " Let's assume that for some reason,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 336.40000000000003,
+            "end": 337.40000000000003,
+            "text": " My boss told me that"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 337.40000000000003,
+            "end": 338.40000000000003,
+            "text": " In our production website,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 338.40000000000003,
+            "end": 340.40000000000003,
+            "text": " The background color should not be red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 340.40000000000003,
+            "end": 341.40000000000003,
+            "text": " The background color should be maroon."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 341.40000000000003,
+            "end": 343.40000000000003,
+            "text": " The background color should be maroon."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 343.40000000000003,
+            "end": 344.40000000000003,
+            "text": " So, what will I do?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 344.40000000000003,
+            "end": 346.40000000000003,
+            "text": " Will I take all the elements one by one"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 346.40000000000003,
+            "end": 347.40000000000003,
+            "text": " And make them all maroon instead of red?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 347.40000000000003,
+            "end": 348.40000000000003,
+            "text": " No."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 348.40000000000003,
+            "end": 350.40000000000003,
+            "text": " I want to do bulk edit."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 350.40000000000003,
+            "end": 353.40000000000003,
+            "text": " And if I am using internal CSS"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 353.40000000000003,
+            "end": 355.40000000000003,
+            "text": " And not using inline CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 355.40000000000003,
+            "end": 356.40000000000003,
+            "text": " Then, I can do bulk edit."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 356.40000000000003,
+            "end": 357.40000000000003,
+            "text": " What I have to do is,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 357.40000000000003,
+            "end": 359.40000000000003,
+            "text": " I have to maroon one place instead of red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 359.40000000000003,
+            "end": 362.40000000000003,
+            "text": " And all the h1 on my page will be maroon."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 362.40000000000003,
+            "end": 363.40000000000003,
+            "text": " But, if I individually,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 363.40000000000003,
+            "end": 364.40000000000003,
+            "text": " In every element,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 364.40000000000003,
+            "end": 365.40000000000003,
+            "text": " I have written style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 365.40000000000003,
+            "end": 366.40000000000003,
+            "text": " Style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 366.40000000000003,
+            "end": 367.40000000000003,
+            "text": " Style is equal to."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 367.40000000000003,
+            "end": 368.40000000000003,
+            "text": " So, first of all,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 368.40000000000003,
+            "end": 370.40000000000003,
+            "text": " I have to find all those elements."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 370.40000000000003,
+            "end": 371.40000000000003,
+            "text": " After that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 371.40000000000003,
+            "end": 373.40000000000003,
+            "text": " I have to do it individually in all of them."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 373.40000000000003,
+            "end": 374.40000000000003,
+            "text": " So, that's why,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 374.40000000000003,
+            "end": 377.40000000000003,
+            "text": " Inline CSS is not used that much."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 377.40000000000003,
+            "end": 380.40000000000003,
+            "text": " But, you should know what is inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 380.40000000000003,
+            "end": 381.40000000000003,
+            "text": " Why is it there?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 381.40000000000003,
+            "end": 383.40000000000003,
+            "text": " How can you use it?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 383.40000000000003,
+            "end": 385.40000000000003,
+            "text": " You will do internal CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 385.40000000000003,
+            "end": 387.40000000000003,
+            "text": " Or, the most used one is,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 387.40000000000003,
+            "end": 389.40000000000003,
+            "text": " External CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 389.40000000000003,
+            "end": 391.40000000000003,
+            "text": " I will tell you about that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 391.40000000000003,
+            "end": 393.40000000000003,
+            "text": " Now, the idea of external CSS is that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 393.40000000000003,
+            "end": 395.40000000000003,
+            "text": " If you are writing internal CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 395.40000000000003,
+            "end": 397.40000000000003,
+            "text": " Then, your style tag will grow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 397.40000000000003,
+            "end": 398.40000000000003,
+            "text": " Suppose, I am writing CSS here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 398.40000000000003,
+            "end": 400.40000000000003,
+            "text": " Writing, writing, writing."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 400.40000000000003,
+            "end": 402.40000000000003,
+            "text": " Then, your HTML file will grow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 402.40000000000003,
+            "end": 403.40000000000003,
+            "text": " It will grow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 403.40000000000003,
+            "end": 404.40000000000003,
+            "text": " It will grow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 404.40000000000003,
+            "end": 405.40000000000003,
+            "text": " So, why don't we,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 405.40000000000003,
+            "end": 407.40000000000003,
+            "text": " The CSS that we are writing here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 407.40000000000003,
+            "end": 410.40000000000003,
+            "text": " Why don't we write that CSS in a file?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 410.40000000000003,
+            "end": 413.40000000000003,
+            "text": " This is the only idea of external CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 413.40000000000003,
+            "end": 415.40000000000003,
+            "text": " That whatever you are writing here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 415.40000000000003,
+            "end": 416.40000000000003,
+            "text": " Don't write here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 416.40000000000003,
+            "end": 417.40000000000003,
+            "text": " Write it in a file."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 417.40000000000003,
+            "end": 419.40000000000003,
+            "text": " So, we will use a link tag."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 419.40000000000003,
+            "end": 420.40000000000003,
+            "text": " I will write colon CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 420.40000000000003,
+            "end": 422.40000000000003,
+            "text": " So, this shortcut will come here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 422.40000000000003,
+            "end": 423.40000000000003,
+            "text": " So, I am saying that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 423.40000000000003,
+            "end": 427.40000000000003,
+            "text": " I have written my CSS in style.css."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 427.40000000000003,
+            "end": 428.40000000000003,
+            "text": " What have I done?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 428.40000000000003,
+            "end": 429.40000000000003,
+            "text": " In style.css,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 429.40000000000003,
+            "end": 431.40000000000003,
+            "text": " I have written my CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 431.40000000000003,
+            "end": 433.40000000000003,
+            "text": " Go there and see."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 433.40000000000003,
+            "end": 435.40000000000003,
+            "text": " I have done something like this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 435.40000000000003,
+            "end": 437.40000000000003,
+            "text": " So, here I will show you,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 437.40000000000003,
+            "end": 440.40000000000003,
+            "text": " That I can write style.css in this way."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 440.40000000000003,
+            "end": 443.40000000000003,
+            "text": " And as soon as I will write style.css here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 443.40000000000003,
+            "end": 445.40000000000003,
+            "text": " And I will put these styles in it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 445.40000000000003,
+            "end": 446.40000000000003,
+            "text": " Now, I will show you that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 446.40000000000003,
+            "end": 447.40000000000003,
+            "text": " The styles have been removed from my page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 447.40000000000003,
+            "end": 448.40000000000003,
+            "text": " By the way, there is no background red."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 448.40000000000003,
+            "end": 449.40000000000003,
+            "text": " There is no yellow."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 449.40000000000003,
+            "end": 451.40000000000003,
+            "text": " But as soon as I will add here,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 451.40000000000003,
+            "end": 455.40000000000003,
+            "text": " So, I have linked this style.css here."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 455.40000000000003,
+            "end": 456.40000000000003,
+            "text": " So, what does link tag do?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 456.40000000000003,
+            "end": 457.40000000000003,
+            "text": " Link says that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 457.40000000000003,
+            "end": 458.40000000000003,
+            "text": " As a style sheet,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 458.40000000000003,
+            "end": 460.40000000000003,
+            "text": " Link style.css."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 460.40000000000003,
+            "end": 461.40000000000003,
+            "text": " So, what will happen?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 461.40000000000003,
+            "end": 463.40000000000003,
+            "text": " This CSS will be added on my page."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 463.40000000000003,
+            "end": 465.40000000000003,
+            "text": " It's as simple as that."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 465.40000000000003,
+            "end": 466.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 466.40000000000003,
+            "end": 468.40000000000003,
+            "text": " I hope that you have understood all this."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 468.40000000000003,
+            "end": 471.40000000000003,
+            "text": " And you must have understood this thing very clearly."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 471.40000000000003,
+            "end": 472.40000000000003,
+            "text": " That what is the difference between inline CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 472.40000000000003,
+            "end": 474.40000000000003,
+            "text": " Internal CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 474.40000000000003,
+            "end": 476.40000000000003,
+            "text": " And external CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 476.40000000000003,
+            "end": 477.40000000000003,
+            "text": " Now, I will tell you that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 477.40000000000003,
+            "end": 480.40000000000003,
+            "text": " When and which one you have to use."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 480.40000000000003,
+            "end": 481.40000000000003,
+            "text": " See, inline CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 481.40000000000003,
+            "end": 483.40000000000003,
+            "text": " You must not use it at all."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 483.40000000000003,
+            "end": 485.40000000000003,
+            "text": " Try not to use it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 485.40000000000003,
+            "end": 486.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 486.40000000000003,
+            "end": 487.40000000000003,
+            "text": " I am saying,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 487.40000000000003,
+            "end": 488.40000000000003,
+            "text": " In ideal scenarios,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 488.40000000000003,
+            "end": 490.40000000000003,
+            "text": " You must not use inline CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 490.40000000000003,
+            "end": 493.40000000000003,
+            "text": " But if inline CSS is being generated automatically,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 493.40000000000003,
+            "end": 494.40000000000003,
+            "text": " About which I will tell you further."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 494.40000000000003,
+            "end": 496.40000000000003,
+            "text": " Now, don't get confused."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 496.40000000000003,
+            "end": 497.40000000000003,
+            "text": " Now, as a beginner,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 497.40000000000003,
+            "end": 498.40000000000003,
+            "text": " You must understand that,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 498.40000000000003,
+            "end": 500.40000000000003,
+            "text": " You have to use inline CSS at least."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 500.40000000000003,
+            "end": 502.40000000000003,
+            "text": " In fact, you have to avoid it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 502.40000000000003,
+            "end": 503.40000000000003,
+            "text": " Okay."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 503.40000000000003,
+            "end": 505.40000000000003,
+            "text": " You will use internal CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 505.40000000000003,
+            "end": 507.40000000000003,
+            "text": " When your web page is very small."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 507.40000000000003,
+            "end": 509.40000000000003,
+            "text": " And you have to write very light CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 509.40000000000003,
+            "end": 511.40000000000003,
+            "text": " Like, I will tell you a very good use case,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 511.40000000000003,
+            "end": 513.4000000000001,
+            "text": " To use internal CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 513.4000000000001,
+            "end": 515.4000000000001,
+            "text": " When I used to write websites in bootstrap,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 515.4000000000001,
+            "end": 517.4000000000001,
+            "text": " Then, in my website,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 517.4,
+            "end": 519.4,
+            "text": " I used to do all the styling in bootstrap."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 519.4,
+            "end": 520.4,
+            "text": " But sometimes,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 520.4,
+            "end": 522.4,
+            "text": " I had to do some tweaks."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 522.4,
+            "end": 524.4,
+            "text": " Then, I used to use internal CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 524.4,
+            "end": 527.4,
+            "text": " You will use external CSS,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 527.4,
+            "end": 529.4,
+            "text": " When you are making a big production-grade website."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 529.4,
+            "end": 531.4,
+            "text": " And in most of the cases,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 531.4,
+            "end": 533.4,
+            "text": " If you are working on a serious project,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 533.4,
+            "end": 535.4,
+            "text": " You must be making some kind of"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 535.4,
+            "end": 537.4,
+            "text": " Production-grade website only."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 537.4,
+            "end": 539.4,
+            "text": " And if you are making a production-grade website,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 539.4,
+            "end": 542.4,
+            "text": " Then you will want to use best practices in it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 542.4,
+            "end": 545.4,
+            "text": " And using external style sheet,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 545.4,
+            "end": 547.4,
+            "text": " Is considered a good practice."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 547.4,
+            "end": 548.4,
+            "text": " Why?"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 548.4,
+            "end": 552.4,
+            "text": " Because you can detach a style sheet from an HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 552.4,
+            "end": 554.4,
+            "text": " You can also attach it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 554.4,
+            "end": 556.4,
+            "text": " You can tell your colleagues,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 556.4,
+            "end": 558.4,
+            "text": " That you work on style sheet,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 558.4,
+            "end": 560.4,
+            "text": " And I work on HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 560.4,
+            "end": 561.4,
+            "text": " You can write style,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 561.4,
+            "end": 563.4,
+            "text": " And I am working on HTML."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 563.4,
+            "end": 566.4,
+            "text": " So, you can work very well."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 566.4,
+            "end": 569.4,
+            "text": " Things like this are very easy,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 569.4,
+            "end": 571.4,
+            "text": " If you use external style sheet."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 571.4,
+            "end": 573.4,
+            "text": " And in most of the cases,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 573.4,
+            "end": 575.4,
+            "text": " In any kind of production-grade project,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 575.4,
+            "end": 577.4,
+            "text": " If you are making a big production-grade website,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 577.4,
+            "end": 579.4,
+            "text": " Whether it is Netflix, YouTube,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 579.4,
+            "end": 581.4,
+            "text": " Or Quora,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 581.4,
+            "end": 583.4,
+            "text": " Or Facebook, Instagram,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 583.4,
+            "end": 585.4,
+            "text": " WhatsApp, Web,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 585.4,
+            "end": 587.4,
+            "text": " In most of the cases,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 587.4,
+            "end": 589.4,
+            "text": " In all these websites,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 589.4,
+            "end": 591.4,
+            "text": " You will get external style sheets only."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 591.4,
+            "end": 593.4,
+            "text": " So, I will do a revision of you guys."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 593.4,
+            "end": 594.4,
+            "text": " Inline CSS means,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 594.4,
+            "end": 596.4,
+            "text": " By using the style tag in the element itself,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 596.4,
+            "end": 597.4,
+            "text": " You have written CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 597.4,
+            "end": 598.4,
+            "text": " Internal CSS means,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 598.4,
+            "end": 599.4,
+            "text": " By using the style tag,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 599.4,
+            "end": 600.4,
+            "text": " You have written CSS."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 600.4,
+            "end": 602.4,
+            "text": " And external CSS means,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 602.4,
+            "end": 604.4,
+            "text": " You have written a style.css,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 604.4,
+            "end": 607.4,
+            "text": " Or by making any file named name.css,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 607.4,
+            "end": 610.4,
+            "text": " You have linked a CSS file."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 610.4,
+            "end": 613.4,
+            "text": " I hope that you have understood the difference between these three."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 613.4,
+            "end": 615.4,
+            "text": " And I know that I am going a little slower,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 615.4,
+            "end": 617.4,
+            "text": " Because many people are beginners in this course."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 617.4,
+            "end": 618.4,
+            "text": " I am telling you again,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 618.4,
+            "end": 620.4,
+            "text": " We are going to raise the bar like anything."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 620.4,
+            "end": 622.4,
+            "text": " We are going to make very dangerous,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 622.4,
+            "end": 623.4,
+            "text": " Production-grade websites,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 623.4,
+            "end": 625.4,
+            "text": " In the upcoming videos."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 625.4,
+            "end": 626.4,
+            "text": " So, if you are not excited,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 626.4,
+            "end": 628.4,
+            "text": " Then do tell me in the comment section below."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 628.4,
+            "end": 630.4,
+            "text": " Now, if you have not accessed this playlist,"
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 630.4,
+            "end": 632.4,
+            "text": " Then do access it."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 632.4,
+            "end": 634.4,
+            "text": " I will update everything in the source code."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 634.4,
+            "end": 635.4,
+            "text": " Don't worry about anything."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 635.4,
+            "end": 637.4,
+            "text": " That's all for now in this video guys."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 637.4,
+            "end": 639.4,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "15",
+            "title": "Inline, Internal & External CSS ",
+            "start": 639.4,
+            "end": 641.4,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " In this video, we will see how to add CSS to an HTML page. There are three ways to add CSS to HTML. The first way is Inline CSS which is added to HTML pages using the style attribute. The second way is Internal CSS. Internal CSS means you add a style tag and put the CSS in the style tag of the HTML page. After that, the most used one is External CSS. It means you make a .css file and add all your styles in that .css file. I will tell you very closely in this video what is the difference between the three. When to use which and when to avoid which. I am very excited. Do like this video. And don't forget to write Sigma Batch OP in the comment section below. Let's go to the computer screen. Let's roll the intro. So, I have told you three ways to add CSS to any HTML page. The first thing I will do is to create a folder named Video 15. I will right-click and open with code. I will create an index.html and add a boilerplate template. If you haven't accessed the playlist yet, then do access it. It is very important to access the playlist. Now, I will come back to my video 15 HTML code. Suppose we have a basic HTML. I have written I am a good boy. And after that, suppose I have added an h1 here. And I have written about me. And here I have added in div I am a good boy. Suppose I have also added a paragraph. Everyone is good in some way or the other. Does this even make any sense? Suppose I have added this. Here, I will click on view and do toggle word wrap. I will not right-click shift but right-click. I will go to command palette and toggle screencast mode. Now, listen to me carefully. Look, if I have to style it here, then there is a very shortcut method. Which I also call the desi method. I mean, I have a very quick and dirty method. That I will add a style tag here. First of all, let's preview it and see how it looks. So, it looks something like this. I have zoomed it to show you. But it will look like this. Which is fine. Okay. But I am zooming it so that you can see. Now, the about me is written. Suppose I want to make its background yellow. And I want to make its font red. For some weird reason. Okay. Let's do it. Let's do it. So, I have a very quick and dirty method. That I will add a style attribute here. After that, I will write color here. And suppose I write yellow here. And you see, VS Code is helping me completely. It is supporting me completely in writing. Whatever I am thinking, it is giving me auto-complete. And that's one of the reasons we are using VS Code. And if you go to Replicate or any online IDE, You get this kind of support. This is the reason why we don't do coding in Notepad. In the beginning, a lot of people asked me a question. Why don't we do it in Notepad? Why do we do it in this? What is there in this that is not in Notepad? So, this is it. Okay. Now, suppose I want to add another property. First, let me show you that this property is applied. Now, you see, its color is yellow. Now, suppose I want to make its background red. Background color red. Okay. And here, the background will also be red. So, whatever I want to do here, With the help of CSS, I can do that. I want to add things to individual elements. So, I can do that. Now, this is not considered a good practice. It is not considered a good practice. Why is it not considered a good practice? I will tell you in a while. But I will tell you two more ways. To add CSS to a webpage. Let me do one thing. The title of this, let me write the title of this. Three ways to add CSS to HTML. Okay. The first way, which I have written. I will do one thing. I will use div here. I will use ordered list. I will use OL. Okay. And I will write a list item. And I am going to write here. The first way is inline CSS. Okay. So, I have told you about inline CSS. This is called inline CSS. To hold any one element and To write CSS in style attribute. What will happen? That CSS will be applied in that element. This will happen only. So, till now, we have learned about inline CSS. This is the first way. Now, I will tell you the second way. Here, I will write li. The second way is internal CSS. Okay. So, the second way says that Don't do like this. Okay. I will replicate it. And I will remove this style attribute. We will say don't do like this. Write a style tag. Okay. Listen carefully. Don't get confused. Listen to me very carefully. Put the style tag here in the head. After title. Here. And write your selector and declaration. Everything here. Okay. So, what is the selector? What is the selector? H1. I will write all the h1 of this page. What should I do? Background it to yellow. And color it to red. Okay. I think I did color yellow earlier. So, I will do color yellow background red. Okay. Color it to yellow. And background it to red. That's it. So, I did color yellow. And background it to red. It will still be the same as before. But, how is this different from inline CSS? In inline CSS, I have to add style to every element. Do you understand? Here, if I have 100 h1 on my page, Then, I can do this automatically. But, here, individually, I have to add style to every element. Style is equal to. Style is equal to. I have to do style is equal to. Again and again. So, I don't want to do it again and again. Okay. Let's assume that I have done it again and again. I have added style is equal to to every element. Now, let's assume that I have to change it. Let's assume that for some reason, My boss told me that In our production website, The background color should not be red. The background color should be maroon. The background color should be maroon. So, what will I do? Will I take all the elements one by one And make them all maroon instead of red? No. I want to do bulk edit. And if I am using internal CSS And not using inline CSS, Then, I can do bulk edit. What I have to do is, I have to maroon one place instead of red. And all the h1 on my page will be maroon. But, if I individually, In every element, I have written style is equal to. Style is equal to. Style is equal to. So, first of all, I have to find all those elements. After that, I have to do it individually in all of them. So, that's why, Inline CSS is not used that much. But, you should know what is inline CSS. Why is it there? How can you use it? You will do internal CSS. Or, the most used one is, External CSS. I will tell you about that. Now, the idea of external CSS is that, If you are writing internal CSS, Then, your style tag will grow. Suppose, I am writing CSS here, Writing, writing, writing. Then, your HTML file will grow. It will grow. It will grow. So, why don't we, The CSS that we are writing here, Why don't we write that CSS in a file? This is the only idea of external CSS. That whatever you are writing here, Don't write here. Write it in a file. So, we will use a link tag. I will write colon CSS. So, this shortcut will come here. So, I am saying that, I have written my CSS in style.css. What have I done? In style.css, I have written my CSS. Go there and see. I have done something like this. So, here I will show you, That I can write style.css in this way. And as soon as I will write style.css here, And I will put these styles in it. Now, I will show you that, The styles have been removed from my page. By the way, there is no background red. There is no yellow. But as soon as I will add here, So, I have linked this style.css here. So, what does link tag do? Link says that, As a style sheet, Link style.css. So, what will happen? This CSS will be added on my page. It's as simple as that. Okay. I hope that you have understood all this. And you must have understood this thing very clearly. That what is the difference between inline CSS, Internal CSS, And external CSS. Now, I will tell you that, When and which one you have to use. See, inline CSS, You must not use it at all. Try not to use it. Okay. I am saying, In ideal scenarios, You must not use inline CSS. But if inline CSS is being generated automatically, About which I will tell you further. Now, don't get confused. Now, as a beginner, You must understand that, You have to use inline CSS at least. In fact, you have to avoid it. Okay. You will use internal CSS, When your web page is very small. And you have to write very light CSS. Like, I will tell you a very good use case, To use internal CSS. When I used to write websites in bootstrap, Then, in my website, I used to do all the styling in bootstrap. But sometimes, I had to do some tweaks. Then, I used to use internal CSS. You will use external CSS, When you are making a big production-grade website. And in most of the cases, If you are working on a serious project, You must be making some kind of Production-grade website only. And if you are making a production-grade website, Then you will want to use best practices in it. And using external style sheet, Is considered a good practice. Why? Because you can detach a style sheet from an HTML. You can also attach it. You can tell your colleagues, That you work on style sheet, And I work on HTML. You can write style, And I am working on HTML. So, you can work very well. Things like this are very easy, If you use external style sheet. And in most of the cases, In any kind of production-grade project, If you are making a big production-grade website, Whether it is Netflix, YouTube, Or Quora, Or Facebook, Instagram, WhatsApp, Web, In most of the cases, In all these websites, You will get external style sheets only. So, I will do a revision of you guys. Inline CSS means, By using the style tag in the element itself, You have written CSS. Internal CSS means, By using the style tag, You have written CSS. And external CSS means, You have written a style.css, Or by making any file named name.css, You have linked a CSS file. I hope that you have understood the difference between these three. And I know that I am going a little slower, Because many people are beginners in this course. I am telling you again, We are going to raise the bar like anything. We are going to make very dangerous, Production-grade websites, In the upcoming videos. So, if you are not excited, Then do tell me in the comment section below. Now, if you have not accessed this playlist, Then do access it. I will update everything in the source code. Don't worry about anything. That's all for now in this video guys. Thank you so much guys for watching this video. And I will see you next time."
+}

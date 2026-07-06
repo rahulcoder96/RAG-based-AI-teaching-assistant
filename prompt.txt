@@ -1,0 +1,11 @@
+I am teaching web development using sigma web development course. here are video
+subtitles chunks containing video title,video number,start time in seconds, end time in
+seconds, the text at that time:
+
+[{"number":"7","title":"Forms and input tags in HTML ","start":164.0,"end":166.0,"text":" html is form tag"},{"number":"7","title":"Forms and input tags in HTML ","start":230.0,"end":232.0,"text":" that you put the input tag in the form"},{"number":"7","title":"Forms and input tags in HTML ","start":146.0,"end":148.0,"text":" what is form?"},{"number":"3 - (720p)","title":"Basic Structure of an HTML Website ","start":413.66,"end":415.66,"text":" This is inside any tag."},{"number":"18","title":"CSS Box Model - Margin, Padding & Borders ","start":92.8,"end":94.8,"text":" Oops, how did I make a style tag?"}]
+---------------------------------------------
+"where is form tag expalined?"
+user asked this question related to the video chunks,you have answer where and how much
+ content is taught where(in which video and at what timestamp) and guide the user to go 
+ that particular video.if user asks unrelated question,tell him that you can only answer
+ questions related to the course.

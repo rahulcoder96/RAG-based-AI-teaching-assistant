@@ -1,0 +1,2357 @@
+{
+    "chunks": [
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " There was a time when you were making a website for a client"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 3.0,
+            "end": 5.4,
+            "text": " So you had to tell that client specifically"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 5.4,
+            "end": 8.0,
+            "text": " That brother, make me responsive to my website"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 8.0,
+            "end": 11.0,
+            "text": " But today by default any website is made by you"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 11.0,
+            "end": 13.5,
+            "text": " So you have to make it responsive"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 13.5,
+            "end": 14.5,
+            "text": " This is the default setting"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 14.5,
+            "end": 18.0,
+            "text": " The most important thing for responsiveness is media query"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 18.0,
+            "end": 21.0,
+            "text": " For which you have to write some additional code"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 21.0,
+            "end": 23.5,
+            "text": " And a website that looks good on your desktop"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 23.5,
+            "end": 25.5,
+            "text": " Will also adapt for mobile phones"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 25.5,
+            "end": 28.0,
+            "text": " To make your website look good on mobile"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " You will have to use media queries"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 31.0,
+            "end": 32.5,
+            "text": " Which are very simple"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 32.5,
+            "end": 34.5,
+            "text": " And very straight forward in the syntax"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 34.5,
+            "end": 35.5,
+            "text": " In the comment section below"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 35.5,
+            "end": 36.5,
+            "text": " Like the video"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 36.5,
+            "end": 38.5,
+            "text": " And also write sigma batch op"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 38.5,
+            "end": 40.5,
+            "text": " As always I am very excited"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 40.5,
+            "end": 42.5,
+            "text": " Let's go to the computer stream"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 42.5,
+            "end": 44.5,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 52.5,
+            "end": 54.5,
+            "text": " So guys to save time"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 54.5,
+            "end": 56.5,
+            "text": " I have opened my VS code"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 56.5,
+            "end": 58.0,
+            "text": " And already I have opened index."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 58.0,
+            "end": 59.5,
+            "text": " I have made a file by the name of HTML"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 59.5,
+            "end": 62.5,
+            "text": " I have given a title by the name of css media query"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 62.5,
+            "end": 65.5,
+            "text": " And now I will tell you what is media query"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 65.5,
+            "end": 67.5,
+            "text": " I will put a very strange style here"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 67.5,
+            "end": 68.5,
+            "text": " And I will say"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 68.5,
+            "end": 70.5,
+            "text": " Color the background of the body red"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 70.5,
+            "end": 71.5,
+            "text": " And you will say"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 71.5,
+            "end": 73.5,
+            "text": " The background color of the body is red"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 73.5,
+            "end": 74.5,
+            "text": " I will do it"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 74.5,
+            "end": 76.0,
+            "text": " And in div I will write"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " Hey I am a red body guy"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 79.0,
+            "end": 80.0,
+            "text": " Who am I?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 80.0,
+            "end": 81.0,
+            "text": " Red body guy"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 81.0,
+            "end": 82.0,
+            "text": " Means not red body"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " Means the one without body tag is red"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 84.0,
+            "end": 85.0,
+            "text": " So this is what it means"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 85.0,
+            "end": 87.0,
+            "text": " If you have not accessed the playlist of sigma web development"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 87.0,
+            "end": 88.0,
+            "text": " Then access the playlist"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 88.0,
+            "end": 90.0,
+            "text": " If you click here and then click here"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 90.0,
+            "end": 91.0,
+            "text": " Then you must save"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " And most of all access the GitHub code"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 93.0,
+            "end": 94.0,
+            "text": " Now see"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 94.0,
+            "end": 95.0,
+            "text": " What do we have to do?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 95.0,
+            "end": 96.5,
+            "text": " That is to preview this obviously"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 96.5,
+            "end": 98.0,
+            "text": " And after previewing this"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 98.0,
+            "end": 99.0,
+            "text": " You will say"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 99.0,
+            "end": 100.0,
+            "text": " Yes, ok, what time is it?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 100.0,
+            "end": 101.0,
+            "text": " Red body is very good"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 101.0,
+            "end": 102.0,
+            "text": " Applause"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 102.0,
+            "end": 103.0,
+            "text": " Ok"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 103.0,
+            "end": 105.0,
+            "text": " But what I have come to tell you today is"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 105.0,
+            "end": 107.0,
+            "text": " That you can change styles"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 107.0,
+            "end": 110.0,
+            "text": " On the basis of which device you are on"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 110.0,
+            "end": 112.0,
+            "text": " See a little story I will tell you"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 112.0,
+            "end": 113.0,
+            "text": " I will tell you such a story"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " As grandfathers tell their grandchildren"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 115.0,
+            "end": 116.0,
+            "text": " That it used to happen in our time"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 116.0,
+            "end": 117.0,
+            "text": " See it used to happen"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 117.0,
+            "end": 118.0,
+            "text": " It was not in my time"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 118.0,
+            "end": 134.0,
+            "text": " When css2 came, a query named media was introduced and its purpose was only that the media query was telling that if any person is accessing the website on any other device, then styles can be changed."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 134.0,
+            "end": 142.0,
+            "text": " It was called media rule which was introduced in css2 and in css3, the name of this media rule was changed to media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 142.0,
+            "end": 148.0,
+            "text": " So in css2, forget about how media rule works, let me tell you how media query works in css3."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 148.0,
+            "end": 152.0,
+            "text": " So what is the syntax of media query in css3?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 152.0,
+            "end": 156.0,
+            "text": " First of all, you write at the rate media."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " This means that you are writing a media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 159.0,
+            "end": 163.0,
+            "text": " After this, you tell which device you want to write the media query on."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 163.0,
+            "end": 169.0,
+            "text": " And before that, a not or only comes, that is, I can write media only screen here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 169.0,
+            "end": 172.0,
+            "text": " That is, it is only on the screen, then it applies here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 172.0,
+            "end": 175.0,
+            "text": " So a typical syntax of media query looks like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 175.0,
+            "end": 181.0,
+            "text": " We write media not or only that either don't show on this media type or show only if this is the media type."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 181.0,
+            "end": 189.0,
+            "text": " And after that, we write some expressions here about which I will tell you and write css code in it which will be applied when this thing will be satisfied."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 189.0,
+            "end": 193.0,
+            "text": " Okay, now I will tell you how you can use this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 193.0,
+            "end": 201.0,
+            "text": " So here the media is written, I will write in most of the cases we write only because we want this media query to match only when we are on the screen."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 201.0,
+            "end": 202.0,
+            "text": " When the media is on the screen."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 202.0,
+            "end": 204.0,
+            "text": " And what are the other media types?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 204.0,
+            "end": 207.0,
+            "text": " You can put all, that is, on all media types."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " Then you can put print, which is the printer etc."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 209.0,
+            "end": 212.0,
+            "text": " If the website is being viewed, then you will see it."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 212.0,
+            "end": 218.0,
+            "text": " Another media type is the screen, which is the most common in the phone, laptop or in your iPad etc."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 218.0,
+            "end": 220.0,
+            "text": " If you are showing, then it is a screen."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 220.0,
+            "end": 223.0,
+            "text": " There is another speech device, which is used for those people who cannot see."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " So speech is put here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 225.0,
+            "end": 231.0,
+            "text": " If you want this css style to be applied only when there is a speech device here, then you will write speech here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " But in most of the cases, you will only write the screen here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 234.0,
+            "end": 236.0,
+            "text": " And after that you will write the end here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " And you will write a condition something like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 238.0,
+            "end": 242.0,
+            "text": " Suppose I write the max width should be 455 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 242.0,
+            "end": 246.0,
+            "text": " And suppose I want that if this happens, then the background color should be red of the body."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 246.0,
+            "end": 247.0,
+            "text": " Okay."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 247.0,
+            "end": 249.0,
+            "text": " So I will do one thing, I will write the body here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " And I will write the background color blue in the body."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 251.0,
+            "end": 252.0,
+            "text": " Okay."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " I will make the background color blue here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 254.0,
+            "end": 258.0,
+            "text": " So if the max width is 45 pixels, then the background color will be blue."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 258.0,
+            "end": 260.0,
+            "text": " So I will show you what it means."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 260.0,
+            "end": 261.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 261.0,
+            "end": 262.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 262.0,
+            "end": 263.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 263.0,
+            "end": 264.0,
+            "text": " Look here it is showing the width."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 264.0,
+            "end": 265.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 265.0,
+            "end": 266.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 266.0,
+            "end": 267.0,
+            "text": " I will make it small."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 267.0,
+            "end": 271.0,
+            "text": " Look here you people, if its max width here is 455 pixels, then this css style will be applied."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 271.0,
+            "end": 275.0,
+            "text": " Meaning if it is smaller than 455, then this style will be applied."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 275.0,
+            "end": 279.0,
+            "text": " And if it is bigger than 455, then this style which is written inside it will not apply."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " So media query works like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 281.0,
+            "end": 283.0,
+            "text": " And this is 90% media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 283.0,
+            "end": 285.0,
+            "text": " As much as I have told you till now."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 285.0,
+            "end": 286.0,
+            "text": " Right."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 286.0,
+            "end": 287.0,
+            "text": " This is the same syntax applied."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " You will find yourself applying this same syntax."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 289.0,
+            "end": 290.0,
+            "text": " It will work."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 290.0,
+            "end": 292.76,
+            "text": " in 90-95% of the cases."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 292.76,
+            "end": 295.16,
+            "text": " Media only, screen and max width,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 295.16,
+            "end": 296.76,
+            "text": " 455 or whatever max width,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 296.76,
+            "end": 298.44,
+            "text": " I can also give min width here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 298.44,
+            "end": 300.2,
+            "text": " If I make it min width here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 300.2,
+            "end": 301.12,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 301.12,
+            "end": 302.48,
+            "text": " If I make it min width,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 302.48,
+            "end": 304.24,
+            "text": " then it will apply after"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 304.24,
+            "end": 306.36,
+            "text": " how many pixels I gave,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 306.36,
+            "end": 308.16,
+            "text": " I guess I gave 455 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 308.16,
+            "end": 309.6,
+            "text": " Now you can see here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 309.6,
+            "end": 312.48,
+            "text": " this media query is enabled."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 312.48,
+            "end": 316.32,
+            "text": " Because our width is more than 455 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 316.32,
+            "end": 317.2,
+            "text": " If I reduce it,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 317.2,
+            "end": 318.32,
+            "text": " then see this media query is gone,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 318.32,
+            "end": 319.28,
+            "text": " it has also disappeared from here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 319.28000000000003,
+            "end": 321.52000000000004,
+            "text": " That means there is no existence of this media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 321.52000000000004,
+            "end": 323.08000000000004,
+            "text": " These CSS styles will not be used anymore."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 323.08000000000004,
+            "end": 324.48,
+            "text": " So this media query is not visible."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 324.48,
+            "end": 325.84000000000003,
+            "text": " As soon as I increase it,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 325.84000000000003,
+            "end": 327.8,
+            "text": " it is saying that this media query is activated."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 327.8,
+            "end": 329.72,
+            "text": " So these styles will not work."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 329.72,
+            "end": 331.64000000000004,
+            "text": " That's all about media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 331.64000000000004,
+            "end": 332.44000000000005,
+            "text": " So to summarize,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 332.44000000000005,
+            "end": 335.16,
+            "text": " the media query is used"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 335.16,
+            "end": 337.32000000000005,
+            "text": " to make responsive designs."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 337.32000000000005,
+            "end": 339.48,
+            "text": " For example, let us say I have two boxes."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 339.48,
+            "end": 341.8,
+            "text": " I make two boxes here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 341.8,
+            "end": 343.92,
+            "text": " And I will do div.boxes."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 343.92,
+            "end": 346.52000000000004,
+            "text": " And here I will do div.box."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 346.52000000000004,
+            "end": 348.12,
+            "text": " And I will put some more boxes."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 348.12,
+            "end": 349.24,
+            "text": " Here I will put .box,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 349.24,
+            "end": 352.2,
+            "text": " I will say that the .box,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 352.2,
+            "end": 354.8,
+            "text": " I want to keep its width,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 354.8,
+            "end": 356.52,
+            "text": " let us say, 344 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 356.52,
+            "end": 358.0,
+            "text": " And I want to keep its height,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 358.0,
+            "end": 359.56,
+            "text": " let us say, 344 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 359.56,
+            "end": 362.40000000000003,
+            "text": " By the way, why did I choose 344 for this example?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 362.40000000000003,
+            "end": 363.48,
+            "text": " If you have any idea,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 363.48,
+            "end": 366.72,
+            "text": " then tell me which is my Isaac Newton brain"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 366.72,
+            "end": 368.72,
+            "text": " that I used only 344 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 368.72,
+            "end": 370.84000000000003,
+            "text": " Why didn't I use 392?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 370.84000000000003,
+            "end": 371.84000000000003,
+            "text": " You must tell me."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 371.84000000000003,
+            "end": 373.12,
+            "text": " In the comment section below,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 373.12,
+            "end": 373.92,
+            "text": " if you know."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 373.92,
+            "end": 375.40000000000003,
+            "text": " And you see here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 375.40000000000003,
+            "end": 378.36,
+            "text": " till now I have given only the width of the box."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 379.24,
+            "end": 381.68,
+            "text": " And I have also given the background color of this box."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 381.68,
+            "end": 383.48,
+            "text": " And I give its background color,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 383.48,
+            "end": 385.0,
+            "text": " let us say, steel blue."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 385.0,
+            "end": 386.8,
+            "text": " Okay, I have given its background color steel blue."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 386.8,
+            "end": 388.40000000000003,
+            "text": " You will get to see these boxes."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 388.40000000000003,
+            "end": 390.08,
+            "text": " I also give padding and margin in this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 390.08,
+            "end": 392.6,
+            "text": " So if I give padding 3 pixels,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 392.6,
+            "end": 394.8,
+            "text": " margin 3 pixels,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 394.8,
+            "end": 396.28000000000003,
+            "text": " then you can see that"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 396.28000000000003,
+            "end": 397.48,
+            "text": " after giving padding and margin,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 397.48,
+            "end": 398.68,
+            "text": " it is looking something like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 398.68,
+            "end": 401.36,
+            "text": " Now suppose I want that these boxes,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 401.36,
+            "end": 402.48,
+            "text": " as they are looking,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 402.48,
+            "end": 404.92,
+            "text": " I want these boxes on small screens"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 404.92,
+            "end": 406.24,
+            "text": " to look something like this,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 406.24,
+            "end": 408.04,
+            "text": " that they start wrapping themselves."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 408.04,
+            "end": 409.08,
+            "text": " Or then, let us say, I want that,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 409.24,
+            "end": 411.24,
+            "text": " this is a flex box."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 411.24,
+            "end": 413.48,
+            "text": " I know that I have not told you about flex box."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 413.48,
+            "end": 418.68,
+            "text": " I am just flexing it to give you an example."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 418.68,
+            "end": 420.08,
+            "text": " If you don't know what a flex box is,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 420.08,
+            "end": 420.76,
+            "text": " don't take any attention."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 420.76,
+            "end": 421.88,
+            "text": " I will tell you flex box very clearly."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 421.88,
+            "end": 424.08,
+            "text": " But you just understand that by applying display flex,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 424.08,
+            "end": 426.36,
+            "text": " it will come in this kind of container."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 426.36,
+            "end": 427.68,
+            "text": " Now if I make it very small,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 427.68,
+            "end": 428.92,
+            "text": " you see, they are getting smaller like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 428.92,
+            "end": 432.36,
+            "text": " So I can say that when I am making it smaller,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 432.36,
+            "end": 434.76,
+            "text": " let us say, when this red breakpoint is coming,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 434.76,
+            "end": 436.12,
+            "text": " 388 pixels is coming,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 436.12,
+            "end": 439.08,
+            "text": " then I will say that its flex direction,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 439.08,
+            "end": 440.56,
+            "text": " make it a column, okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 440.56,
+            "end": 442.32,
+            "text": " This is just an example that I am giving you."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 442.32,
+            "end": 443.71999999999997,
+            "text": " This is not the best way to do this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 443.71999999999997,
+            "end": 444.84,
+            "text": " Let me tell you."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 444.84,
+            "end": 446.96,
+            "text": " I will say about the boxes that,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 446.96,
+            "end": 449.12,
+            "text": " the flex direction, what should I do?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 449.12,
+            "end": 451.32,
+            "text": " Flex direction column."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 451.32,
+            "end": 452.15999999999997,
+            "text": " So what will happen by doing this?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 452.15999999999997,
+            "end": 453.71999999999997,
+            "text": " As soon as I make it small,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 453.71999999999997,
+            "end": 455.44,
+            "text": " now see, I did this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 455.44,
+            "end": 458.71999999999997,
+            "text": " I actually messed it up here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 458.71999999999997,
+            "end": 460.59999999999997,
+            "text": " I will make it max width, not min width."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 460.59999999999997,
+            "end": 462.71999999999997,
+            "text": " I will make it max width."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 462.71999999999997,
+            "end": 463.79999999999995,
+            "text": " I will not make it min width."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 463.79999999999995,
+            "end": 466.52,
+            "text": " Now you see, it is looking something like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 466.52,
+            "end": 467.91999999999996,
+            "text": " Now as soon as it is small,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 467.91999999999996,
+            "end": 469.08,
+            "text": " you see, it came like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 469.08,
+            "end": 469.71999999999997,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 469.71999999999997,
+            "end": 471.2,
+            "text": " So what can I basically say?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 471.2,
+            "end": 472.76,
+            "text": " I can say that this phone,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 472.76,
+            "end": 474.2,
+            "text": " means the devices smaller than this,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 474.2,
+            "end": 475.47999999999996,
+            "text": " whatever number I had given here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 475.47999999999996,
+            "end": 476.32,
+            "text": " 400 something,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 476.32,
+            "end": 478.4,
+            "text": " 455 pixels smaller devices,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 478.4,
+            "end": 480.24,
+            "text": " apply this CSS in them."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 480.24,
+            "end": 480.84,
+            "text": " Now what happens is,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 480.84,
+            "end": 482.59999999999997,
+            "text": " when you are doing responsive design,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 482.59999999999997,
+            "end": 485.32,
+            "text": " then you guys understand the concept of breakpoints."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 485.32,
+            "end": 488.03999999999996,
+            "text": " We break the website on some 2-3 breakpoints."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 488.03999999999996,
+            "end": 491.68,
+            "text": " We say, the devices of the phone are below 455 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 491.68,
+            "end": 493.4,
+            "text": " This is an arbitrary number."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 493.4,
+            "end": 496.44,
+            "text": " You guys can take a good approximation of this number."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 496.44,
+            "end": 497.88,
+            "text": " But I am telling you an example."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 497.88,
+            "end": 498.91999999999996,
+            "text": " Bigger than 455 pixels,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 499.08,
+            "end": 500.64,
+            "text": " the devices of our phone,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 500.64,
+            "end": 503.32,
+            "text": " let us say, from 455 to 750."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 503.32,
+            "end": 504.44,
+            "text": " We consider them as tablets."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 504.44,
+            "end": 506.44,
+            "text": " That they will be like tablets somewhere."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 506.44,
+            "end": 509.2,
+            "text": " And we will apply some other styles in them."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 509.2,
+            "end": 511.24,
+            "text": " Then the devices above that,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 511.24,
+            "end": 513.4,
+            "text": " let us say, up to 1080 pixels."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 513.4,
+            "end": 517.24,
+            "text": " We will say, that 19-20 or whatever the pixels are,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 517.24,
+            "end": 518.36,
+            "text": " our widescreen,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 518.36,
+            "end": 519.0,
+            "text": " up to there,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 519.0,
+            "end": 520.6,
+            "text": " a particular style will be applied."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 520.6,
+            "end": 522.3199999999999,
+            "text": " Then there are some ultra-wide monitors,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 522.3199999999999,
+            "end": 524.92,
+            "text": " whose width is very high."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 524.92,
+            "end": 528.0799999999999,
+            "text": " In them also, we want to show our website in a different way."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 528.0799999999999,
+            "end": 528.92,
+            "text": " So we, those ultra-wide monitors,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 528.92,
+            "end": 533.0799999999999,
+            "text": " we can decorate our website with some other media queries."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 533.0799999999999,
+            "end": 533.9599999999999,
+            "text": " We can style it."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 533.9599999999999,
+            "end": 534.4799999999999,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 534.4799999999999,
+            "end": 536.4799999999999,
+            "text": " So I hope you understood media queries."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 536.4799999999999,
+            "end": 539.8,
+            "text": " Now, I will use media queries when we will make projects."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 539.8,
+            "end": 541.92,
+            "text": " And I will use media queries a lot."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 541.92,
+            "end": 543.52,
+            "text": " Whenever you are writing raw CSS,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 543.52,
+            "end": 545.3199999999999,
+            "text": " you will definitely use media queries."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 545.3199999999999,
+            "end": 546.8,
+            "text": " If you are using frameworks,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 546.8,
+            "end": 548.36,
+            "text": " then while using frameworks,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 548.36,
+            "end": 550.68,
+            "text": " you will not use media queries because"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 550.68,
+            "end": 551.64,
+            "text": " frameworks,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 551.64,
+            "end": 552.28,
+            "text": " behind the hood,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 552.28,
+            "end": 553.64,
+            "text": " like Tailwind CSS,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 553.64,
+            "end": 555.48,
+            "text": " uses media queries behind the hood."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 555.48,
+            "end": 556.4399999999999,
+            "text": " Bootstrap,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 556.4399999999999,
+            "end": 558.28,
+            "text": " uses media queries behind the hood."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 558.28,
+            "end": 560.04,
+            "text": " But we will write raw CSS."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 560.04,
+            "end": 561.64,
+            "text": " We will make projects in raw CSS."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 561.64,
+            "end": 563.12,
+            "text": " You can see there,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 563.12,
+            "end": 565.88,
+            "text": " how I will use media queries."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 565.88,
+            "end": 566.6,
+            "text": " Now before going,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 566.6,
+            "end": 568.4,
+            "text": " I want to show you one more thing."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 568.4,
+            "end": 570.16,
+            "text": " There is a media query,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 570.16,
+            "end": 571.88,
+            "text": " which you all use."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 571.88,
+            "end": 573.8,
+            "text": " I will write AND"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 573.8,
+            "end": 575.8399999999999,
+            "text": " and I will write orientation."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 575.8399999999999,
+            "end": 577.8399999999999,
+            "text": " Orientation."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 577.8399999999999,
+            "end": 579.36,
+            "text": " Suppose I will say landscape."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 579.36,
+            "end": 579.88,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 579.88,
+            "end": 582.04,
+            "text": " When our orientation is landscape,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 582.04,
+            "end": 585.8,
+            "text": " then suppose I want to color background purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 585.8,
+            "end": 586.28,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 586.28,
+            "end": 587.9599999999999,
+            "text": " Whose background do I want to color purple?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 587.96,
+            "end": 588.6,
+            "text": " Body."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 588.6,
+            "end": 589.0,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 589.0,
+            "end": 591.08,
+            "text": " Suppose I want to do something like this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 591.08,
+            "end": 593.2800000000001,
+            "text": " I will color the body purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 593.2800000000001,
+            "end": 594.2,
+            "text": " Not background color,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 594.2,
+            "end": 595.5600000000001,
+            "text": " I will color it purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 595.5600000000001,
+            "end": 598.12,
+            "text": " So I did color the body purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 598.12,
+            "end": 599.44,
+            "text": " When did I color it purple?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 599.44,
+            "end": 601.76,
+            "text": " I did not write anything here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 601.76,
+            "end": 602.76,
+            "text": " In fact, I will do one thing."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 602.76,
+            "end": 605.72,
+            "text": " I will put border in the body."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 605.72,
+            "end": 607.76,
+            "text": " Two pixels solid purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 607.76,
+            "end": 608.0400000000001,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 608.0400000000001,
+            "end": 609.48,
+            "text": " Suppose I did this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 609.48,
+            "end": 610.08,
+            "text": " Now see here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 610.08,
+            "end": 613.5600000000001,
+            "text": " you are getting to see two pixels solid purple."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 613.5600000000001,
+            "end": 614.88,
+            "text": " You are getting to see this when"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 614.88,
+            "end": 616.52,
+            "text": " my orientation is landscape."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 616.52,
+            "end": 617.72,
+            "text": " But if my orientation is landscape,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 617.96,
+            "end": 620.32,
+            "text": " then it will disappear."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 620.32,
+            "end": 621.44,
+            "text": " What does portrait mean?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 621.44,
+            "end": 624.24,
+            "text": " Portrait means that"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 624.24,
+            "end": 625.4000000000001,
+            "text": " our height,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 625.4000000000001,
+            "end": 626.0400000000001,
+            "text": " this height,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 626.0400000000001,
+            "end": 626.88,
+            "text": " this is portrait."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 626.88,
+            "end": 629.6800000000001,
+            "text": " This height is more than width."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 629.6800000000001,
+            "end": 630.88,
+            "text": " And if width is more than height,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 630.88,
+            "end": 631.6800000000001,
+            "text": " then it is landscape."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 631.6800000000001,
+            "end": 632.5600000000001,
+            "text": " So see, if it is landscape,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 632.5600000000001,
+            "end": 633.6,
+            "text": " then this border is visible."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 633.6,
+            "end": 637.32,
+            "text": " So you can also do orientation, landscape or portrait here."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 637.32,
+            "end": 637.5600000000001,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 637.5600000000001,
+            "end": 639.0400000000001,
+            "text": " So if I did portrait here,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 639.0400000000001,
+            "end": 640.08,
+            "text": " then this will be visible in portrait."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 640.08,
+            "end": 642.8000000000001,
+            "text": " You can see that this border is visible only in portrait."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 642.8000000000001,
+            "end": 646.6800000000001,
+            "text": " So if you want your styles to be enabled in landscape or portrait,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 646.6800000000001,
+            "end": 647.5600000000001,
+            "text": " then you can use this."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 647.5600000000001,
+            "end": 649.6800000000001,
+            "text": " So this media query is also very popular."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 649.6800000000001,
+            "end": 651.2,
+            "text": " But I am telling you again,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 651.2,
+            "end": 652.84,
+            "text": " most of the cases,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 652.84,
+            "end": 656.08,
+            "text": " you will find yourself using this kind of media query."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 656.08,
+            "end": 656.72,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 656.72,
+            "end": 657.36,
+            "text": " With that said,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 657.36,
+            "end": 659.6800000000001,
+            "text": " if you haven't accessed the playlist yet,"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 659.6800000000001,
+            "end": 660.7600000000001,
+            "text": " then I am coming to your house."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 660.7600000000001,
+            "end": 661.32,
+            "text": " It's enough now."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 661.32,
+            "end": 661.6800000000001,
+            "text": " Okay?"
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 661.6800000000001,
+            "end": 663.12,
+            "text": " So I will update the source code."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 663.12,
+            "end": 664.36,
+            "text": " You can access it."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 664.36,
+            "end": 665.44,
+            "text": " Like the video."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 665.44,
+            "end": 666.5600000000001,
+            "text": " Share the playlist."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 666.5600000000001,
+            "end": 667.6400000000001,
+            "text": " Share the video too."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 667.6400000000001,
+            "end": 669.9200000000001,
+            "text": " And make your village and uncle's land mine."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 669.9200000000001,
+            "end": 671.9200000000001,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 671.9200000000001,
+            "end": 674.2800000000001,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 677.5600000000001,
+            "end": 678.5600000000001,
+            "text": " Bye."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 678.5600000000001,
+            "end": 679.5600000000001,
+            "text": " Bye."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 679.5600000000001,
+            "end": 680.5600000000001,
+            "text": " Bye."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 680.5600000000001,
+            "end": 681.5600000000001,
+            "text": " Bye."
+        },
+        {
+            "number": "31",
+            "title": "720p60",
+            "start": 681.5600000000001,
+            "end": 683.5600000000001,
+            "text": " Bye."
+        }
+    ],
+    "text": " There was a time when you were making a website for a client So you had to tell that client specifically That brother, make me responsive to my website But today by default any website is made by you So you have to make it responsive This is the default setting The most important thing for responsiveness is media query For which you have to write some additional code And a website that looks good on your desktop Will also adapt for mobile phones To make your website look good on mobile You will have to use media queries Which are very simple And very straight forward in the syntax In the comment section below Like the video And also write sigma batch op As always I am very excited Let's go to the computer stream Let's roll the intro So guys to save time I have opened my VS code And already I have opened index. I have made a file by the name of HTML I have given a title by the name of css media query And now I will tell you what is media query I will put a very strange style here And I will say Color the background of the body red And you will say The background color of the body is red I will do it And in div I will write Hey I am a red body guy Who am I? Red body guy Means not red body Means the one without body tag is red So this is what it means If you have not accessed the playlist of sigma web development Then access the playlist If you click here and then click here Then you must save And most of all access the GitHub code Now see What do we have to do? That is to preview this obviously And after previewing this You will say Yes, ok, what time is it? Red body is very good Applause Ok But what I have come to tell you today is That you can change styles On the basis of which device you are on See a little story I will tell you I will tell you such a story As grandfathers tell their grandchildren That it used to happen in our time See it used to happen It was not in my time When css2 came, a query named media was introduced and its purpose was only that the media query was telling that if any person is accessing the website on any other device, then styles can be changed. It was called media rule which was introduced in css2 and in css3, the name of this media rule was changed to media query. So in css2, forget about how media rule works, let me tell you how media query works in css3. So what is the syntax of media query in css3? First of all, you write at the rate media. This means that you are writing a media query. After this, you tell which device you want to write the media query on. And before that, a not or only comes, that is, I can write media only screen here. That is, it is only on the screen, then it applies here. So a typical syntax of media query looks like this. We write media not or only that either don't show on this media type or show only if this is the media type. And after that, we write some expressions here about which I will tell you and write css code in it which will be applied when this thing will be satisfied. Okay, now I will tell you how you can use this. So here the media is written, I will write in most of the cases we write only because we want this media query to match only when we are on the screen. When the media is on the screen. And what are the other media types? You can put all, that is, on all media types. Then you can put print, which is the printer etc. If the website is being viewed, then you will see it. Another media type is the screen, which is the most common in the phone, laptop or in your iPad etc. If you are showing, then it is a screen. There is another speech device, which is used for those people who cannot see. So speech is put here. If you want this css style to be applied only when there is a speech device here, then you will write speech here. But in most of the cases, you will only write the screen here. And after that you will write the end here. And you will write a condition something like this. Suppose I write the max width should be 455 pixels. And suppose I want that if this happens, then the background color should be red of the body. Okay. So I will do one thing, I will write the body here. And I will write the background color blue in the body. Okay. I will make the background color blue here. So if the max width is 45 pixels, then the background color will be blue. So I will show you what it means. I will make it small. I will make it small. I will make it small. Look here it is showing the width. I will make it small. I will make it small. I will make it small. Look here you people, if its max width here is 455 pixels, then this css style will be applied. Meaning if it is smaller than 455, then this style will be applied. And if it is bigger than 455, then this style which is written inside it will not apply. So media query works like this. And this is 90% media query. As much as I have told you till now. Right. This is the same syntax applied. You will find yourself applying this same syntax. It will work. in 90-95% of the cases. Media only, screen and max width, 455 or whatever max width, I can also give min width here. If I make it min width here, then what will happen? If I make it min width, then it will apply after how many pixels I gave, I guess I gave 455 pixels. Now you can see here, this media query is enabled. Because our width is more than 455 pixels. If I reduce it, then see this media query is gone, it has also disappeared from here. That means there is no existence of this media query. These CSS styles will not be used anymore. So this media query is not visible. As soon as I increase it, it is saying that this media query is activated. So these styles will not work. That's all about media query. So to summarize, the media query is used to make responsive designs. For example, let us say I have two boxes. I make two boxes here. And I will do div.boxes. And here I will do div.box. And I will put some more boxes. Here I will put .box, I will say that the .box, I want to keep its width, let us say, 344 pixels. And I want to keep its height, let us say, 344 pixels. By the way, why did I choose 344 for this example? If you have any idea, then tell me which is my Isaac Newton brain that I used only 344 pixels. Why didn't I use 392? You must tell me. In the comment section below, if you know. And you see here, till now I have given only the width of the box. And I have also given the background color of this box. And I give its background color, let us say, steel blue. Okay, I have given its background color steel blue. You will get to see these boxes. I also give padding and margin in this. So if I give padding 3 pixels, margin 3 pixels, then you can see that after giving padding and margin, it is looking something like this. Now suppose I want that these boxes, as they are looking, I want these boxes on small screens to look something like this, that they start wrapping themselves. Or then, let us say, I want that, this is a flex box. I know that I have not told you about flex box. I am just flexing it to give you an example. If you don't know what a flex box is, don't take any attention. I will tell you flex box very clearly. But you just understand that by applying display flex, it will come in this kind of container. Now if I make it very small, you see, they are getting smaller like this. So I can say that when I am making it smaller, let us say, when this red breakpoint is coming, 388 pixels is coming, then I will say that its flex direction, make it a column, okay? This is just an example that I am giving you. This is not the best way to do this. Let me tell you. I will say about the boxes that, the flex direction, what should I do? Flex direction column. So what will happen by doing this? As soon as I make it small, now see, I did this. I actually messed it up here. I will make it max width, not min width. I will make it max width. I will not make it min width. Now you see, it is looking something like this. Now as soon as it is small, you see, it came like this. Okay? So what can I basically say? I can say that this phone, means the devices smaller than this, whatever number I had given here, 400 something, 455 pixels smaller devices, apply this CSS in them. Now what happens is, when you are doing responsive design, then you guys understand the concept of breakpoints. We break the website on some 2-3 breakpoints. We say, the devices of the phone are below 455 pixels. This is an arbitrary number. You guys can take a good approximation of this number. But I am telling you an example. Bigger than 455 pixels, the devices of our phone, let us say, from 455 to 750. We consider them as tablets. That they will be like tablets somewhere. And we will apply some other styles in them. Then the devices above that, let us say, up to 1080 pixels. We will say, that 19-20 or whatever the pixels are, our widescreen, up to there, a particular style will be applied. Then there are some ultra-wide monitors, whose width is very high. In them also, we want to show our website in a different way. So we, those ultra-wide monitors, we can decorate our website with some other media queries. We can style it. Okay? So I hope you understood media queries. Now, I will use media queries when we will make projects. And I will use media queries a lot. Whenever you are writing raw CSS, you will definitely use media queries. If you are using frameworks, then while using frameworks, you will not use media queries because frameworks, behind the hood, like Tailwind CSS, uses media queries behind the hood. Bootstrap, uses media queries behind the hood. But we will write raw CSS. We will make projects in raw CSS. You can see there, how I will use media queries. Now before going, I want to show you one more thing. There is a media query, which you all use. I will write AND and I will write orientation. Orientation. Suppose I will say landscape. Okay? When our orientation is landscape, then suppose I want to color background purple. Okay? Whose background do I want to color purple? Body. Okay? Suppose I want to do something like this. I will color the body purple. Not background color, I will color it purple. So I did color the body purple. When did I color it purple? I did not write anything here. In fact, I will do one thing. I will put border in the body. Two pixels solid purple. Okay? Suppose I did this. Now see here, you are getting to see two pixels solid purple. You are getting to see this when my orientation is landscape. But if my orientation is landscape, then it will disappear. What does portrait mean? Portrait means that our height, this height, this is portrait. This height is more than width. And if width is more than height, then it is landscape. So see, if it is landscape, then this border is visible. So you can also do orientation, landscape or portrait here. Okay? So if I did portrait here, then this will be visible in portrait. You can see that this border is visible only in portrait. So if you want your styles to be enabled in landscape or portrait, then you can use this. So this media query is also very popular. But I am telling you again, most of the cases, you will find yourself using this kind of media query. Okay? With that said, if you haven't accessed the playlist yet, then I am coming to your house. It's enough now. Okay? So I will update the source code. You can access it. Like the video. Share the playlist. Share the video too. And make your village and uncle's land mine. Thank you so much guys for watching this video. And I will see you next time. Bye. Bye. Bye. Bye. Bye."
+}

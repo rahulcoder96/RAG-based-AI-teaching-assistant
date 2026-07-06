@@ -1,0 +1,4485 @@
+{
+    "chunks": [
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 0.0,
+            "end": 3.52,
+            "text": " In today's video, I will tell you about the specificity of CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 3.52,
+            "end": 5.84,
+            "text": " Suppose you have an element"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 5.84,
+            "end": 8.120000000000001,
+            "text": " which is styled through CSS in two ways."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 8.120000000000001,
+            "end": 11.4,
+            "text": " That is, we have used two types of selectors to style it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 11.4,
+            "end": 13.72,
+            "text": " And both the styles are saying two different things."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 13.72,
+            "end": 15.88,
+            "text": " Let us say, one style is saying to make the background color red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 15.88,
+            "end": 17.92,
+            "text": " and the other style is saying to make the background color yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 17.92,
+            "end": 19.28,
+            "text": " Which one will apply?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 19.28,
+            "end": 22.88,
+            "text": " This will be determined with the help of specificity in CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 22.88,
+            "end": 24.560000000000002,
+            "text": " In this video, I will tell you all the rules"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 24.560000000000002,
+            "end": 27.04,
+            "text": " on how specificity works in CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 27.04,
+            "end": 29.64,
+            "text": " Do write Sigma Batch OP in the comments below."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 29.64,
+            "end": 31.0,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 31.0,
+            "end": 32.68,
+            "text": " And let's roll the intro."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 41.16,
+            "end": 42.480000000000004,
+            "text": " I am Ashok in my computer screen."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 42.480000000000004,
+            "end": 44.36,
+            "text": " And today's video is going to be important because"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 44.36,
+            "end": 46.519999999999996,
+            "text": " in today's video, I am going to tell you"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 46.519999999999996,
+            "end": 51.08,
+            "text": " how to decide which of the conflicted classes"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 51.08,
+            "end": 54.519999999999996,
+            "text": " and which of the conflicting property value pairs will be applied in CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 54.519999999999996,
+            "end": 57.120000000000005,
+            "text": " I will quickly make a folder called video 21 here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 57.120000000000005,
+            "end": 59.56,
+            "text": " And I will open it in my VSCode."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 59.56,
+            "end": 64.56,
+            "text": " I will make an index.html and I will start this video with a question."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 64.56,
+            "end": 66.56,
+            "text": " The question I am going to ask you is this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 66.56,
+            "end": 69.92,
+            "text": " Suppose you have a dev and you have an H1."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 69.92,
+            "end": 76.44,
+            "text": " And in this H1, it is written CSS specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 76.44,
+            "end": 78.16,
+            "text": " Suppose it is written like this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 78.16,
+            "end": 79.92,
+            "text": " And I have added two classes to it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 79.92,
+            "end": 85.68,
+            "text": " One is yellow, one is C red, and one is C purple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 85.68,
+            "end": 87.64,
+            "text": " I have added these three classes."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 87.64,
+            "end": 89.0,
+            "text": " Now I will apply the style here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 89.56,
+            "end": 92.24000000000001,
+            "text": " Look, the color of H1 is red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 92.24000000000001,
+            "end": 94.92,
+            "text": " Or you can call it aqua."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 94.92,
+            "end": 96.68,
+            "text": " And after this, I say that look,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 96.68,
+            "end": 99.92,
+            "text": " the yellow, our class is dot yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 99.92,
+            "end": 102.44,
+            "text": " Color it yellow based on that."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 102.44,
+            "end": 107.84,
+            "text": " And along with that, our C red class is color red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 107.84,
+            "end": 113.08,
+            "text": " And along with that, our C purple is dot C purple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 113.08,
+            "end": 117.56,
+            "text": " According to that, the color is purple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 117.56,
+            "end": 118.84,
+            "text": " So I have applied this here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 118.84,
+            "end": 124.04,
+            "text": " And here I will click to show you that its color is purple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 124.04,
+            "end": 126.48,
+            "text": " On what basis was this purple color applied?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 126.48,
+            "end": 128.12,
+            "text": " I mean, why didn't it become yellow?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 128.12,
+            "end": 130.32,
+            "text": " Because look here, I gave the color aqua in H1."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 130.32,
+            "end": 132.36,
+            "text": " I gave this color according to dot yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 132.36,
+            "end": 134.48000000000002,
+            "text": " Then I gave this color according to C red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 134.48000000000002,
+            "end": 136.44,
+            "text": " Did you apply purple because it was below?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 136.44,
+            "end": 141.28,
+            "text": " Or did you apply purple because this is a class here?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 141.28,
+            "end": 144.92000000000002,
+            "text": " I mean, on what basis are things decided in CSS?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 144.92000000000002,
+            "end": 145.92000000000002,
+            "text": " I will tell you today."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 145.92000000000002,
+            "end": 147.72,
+            "text": " Look, if I put H1 below."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 147.72,
+            "end": 148.64000000000001,
+            "text": " And now if I show it, it is still purple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 148.64000000000001,
+            "end": 154.20000000000002,
+            "text": " So what is the thing that is deciding which color, which conflicting property will be applied?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 154.20000000000002,
+            "end": 160.64000000000001,
+            "text": " So here I want to tell you that there is an algorithm in CSS called Cascade Algorithm."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 160.64000000000001,
+            "end": 162.52,
+            "text": " CSS stands for Cascading Style Sheets."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 162.52,
+            "end": 168.12,
+            "text": " And to resolve any kind of conflict, a cascade algorithm is used in CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 168.12,
+            "end": 173.64000000000001,
+            "text": " This algorithm determines which property will be applied in CSS and which will not be applied."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 173.64000000000001,
+            "end": 177.64000000000001,
+            "text": " Now look here, we have applied many color properties in the same element."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 177.64000000000001,
+            "end": 178.48000000000002,
+            "text": " In different ways."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 178.48,
+            "end": 179.48,
+            "text": " Which property will win here?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 179.48,
+            "end": 183.48,
+            "text": " Which will be the winning property?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 183.48,
+            "end": 184.48,
+            "text": " This is determined by the cascade algorithm."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 184.48,
+            "end": 186.48,
+            "text": " So there are 4 rules in the cascade algorithm."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 186.48,
+            "end": 187.48,
+            "text": " At a very high level."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 187.48,
+            "end": 191.48,
+            "text": " The first rule says that look, position and order of appearance is important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 191.48,
+            "end": 196.48,
+            "text": " If you have kept the position after anything, then that property will be applied."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 196.48,
+            "end": 199.48,
+            "text": " For example, here you saw that which is H1."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 199.48,
+            "end": 201.48,
+            "text": " Okay, I had kept H1 above."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 201.48,
+            "end": 205.48,
+            "text": " And you saw here that the dot C purple was applied to the property."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 205.48,
+            "end": 207.48,
+            "text": " If I keep the dot C red after."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 207.48000000000002,
+            "end": 208.48000000000002,
+            "text": " Then this will be applied."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 208.48000000000002,
+            "end": 211.48000000000002,
+            "text": " That is, they are using the class selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 211.48000000000002,
+            "end": 213.48000000000002,
+            "text": " And these three are using the class selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 213.48000000000002,
+            "end": 214.48000000000002,
+            "text": " So these three are equal in a way."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 214.48000000000002,
+            "end": 217.48000000000002,
+            "text": " So even after using the class selector, the one that is the lowest,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 217.48000000000002,
+            "end": 220.48000000000002,
+            "text": " that is, the one that is the last, like a variable in programming languages,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 220.48000000000002,
+            "end": 222.48000000000002,
+            "text": " is overwritten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 222.48000000000002,
+            "end": 224.48000000000002,
+            "text": " In the same way, this can also be overwritten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 224.48000000000002,
+            "end": 226.48000000000002,
+            "text": " If there is a same type of selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 226.48000000000002,
+            "end": 227.48000000000002,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 227.48000000000002,
+            "end": 228.48000000000002,
+            "text": " Then look here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 228.48000000000002,
+            "end": 229.48000000000002,
+            "text": " C is red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 229.48000000000002,
+            "end": 230.48000000000002,
+            "text": " So here the color will be red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 230.48000000000002,
+            "end": 231.48000000000002,
+            "text": " C red will be red at the end."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 231.48000000000002,
+            "end": 236.48000000000002,
+            "text": " But where the style of the selector changes, there again the specificity is used."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 236.48000000000002,
+            "end": 238.48000000000002,
+            "text": " Now what is this specificity?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 238.48000000000002,
+            "end": 241.48000000000002,
+            "text": " Specificity is calculated for a particular selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 241.48000000000002,
+            "end": 242.48000000000002,
+            "text": " I will tell you this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 242.48000000000002,
+            "end": 245.48000000000002,
+            "text": " So let's understand the position and order of appearance first."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 245.48000000000002,
+            "end": 247.48000000000002,
+            "text": " What is the effect of the position?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 247.48000000000002,
+            "end": 249.48000000000002,
+            "text": " Look, the thing that you will write later."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 249.48000000000002,
+            "end": 250.48000000000002,
+            "text": " If it is the same selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 250.48000000000002,
+            "end": 253.48000000000002,
+            "text": " Suppose you are using the element selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 253.48000000000002,
+            "end": 254.48000000000002,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 254.48000000000002,
+            "end": 256.48,
+            "text": " And suppose you are using only the class selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 256.48,
+            "end": 257.48,
+            "text": " So the one that will happen later will win."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 257.48,
+            "end": 258.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 258.48,
+            "end": 259.48,
+            "text": " Suppose I am not using this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 259.48,
+            "end": 260.48,
+            "text": " I will comment it out."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 260.48,
+            "end": 264.48,
+            "text": " So it will win from dot yellow, dot C purple and dot C red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 264.48,
+            "end": 265.48,
+            "text": " Which is the latter."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 265.48,
+            "end": 267.48,
+            "text": " If I put the dot yellow at the end, then it will win."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 267.48,
+            "end": 268.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 268.48,
+            "end": 271.48,
+            "text": " That means if the selector is of the same type, like the class selector, the ID selector"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 271.48,
+            "end": 276.48,
+            "text": " or if there are three selectors of the same type, then the conflict will be resolved in"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 276.48,
+            "end": 277.48,
+            "text": " which one is after this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 277.48,
+            "end": 278.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 278.48,
+            "end": 280.48,
+            "text": " So you saw here that the one that was at the end won."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 280.48,
+            "end": 282.48,
+            "text": " Here it became yellow because yellow was at the end."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 282.48,
+            "end": 283.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 283.48,
+            "end": 286.48,
+            "text": " But where we change the selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 286.48,
+            "end": 288.48,
+            "text": " Suppose I make it an ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 288.48,
+            "end": 290.48,
+            "text": " Or I make it an element selector like H1."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 290.48,
+            "end": 293.48,
+            "text": " So here we use the specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 293.48,
+            "end": 295.48,
+            "text": " Now the specificity will be calculated."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 295.48,
+            "end": 296.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 296.48,
+            "end": 297.48,
+            "text": " What is specificity?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 297.48,
+            "end": 299.48,
+            "text": " Let me tell you what specificity is."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 299.48,
+            "end": 303.48,
+            "text": " Specificity is basically calculated as a value."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 303.48,
+            "end": 308.48,
+            "text": " Specificity says that which CSS selector is the most specific."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 308.48,
+            "end": 310.48,
+            "text": " For example, let me show you here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 310.48,
+            "end": 314.48,
+            "text": " So the ID selector is considered the most specific."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 314.48,
+            "end": 316.48,
+            "text": " But it is considered to be more specific inline style."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 316.48,
+            "end": 319.48,
+            "text": " That means if you put inline style, that is, style is equal to and write anything,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 319.48,
+            "end": 323.48,
+            "text": " then it will be considered as a guru mantra by that tag."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 323.48,
+            "end": 324.48,
+            "text": " As I tell you."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 324.48,
+            "end": 331.48,
+            "text": " Let me tell you that if I write style is equal to color blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 331.48,
+            "end": 332.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 332.48,
+            "end": 333.48,
+            "text": " Then the matter is over."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 333.48,
+            "end": 334.48,
+            "text": " The style attribute has come."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 334.48,
+            "end": 336.48,
+            "text": " The most priority is in specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 336.48,
+            "end": 339.48,
+            "text": " So it will not even see what you have written in CSS regarding color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 339.48,
+            "end": 342.48,
+            "text": " Color will apply blue quietly as you can see here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 342.48,
+            "end": 344.48,
+            "text": " Now if I show you here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 344.48,
+            "end": 345.48,
+            "text": " If I remove this now."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 345.48,
+            "end": 347.48,
+            "text": " Then the matter will come to specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 347.48,
+            "end": 349.48,
+            "text": " Which is the most specific selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 349.48,
+            "end": 351.48,
+            "text": " Everyone's specificity will be calculated."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 351.48,
+            "end": 352.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 352.48,
+            "end": 355.48,
+            "text": " Now let me show you how to calculate specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 355.48,
+            "end": 358.48,
+            "text": " See, if you have very simple selectors."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 358.48,
+            "end": 363.48,
+            "text": " Such as inline style is given the most priority."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 363.48,
+            "end": 365.48,
+            "text": " After that comes ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 365.48,
+            "end": 368.48,
+            "text": " If anything has been selected from ID, it is the most specific."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 368.48,
+            "end": 372.48,
+            "text": " That means if you have put styles in ID, then they will apply."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 372.48,
+            "end": 376.48,
+            "text": " More than if you have put in class or if you have used attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 376.48,
+            "end": 377.48,
+            "text": " What is attribute selector?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 377.48,
+            "end": 379.48,
+            "text": " By the way, let me tell you what attribute selector is."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 379.48,
+            "end": 384.48,
+            "text": " Suppose I have here, let us say area."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 384.48,
+            "end": 389.48,
+            "text": " Or if I put data x is equal to 1."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 389.48,
+            "end": 391.48,
+            "text": " Or if I put data x is equal to a."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 391.48,
+            "end": 396.48,
+            "text": " So I can say that where data x's value."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 396.48,
+            "end": 397.48,
+            "text": " What will I say?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 397.48,
+            "end": 399.48,
+            "text": " Data x's value is a."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 399.48,
+            "end": 401.48,
+            "text": " I will put equals to a here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 401.48,
+            "end": 403.48,
+            "text": " What should I do there?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 403.48,
+            "end": 404.48,
+            "text": " Red the background color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 404.48,
+            "end": 405.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 405.48,
+            "end": 407.48,
+            "text": " So data x equals to a."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 407.48,
+            "end": 409.48,
+            "text": " Let me show you here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 409.48,
+            "end": 410.48,
+            "text": " The background color is red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 410.48,
+            "end": 411.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 411.48,
+            "end": 412.48,
+            "text": " So this is attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 412.48,
+            "end": 416.48,
+            "text": " That means I am saying that the element where data x's value is a."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 416.48,
+            "end": 417.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 417.48,
+            "end": 418.48,
+            "text": " That is this element."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 418.48,
+            "end": 419.48,
+            "text": " This is attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 419.48,
+            "end": 420.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 420.48,
+            "end": 421.48,
+            "text": " Just I was telling you what attribute selector is."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 421.48,
+            "end": 423.48,
+            "text": " So the most specific will be inline styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 423.48,
+            "end": 425.48,
+            "text": " After that will be ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 425.48,
+            "end": 427.48,
+            "text": " After that will be class or attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 427.48,
+            "end": 428.48,
+            "text": " Then element selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 428.48,
+            "end": 430.48,
+            "text": " Then universal selector which is star."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 430.48,
+            "end": 431.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 431.48,
+            "end": 435.48,
+            "text": " So you will always try to use at least specific selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 435.48,
+            "end": 436.48,
+            "text": " Why?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 436.48,
+            "end": 437.48,
+            "text": " Because it will be easy to overwrite."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 437.48,
+            "end": 438.48,
+            "text": " Suppose I have written any style."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 438.48,
+            "end": 440.48,
+            "text": " Using universal selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 440.48,
+            "end": 442.48,
+            "text": " Now my mood is that I will overwrite it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 442.48,
+            "end": 444.48,
+            "text": " So I will use element selector and overwrite it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 444.48,
+            "end": 446.48,
+            "text": " I want to overwrite this too."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 446.48,
+            "end": 450.48,
+            "text": " So I overwrite it using class or attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 450.48,
+            "end": 451.48,
+            "text": " I want to overwrite this too."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 451.48,
+            "end": 454.48,
+            "text": " I overwrite it using ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 454.48,
+            "end": 456.48,
+            "text": " But where I have used inline style."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 456.48,
+            "end": 458.48,
+            "text": " Then it will be difficult for me to overwrite it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 458.48,
+            "end": 459.48,
+            "text": " Then what will I do?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 459.48,
+            "end": 462.48,
+            "text": " So this thing gives a little problem."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 462.48,
+            "end": 466.48,
+            "text": " So here you see that the position matters."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 466.48,
+            "end": 467.48,
+            "text": " If there is only one type of selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 467.48,
+            "end": 468.48,
+            "text": " The selector is exactly same."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 468.48,
+            "end": 470.48,
+            "text": " That means the specificity is exactly same."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 470.48,
+            "end": 472.48,
+            "text": " So you will see the position."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 472.48,
+            "end": 474.48,
+            "text": " Which will be the most important thing."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 474.48,
+            "end": 476.48,
+            "text": " I will teach you to calculate specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 476.48,
+            "end": 477.48,
+            "text": " Exact value."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 477.48,
+            "end": 478.48,
+            "text": " But I have told you at a high level."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 478.48,
+            "end": 482.48,
+            "text": " That inline style is their priority."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 482.48,
+            "end": 484.48,
+            "text": " After that if you have used ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 484.48,
+            "end": 485.48,
+            "text": " Then it will be given priority."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 485.48,
+            "end": 487.48,
+            "text": " After that class selector will be given priority."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 487.48,
+            "end": 488.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 488.48,
+            "end": 489.48,
+            "text": " After this comes origin."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 489.48,
+            "end": 491.48,
+            "text": " The order in which CSS appears."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 491.48,
+            "end": 493.48,
+            "text": " And where it comes from."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 493.48,
+            "end": 494.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 494.48,
+            "end": 496.48,
+            "text": " Now here origin is very important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 496.48,
+            "end": 501.48,
+            "text": " Because if your CSS is coming from your browser style."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 501.48,
+            "end": 504.48,
+            "text": " Because if you have not used CSS in any element."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 504.48,
+            "end": 507.48,
+            "text": " Then browser has its own style sheet."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 507.48,
+            "end": 509.48,
+            "text": " Which is called user agent style sheet."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 509.48,
+            "end": 512.48,
+            "text": " So here if I right click and show you by inspecting."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 512.48,
+            "end": 515.48,
+            "text": " Suppose if I show this heading of effective position."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 515.48,
+            "end": 517.48,
+            "text": " So here some styles are coming from user agent style sheet."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 517.48,
+            "end": 518.48,
+            "text": " I will show you here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 518.48,
+            "end": 520.48,
+            "text": " Now see user agent style sheet."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 520.48,
+            "end": 522.48,
+            "text": " It means that this browser has applied it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 522.48,
+            "end": 524.48,
+            "text": " So where is it coming from?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 524.48,
+            "end": 525.48,
+            "text": " What is its priority?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 525.48,
+            "end": 527.48,
+            "text": " It means that if you have written styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 527.48,
+            "end": 529.48,
+            "text": " Then it will overwrite user agent style sheet."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 529.48,
+            "end": 530.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 530.48,
+            "end": 531.48,
+            "text": " So this is origin."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 531.48,
+            "end": 532.48,
+            "text": " Its role is very less."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 532.48,
+            "end": 534.48,
+            "text": " But it is very important for you to know about it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 534.48,
+            "end": 536.48,
+            "text": " After this comes importance."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 536.48,
+            "end": 538.48,
+            "text": " That means if you have put important somewhere."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 538.48,
+            "end": 539.48,
+            "text": " Then it will be most important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 539.48,
+            "end": 540.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 540.48,
+            "end": 541.48,
+            "text": " So if you have put important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 541.48,
+            "end": 542.48,
+            "text": " Then what will happen?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 542.48,
+            "end": 543.48,
+            "text": " Then it will be very important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 543.48,
+            "end": 547.48,
+            "text": " And then CSS will have to apply it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 547.48,
+            "end": 550.48,
+            "text": " That means it will overwrite inline styles too."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 550.48,
+            "end": 551.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 551.48,
+            "end": 553.48,
+            "text": " Suppose I have done its color inline styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 553.48,
+            "end": 554.48,
+            "text": " Suppose red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 554.48,
+            "end": 555.48,
+            "text": " Style is equal to."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 555.48,
+            "end": 556.48,
+            "text": " I have done its color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 556.48,
+            "end": 557.48,
+            "text": " Suppose I have done its aqua."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 557.48,
+            "end": 558.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 558.48,
+            "end": 559.48,
+            "text": " I don't even do aqua."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 559.48,
+            "end": 560.48,
+            "text": " I will do something else."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 560.48,
+            "end": 561.48,
+            "text": " Why is there no color coming in my mind?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 561.48,
+            "end": 562.48,
+            "text": " Suppose I make it maroon."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 562.48,
+            "end": 563.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 563.48,
+            "end": 564.48,
+            "text": " Now if I want to overwrite it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 564.48,
+            "end": 566.48,
+            "text": " Then it can overwrite only one thing."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 566.48,
+            "end": 567.48,
+            "text": " And that is important in CSS."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 567.48,
+            "end": 568.48,
+            "text": " If I do it like this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 568.48,
+            "end": 569.48,
+            "text": " Color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 569.48,
+            "end": 570.48,
+            "text": " Blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 570.48,
+            "end": 572.48,
+            "text": " Actually I am putting it in the style of element."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 572.48,
+            "end": 574.48,
+            "text": " That means I am putting inline styles in it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 574.48,
+            "end": 576.48,
+            "text": " That's why it is changing here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 576.48,
+            "end": 577.48,
+            "text": " But I will reload it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 577.48,
+            "end": 578.48,
+            "text": " And what will I do here?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 578.48,
+            "end": 581.48,
+            "text": " Which class is not being applied in it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 581.48,
+            "end": 582.48,
+            "text": " Suppose I put it here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 582.48,
+            "end": 583.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 583.48,
+            "end": 584.48,
+            "text": " If I put it here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 584.48,
+            "end": 585.48,
+            "text": " If I do color blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 585.48,
+            "end": 586.48,
+            "text": " Then it will not be applied."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 586.48,
+            "end": 587.48,
+            "text": " But if I do here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 587.48,
+            "end": 588.48,
+            "text": " Color blue important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 588.48,
+            "end": 590.48,
+            "text": " That means in my yellow class."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 590.48,
+            "end": 591.48,
+            "text": " I do color blue important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 591.48,
+            "end": 592.48,
+            "text": " And if I do here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 592.48,
+            "end": 593.48,
+            "text": " Important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 593.48,
+            "end": 594.48,
+            "text": " Then it will become blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 594.48,
+            "end": 595.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 595.48,
+            "end": 596.48,
+            "text": " So where you have put important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 596.48,
+            "end": 597.48,
+            "text": " It has the most priority."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 597.48,
+            "end": 598.48,
+            "text": " It will overwrite inline styles too."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 598.48,
+            "end": 599.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 599.48,
+            "end": 600.48,
+            "text": " So this is specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 600.48,
+            "end": 601.48,
+            "text": " In this video."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 601.48,
+            "end": 602.48,
+            "text": " In the coming time."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 602.48,
+            "end": 603.48,
+            "text": " I will tell you a note."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 603.48,
+            "end": 604.48,
+            "text": " It is a very important note."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 604.48,
+            "end": 605.48,
+            "text": " Understand it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 605.48,
+            "end": 606.48,
+            "text": " And it is so important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 606.48,
+            "end": 607.48,
+            "text": " You will also clap for the note."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 607.48,
+            "end": 608.48,
+            "text": " You will say."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 608.48,
+            "end": 609.48,
+            "text": " Brother."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 609.48,
+            "end": 610.48,
+            "text": " I know a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 610.48,
+            "end": 611.48,
+            "text": " I know a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 611.48,
+            "end": 612.48,
+            "text": " I know a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 612.48,
+            "end": 613.48,
+            "text": " I know a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 613.48,
+            "end": 614.48,
+            "text": " I know a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 614.48,
+            "end": 615.48,
+            "text": " You have said a lot."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 615.48,
+            "end": 616.48,
+            "text": " Brother."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 616.48,
+            "end": 617.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 617.48,
+            "end": 618.48,
+            "text": " But before that."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 618.48,
+            "end": 619.48,
+            "text": " I will tell you."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 619.48,
+            "end": 620.48,
+            "text": " How do you do specificity calculation of any particular element."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 620.48,
+            "end": 621.48,
+            "text": " I want to tell you."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 621.48,
+            "end": 622.48,
+            "text": " This is very important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 622.48,
+            "end": 623.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 623.48,
+            "end": 624.48,
+            "text": " Now in specificity calculation."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 624.48,
+            "end": 625.48,
+            "text": " What you do."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 625.48,
+            "end": 626.48,
+            "text": " Give zero points to universal selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 626.48,
+            "end": 627.48,
+            "text": " If there is element selector or pseudo elements."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 627.48,
+            "end": 628.48,
+            "text": " Then give it one point."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 628.48,
+            "end": 629.48,
+            "text": " Class selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 629.48,
+            "end": 630.48,
+            "text": " Attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 630.48,
+            "end": 631.48,
+            "text": " Or pseudo classes."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 631.48,
+            "end": 632.48,
+            "text": " Give it ten points."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 632.48,
+            "end": 633.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 633.48,
+            "end": 634.48,
+            "text": " After that."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 634.48,
+            "end": 635.48,
+            "text": " Give 100 points to ID selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 635.48,
+            "end": 636.48,
+            "text": " Give 1000 points to inline styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 636.48,
+            "end": 637.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 637.48,
+            "end": 638.48,
+            "text": " So these values."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 638.48,
+            "end": 639.48,
+            "text": " According to this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 639.48,
+            "end": 640.48,
+            "text": " You will give points."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 640.48,
+            "end": 641.48,
+            "text": " And what happens with this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 641.48,
+            "end": 642.48,
+            "text": " Basically."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 642.48,
+            "end": 643.48,
+            "text": " It is easy to solve questions."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 643.48,
+            "end": 644.48,
+            "text": " I will tell you."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 644.48,
+            "end": 645.48,
+            "text": " How."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 645.48,
+            "end": 646.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 646.48,
+            "end": 647.48,
+            "text": " Like."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 647.48,
+            "end": 648.48,
+            "text": " Assume."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 648.48,
+            "end": 649.48,
+            "text": " You have."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 649.48,
+            "end": 650.48,
+            "text": " Here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 650.48,
+            "end": 651.48,
+            "text": " You have to calculate."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 651.48,
+            "end": 652.48,
+            "text": " How many of these have specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 652.48,
+            "end": 653.48,
+            "text": " So how will you do."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 653.48,
+            "end": 654.48,
+            "text": " So here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 654.48,
+            "end": 655.48,
+            "text": " You can see."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 655.48,
+            "end": 656.48,
+            "text": " That we have."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 656.48,
+            "end": 657.48,
+            "text": " Different types of selectors."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 657.48,
+            "end": 658.48,
+            "text": " I told you."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 658.48,
+            "end": 659.48,
+            "text": " The element selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 659.48,
+            "end": 660.48,
+            "text": " How specific it is."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 660.48,
+            "end": 661.48,
+            "text": " Give it one."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 661.48,
+            "end": 662.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 662.48,
+            "end": 663.48,
+            "text": " If there is universal selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 663.48,
+            "end": 664.48,
+            "text": " Then you will give it zero."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 664.48,
+            "end": 665.48,
+            "text": " And the element selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 665.48,
+            "end": 666.48,
+            "text": " You will give it one."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 666.48,
+            "end": 667.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 667.48,
+            "end": 668.48,
+            "text": " So what will I do."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 668.48,
+            "end": 669.48,
+            "text": " Here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 669.48,
+            "end": 670.48,
+            "text": " I will give value."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 670.48,
+            "end": 671.48,
+            "text": " One."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 671.48,
+            "end": 672.48,
+            "text": " The."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 672.48,
+            "end": 674.48,
+            "text": " Specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 674.48,
+            "end": 675.48,
+            "text": " Of."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 675.48,
+            "end": 676.48,
+            "text": " This."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 676.48,
+            "end": 677.48,
+            "text": " Is one."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 677.48,
+            "end": 678.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 678.48,
+            "end": 679.48,
+            "text": " I will comment out here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 679.48,
+            "end": 681.48,
+            "text": " I will give it one."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 681.48,
+            "end": 682.48,
+            "text": " Then the class selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 682.48,
+            "end": 683.48,
+            "text": " What is its specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 683.48,
+            "end": 684.48,
+            "text": " It is ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 684.48,
+            "end": 685.48,
+            "text": " So I will give it ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 685.48,
+            "end": 686.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 686.48,
+            "end": 689.48,
+            "text": " And same goes for this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 689.48,
+            "end": 690.48,
+            "text": " It will also be ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 690.48,
+            "end": 691.48,
+            "text": " I will copy it from here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 691.48,
+            "end": 692.48,
+            "text": " It will also be ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 692.48,
+            "end": 693.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 693.48,
+            "end": 695.48,
+            "text": " And I will document it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 695.48,
+            "end": 696.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 696.48,
+            "end": 697.48,
+            "text": " I will write it here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 697.48,
+            "end": 699.48,
+            "text": " This is an example of."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 702.48,
+            "end": 703.48,
+            "text": " Example of."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 703.48,
+            "end": 704.48,
+            "text": " Attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 704.48,
+            "end": 705.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 705.48,
+            "end": 706.48,
+            "text": " And the attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 706.48,
+            "end": 707.48,
+            "text": " The specificity of this selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 707.48,
+            "end": 708.48,
+            "text": " What will it be?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 708.48,
+            "end": 709.48,
+            "text": " The specificity of attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 709.48,
+            "end": 710.48,
+            "text": " How much is it?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 710.48,
+            "end": 711.48,
+            "text": " Ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 711.48,
+            "end": 712.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 712.48,
+            "end": 713.48,
+            "text": " Elemental attribute selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 713.48,
+            "end": 714.48,
+            "text": " Ten."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 714.48,
+            "end": 715.48,
+            "text": " So we will write it like this."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 715.48,
+            "end": 716.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 716.48,
+            "end": 717.48,
+            "text": " So I have told you this thing."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 717.48,
+            "end": 718.48,
+            "text": " Now you will see."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 718.48,
+            "end": 719.48,
+            "text": " Whose specificity is the most."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 719.48,
+            "end": 720.48,
+            "text": " The most specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 720.48,
+            "end": 721.48,
+            "text": " Of these three."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 721.48,
+            "end": 722.48,
+            "text": " There is a tie in these three."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 722.48,
+            "end": 723.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 723.48,
+            "end": 724.48,
+            "text": " So to break the tie."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 724.48,
+            "end": 725.48,
+            "text": " What do we do?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 725.48,
+            "end": 726.48,
+            "text": " Let's see the position."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 726.48,
+            "end": 727.48,
+            "text": " The one that comes later."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 727.48,
+            "end": 728.48,
+            "text": " It is separate."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 728.48,
+            "end": 729.48,
+            "text": " Here yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 729.48,
+            "end": 730.48,
+            "text": " Comes later."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 730.48,
+            "end": 731.48,
+            "text": " Here yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 731.48,
+            "end": 732.48,
+            "text": " And yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 732.48,
+            "end": 733.48,
+            "text": " Comes later."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 733.48,
+            "end": 734.48,
+            "text": " So its color will be yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 734.48,
+            "end": 735.48,
+            "text": " And obviously."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 735.48,
+            "end": 736.48,
+            "text": " I will remove inline styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 736.48,
+            "end": 737.48,
+            "text": " So just to give you an example."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 737.48,
+            "end": 738.48,
+            "text": " I had kept inline styles."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 738.48,
+            "end": 739.48,
+            "text": " So here you can see."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 739.48,
+            "end": 740.48,
+            "text": " That its color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 740.48,
+            "end": 741.48,
+            "text": " Oops."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 741.48,
+            "end": 742.48,
+            "text": " I will preview it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 742.48,
+            "end": 743.48,
+            "text": " Yellow came."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 743.48,
+            "end": 744.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 744.48,
+            "end": 745.48,
+            "text": " But if I put any of these."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 745.48,
+            "end": 746.48,
+            "text": " Below."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 746.48,
+            "end": 747.48,
+            "text": " Like suppose."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 747.48,
+            "end": 748.48,
+            "text": " I put this C red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 748.48,
+            "end": 749.48,
+            "text": " Below."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 749.48,
+            "end": 750.48,
+            "text": " So obviously."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 750.48,
+            "end": 751.48,
+            "text": " Its color will be red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 751.48,
+            "end": 752.48,
+            "text": " No surprises there."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 752.48,
+            "end": 753.48,
+            "text": " Okay."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 753.48,
+            "end": 754.48,
+            "text": " Its color will be red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 754.48,
+            "end": 755.48,
+            "text": " No surprise."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 755.48,
+            "end": 756.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 756.48,
+            "end": 757.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 757.48,
+            "end": 758.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 758.48,
+            "end": 759.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 759.48,
+            "end": 760.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 760.48,
+            "end": 761.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 761.48,
+            "end": 762.48,
+            "text": " No."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 762.48,
+            "end": 763.48,
+            "text": " Because when I put the color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 763.48,
+            "end": 768.48,
+            "text": " So this is red from the surrounding we got."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 768.48,
+            "end": 769.48,
+            "text": " So yellow."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 769.48,
+            "end": 770.48,
+            "text": " This is red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 770.48,
+            "end": 771.48,
+            "text": " Blue coming out."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 771.48,
+            "end": 772.48,
+            "text": " So this one will be blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 772.48,
+            "end": 773.48,
+            "text": " Blue."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 773.48,
+            "end": 774.48,
+            "text": " Red and accepted here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 774.48,
+            "end": 775.48,
+            "text": " So if you see."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 775.48,
+            "end": 777.48,
+            "text": " All the colors are in the middle between the…"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 777.48,
+            "end": 778.48,
+            "text": " See the color."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 778.48,
+            "end": 779.48,
+            "text": " The color also looks like his."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 779.48,
+            "end": 780.48,
+            "text": " It really is red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 780.48,
+            "end": 781.48,
+            "text": " I am just showing."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 781.48,
+            "end": 782.48,
+            "text": " The color is pretty nice."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 782.48,
+            "end": 783.48,
+            "text": " So this was."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 783.48,
+            "end": 784.48,
+            "text": " Eating circuiting."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 784.48,
+            "end": 785.48,
+            "text": " We brought it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 785.48,
+            "end": 786.48,
+            "text": " Food."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 786.48,
+            "end": 787.48,
+            "text": " Peace."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 787.48,
+            "end": 788.48,
+            "text": " S going."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 788.48,
+            "end": 789.48,
+            "text": " Bye."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 789.48,
+            "end": 790.48,
+            "text": " Bye- Futhermore."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 790.48,
+            "end": 792.48,
+            "text": " of this H1"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 792.48,
+            "end": 794.48,
+            "text": " I hope you all commented"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 794.48,
+            "end": 796.48,
+            "text": " and you commented correctly"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 796.48,
+            "end": 798.48,
+            "text": " because the specificity is 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 798.48,
+            "end": 800.48,
+            "text": " so maroon will come"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 800.48,
+            "end": 802.48,
+            "text": " but if I cut it from here"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 802.48,
+            "end": 804.48,
+            "text": " and do it here"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 804.48,
+            "end": 806.48,
+            "text": " then what will happen"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 806.48,
+            "end": 808.48,
+            "text": " then what will happen"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 808.48,
+            "end": 810.48,
+            "text": " if you said red then obviously it will be red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 810.48,
+            "end": 812.48,
+            "text": " why red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 812.48,
+            "end": 814.48,
+            "text": " because its specificity is 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 814.48,
+            "end": 816.48,
+            "text": " and because its specificity is 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 816.48,
+            "end": 818.48,
+            "text": " then"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 818.48,
+            "end": 820.48,
+            "text": " we will make its color red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 820.48,
+            "end": 822.48,
+            "text": " because it is coming later"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 822.48,
+            "end": 824.48,
+            "text": " now I will tell you one thing"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 824.48,
+            "end": 826.48,
+            "text": " and listen carefully"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 826.48,
+            "end": 828.48,
+            "text": " because this is very important"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 828.48,
+            "end": 830.48,
+            "text": " these are simple selectors"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 830.48,
+            "end": 832.48,
+            "text": " but selectors are not always simple"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 832.48,
+            "end": 834.48,
+            "text": " you also know this"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 834.48,
+            "end": 836.48,
+            "text": " sometimes selectors are a.red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 836.48,
+            "end": 838.48,
+            "text": " a.cred"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 838.48,
+            "end": 840.48,
+            "text": " and inside that paragraph"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 840.48,
+            "end": 842.48,
+            "text": " selectors are of this type"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 842.48,
+            "end": 844.48,
+            "text": " div.red"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 844.48,
+            "end": 846.48,
+            "text": " and inside that paragraph"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 846.48,
+            "end": 848.48,
+            "text": " we have complex selectors"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 848.48,
+            "end": 850.48,
+            "text": " so how do we calculate their specificity"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 850.48,
+            "end": 852.48,
+            "text": " let me tell you"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 852.48,
+            "end": 854.48,
+            "text": " to calculate their specificity"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 854.48,
+            "end": 856.48,
+            "text": " what you have to do is"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 856.48,
+            "end": 858.48,
+            "text": " to add values"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 858.48,
+            "end": 860.48,
+            "text": " suppose I write here"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 860.48,
+            "end": 862.48,
+            "text": " H1.yellow"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 862.48,
+            "end": 864.48,
+            "text": " so because of H1"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 864.48,
+            "end": 866.48,
+            "text": " its specificity will be"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 866.48,
+            "end": 868.48,
+            "text": " because H1 is an element"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 868.48,
+            "end": 870.48,
+            "text": " it will be 1"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 870.48,
+            "end": 872.48,
+            "text": " and because of .yellow"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 872.48,
+            "end": 874.48,
+            "text": " its specificity will be 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 874.48,
+            "end": 876.48,
+            "text": " here you can see"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 876.48,
+            "end": 878.48,
+            "text": " 1 plus 10 is equal to 11"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 878.48,
+            "end": 880.48,
+            "text": " because its specificity is more"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 880.48,
+            "end": 882.48,
+            "text": " so its color will be yellow"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 882.48,
+            "end": 884.48,
+            "text": " see here its color will be yellow"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 884.48,
+            "end": 886.48,
+            "text": " why?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 886.48,
+            "end": 888.48,
+            "text": " because because of its element"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 888.48,
+            "end": 890.48,
+            "text": " it got its specificity of 1"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 890.48,
+            "end": 892.48,
+            "text": " and because of its class B"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 892.48,
+            "end": 894.48,
+            "text": " it got its specificity of 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 894.48,
+            "end": 896.48,
+            "text": " I hope you understood this"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 896.48,
+            "end": 898.48,
+            "text": " so this is how specificity values"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 898.48,
+            "end": 900.48,
+            "text": " are calculated for any selectors"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 900.48,
+            "end": 902.48,
+            "text": " now many people may not understand"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 902.48,
+            "end": 904.48,
+            "text": " this video"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 904.48,
+            "end": 906.48,
+            "text": " if you have seen it in one run"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 906.48,
+            "end": 908.48,
+            "text": " I will recommend you to watch"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 908.48,
+            "end": 910.48,
+            "text": " this particular video again"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 910.48,
+            "end": 912.48,
+            "text": " because I have explained it very well"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 912.48,
+            "end": 914.48,
+            "text": " and I will give you the link"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 914.48,
+            "end": 916.48,
+            "text": " in the description of this video"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 916.48,
+            "end": 918.48,
+            "text": " you can read this tutorial"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 918.48,
+            "end": 920.48,
+            "text": " I have explained it very well"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 920.48,
+            "end": 922.48,
+            "text": " so you can read this too"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 922.48,
+            "end": 924.48,
+            "text": " and you don't have to remember the values"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 924.48,
+            "end": 926.48,
+            "text": " and I will tell you that"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 926.48,
+            "end": 928.48,
+            "text": " in a while"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 928.48,
+            "end": 930.48,
+            "text": " but here you have seen"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 930.48,
+            "end": 932.48,
+            "text": " that you can do it this way"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 932.48,
+            "end": 934.48,
+            "text": " specificity of inline styles is 1000"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 934.48,
+            "end": 936.48,
+            "text": " and if you put important"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 936.48,
+            "end": 938.48,
+            "text": " then its specificity"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 938.48,
+            "end": 940.48,
+            "text": " gets added to 10,000 points"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 940.48,
+            "end": 942.48,
+            "text": " and it becomes very difficult to"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 942.48,
+            "end": 944.48,
+            "text": " override it"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 944.48,
+            "end": 946.48,
+            "text": " so I hope you understood all these things"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 946.48,
+            "end": 948.48,
+            "text": " now I have given a quick quiz"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 948.48,
+            "end": 950.48,
+            "text": " about its specificity value"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 950.48,
+            "end": 952.48,
+            "text": " please don't cheat"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 952.48,
+            "end": 954.48,
+            "text": " I have given a solution in this"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 954.48,
+            "end": 956.48,
+            "text": " please don't cheat"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 956.48,
+            "end": 958.48,
+            "text": " tell me its specificity value"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 958.48,
+            "end": 960.48,
+            "text": " if you have a class like this"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 960.48,
+            "end": 962.48,
+            "text": " tell me quickly by commenting"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 962.48,
+            "end": 964.48,
+            "text": " pause the video"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 964.48,
+            "end": 966.48,
+            "text": " because I will solve it directly"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 966.48,
+            "end": 968.48,
+            "text": " and I will give the color"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 968.48,
+            "end": 970.48,
+            "text": " for example blue violet"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 970.48,
+            "end": 972.48,
+            "text": " I am doing blue violet"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 972.48,
+            "end": 974.48,
+            "text": " I hope you understand"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 974.48,
+            "end": 976.48,
+            "text": " I am waiting for your comment"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 976.48,
+            "end": 978.48,
+            "text": " I hope you commented"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 978.48,
+            "end": 980.48,
+            "text": " so let's calculate"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 980.48,
+            "end": 982.48,
+            "text": " its specificity"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 982.48,
+            "end": 984.48,
+            "text": " first of all"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 984.48,
+            "end": 986.48,
+            "text": " what specificity will you get because of A"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 986.48,
+            "end": 988.48,
+            "text": " because it is an element"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 988.48,
+            "end": 990.48,
+            "text": " then because of class you will get 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 990.48,
+            "end": 992.48,
+            "text": " because of Harry class"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 992.48,
+            "end": 994.48,
+            "text": " because of Rohan class you will get 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 994.48,
+            "end": 996.48,
+            "text": " and then there is HRF"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 996.48,
+            "end": 998.48,
+            "text": " what does that mean"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 998.48,
+            "end": 1000.48,
+            "text": " this is an attribute selector"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1000.48,
+            "end": 1002.48,
+            "text": " and it says if there is a class H1"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1002.48,
+            "end": 1004.48,
+            "text": " I have written H1 only"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1004.48,
+            "end": 1006.48,
+            "text": " I had told you about attribute selector"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1006.48,
+            "end": 1008.48,
+            "text": " if you have written dataX is equal to A"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1008.48,
+            "end": 1010.48,
+            "text": " then it means that dataX has A"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1010.48,
+            "end": 1012.48,
+            "text": " and if you have written dataX"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1012.48,
+            "end": 1014.48,
+            "text": " then it means that dataX is in the element"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1014.48,
+            "end": 1016.48,
+            "text": " then it means that"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1016.48,
+            "end": 1018.48,
+            "text": " there is HRF"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1018.48,
+            "end": 1020.48,
+            "text": " so here is 1 plus 10 plus 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1020.48,
+            "end": 1022.48,
+            "text": " after that there is attribute selector"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1022.48,
+            "end": 1024.48,
+            "text": " which is 10"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1024.48,
+            "end": 1029.48,
+            "text": " As I told you, if you add 10, you'll get 10 more."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1029.48,
+            "end": 1034.48,
+            "text": " And as I told you, if you add pseudo class, you'll get 10 specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1034.48,
+            "end": 1038.48,
+            "text": " So, plus 10 means 10, 20, 30, 40, 41."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1038.48,
+            "end": 1041.48,
+            "text": " So, its specificity is 41."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1041.48,
+            "end": 1044.48,
+            "text": " I hope you all got 41."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1044.48,
+            "end": 1049.48,
+            "text": " The more specificity, the more the style will be specific."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1049.48,
+            "end": 1053.48,
+            "text": " And the probability of it being applied is more."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1053.48,
+            "end": 1055.48,
+            "text": " If there is no specificity anywhere,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1055.48,
+            "end": 1059.48,
+            "text": " that is, if no other selector is that specific to target this element,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1059.48,
+            "end": 1060.48,
+            "text": " then what will happen?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1060.48,
+            "end": 1067.48,
+            "text": " Then these same properties will be applied."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1067.48,
+            "end": 1070.48,
+            "text": " So, 41, and I have explained its solution here as well,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1070.48,
+            "end": 1071.48,
+            "text": " why 41 came."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1071.48,
+            "end": 1073.48,
+            "text": " And I have given values here,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1073.48,
+            "end": 1075.48,
+            "text": " how much value you get from what."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1075.48,
+            "end": 1077.48,
+            "text": " Now, I'll tell you what I was talking about."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1077.48,
+            "end": 1079.48,
+            "text": " I told you the specificity."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1079.48,
+            "end": 1081.48,
+            "text": " I told you what is important."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1081.48,
+            "end": 1083.48,
+            "text": " I also told you how to,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1083.48,
+            "end": 1085.48,
+            "text": " how specificity is calculated."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1085.48,
+            "end": 1087.48,
+            "text": " I told you all these things."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1087.48,
+            "end": 1088.48,
+            "text": " And I'm telling you one thing,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1088.48,
+            "end": 1091.48,
+            "text": " whenever you write your CSS classes or styles,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1091.48,
+            "end": 1097.48,
+            "text": " ensure that you never leave confusion in the mind of any reader or fellow programmer."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1097.48,
+            "end": 1101.48,
+            "text": " I mean, why do you have to target any element again and again?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1101.48,
+            "end": 1102.48,
+            "text": " Why do you have to write classes?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1102.48,
+            "end": 1104.48,
+            "text": " I mean, you're saying that the color of H1 should be red,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1104.48,
+            "end": 1107.48,
+            "text": " and you're also saying that the same element of the same class should be red."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1107.48,
+            "end": 1109.48,
+            "text": " Why do you have to do this?"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1109.48,
+            "end": 1111.48,
+            "text": " Make your websites simple."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1111.48,
+            "end": 1113.48,
+            "text": " If you've targeted someone with an ID,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1113.48,
+            "end": 1116.48,
+            "text": " then you're sure that you don't need to overwrite it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1116.48,
+            "end": 1118.48,
+            "text": " that's why I'm using such a specific selector."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1118.48,
+            "end": 1120.48,
+            "text": " Avoid inline styles,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1120.48,
+            "end": 1123.48,
+            "text": " because overwriting it is only possible with importance."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1123.48,
+            "end": 1125.48,
+            "text": " And avoid importance as well,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1125.48,
+            "end": 1128.48,
+            "text": " because we don't want to go so specific in our web pages."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1128.48,
+            "end": 1130.48,
+            "text": " You try to use classes,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1130.48,
+            "end": 1131.48,
+            "text": " so that you can reuse it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1131.48,
+            "end": 1133.48,
+            "text": " so that you can put different classes in different elements,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1133.48,
+            "end": 1138.48,
+            "text": " and you can apply the properties in those classes easily."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1138.48,
+            "end": 1140.48,
+            "text": " So, I hope you understand what I'm saying."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1140.48,
+            "end": 1143.48,
+            "text": " But, because if you give an interview to WebDev,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1143.48,
+            "end": 1145.48,
+            "text": " then these things are asked,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1145.48,
+            "end": 1147.48,
+            "text": " and people are trapped here."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1147.48,
+            "end": 1149.48,
+            "text": " So, I wanted to tell you this thing,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1149.48,
+            "end": 1152.48,
+            "text": " that you should know what the cascade algorithm is."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1152.48,
+            "end": 1155.48,
+            "text": " These are the four things that decide on the basis of CSS,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1155.48,
+            "end": 1158.48,
+            "text": " which property value pairs to apply."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1158.48,
+            "end": 1161.48,
+            "text": " So, you should understand all these things."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1161.48,
+            "end": 1164.48,
+            "text": " This was very important from the point of view of theory."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1164.48,
+            "end": 1166.48,
+            "text": " Now, if you haven't liked the video,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1166.48,
+            "end": 1167.48,
+            "text": " then like the video,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1167.48,
+            "end": 1169.48,
+            "text": " this playlist is absolutely accurate."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1169.48,
+            "end": 1170.48,
+            "text": " You can access it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1170.48,
+            "end": 1171.48,
+            "text": " or click on it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1171.48,
+            "end": 1172.48,
+            "text": " bookmark it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1172.48,
+            "end": 1173.48,
+            "text": " or click on it,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1173.48,
+            "end": 1174.48,
+            "text": " and save it."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1174.48,
+            "end": 1175.48,
+            "text": " And share it with your friends,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1175.48,
+            "end": 1176.48,
+            "text": " in the name of your village and your uncle,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1176.48,
+            "end": 1178.48,
+            "text": " and prepare to meet me in the next video."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1178.48,
+            "end": 1180.48,
+            "text": " That's all for now, guys."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1180.48,
+            "end": 1181.48,
+            "text": " Thank you so much, guys,"
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1181.48,
+            "end": 1182.48,
+            "text": " for watching this video."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1182.48,
+            "end": 1184.48,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1199.48,
+            "end": 1200.48,
+            "text": " Bye."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1200.48,
+            "end": 1201.48,
+            "text": " Bye."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1201.48,
+            "end": 1202.48,
+            "text": " ."
+        },
+        {
+            "number": "21",
+            "title": "CSS Specificity & Cascade ",
+            "start": 1202.48,
+            "end": 1204.48,
+            "text": " ."
+        }
+    ],
+    "text": " In today's video, I will tell you about the specificity of CSS. Suppose you have an element which is styled through CSS in two ways. That is, we have used two types of selectors to style it. And both the styles are saying two different things. Let us say, one style is saying to make the background color red and the other style is saying to make the background color yellow. Which one will apply? This will be determined with the help of specificity in CSS. In this video, I will tell you all the rules on how specificity works in CSS. Do write Sigma Batch OP in the comments below. Let's go to the computer screen. And let's roll the intro. I am Ashok in my computer screen. And today's video is going to be important because in today's video, I am going to tell you how to decide which of the conflicted classes and which of the conflicting property value pairs will be applied in CSS. I will quickly make a folder called video 21 here. And I will open it in my VSCode. I will make an index.html and I will start this video with a question. The question I am going to ask you is this. Suppose you have a dev and you have an H1. And in this H1, it is written CSS specificity. Suppose it is written like this. And I have added two classes to it. One is yellow, one is C red, and one is C purple. I have added these three classes. Now I will apply the style here. Look, the color of H1 is red. Or you can call it aqua. And after this, I say that look, the yellow, our class is dot yellow. Color it yellow based on that. And along with that, our C red class is color red. And along with that, our C purple is dot C purple. According to that, the color is purple. So I have applied this here. And here I will click to show you that its color is purple. On what basis was this purple color applied? I mean, why didn't it become yellow? Because look here, I gave the color aqua in H1. I gave this color according to dot yellow. Then I gave this color according to C red. Did you apply purple because it was below? Or did you apply purple because this is a class here? I mean, on what basis are things decided in CSS? I will tell you today. Look, if I put H1 below. And now if I show it, it is still purple. So what is the thing that is deciding which color, which conflicting property will be applied? So here I want to tell you that there is an algorithm in CSS called Cascade Algorithm. CSS stands for Cascading Style Sheets. And to resolve any kind of conflict, a cascade algorithm is used in CSS. This algorithm determines which property will be applied in CSS and which will not be applied. Now look here, we have applied many color properties in the same element. In different ways. Which property will win here? Which will be the winning property? This is determined by the cascade algorithm. So there are 4 rules in the cascade algorithm. At a very high level. The first rule says that look, position and order of appearance is important. If you have kept the position after anything, then that property will be applied. For example, here you saw that which is H1. Okay, I had kept H1 above. And you saw here that the dot C purple was applied to the property. If I keep the dot C red after. Then this will be applied. That is, they are using the class selector. And these three are using the class selector. So these three are equal in a way. So even after using the class selector, the one that is the lowest, that is, the one that is the last, like a variable in programming languages, is overwritten. In the same way, this can also be overwritten. If there is a same type of selector. Okay. Then look here. C is red. So here the color will be red. C red will be red at the end. But where the style of the selector changes, there again the specificity is used. Now what is this specificity? Specificity is calculated for a particular selector. I will tell you this. So let's understand the position and order of appearance first. What is the effect of the position? Look, the thing that you will write later. If it is the same selector. Suppose you are using the element selector. Okay. And suppose you are using only the class selector. So the one that will happen later will win. Okay. Suppose I am not using this. I will comment it out. So it will win from dot yellow, dot C purple and dot C red. Which is the latter. If I put the dot yellow at the end, then it will win. Okay. That means if the selector is of the same type, like the class selector, the ID selector or if there are three selectors of the same type, then the conflict will be resolved in which one is after this. Okay. So you saw here that the one that was at the end won. Here it became yellow because yellow was at the end. Okay. But where we change the selector. Suppose I make it an ID selector. Or I make it an element selector like H1. So here we use the specificity. Now the specificity will be calculated. Okay. What is specificity? Let me tell you what specificity is. Specificity is basically calculated as a value. Specificity says that which CSS selector is the most specific. For example, let me show you here. So the ID selector is considered the most specific. But it is considered to be more specific inline style. That means if you put inline style, that is, style is equal to and write anything, then it will be considered as a guru mantra by that tag. As I tell you. Let me tell you that if I write style is equal to color blue. Okay. Then the matter is over. The style attribute has come. The most priority is in specificity. So it will not even see what you have written in CSS regarding color. Color will apply blue quietly as you can see here. Now if I show you here. If I remove this now. Then the matter will come to specificity. Which is the most specific selector. Everyone's specificity will be calculated. Okay. Now let me show you how to calculate specificity. See, if you have very simple selectors. Such as inline style is given the most priority. After that comes ID selector. If anything has been selected from ID, it is the most specific. That means if you have put styles in ID, then they will apply. More than if you have put in class or if you have used attribute selector. What is attribute selector? By the way, let me tell you what attribute selector is. Suppose I have here, let us say area. Or if I put data x is equal to 1. Or if I put data x is equal to a. So I can say that where data x's value. What will I say? Data x's value is a. I will put equals to a here. What should I do there? Red the background color. Okay. So data x equals to a. Let me show you here. The background color is red. Okay. So this is attribute selector. That means I am saying that the element where data x's value is a. Okay. That is this element. This is attribute selector. Okay. Just I was telling you what attribute selector is. So the most specific will be inline styles. After that will be ID selector. After that will be class or attribute selector. Then element selector. Then universal selector which is star. Okay. So you will always try to use at least specific selector. Why? Because it will be easy to overwrite. Suppose I have written any style. Using universal selector. Now my mood is that I will overwrite it. So I will use element selector and overwrite it. I want to overwrite this too. So I overwrite it using class or attribute selector. I want to overwrite this too. I overwrite it using ID selector. But where I have used inline style. Then it will be difficult for me to overwrite it. Then what will I do? So this thing gives a little problem. So here you see that the position matters. If there is only one type of selector. The selector is exactly same. That means the specificity is exactly same. So you will see the position. Which will be the most important thing. I will teach you to calculate specificity. Exact value. But I have told you at a high level. That inline style is their priority. After that if you have used ID selector. Then it will be given priority. After that class selector will be given priority. Okay. After this comes origin. The order in which CSS appears. And where it comes from. Okay. Now here origin is very important. Because if your CSS is coming from your browser style. Because if you have not used CSS in any element. Then browser has its own style sheet. Which is called user agent style sheet. So here if I right click and show you by inspecting. Suppose if I show this heading of effective position. So here some styles are coming from user agent style sheet. I will show you here. Now see user agent style sheet. It means that this browser has applied it. So where is it coming from? What is its priority? It means that if you have written styles. Then it will overwrite user agent style sheet. Okay. So this is origin. Its role is very less. But it is very important for you to know about it. After this comes importance. That means if you have put important somewhere. Then it will be most important. Okay. So if you have put important. Then what will happen? Then it will be very important. And then CSS will have to apply it. That means it will overwrite inline styles too. Okay. Suppose I have done its color inline styles. Suppose red. Style is equal to. I have done its color. Suppose I have done its aqua. Okay. I don't even do aqua. I will do something else. Why is there no color coming in my mind? Suppose I make it maroon. Okay. Now if I want to overwrite it. Then it can overwrite only one thing. And that is important in CSS. If I do it like this. Color. Blue. Actually I am putting it in the style of element. That means I am putting inline styles in it. That's why it is changing here. But I will reload it. And what will I do here? Which class is not being applied in it. Suppose I put it here. Okay. If I put it here. If I do color blue. Then it will not be applied. But if I do here. Color blue important. That means in my yellow class. I do color blue important. And if I do here. Important. Then it will become blue. Okay. So where you have put important. It has the most priority. It will overwrite inline styles too. Okay. So this is specificity. In this video. In the coming time. I will tell you a note. It is a very important note. Understand it. And it is so important. You will also clap for the note. You will say. Brother. I know a lot. I know a lot. I know a lot. I know a lot. I know a lot. You have said a lot. Brother. Okay. But before that. I will tell you. How do you do specificity calculation of any particular element. I want to tell you. This is very important. Okay. Now in specificity calculation. What you do. Give zero points to universal selector. If there is element selector or pseudo elements. Then give it one point. Class selector. Attribute selector. Or pseudo classes. Give it ten points. Okay. After that. Give 100 points to ID selector. Give 1000 points to inline styles. Okay. So these values. According to this. You will give points. And what happens with this. Basically. It is easy to solve questions. I will tell you. How. Okay. Like. Assume. You have. Here. You have to calculate. How many of these have specificity. So how will you do. So here. You can see. That we have. Different types of selectors. I told you. The element selector. How specific it is. Give it one. Okay. If there is universal selector. Then you will give it zero. And the element selector. You will give it one. Okay. So what will I do. Here. I will give value. One. The. Specificity. Of. This. Is one. Okay. I will comment out here. I will give it one. Then the class selector. What is its specificity. It is ten. So I will give it ten. Okay. And same goes for this. It will also be ten. I will copy it from here. It will also be ten. Okay. And I will document it. Okay. I will write it here. This is an example of. Example of. Attribute selector. Okay. And the attribute selector. The specificity of this selector. What will it be? The specificity of attribute selector. How much is it? Ten. Okay. Elemental attribute selector. Ten. So we will write it like this. Okay. So I have told you this thing. Now you will see. Whose specificity is the most. The most specificity. Of these three. There is a tie in these three. Okay. So to break the tie. What do we do? Let's see the position. The one that comes later. It is separate. Here yellow. Comes later. Here yellow. And yellow. Comes later. So its color will be yellow. And obviously. I will remove inline styles. So just to give you an example. I had kept inline styles. So here you can see. That its color. Oops. I will preview it. Yellow came. Okay. But if I put any of these. Below. Like suppose. I put this C red. Below. So obviously. Its color will be red. No surprises there. Okay. Its color will be red. No surprise. No. No. No. No. No. No. No. Because when I put the color. So this is red from the surrounding we got. So yellow. This is red. Blue coming out. So this one will be blue. Blue. Red and accepted here. So if you see. All the colors are in the middle between the… See the color. The color also looks like his. It really is red. I am just showing. The color is pretty nice. So this was. Eating circuiting. We brought it. Food. Peace. S going. Bye. Bye- Futhermore. of this H1 I hope you all commented and you commented correctly because the specificity is 10 so maroon will come but if I cut it from here and do it here then what will happen then what will happen if you said red then obviously it will be red why red because its specificity is 10 and because its specificity is 10 then we will make its color red because it is coming later now I will tell you one thing and listen carefully because this is very important these are simple selectors but selectors are not always simple you also know this sometimes selectors are a.red a.cred and inside that paragraph selectors are of this type div.red and inside that paragraph we have complex selectors so how do we calculate their specificity let me tell you to calculate their specificity what you have to do is to add values suppose I write here H1.yellow so because of H1 its specificity will be because H1 is an element it will be 1 and because of .yellow its specificity will be 10 here you can see 1 plus 10 is equal to 11 because its specificity is more so its color will be yellow see here its color will be yellow why? because because of its element it got its specificity of 1 and because of its class B it got its specificity of 10 I hope you understood this so this is how specificity values are calculated for any selectors now many people may not understand this video if you have seen it in one run I will recommend you to watch this particular video again because I have explained it very well and I will give you the link in the description of this video you can read this tutorial I have explained it very well so you can read this too and you don't have to remember the values and I will tell you that in a while but here you have seen that you can do it this way specificity of inline styles is 1000 and if you put important then its specificity gets added to 10,000 points and it becomes very difficult to override it so I hope you understood all these things now I have given a quick quiz about its specificity value please don't cheat I have given a solution in this please don't cheat tell me its specificity value if you have a class like this tell me quickly by commenting pause the video because I will solve it directly and I will give the color for example blue violet I am doing blue violet I hope you understand I am waiting for your comment I hope you commented so let's calculate its specificity first of all what specificity will you get because of A because it is an element then because of class you will get 10 because of Harry class because of Rohan class you will get 10 and then there is HRF what does that mean this is an attribute selector and it says if there is a class H1 I have written H1 only I had told you about attribute selector if you have written dataX is equal to A then it means that dataX has A and if you have written dataX then it means that dataX is in the element then it means that there is HRF so here is 1 plus 10 plus 10 after that there is attribute selector which is 10 As I told you, if you add 10, you'll get 10 more. And as I told you, if you add pseudo class, you'll get 10 specificity. So, plus 10 means 10, 20, 30, 40, 41. So, its specificity is 41. I hope you all got 41. The more specificity, the more the style will be specific. And the probability of it being applied is more. If there is no specificity anywhere, that is, if no other selector is that specific to target this element, then what will happen? Then these same properties will be applied. So, 41, and I have explained its solution here as well, why 41 came. And I have given values here, how much value you get from what. Now, I'll tell you what I was talking about. I told you the specificity. I told you what is important. I also told you how to, how specificity is calculated. I told you all these things. And I'm telling you one thing, whenever you write your CSS classes or styles, ensure that you never leave confusion in the mind of any reader or fellow programmer. I mean, why do you have to target any element again and again? Why do you have to write classes? I mean, you're saying that the color of H1 should be red, and you're also saying that the same element of the same class should be red. Why do you have to do this? Make your websites simple. If you've targeted someone with an ID, then you're sure that you don't need to overwrite it, that's why I'm using such a specific selector. Avoid inline styles, because overwriting it is only possible with importance. And avoid importance as well, because we don't want to go so specific in our web pages. You try to use classes, so that you can reuse it, so that you can put different classes in different elements, and you can apply the properties in those classes easily. So, I hope you understand what I'm saying. But, because if you give an interview to WebDev, then these things are asked, and people are trapped here. So, I wanted to tell you this thing, that you should know what the cascade algorithm is. These are the four things that decide on the basis of CSS, which property value pairs to apply. So, you should understand all these things. This was very important from the point of view of theory. Now, if you haven't liked the video, then like the video, this playlist is absolutely accurate. You can access it, or click on it, bookmark it, or click on it, and save it. And share it with your friends, in the name of your village and your uncle, and prepare to meet me in the next video. That's all for now, guys. Thank you so much, guys, for watching this video. And I will see you next time. Bye. Bye. . ."
+}

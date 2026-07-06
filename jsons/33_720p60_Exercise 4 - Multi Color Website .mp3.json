@@ -1,0 +1,439 @@
+{
+    "chunks": [
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Today we will see who has how much courage"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 2.0,
+            "end": 9.0,
+            "text": " Because in this video, I am going to give you a basic exercise on all the concepts we have learned in this sigma web development course"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 9.0,
+            "end": 10.0,
+            "text": " Which you have to solve"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 10.0,
+            "end": 14.0,
+            "text": " And if you have decided that you are going to solve that question"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 14.0,
+            "end": 16.0,
+            "text": " Then write in the comment section below"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 16.0,
+            "end": 17.0,
+            "text": " Challenge accepted"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 17.0,
+            "end": 18.0,
+            "text": " Everyone write it"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 18.0,
+            "end": 19.0,
+            "text": " And also like this video"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 19.0,
+            "end": 23.0,
+            "text": " Because my energy is high to start this video"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 23.0,
+            "end": 25.0,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 25.0,
+            "end": 26.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 30.0,
+            "end": 36.0,
+            "text": " So guys I have come to the computer screen"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 36.0,
+            "end": 38.0,
+            "text": " And I have also made a folder named video 33"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 38.0,
+            "end": 39.0,
+            "text": " It is ready"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 39.0,
+            "end": 41.0,
+            "text": " And here I am going to tell you guys"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 41.0,
+            "end": 44.0,
+            "text": " What you have to do in this exercise"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 44.0,
+            "end": 47.0,
+            "text": " I have uploaded the shoutouts of the last exercise"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 47.0,
+            "end": 49.0,
+            "text": " If you have not seen the video"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " And this time I want to tell you guys"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 51.0,
+            "end": 53.0,
+            "text": " That you will get shoutouts"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 53.0,
+            "end": 56.0,
+            "text": " Who will write challenge accepted in the comment section below"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " So what you have to do in this exercise"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 58.0,
+            "end": 59.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 59.0,
+            "end": 60.0,
+            "text": " I will give you a navigation"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 60.0,
+            "end": 61.0,
+            "text": " You have to design a navbar"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 61.0,
+            "end": 63.0,
+            "text": " And after designing a navbar"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 63.0,
+            "end": 66.0,
+            "text": " You have to make a style sheet"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 66.0,
+            "end": 68.0,
+            "text": " In which I will only change one variable"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " That is, you have to make some global variables"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " And according to those global variables"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " The contrast of your color will change"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " That is, you have to make a multicolored navbar"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 78.0,
+            "end": 80.0,
+            "text": " And you can do this simply"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " By using CSS variables"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " I have told you CSS variables"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " In video number 30"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 86.0,
+            "end": 88.0,
+            "text": " So in the video number 30"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 88.0,
+            "end": 89.0,
+            "text": " Which were told"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 89.0,
+            "end": 91.0,
+            "text": " You have to make this multicolored navbar"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " By using these concepts"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " I also want to tell you guys"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 95.0,
+            "end": 97.0,
+            "text": " That we will slowly transition"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 97.0,
+            "end": 99.0,
+            "text": " To make a full website"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 99.0,
+            "end": 101.0,
+            "text": " After covering some important concepts"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 101.0,
+            "end": 103.0,
+            "text": " Like we have a flexbox"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 103.0,
+            "end": 105.0,
+            "text": " After that we have a grid"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 105.0,
+            "end": 107.0,
+            "text": " Then we have transitions and animations"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " After all that"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " We will make full-on websites"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " So many people are waiting"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " When will the full-on website be made"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 115.0,
+            "end": 117.0,
+            "text": " So their wait is going to be over very soon"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 117.0,
+            "end": 118.0,
+            "text": " Let me tell you"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " So I hope you have accessed this playlist"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " And the source code is also being uploaded"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " So do access it"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 124.0,
+            "end": 126.0,
+            "text": " That's all for now in this video"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 126.0,
+            "end": 128.0,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " And I will see you next time"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " Bye"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " Thank you for watching"
+        },
+        {
+            "number": "33",
+            "title": "720p60",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " Bye"
+        }
+    ],
+    "text": " Today we will see who has how much courage Because in this video, I am going to give you a basic exercise on all the concepts we have learned in this sigma web development course Which you have to solve And if you have decided that you are going to solve that question Then write in the comment section below Challenge accepted Everyone write it And also like this video Because my energy is high to start this video Let's go to the computer screen Let's roll the intro So guys I have come to the computer screen And I have also made a folder named video 33 It is ready And here I am going to tell you guys What you have to do in this exercise I have uploaded the shoutouts of the last exercise If you have not seen the video And this time I want to tell you guys That you will get shoutouts Who will write challenge accepted in the comment section below So what you have to do in this exercise I will tell you I will give you a navigation You have to design a navbar And after designing a navbar You have to make a style sheet In which I will only change one variable That is, you have to make some global variables And according to those global variables The contrast of your color will change That is, you have to make a multicolored navbar And you can do this simply By using CSS variables I have told you CSS variables In video number 30 So in the video number 30 Which were told You have to make this multicolored navbar By using these concepts I also want to tell you guys That we will slowly transition To make a full website After covering some important concepts Like we have a flexbox After that we have a grid Then we have transitions and animations After all that We will make full-on websites So many people are waiting When will the full-on website be made So their wait is going to be over very soon Let me tell you So I hope you have accessed this playlist And the source code is also being uploaded So do access it That's all for now in this video Thank you so much guys for watching this video And I will see you next time Bye Thank you for watching Bye"
+}

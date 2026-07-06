@@ -1,0 +1,1601 @@
+{
+    "chunks": [
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 0.0,
+            "end": 1.76,
+            "text": " Guys, I have read my CSS box model."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 1.76,
+            "end": 4.68,
+            "text": " There you saw that if the width of any element is less"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 4.68,
+            "end": 6.36,
+            "text": " and the content inside it is more,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 6.36,
+            "end": 8.52,
+            "text": " then the items inside it overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 8.52,
+            "end": 11.44,
+            "text": " By using the CSS overflow property,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 11.44,
+            "end": 12.8,
+            "text": " we can manage such overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 12.8,
+            "end": 15.44,
+            "text": " We can bring a scrollbar inside CSS,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 15.44,
+            "end": 17.080000000000002,
+            "text": " horizontally and vertically."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 17.080000000000002,
+            "end": 18.8,
+            "text": " We will learn these things in this video."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 18.8,
+            "end": 21.72,
+            "text": " And we will also use it practically in the upcoming projects."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 21.72,
+            "end": 23.88,
+            "text": " I am going to go and keep you high energy."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 23.88,
+            "end": 26.6,
+            "text": " Do write Sigma Batch OP in the comment section below."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 26.6,
+            "end": 28.12,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 28.12,
+            "end": 29.6,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 30.0,
+            "end": 40.88,
+            "text": " So guys, I have come to my computer screen as you can see."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 40.88,
+            "end": 42.88,
+            "text": " And here the first thing I am going to do is"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 42.88,
+            "end": 44.24,
+            "text": " I am going to make a new photo."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 44.24,
+            "end": 46.24,
+            "text": " And I am going to name it Video 26."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 46.24,
+            "end": 49.519999999999996,
+            "text": " And today's video is on our overflow property."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 49.519999999999996,
+            "end": 50.8,
+            "text": " What is this overflow property?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 50.8,
+            "end": 52.64,
+            "text": " See, you have a box."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 52.64,
+            "end": 55.519999999999996,
+            "text": " Inside that box, you have put such an item"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 55.519999999999996,
+            "end": 56.760000000000005,
+            "text": " because it is bigger than that box."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 56.760000000000005,
+            "end": 58.120000000000005,
+            "text": " What will it do? It will overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 58.120000000000005,
+            "end": 59.36,
+            "text": " It is obvious."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 59.36,
+            "end": 59.68,
+            "text": " Now,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 59.68,
+            "end": 63.36,
+            "text": " how do you want the overflow to be handled in such a situation?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 63.36,
+            "end": 64.64,
+            "text": " This is up to you."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 64.64,
+            "end": 66.0,
+            "text": " Suppose I have this box."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 66.0,
+            "end": 66.8,
+            "text": " It has written,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 66.8,
+            "end": 68.48,
+            "text": " I am a good boy"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 68.48,
+            "end": 72.44,
+            "text": " and I love to write lorem 45."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 72.44,
+            "end": 73.0,
+            "text": " Okay."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 73.0,
+            "end": 74.32,
+            "text": " Suppose I have written this."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 74.32,
+            "end": 75.72,
+            "text": " Obviously, you will write something good."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 75.72,
+            "end": 78.56,
+            "text": " You will have some meaningful content in the box."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 78.56,
+            "end": 80.92,
+            "text": " And by correcting it here"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 80.92,
+            "end": 82.28,
+            "text": " and by putting a style tag here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 82.28,
+            "end": 84.88,
+            "text": " I will write a CSS in the dot box."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 84.88,
+            "end": 86.68,
+            "text": " And I will tell you what that CSS will be."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 86.68,
+            "end": 87.96000000000001,
+            "text": " First, I will give it a width."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 87.96000000000001,
+            "end": 89.03999999999999,
+            "text": " Let us say I give it a width."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 89.04,
+            "end": 90.88000000000001,
+            "text": " Let us say I give it a width of 40bw."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 90.88000000000001,
+            "end": 96.80000000000001,
+            "text": " I will give it a height of 40bh."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 96.80000000000001,
+            "end": 100.4,
+            "text": " I will give it a height of 40% of the viewport height."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 100.4,
+            "end": 102.32000000000001,
+            "text": " Now, I will give it a border."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 102.32000000000001,
+            "end": 104.24000000000001,
+            "text": " It will be 2px solid black."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 104.24000000000001,
+            "end": 106.84,
+            "text": " And you can see the preview of it here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 106.84,
+            "end": 107.64000000000001,
+            "text": " How is it looking?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 107.64000000000001,
+            "end": 109.52000000000001,
+            "text": " Obviously, I will show you in the browser."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 109.52000000000001,
+            "end": 111.48,
+            "text": " Oh, it didn't overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 111.48,
+            "end": 113.24000000000001,
+            "text": " So, what will I do to make it overflow?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 113.24000000000001,
+            "end": 114.92,
+            "text": " I will make it 10bh, 10bw."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 114.92,
+            "end": 116.24000000000001,
+            "text": " I will make it 10bh, 10bh."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 116.24000000000001,
+            "end": 117.60000000000001,
+            "text": " Now, I have made it 10bh."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 117.60000000000001,
+            "end": 118.88000000000001,
+            "text": " So, the most important thing is that it is overflowing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 118.88,
+            "end": 119.64,
+            "text": " So, the most important thing is that it is overflowing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 119.64,
+            "end": 122.92,
+            "text": " Or if I make it 10bh, 10bh, then it is overflowing at the bottom."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 122.92,
+            "end": 125.83999999999999,
+            "text": " Now, because it is overflowing, what will I do?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 125.83999999999999,
+            "end": 127.6,
+            "text": " I will try to fix it, obviously."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 127.6,
+            "end": 129.56,
+            "text": " So, how can it be fixed?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 129.56,
+            "end": 131.35999999999999,
+            "text": " See, it can be fixed in two ways."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 131.35999999999999,
+            "end": 137.12,
+            "text": " The first way to fix it is that I will use the overflow property here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 137.12,
+            "end": 140.51999999999998,
+            "text": " I will say overflow and scroll here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 140.51999999999998,
+            "end": 141.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 141.2,
+            "end": 142.88,
+            "text": " So, if I make it overflow scroll,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 142.88,
+            "end": 145.04,
+            "text": " then a horizontal scroll bar will come here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 145.04,
+            "end": 148.4,
+            "text": " And the things that were overflowing from this box will not overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 148.88,
+            "end": 150.12,
+            "text": " That's why it will come here too."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 150.12,
+            "end": 152.44,
+            "text": " And you can see here that your work is done."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 152.44,
+            "end": 156.64,
+            "text": " So, to put a scroll bar like this, you can use overflow scroll."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 156.64,
+            "end": 158.84,
+            "text": " Now, there are many more properties related to overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 158.84,
+            "end": 162.44,
+            "text": " For example, if you have made overflow auto here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 162.44,
+            "end": 164.12,
+            "text": " I can make it overflow auto here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 164.12,
+            "end": 167.88,
+            "text": " And by doing overflow auto, it will happen that if it overflows,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 167.88,
+            "end": 170.32,
+            "text": " then you will get to see this scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 170.32,
+            "end": 173.44,
+            "text": " And if it doesn't overflow, then you won't get to see the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 173.44,
+            "end": 177.64,
+            "text": " For example, if its viewport width is this much and its viewport height is this much,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 177.64,
+            "end": 178.72,
+            "text": " then there is no chance of overflow here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 178.72,
+            "end": 181.16,
+            "text": " So, by doing overflow auto, this happens."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 181.16,
+            "end": 185.48,
+            "text": " Overflow auto says that if it overflows, then show the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 185.48,
+            "end": 190.28,
+            "text": " And if it is not overflowing, then you don't need to show the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 190.28,
+            "end": 191.76,
+            "text": " Let the element remain normal."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 191.76,
+            "end": 193.76,
+            "text": " This is our overflow auto."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 193.76,
+            "end": 195.96,
+            "text": " And if I say overflow scroll here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 195.96,
+            "end": 199.04,
+            "text": " then even if everything is fine here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 199.04,
+            "end": 200.76,
+            "text": " then what will happen here?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 200.76,
+            "end": 202.76,
+            "text": " You will get to see the scroll bar here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 202.76,
+            "end": 204.44,
+            "text": " See, you will get to see a scroll bar like this."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 204.44,
+            "end": 206.84,
+            "text": " That's why always putting a scroll bar is a good idea."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 206.84,
+            "end": 207.12,
+            "text": " Okay?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 207.12,
+            "end": 208.6,
+            "text": " So, I hope you understood this thing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 208.72,
+            "end": 210.32,
+            "text": " That why you have to put a scroll bar here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 210.32,
+            "end": 213.88,
+            "text": " Now, if I had no-wrapped its white space with letters,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 213.88,
+            "end": 217.4,
+            "text": " that is, if I come to my code and write it here and show you,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 217.4,
+            "end": 219.28,
+            "text": " I will make the white space no-wrapped."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 219.28,
+            "end": 219.52,
+            "text": " Okay?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 219.52,
+            "end": 221.2,
+            "text": " So, what will happen by doing no-wrapping?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 221.2,
+            "end": 223.12,
+            "text": " By doing white space no-wrapped,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 223.12,
+            "end": 228.32,
+            "text": " it will take the whole space horizontally and the text will not fall down vertically."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 228.32,
+            "end": 231.4,
+            "text": " And if I do this, and I will do one more thing here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 231.4,
+            "end": 233.12,
+            "text": " let's say I make it a little smaller."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 233.12,
+            "end": 234.72,
+            "text": " If I make it a little smaller, then it will be this big."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 234.72,
+            "end": 236.28,
+            "text": " And you can see that the scroll bar is coming here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 236.28,
+            "end": 236.72,
+            "text": " That is, when I do no-wrap the white space, that means,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 236.72,
+            "end": 237.36,
+            "text": " that when I do no-wrap the white space,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 237.36,
+            "end": 239.36,
+            "text": " that means,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 239.36,
+            "end": 241.36,
+            "text": " that the text should not fall down."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 241.36,
+            "end": 243.92000000000002,
+            "text": " Now, you see here, if I put an ellipsis in the overflow,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 243.92000000000002,
+            "end": 245.92000000000002,
+            "text": " I will put it here and show you."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 245.92000000000002,
+            "end": 247.92000000000002,
+            "text": " Ellipsis."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 247.92000000000002,
+            "end": 251.52,
+            "text": " Then you have to see here, I have put an ellipsis in the overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 251.52,
+            "end": 253.92000000000002,
+            "text": " So, after doing this, I can set one more property,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 253.92000000000002,
+            "end": 255.92000000000002,
+            "text": " whose name is TextOverflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 255.92000000000002,
+            "end": 258.56,
+            "text": " And in that, there is a value called ellipsis,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 258.56,
+            "end": 261.2,
+            "text": " due to which these dots come, as you can see here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 261.2,
+            "end": 265.2,
+            "text": " So, white space no-wrap and text overflow ellipsis makes this happen."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 265.2,
+            "end": 266.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 266.2,
+            "end": 267.32,
+            "text": " I hope you understood this thing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 267.32,
+            "end": 269.88,
+            "text": " So, I will remove it once, I will do the format document."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 269.88,
+            "end": 270.88,
+            "text": " And you have understood."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 270.88,
+            "end": 272.88,
+            "text": " Now, one thing to note here is,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 272.88,
+            "end": 274.88,
+            "text": " that this is not an overflow, it is a text overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 274.88,
+            "end": 276.32,
+            "text": " So, you have to keep in mind this thing,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 276.32,
+            "end": 278.88,
+            "text": " that the overflow is different, the text overflow property is different."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 278.88,
+            "end": 280.88,
+            "text": " Here, I have done the overflow auto."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 280.88,
+            "end": 283.32,
+            "text": " So, that is why I am getting to see three dots here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 283.32,
+            "end": 285.32,
+            "text": " If I had hidden the overflow,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 285.32,
+            "end": 287.32,
+            "text": " then also, I would have got to see three dots."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 287.32,
+            "end": 289.32,
+            "text": " And if I had scrolled the overflow,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 289.32,
+            "end": 291.32,
+            "text": " then also, I would have got to see three dots here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 291.32,
+            "end": 292.32,
+            "text": " You can see this."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 292.32,
+            "end": 294.32,
+            "text": " Because I have told the text overflow,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 294.32,
+            "end": 296.32,
+            "text": " to do an ellipsis here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 296.32,
+            "end": 298.32,
+            "text": " And if I remove the ellipsis from here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 298.32,
+            "end": 300.32,
+            "text": " then you can see that this scrollbar has come here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 300.32,
+            "end": 302.32,
+            "text": " I hope you have understood this thing,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 302.32,
+            "end": 304.32,
+            "text": " that how you can use this text overflow property."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 304.32,
+            "end": 306.32,
+            "text": " After this, there is one more value,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 306.32,
+            "end": 308.32,
+            "text": " which is overflow clip, which you can use."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 308.32,
+            "end": 310.32,
+            "text": " This is very similar to hidden."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 310.32,
+            "end": 312.32,
+            "text": " Overflow clip and overflow hidden"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 312.32,
+            "end": 314.32,
+            "text": " are almost the same."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 314.32,
+            "end": 316.32,
+            "text": " The only difference is that the clip"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 316.32,
+            "end": 318.32,
+            "text": " also disables the programmatically scrolling."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 318.32,
+            "end": 320.32,
+            "text": " That is, if you have added overflow clip,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 320.32,
+            "end": 322.32,
+            "text": " then you cannot scroll programmatically."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 322.32,
+            "end": 324.32,
+            "text": " Now, overflow can also be handled individually."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 324.32,
+            "end": 326.32,
+            "text": " For example, I have added overflow clip,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 326.32,
+            "end": 328.32,
+            "text": " then what I will do here is,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 328.32,
+            "end": 330.32,
+            "text": " I will increase the text a little bit."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 330.32,
+            "end": 332.32,
+            "text": " And in fact, I will do one thing here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 332.32,
+            "end": 334.32,
+            "text": " that I will remove the white space that I had no-wrapped."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 334.32,
+            "end": 336.32,
+            "text": " Because I want that my content"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 336.32,
+            "end": 338.32,
+            "text": " should look something like this."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 338.32,
+            "end": 340.32,
+            "text": " And you can see that I have now auto overflowed."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 340.32,
+            "end": 342.32,
+            "text": " That is, my content is not overflowing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 342.32,
+            "end": 344.32,
+            "text": " To make it overflow,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 344.32,
+            "end": 346.32,
+            "text": " I will make its height a little smaller."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 346.32,
+            "end": 348.32,
+            "text": " I will make its width also a little smaller."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 348.32,
+            "end": 350.32,
+            "text": " Or I will make it 30-30."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 350.32,
+            "end": 352.32,
+            "text": " So, I will make it 30-30."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 352.32,
+            "end": 354.32,
+            "text": " So, it will overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 354.32,
+            "end": 356.32,
+            "text": " So, I can say that"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 356.32,
+            "end": 358.32,
+            "text": " I can make overflow x hidden,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 358.32,
+            "end": 360.32,
+            "text": " but if I make overflow y,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 360.32,
+            "end": 362.32,
+            "text": " then I can scroll."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 362.32,
+            "end": 364.32,
+            "text": " So, I can add these properties"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 364.32,
+            "end": 366.32,
+            "text": " individually, too."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 366.32,
+            "end": 368.32,
+            "text": " And if I add these properties individually,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 368.32,
+            "end": 370.32,
+            "text": " then you can see that by doing overflow x and overflow y,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 370.32,
+            "end": 372.32,
+            "text": " I am making overflow x hidden"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 372.32,
+            "end": 374.32,
+            "text": " and scrolling over overflow y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 374.32,
+            "end": 376.32,
+            "text": " If I make overflow y hidden as well,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 376.32,
+            "end": 378.32,
+            "text": " then all the things below it"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 378.32,
+            "end": 380.32,
+            "text": " will be hidden here."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 380.32,
+            "end": 382.32,
+            "text": " If I hide overflow y,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 382.32,
+            "end": 384.32,
+            "text": " then overflow x and overflow y"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 384.32,
+            "end": 386.32,
+            "text": " can be written with the help of shorthand."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 386.32,
+            "end": 388.32,
+            "text": " If I write these three without writing,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 388.32,
+            "end": 390.32,
+            "text": " something like this,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 390.32,
+            "end": 396.32,
+            "text": " that the overflow is hidden in x and auto in y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 396.32,
+            "end": 398.32,
+            "text": " So you can see here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 398.32,
+            "end": 401.32,
+            "text": " that it is auto in y and hidden in x."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 401.32,
+            "end": 402.32,
+            "text": " But if I reverse it,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 402.32,
+            "end": 406.32,
+            "text": " that is, I say auto in y and hidden in x."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 406.32,
+            "end": 408.32,
+            "text": " Sorry, auto in x and hidden in y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 408.32,
+            "end": 410.32,
+            "text": " So you can see here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 410.32,
+            "end": 412.32,
+            "text": " that it is hidden in y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 412.32,
+            "end": 414.32,
+            "text": " So here, it is auto in x and hidden in y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 414.32,
+            "end": 416.32,
+            "text": " So the first one is x and the second one is y."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 416.32,
+            "end": 418.32,
+            "text": " Now many people will ask,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 418.32,
+            "end": 421.32,
+            "text": " how do I remember which one is x and which one is y?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 421.32,
+            "end": 422.32,
+            "text": " So see,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 422.32,
+            "end": 424.32,
+            "text": " you will come while doing it."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 424.32,
+            "end": 426.32,
+            "text": " There is no need to remember anything like this."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 426.32,
+            "end": 428.32,
+            "text": " If you scroll it here"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 428.32,
+            "end": 430.32,
+            "text": " and then hidden it here,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 430.32,
+            "end": 432.32,
+            "text": " then overflow x will scroll."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 432.32,
+            "end": 433.32,
+            "text": " See, the scroll bar is visible."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 433.32,
+            "end": 435.32,
+            "text": " And if you scroll here too,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 435.32,
+            "end": 437.32,
+            "text": " then you will see the scroll bar here too."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 437.32,
+            "end": 438.32,
+            "text": " I will always recommend auto,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 438.32,
+            "end": 440.32,
+            "text": " that you use it as much as possible."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 440.32,
+            "end": 441.32,
+            "text": " Because what happens if you do auto?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 441.32,
+            "end": 442.32,
+            "text": " If you use scroll bar,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 442.32,
+            "end": 444.32,
+            "text": " then it puts the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 444.32,
+            "end": 447.32,
+            "text": " Otherwise, it does not put the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 447.32,
+            "end": 448.32,
+            "text": " What does it not do?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 448.32,
+            "end": 450.32,
+            "text": " It does not put the scroll bar."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 450.32,
+            "end": 452.32,
+            "text": " Okay, I hope you understood this thing."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 452.32,
+            "end": 454.32,
+            "text": " So that was all about the scrolling and overflow."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 454.32,
+            "end": 456.32,
+            "text": " I hope you understood"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 456.32,
+            "end": 458.32,
+            "text": " how to add scroll bars."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 458.32,
+            "end": 459.32,
+            "text": " We will use it a lot"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 459.32,
+            "end": 461.32,
+            "text": " when we make real-world websites."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 461.32,
+            "end": 462.32,
+            "text": " If you have not yet accessed"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 462.32,
+            "end": 464.32,
+            "text": " the playlist of sigma web development course,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 464.32,
+            "end": 465.32,
+            "text": " then do it."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 465.32,
+            "end": 466.32,
+            "text": " When will you do it?"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 466.32,
+            "end": 467.32,
+            "text": " Click here for bookmark"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 467.32,
+            "end": 468.32,
+            "text": " and click here for save."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 468.32,
+            "end": 469.32,
+            "text": " And the source code on github,"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 469.32,
+            "end": 471.32,
+            "text": " I am updating it regularly."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 471.32,
+            "end": 473.32,
+            "text": " I hope you are getting it."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 473.32,
+            "end": 474.32,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 474.32,
+            "end": 475.32,
+            "text": " for watching this video."
+        },
+        {
+            "number": "26",
+            "title": "720p",
+            "start": 475.32,
+            "end": 478.32,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " Guys, I have read my CSS box model. There you saw that if the width of any element is less and the content inside it is more, then the items inside it overflow. By using the CSS overflow property, we can manage such overflow. We can bring a scrollbar inside CSS, horizontally and vertically. We will learn these things in this video. And we will also use it practically in the upcoming projects. I am going to go and keep you high energy. Do write Sigma Batch OP in the comment section below. Let's go to the computer screen. Let's roll the intro. So guys, I have come to my computer screen as you can see. And here the first thing I am going to do is I am going to make a new photo. And I am going to name it Video 26. And today's video is on our overflow property. What is this overflow property? See, you have a box. Inside that box, you have put such an item because it is bigger than that box. What will it do? It will overflow. It is obvious. Now, how do you want the overflow to be handled in such a situation? This is up to you. Suppose I have this box. It has written, I am a good boy and I love to write lorem 45. Okay. Suppose I have written this. Obviously, you will write something good. You will have some meaningful content in the box. And by correcting it here and by putting a style tag here, I will write a CSS in the dot box. And I will tell you what that CSS will be. First, I will give it a width. Let us say I give it a width. Let us say I give it a width of 40bw. I will give it a height of 40bh. I will give it a height of 40% of the viewport height. Now, I will give it a border. It will be 2px solid black. And you can see the preview of it here. How is it looking? Obviously, I will show you in the browser. Oh, it didn't overflow. So, what will I do to make it overflow? I will make it 10bh, 10bw. I will make it 10bh, 10bh. Now, I have made it 10bh. So, the most important thing is that it is overflowing. So, the most important thing is that it is overflowing. Or if I make it 10bh, 10bh, then it is overflowing at the bottom. Now, because it is overflowing, what will I do? I will try to fix it, obviously. So, how can it be fixed? See, it can be fixed in two ways. The first way to fix it is that I will use the overflow property here. I will say overflow and scroll here. Okay? So, if I make it overflow scroll, then a horizontal scroll bar will come here. And the things that were overflowing from this box will not overflow. That's why it will come here too. And you can see here that your work is done. So, to put a scroll bar like this, you can use overflow scroll. Now, there are many more properties related to overflow. For example, if you have made overflow auto here, I can make it overflow auto here. And by doing overflow auto, it will happen that if it overflows, then you will get to see this scroll bar. And if it doesn't overflow, then you won't get to see the scroll bar. For example, if its viewport width is this much and its viewport height is this much, then there is no chance of overflow here. So, by doing overflow auto, this happens. Overflow auto says that if it overflows, then show the scroll bar. And if it is not overflowing, then you don't need to show the scroll bar. Let the element remain normal. This is our overflow auto. And if I say overflow scroll here, then even if everything is fine here, then what will happen here? You will get to see the scroll bar here. See, you will get to see a scroll bar like this. That's why always putting a scroll bar is a good idea. Okay? So, I hope you understood this thing. That why you have to put a scroll bar here. Now, if I had no-wrapped its white space with letters, that is, if I come to my code and write it here and show you, I will make the white space no-wrapped. Okay? So, what will happen by doing no-wrapping? By doing white space no-wrapped, it will take the whole space horizontally and the text will not fall down vertically. And if I do this, and I will do one more thing here, let's say I make it a little smaller. If I make it a little smaller, then it will be this big. And you can see that the scroll bar is coming here. That is, when I do no-wrap the white space, that means, that when I do no-wrap the white space, that means, that the text should not fall down. Now, you see here, if I put an ellipsis in the overflow, I will put it here and show you. Ellipsis. Then you have to see here, I have put an ellipsis in the overflow. So, after doing this, I can set one more property, whose name is TextOverflow. And in that, there is a value called ellipsis, due to which these dots come, as you can see here. So, white space no-wrap and text overflow ellipsis makes this happen. Okay? I hope you understood this thing. So, I will remove it once, I will do the format document. And you have understood. Now, one thing to note here is, that this is not an overflow, it is a text overflow. So, you have to keep in mind this thing, that the overflow is different, the text overflow property is different. Here, I have done the overflow auto. So, that is why I am getting to see three dots here. If I had hidden the overflow, then also, I would have got to see three dots. And if I had scrolled the overflow, then also, I would have got to see three dots here. You can see this. Because I have told the text overflow, to do an ellipsis here. And if I remove the ellipsis from here, then you can see that this scrollbar has come here. I hope you have understood this thing, that how you can use this text overflow property. After this, there is one more value, which is overflow clip, which you can use. This is very similar to hidden. Overflow clip and overflow hidden are almost the same. The only difference is that the clip also disables the programmatically scrolling. That is, if you have added overflow clip, then you cannot scroll programmatically. Now, overflow can also be handled individually. For example, I have added overflow clip, then what I will do here is, I will increase the text a little bit. And in fact, I will do one thing here, that I will remove the white space that I had no-wrapped. Because I want that my content should look something like this. And you can see that I have now auto overflowed. That is, my content is not overflowing. To make it overflow, I will make its height a little smaller. I will make its width also a little smaller. Or I will make it 30-30. So, I will make it 30-30. So, it will overflow. So, I can say that I can make overflow x hidden, but if I make overflow y, then I can scroll. So, I can add these properties individually, too. And if I add these properties individually, then you can see that by doing overflow x and overflow y, I am making overflow x hidden and scrolling over overflow y. If I make overflow y hidden as well, then all the things below it will be hidden here. If I hide overflow y, then overflow x and overflow y can be written with the help of shorthand. If I write these three without writing, something like this, that the overflow is hidden in x and auto in y. So you can see here, that it is auto in y and hidden in x. But if I reverse it, that is, I say auto in y and hidden in x. Sorry, auto in x and hidden in y. So you can see here, that it is hidden in y. So here, it is auto in x and hidden in y. So the first one is x and the second one is y. Now many people will ask, how do I remember which one is x and which one is y? So see, you will come while doing it. There is no need to remember anything like this. If you scroll it here and then hidden it here, then overflow x will scroll. See, the scroll bar is visible. And if you scroll here too, then you will see the scroll bar here too. I will always recommend auto, that you use it as much as possible. Because what happens if you do auto? If you use scroll bar, then it puts the scroll bar. Otherwise, it does not put the scroll bar. What does it not do? It does not put the scroll bar. Okay, I hope you understood this thing. So that was all about the scrolling and overflow. I hope you understood how to add scroll bars. We will use it a lot when we make real-world websites. If you have not yet accessed the playlist of sigma web development course, then do it. When will you do it? Click here for bookmark and click here for save. And the source code on github, I am updating it regularly. I hope you are getting it. Thank you so much guys for watching this video. And I will see you next time."
+}

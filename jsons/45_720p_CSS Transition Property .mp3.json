@@ -1,0 +1,3547 @@
+{
+    "chunks": [
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 0.0,
+            "end": 2.48,
+            "text": " Let's say I have a website with a sidebar."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 2.48,
+            "end": 6.4,
+            "text": " Let's say I click on a button and the sidebar comes out from the left side."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 6.4,
+            "end": 11.72,
+            "text": " You tell me yourself whether you will like the sidebar coming out this way or this way."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 11.72,
+            "end": 17.44,
+            "text": " The smooth transition you just saw on your screen is made with the help of a transition property in CSS."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 17.44,
+            "end": 25.28,
+            "text": " That is, we say that from one property to another property, there should be a very smooth transition so that it looks appealing to the eyes."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 25.28,
+            "end": 28.6,
+            "text": " In today's video, we will learn to make such transitions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 28.6,
+            "end": 32.88,
+            "text": " Like this video and do write Sigma Batch OP in the comment section below."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 32.88,
+            "end": 34.480000000000004,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 34.480000000000004,
+            "end": 36.480000000000004,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 44.56,
+            "end": 49.400000000000006,
+            "text": " So guys, I have come back to the computer screen and I will make a new folder named Video 45."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 49.400000000000006,
+            "end": 51.8,
+            "text": " Now, what is this transition?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 51.8,
+            "end": 57.120000000000005,
+            "text": " First of all, I will tell you this because if you don't know what a transition is, then you won't be able to understand this property so well."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 57.120000000000005,
+            "end": 58.6,
+            "text": " Transition means that"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 58.6,
+            "end": 62.92,
+            "text": " you have to go very smoothly from one state to another state, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 62.92,
+            "end": 64.68,
+            "text": " So what happens in CSS transition?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 64.68,
+            "end": 65.92,
+            "text": " It's exactly the same thing."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 65.92,
+            "end": 69.16,
+            "text": " You have to go very smoothly from one state to another state."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 69.16,
+            "end": 72.56,
+            "text": " Now, let's say I have a container, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 72.56,
+            "end": 75.2,
+            "text": " And after that, I have a box in it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 75.2,
+            "end": 77.6,
+            "text": " And let's say I write some styles here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 77.6,
+            "end": 79.12,
+            "text": " So I will put a style here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 79.12,
+            "end": 80.72,
+            "text": " Now, let's say I will put some styles in it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 80.72,
+            "end": 84.08,
+            "text": " Here I will write .container and after that I will write .box here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 84.08,
+            "end": 86.16,
+            "text": " What will I write in .container?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 86.16,
+            "end": 87.76,
+            "text": " I will write in .container."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 88.60000000000001,
+            "end": 89.80000000000001,
+            "text": " Let's write one color which is red."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 89.80000000000001,
+            "end": 90.32000000000001,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 90.32000000000001,
+            "end": 91.56,
+            "text": " Now don't say why are you choosing red."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 91.56,
+            "end": 92.36000000000001,
+            "text": " It is my wish."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 92.36000000000001,
+            "end": 94.4,
+            "text": " Now I will write the background color here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 94.4,
+            "end": 95.84,
+            "text": " Let us say Aqua Marine."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 95.84,
+            "end": 97.08000000000001,
+            "text": " If you do this then let us do Aqua."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 97.08000000000001,
+            "end": 98.96000000000001,
+            "text": " There is no such thing that it will be bad."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 98.96000000000001,
+            "end": 100.00000000000001,
+            "text": " I did this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 100.00000000000001,
+            "end": 100.64000000000001,
+            "text": " I made it antique white."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 100.64000000000001,
+            "end": 102.16000000000001,
+            "text": " Now I will show you its preview."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 102.16000000000001,
+            "end": 103.76,
+            "text": " Now you will say that it's preview is seen."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 103.76,
+            "end": 107.72000000000001,
+            "text": " I know but I have not put its width and height so we shouldn't do it that fast."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 107.72000000000001,
+            "end": 109.00000000000001,
+            "text": " So I will do its width."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 109.00000000000001,
+            "end": 117.04,
+            "text": " Let us say 50W and I will do its height say 40VH, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 117.04,
+            "end": 118.48,
+            "text": " And what do I do here?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 118.48,
+            "end": 120.48,
+            "text": " I will reduce its height by 10 times."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 120.48,
+            "end": 122.98,
+            "text": " Basically, I am showing you a very simple box."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 122.98,
+            "end": 124.98,
+            "text": " So, our structure has been created."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 124.98,
+            "end": 127.98,
+            "text": " Now, I want it to be translated to the front."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 127.98,
+            "end": 129.48000000000002,
+            "text": " So, if I put a class in it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 129.48000000000002,
+            "end": 131.98000000000002,
+            "text": " Suppose, I write a class here, .tr"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 131.98000000000002,
+            "end": 132.98000000000002,
+            "text": " which will translate."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 132.98000000000002,
+            "end": 135.98000000000002,
+            "text": " I will put its name here, translate."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 135.98000000000002,
+            "end": 136.98000000000002,
+            "text": " And what am I doing in this?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 136.98000000000002,
+            "end": 140.48000000000002,
+            "text": " I am saying that the transform,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 140.48000000000002,
+            "end": 142.98000000000002,
+            "text": " you do that, translateX."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 142.98000000000002,
+            "end": 144.98000000000002,
+            "text": " You have talked about it, translateX."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 144.98000000000002,
+            "end": 147.98000000000002,
+            "text": " And let us say, we do it 10%, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 147.98,
+            "end": 151.98,
+            "text": " And along with that, I want to do translateY 10%, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 151.98,
+            "end": 154.48,
+            "text": " So, if I do translateX, translateY,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 154.48,
+            "end": 156.98,
+            "text": " and as soon as I put a class named translate in it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 156.98,
+            "end": 157.98,
+            "text": " what will happen?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 157.98,
+            "end": 160.98,
+            "text": " Suppose, I put a class named translate here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 160.98,
+            "end": 162.98,
+            "text": " So, as soon as I put a class named translate in it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 162.98,
+            "end": 164.48,
+            "text": " it will translate to 10%, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 164.48,
+            "end": 167.48,
+            "text": " It will translate to 10% in X, 10% in Y."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 167.48,
+            "end": 169.98,
+            "text": " And the percentage will be the percentage of its width."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 169.98,
+            "end": 170.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 170.48,
+            "end": 173.48,
+            "text": " So, let us say, if I make it a little more,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 173.48,
+            "end": 174.48,
+            "text": " or let me do one thing."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 174.48,
+            "end": 176.48,
+            "text": " Why don't I make it VWE?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 176.48,
+            "end": 177.48,
+            "text": " Why don't I make it VHE?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 177.48,
+            "end": 177.98,
+            "text": " So that,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 177.98,
+            "end": 178.98,
+            "text": " you can see that it is moving."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 178.98,
+            "end": 179.98,
+            "text": " So, it has come down, okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 179.98,
+            "end": 181.98,
+            "text": " Now, suppose, I remove one class from it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 181.98,
+            "end": 182.98,
+            "text": " Let me show you by inspecting."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 182.98,
+            "end": 184.98,
+            "text": " We usually do this work with JavaScript."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 184.98,
+            "end": 185.98,
+            "text": " But, let me show you now."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 185.98,
+            "end": 187.98,
+            "text": " If I do it like this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 187.98,
+            "end": 188.98,
+            "text": " and I put it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 188.98,
+            "end": 189.98,
+            "text": " then see, it is coming suddenly."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 189.98,
+            "end": 190.98,
+            "text": " It is coming in a flash."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 190.98,
+            "end": 191.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 191.48,
+            "end": 192.98,
+            "text": " So, what does it mean by coming in a flash?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 192.98,
+            "end": 194.98,
+            "text": " Coming in a flash means that,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 194.98,
+            "end": 196.48,
+            "text": " this transition is not smooth."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 196.48,
+            "end": 198.48,
+            "text": " It is not coming easily at all."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 198.48,
+            "end": 199.98,
+            "text": " No, it is not doing this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 199.98,
+            "end": 201.48,
+            "text": " Now, because it is not coming easily,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 201.48,
+            "end": 203.48,
+            "text": " that is why we have to make it smooth."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 203.48,
+            "end": 205.48,
+            "text": " And that is what the transition property does."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 205.48,
+            "end": 206.48,
+            "text": " So, what will I simply do?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 206.48,
+            "end": 207.48,
+            "text": " I will say that,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 207.48000000000002,
+            "end": 210.48000000000002,
+            "text": " wherever dot translate is applied,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 210.48000000000002,
+            "end": 211.98000000000002,
+            "text": " or in this element, what will I do?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 211.98000000000002,
+            "end": 212.48000000000002,
+            "text": " I will say,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 212.48000000000002,
+            "end": 215.48000000000002,
+            "text": " put the transition property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 215.48000000000002,
+            "end": 218.98000000000002,
+            "text": " Now, the transition property is made up of 4 properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 218.98000000000002,
+            "end": 220.98000000000002,
+            "text": " Never learn the transition property directly."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 220.98000000000002,
+            "end": 221.98000000000002,
+            "text": " Learn 4 properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 221.98000000000002,
+            "end": 224.98000000000002,
+            "text": " First of all, transition property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 224.98000000000002,
+            "end": 226.48000000000002,
+            "text": " What is the transition property?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 226.48000000000002,
+            "end": 227.48000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 227.48000000000002,
+            "end": 230.48000000000002,
+            "text": " After this, your transition,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 230.48000000000002,
+            "end": 231.48000000000002,
+            "text": " one is the timing function,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 231.48000000000002,
+            "end": 232.48000000000002,
+            "text": " then transition duration,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 232.48000000000002,
+            "end": 233.48000000000002,
+            "text": " on the second number,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 233.48000000000002,
+            "end": 234.48000000000002,
+            "text": " transition duration,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 234.48000000000002,
+            "end": 236.98000000000002,
+            "text": " then transition timing function,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 236.98000000000002,
+            "end": 239.48000000000002,
+            "text": " transition timing function,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 239.48000000000002,
+            "end": 240.48000000000002,
+            "text": " and after this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 240.48000000000002,
+            "end": 241.48000000000002,
+            "text": " transition delay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 241.48000000000002,
+            "end": 241.98000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 241.98000000000002,
+            "end": 244.98000000000002,
+            "text": " So, remember these 4 functions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 244.98000000000002,
+            "end": 246.98000000000002,
+            "text": " Which property do I want to transition?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 246.98000000000002,
+            "end": 248.98000000000002,
+            "text": " I want to transition the transform property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 248.98000000000002,
+            "end": 250.48000000000002,
+            "text": " What is the duration?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 250.48000000000002,
+            "end": 252.48000000000002,
+            "text": " Let's say, I do it for 3 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 252.48000000000002,
+            "end": 253.98000000000002,
+            "text": " What will be the function?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 253.98000000000002,
+            "end": 256.48,
+            "text": " We have ease in and ease out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 256.48,
+            "end": 257.98,
+            "text": " There are many more options."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 257.98,
+            "end": 258.98,
+            "text": " If you do this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 258.98,
+            "end": 260.98,
+            "text": " you will get to see a lot of functions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 260.98,
+            "end": 262.48,
+            "text": " I will tell you what it means."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 262.48,
+            "end": 264.98,
+            "text": " But for now, we do ease in out here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 264.98,
+            "end": 265.98,
+            "text": " Ease in out, ease in,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 265.98,
+            "end": 267.98,
+            "text": " and what is the difference between ease in and ease out?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 267.98,
+            "end": 268.98,
+            "text": " I will tell you that."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 268.98,
+            "end": 270.48,
+            "text": " And for transition delay,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 270.48,
+            "end": 272.48,
+            "text": " let's say, I want it after 4 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 272.48,
+            "end": 274.48,
+            "text": " I want it after at least 1 second."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 274.48,
+            "end": 275.98,
+            "text": " Let me explain 4 properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 275.98,
+            "end": 277.98,
+            "text": " Which property should transition be in?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 277.98,
+            "end": 279.48,
+            "text": " First of all, let me show you its output."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 279.48,
+            "end": 279.98,
+            "text": " How will it be?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 279.98,
+            "end": 280.98,
+            "text": " See, I will reload it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 280.98,
+            "end": 282.48,
+            "text": " As I reload it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 282.48,
+            "end": 283.48,
+            "text": " you see here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 283.48,
+            "end": 285.48,
+            "text": " as soon as I remove this transform from here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 285.48,
+            "end": 287.48,
+            "text": " see, it went up."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 287.48,
+            "end": 290.48,
+            "text": " And how many seconds will it take to go from here to there?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 290.48,
+            "end": 292.48,
+            "text": " It will take 4 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 292.48,
+            "end": 293.48,
+            "text": " Whatever I had applied there."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 293.48,
+            "end": 294.48,
+            "text": " How much did I apply?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 294.48,
+            "end": 295.98,
+            "text": " I applied 3 seconds, transition duration."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 295.98,
+            "end": 298.48,
+            "text": " That is, how much duration do you want to transition?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 298.48,
+            "end": 300.48,
+            "text": " That is your transition duration."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 300.48,
+            "end": 301.48,
+            "text": " So, what did I apply there?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 301.48,
+            "end": 302.98,
+            "text": " I applied 3 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 302.98,
+            "end": 304.48,
+            "text": " What will happen with transition delay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 304.48,
+            "end": 305.48,
+            "text": " As soon as this class is applied,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 305.48,
+            "end": 306.98,
+            "text": " how long will it take for it to work?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 306.98,
+            "end": 307.98,
+            "text": " So, that is transition delay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 307.98,
+            "end": 308.98,
+            "text": " See, as soon as I tick,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 308.98,
+            "end": 310.98,
+            "text": " it will start working after 1 second."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 310.98,
+            "end": 312.48,
+            "text": " I have ticked this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 312.48,
+            "end": 313.98,
+            "text": " See, it came down after 1 second."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 313.98,
+            "end": 315.98,
+            "text": " And it will run for 3 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 315.98,
+            "end": 318.98,
+            "text": " So, this is the difference between transition duration and transition delay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 318.98,
+            "end": 319.98,
+            "text": " Transition duration means,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 319.98,
+            "end": 321.98,
+            "text": " how long will this animation run?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 321.98,
+            "end": 323.48,
+            "text": " Transition delay means,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 323.48,
+            "end": 325.48,
+            "text": " how long will this animation run?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 325.48,
+            "end": 327.48,
+            "text": " Now, I am using the word animation here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 327.48,
+            "end": 329.48,
+            "text": " It doesn't mean that you get confused with animation properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 329.48,
+            "end": 331.48,
+            "text": " I will tell you that in the upcoming videos."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 331.48,
+            "end": 333.48,
+            "text": " But, it would have been animation altogether."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 333.48,
+            "end": 335.48,
+            "text": " But, the name of property is not animation."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 335.48,
+            "end": 336.48,
+            "text": " It is transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 336.48,
+            "end": 339.48,
+            "text": " So, we are doing this transition to transform property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 339.48,
+            "end": 342.48,
+            "text": " The transform property in this will be transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 342.48,
+            "end": 345.48,
+            "text": " That is, instead of going from 1 to 100,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 345.48,
+            "end": 348.48,
+            "text": " you will go easily from 1, 2, 3, 4, 5, 6, 7, 8 to 100."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 348.48,
+            "end": 349.48,
+            "text": " Like, if you have ever applied petrol,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 349.48,
+            "end": 352.48,
+            "text": " then you must have seen that it doesn't go from 1 to 500 instantly."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 352.48,
+            "end": 353.48,
+            "text": " It is transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 353.48,
+            "end": 354.48,
+            "text": " It goes from 1 to 2."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 354.48,
+            "end": 355.48,
+            "text": " It keeps running."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 355.48,
+            "end": 357.48,
+            "text": " It is 2.33."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 357.48,
+            "end": 358.48,
+            "text": " Then, it is 3.88."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 358.48,
+            "end": 360.48,
+            "text": " After that, your petrol is added."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 360.48,
+            "end": 361.48,
+            "text": " It is 100 rupees."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 361.48,
+            "end": 362.48,
+            "text": " Some people also add 20 rupees."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 362.48,
+            "end": 364.48,
+            "text": " But, it is added altogether."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 364.48,
+            "end": 365.48,
+            "text": " How much do you add?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 365.48,
+            "end": 367.48,
+            "text": " Tell me in the comment section below."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 367.48,
+            "end": 369.48,
+            "text": " Now, what we will do here is,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 369.48,
+            "end": 370.48,
+            "text": " we will move ahead."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 370.48,
+            "end": 374.48,
+            "text": " And, we will learn to combine these four properties in one property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 374.48,
+            "end": 375.48,
+            "text": " Now, what happens is,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 375.48,
+            "end": 377.48,
+            "text": " you can combine these four properties in one property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 377.48,
+            "end": 378.48,
+            "text": " Who will write so long?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 378.48,
+            "end": 379.48,
+            "text": " Who has so much time?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 379.48,
+            "end": 382.48,
+            "text": " Here, we don't write lorem 59."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 382.48,
+            "end": 384.48,
+            "text": " Lorem 23 and lorem 34."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 384.48,
+            "end": 385.48,
+            "text": " Lorem 35."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 385.48,
+            "end": 386.48,
+            "text": " Lorem 34 and lorem 45."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 386.48,
+            "end": 388.48,
+            "text": " Where do we have so much time to write these four properties?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 388.48,
+            "end": 390.48,
+            "text": " So, there is a shorthand for this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 390.48,
+            "end": 391.48,
+            "text": " Before telling you the shorthand,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 391.48,
+            "end": 394.48,
+            "text": " let me tell you that you can also do transition all."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 394.48,
+            "end": 395.48,
+            "text": " By doing transition all,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 395.48,
+            "end": 396.48,
+            "text": " it will apply to all the properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 396.48,
+            "end": 398.48,
+            "text": " Like, let's assume that I apply translate,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 398.48,
+            "end": 400.48,
+            "text": " change its background color,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 400.48,
+            "end": 401.48,
+            "text": " and make it blue."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 401.48,
+            "end": 402.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 402.48,
+            "end": 403.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 403.48,
+            "end": 404.48,
+            "text": " you see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 404.48,
+            "end": 406.48,
+            "text": " as soon as I remove this property,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 406.48,
+            "end": 409.48,
+            "text": " I will remove translate class from this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 409.48,
+            "end": 410.48,
+            "text": " suppose."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 410.48,
+            "end": 411.48,
+            "text": " I removed translate class."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 411.48,
+            "end": 413.48,
+            "text": " And, as soon as I apply translate class from here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 413.48,
+            "end": 414.48,
+            "text": " I will make my face disappear."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 414.48,
+            "end": 415.48,
+            "text": " So, see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 415.48,
+            "end": 416.48,
+            "text": " I removed translate class from here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 416.48,
+            "end": 417.48,
+            "text": " I removed it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 417.48,
+            "end": 418.48,
+            "text": " I hit enter."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 418.48,
+            "end": 419.48,
+            "text": " As soon as I remove translate class,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 419.48,
+            "end": 420.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 420.48,
+            "end": 421.48,
+            "text": " it went up."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 421.48,
+            "end": 422.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 422.48,
+            "end": 423.48,
+            "text": " And its color also changed."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 423.48,
+            "end": 424.48,
+            "text": " And, as soon as I apply translate class on it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 424.48,
+            "end": 425.48,
+            "text": " I will hit enter."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 425.48,
+            "end": 426.48,
+            "text": " So, see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 426.48,
+            "end": 427.48,
+            "text": " after one second,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 427.48,
+            "end": 428.48,
+            "text": " it will come down."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 428.48,
+            "end": 429.48,
+            "text": " And its color will change,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 429.48,
+            "end": 430.48,
+            "text": " it will transition and change."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 430.48,
+            "end": 431.48,
+            "text": " Because,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 431.48,
+            "end": 432.48,
+            "text": " I am also transitioning color property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 432.48,
+            "end": 433.48,
+            "text": " Now,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 433.48,
+            "end": 434.48,
+            "text": " suppose,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 434.48,
+            "end": 435.48,
+            "text": " I want to transition two properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 435.48,
+            "end": 436.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 436.48,
+            "end": 437.48,
+            "text": " I can use comma separated values."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 437.48,
+            "end": 438.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 438.48,
+            "end": 439.48,
+            "text": " instead of saying all,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 439.48,
+            "end": 440.48,
+            "text": " I can say,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 440.48,
+            "end": 441.48,
+            "text": " brother,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 441.48,
+            "end": 442.48,
+            "text": " do color transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 442.48,
+            "end": 443.48,
+            "text": " And,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 443.48,
+            "end": 444.48,
+            "text": " with that,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 444.48,
+            "end": 445.48,
+            "text": " do transform transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 445.48,
+            "end": 446.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 446.48,
+            "end": 447.48,
+            "text": " doing this will also help me."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 447.48,
+            "end": 448.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 448.48,
+            "end": 449.48,
+            "text": " I had to do color and,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 449.48,
+            "end": 450.48,
+            "text": " sorry,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 450.48,
+            "end": 451.48,
+            "text": " background color."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 451.48,
+            "end": 452.48,
+            "text": " I will say,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 452.48,
+            "end": 453.48,
+            "text": " brother,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 453.48,
+            "end": 454.48,
+            "text": " do background color"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 454.48,
+            "end": 455.48,
+            "text": " and do transform."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 455.48,
+            "end": 456.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 456.48,
+            "end": 457.48,
+            "text": " if you come here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 457.48,
+            "end": 458.48,
+            "text": " and after this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 458.48,
+            "end": 459.48,
+            "text": " we will do this again."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 459.48,
+            "end": 460.48,
+            "text": " Suppose,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 460.48,
+            "end": 461.48,
+            "text": " you remove translate class from here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 461.48,
+            "end": 462.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 462.48,
+            "end": 463.48,
+            "text": " as soon as you remove it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 463.48,
+            "end": 464.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 464.48,
+            "end": 465.48,
+            "text": " after one second,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 465.48,
+            "end": 466.48,
+            "text": " it went up."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 466.48,
+            "end": 467.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 467.48,
+            "end": 468.48,
+            "text": " you can also transition only two properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 468.48,
+            "end": 469.48,
+            "text": " But,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 469.48,
+            "end": 470.48,
+            "text": " you can use all,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 470.48,
+            "end": 471.48,
+            "text": " if you want to transition all properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 471.48,
+            "end": 472.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 472.48,
+            "end": 474.48,
+            "text": " you can also use transform or multiple."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 474.48,
+            "end": 475.48,
+            "text": " As I have already told you,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 475.48,
+            "end": 477.48,
+            "text": " if you want to scale it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 477.48,
+            "end": 478.48,
+            "text": " then,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 478.48,
+            "end": 479.48,
+            "text": " if I say,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 479.48,
+            "end": 480.48,
+            "text": " scale,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 480.48,
+            "end": 481.48,
+            "text": " and I say,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 481.48,
+            "end": 482.48,
+            "text": " suppose,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 482.48,
+            "end": 483.48,
+            "text": " two."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 483.48,
+            "end": 484.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 484.48,
+            "end": 485.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 485.48,
+            "end": 486.48,
+            "text": " it will also become big."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 486.48,
+            "end": 487.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 487.48,
+            "end": 488.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 488.48,
+            "end": 489.48,
+            "text": " you see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 489.48,
+            "end": 490.48,
+            "text": " it has become big."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 490.48,
+            "end": 491.48,
+            "text": " And,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 491.48,
+            "end": 492.48,
+            "text": " if I remove this class from this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 492.48,
+            "end": 493.48,
+            "text": " the translate class,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 493.48,
+            "end": 494.48,
+            "text": " suppose,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 494.48,
+            "end": 495.48,
+            "text": " I make it translated,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 495.48,
+            "end": 496.48,
+            "text": " then,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 496.48,
+            "end": 497.48,
+            "text": " it is not a class."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 497.48,
+            "end": 498.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 498.48,
+            "end": 499.48,
+            "text": " it will go up again."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 499.48,
+            "end": 500.48,
+            "text": " See,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 500.48,
+            "end": 501.48,
+            "text": " it has become small."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 501.48,
+            "end": 502.48,
+            "text": " Now,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 502.48,
+            "end": 503.48,
+            "text": " I will tell you about timing function."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 503.48,
+            "end": 504.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 504.48,
+            "end": 505.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 505.48,
+            "end": 506.48,
+            "text": " timing functions are like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 506.48,
+            "end": 507.48,
+            "text": " Here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 507.48,
+            "end": 508.48,
+            "text": " your dev tool is a very good friend."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 508.48,
+            "end": 509.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 509.48,
+            "end": 510.48,
+            "text": " transition timing function,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 510.48,
+            "end": 511.48,
+            "text": " first of all,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 511.48,
+            "end": 512.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 512.48,
+            "end": 513.48,
+            "text": " linear."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 513.48,
+            "end": 514.48,
+            "text": " What does linear mean?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 514.48,
+            "end": 515.48,
+            "text": " It goes from here to here,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 515.48,
+            "end": 516.48,
+            "text": " growing."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 516.48,
+            "end": 517.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 517.48,
+            "end": 518.48,
+            "text": " Its speed keeps increasing."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 518.48,
+            "end": 519.48,
+            "text": " Then,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 519.48,
+            "end": 520.48,
+            "text": " after this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 520.48,
+            "end": 521.48,
+            "text": " you have ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 521.48,
+            "end": 522.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 522.48,
+            "end": 523.48,
+            "text": " What is ease in out?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 523.48,
+            "end": 524.48,
+            "text": " This is ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 524.48,
+            "end": 525.48,
+            "text": " And,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 525.48,
+            "end": 526.48,
+            "text": " if you see below,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 526.48,
+            "end": 527.48,
+            "text": " it is also written."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 527.48,
+            "end": 528.48,
+            "text": " This is ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 528.48,
+            "end": 529.48,
+            "text": " It works like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 529.48,
+            "end": 530.48,
+            "text": " By the way,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 530.48,
+            "end": 531.48,
+            "text": " it isayan in this way."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 531.48,
+            "end": 532.48,
+            "text": " Now,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 532.48,
+            "end": 533.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 533.48,
+            "end": 534.48,
+            "text": " how will this animation work?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 534.48,
+            "end": 535.48,
+            "text": " It is looking like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 535.48,
+            "end": 536.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 536.48,
+            "end": 537.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 537.48,
+            "end": 538.48,
+            "text": " this animation works like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 538.48,
+            "end": 539.48,
+            "text": " Its speed will increase."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 539.48,
+            "end": 540.48,
+            "text": " Then it will be constant."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 540.48,
+            "end": 541.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 541.48,
+            "end": 542.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 542.48,
+            "end": 543.48,
+            "text": " see,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 543.48,
+            "end": 544.48,
+            "text": " this animation will work like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 544.48,
+            "end": 545.48,
+            "text": " If you want,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 545.48,
+            "end": 546.48,
+            "text": " it will come like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 546.48,
+            "end": 547.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 547.48,
+            "end": 548.48,
+            "text": " this will work as this way."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 548.48,
+            "end": 549.48,
+            "text": " If you want,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 549.48,
+            "end": 550.48,
+            "text": " it will walk like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 550.48,
+            "end": 551.48,
+            "text": " So,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 551.48,
+            "end": 552.48,
+            "text": " it will grow."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 552.48,
+            "end": 553.48,
+            "text": " See,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 553.48,
+            "end": 554.48,
+            "text": " first,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 554.48,
+            "end": 555.48,
+            "text": " its speed will increase."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 555.48,
+            "end": 556.48,
+            "text": " Then,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 556.48,
+            "end": 557.48,
+            "text": " it will saturate."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 557.48,
+            "end": 558.48,
+            "text": " It will stop."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 558.48,
+            "end": 559.48,
+            "text": " You will do like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 559.48,
+            "end": 560.48,
+            "text": " If you do like this,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 560.48,
+            "end": 565.48,
+            "text": " If you want to use this function, copy it and bring it here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 565.48,
+            "end": 569.48,
+            "text": " Bring it where I wrote ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 569.48,
+            "end": 572.48,
+            "text": " So this is the cubic bezier function."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 572.48,
+            "end": 575.48,
+            "text": " Don't remember this function."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 575.48,
+            "end": 577.48,
+            "text": " Make it yourself."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 577.48,
+            "end": 579.48,
+            "text": " There are other tools to make it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 579.48,
+            "end": 582.48,
+            "text": " But according to me, this is the best tool for web development."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 582.48,
+            "end": 586.48,
+            "text": " If you do editing, you must know that this is also available in Premiere Pro."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 586.48,
+            "end": 591.48,
+            "text": " When you use scale or when you try to make smooth animations,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 591.48,
+            "end": 594.48,
+            "text": " you can do this by right clicking on your keyframes."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 594.48,
+            "end": 598.48,
+            "text": " You can select temporal interpolation, ease in out, all these options."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 598.48,
+            "end": 600.48,
+            "text": " But we will see Premiere Pro later."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 600.48,
+            "end": 602.48,
+            "text": " Now we are looking at CSS."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 602.48,
+            "end": 604.48,
+            "text": " So here is the function of ease out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 604.48,
+            "end": 606.48,
+            "text": " This is how ease out works."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 606.48,
+            "end": 608.48,
+            "text": " I have spoiled ease out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 608.48,
+            "end": 611.48,
+            "text": " This is our fast out, linear in."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 611.48,
+            "end": 612.48,
+            "text": " And here is ease in."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 612.48,
+            "end": 614.48,
+            "text": " There are many more functions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 614.48,
+            "end": 615.48,
+            "text": " This is ease in."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 615.48,
+            "end": 616.48,
+            "text": " This is sign."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 616.48,
+            "end": 617.48,
+            "text": " This is in quadratic."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 617.48,
+            "end": 619.48,
+            "text": " There are so many functions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 619.48,
+            "end": 620.48,
+            "text": " There are so many functions."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 620.48,
+            "end": 621.48,
+            "text": " Which one do you want?"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 621.48,
+            "end": 622.48,
+            "text": " You can take that from here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 622.48,
+            "end": 623.48,
+            "text": " Copy and paste it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 623.48,
+            "end": 624.48,
+            "text": " Use it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 624.48,
+            "end": 625.48,
+            "text": " As simple as that."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 625.48,
+            "end": 627.48,
+            "text": " So in total, this is all in transition."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 627.48,
+            "end": 629.48,
+            "text": " There is nothing more than this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 629.48,
+            "end": 630.48,
+            "text": " But let me tell you one more thing."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 630.48,
+            "end": 631.48,
+            "text": " Short end property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 631.48,
+            "end": 633.48,
+            "text": " Which unites these four."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 633.48,
+            "end": 636.48,
+            "text": " Like I had already told you that we are lazy people."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 636.48,
+            "end": 638.48,
+            "text": " We don't have so much time."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 638.48,
+            "end": 640.48,
+            "text": " So you write transition here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 640.48,
+            "end": 642.48,
+            "text": " And after this, write these four properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 642.48,
+            "end": 644.48,
+            "text": " That I want to do all the properties."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 644.48,
+            "end": 645.48,
+            "text": " I want to do it for 3 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 645.48,
+            "end": 646.48,
+            "text": " I want to do ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 646.48,
+            "end": 648.48,
+            "text": " Or let's say I want to do ease in."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 648.48,
+            "end": 649.48,
+            "text": " Let's do ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 649.48,
+            "end": 650.48,
+            "text": " And one second delay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 650.48,
+            "end": 652.48,
+            "text": " So these four properties are set."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 652.48,
+            "end": 654.48,
+            "text": " Even after that, if you need help,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 654.48,
+            "end": 655.48,
+            "text": " then you click on MDN reference."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 655.48,
+            "end": 658.48,
+            "text": " And you will go to its MDN reference."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 658.48,
+            "end": 660.48,
+            "text": " And here, in MDN reference,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 660.48,
+            "end": 664.48,
+            "text": " you get to see all this syntax with comments."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 664.48,
+            "end": 666.48,
+            "text": " So syntax data is never my priority."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 666.48,
+            "end": 668.48,
+            "text": " I understand the concept."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 668.48,
+            "end": 670.48,
+            "text": " And coming straight here from VS code,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 670.48,
+            "end": 671.48,
+            "text": " makes me feel good."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 671.48,
+            "end": 673.48,
+            "text": " Because you come to official documentation."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 673.48,
+            "end": 674.48,
+            "text": " And you can see things."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 674.48,
+            "end": 675.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 675.48,
+            "end": 678.48,
+            "text": " So here you see that this is working."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 678.48,
+            "end": 680.48,
+            "text": " If I show you my page."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 680.48,
+            "end": 682.48,
+            "text": " So if I translate it,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 682.48,
+            "end": 684.48,
+            "text": " then after one second,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 684.48,
+            "end": 685.48,
+            "text": " it will go up."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 685.48,
+            "end": 686.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 686.48,
+            "end": 688.48,
+            "text": " And if I translate it again,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 688.48,
+            "end": 689.48,
+            "text": " then it is a delay of one second."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 689.48,
+            "end": 690.48,
+            "text": " It will run for 3 seconds."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 690.48,
+            "end": 692.48,
+            "text": " That means everything is working."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 692.48,
+            "end": 693.48,
+            "text": " Ease in out is also working."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 693.48,
+            "end": 695.48,
+            "text": " Let's change this function and see."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 695.48,
+            "end": 696.48,
+            "text": " Let's make it a little like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 696.48,
+            "end": 698.48,
+            "text": " Let's make this function a little aggressive."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 698.48,
+            "end": 699.48,
+            "text": " Let's make it like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 699.48,
+            "end": 700.48,
+            "text": " It will go very fast."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 700.48,
+            "end": 701.48,
+            "text": " And it will go slow."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 701.48,
+            "end": 702.48,
+            "text": " I make it like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 702.48,
+            "end": 703.48,
+            "text": " It will go very fast."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 703.48,
+            "end": 704.48,
+            "text": " It will go very fast."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 704.48,
+            "end": 705.48,
+            "text": " And then it will go slow."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 705.48,
+            "end": 706.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 706.48,
+            "end": 707.48,
+            "text": " It will go very fast."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 707.48,
+            "end": 708.48,
+            "text": " And then it will go like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 708.48,
+            "end": 709.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 709.48,
+            "end": 710.48,
+            "text": " So I take this function by copying it there."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 710.48,
+            "end": 712.48,
+            "text": " So the cubic bezier function that I made just now,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 712.48,
+            "end": 714.48,
+            "text": " I keep it in the place of ease in out."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 714.48,
+            "end": 716.48,
+            "text": " And I reload the page here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 716.48,
+            "end": 718.48,
+            "text": " And I translate it again."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 718.48,
+            "end": 719.48,
+            "text": " And you will see."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 719.48,
+            "end": 720.48,
+            "text": " It went like this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 720.48,
+            "end": 721.48,
+            "text": " It took such an aggressive start."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 721.48,
+            "end": 722.48,
+            "text": " And then it slowed down."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 722.48,
+            "end": 724.48,
+            "text": " And if I translate it again,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 724.48,
+            "end": 725.48,
+            "text": " it will take an aggressive start."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 725.48,
+            "end": 726.48,
+            "text": " And then it will go slow."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 726.48,
+            "end": 728.48,
+            "text": " So you can make functions like this too."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 728.48,
+            "end": 729.48,
+            "text": " Whichever function you like,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 729.48,
+            "end": 730.48,
+            "text": " make it from here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 730.48,
+            "end": 732.48,
+            "text": " And take its cubic bezier equivalent here."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 732.48,
+            "end": 733.48,
+            "text": " Your work will be done."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 733.48,
+            "end": 734.48,
+            "text": " Okay."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 734.48,
+            "end": 735.48,
+            "text": " That was all about transition property."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 735.48,
+            "end": 737.48,
+            "text": " I don't want to stretch this course too much."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 737.48,
+            "end": 740.48,
+            "text": " I want that we keep things short and to the point."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 740.48,
+            "end": 742.48,
+            "text": " If you haven't solved the exercise of the last video,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 742.48,
+            "end": 743.48,
+            "text": " then solve it."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 743.48,
+            "end": 745.48,
+            "text": " Because its solution is going to come very soon."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 745.48,
+            "end": 746.48,
+            "text": " And people are going to get shoutout."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 746.48,
+            "end": 747.48,
+            "text": " So there is time."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 747.48,
+            "end": 748.48,
+            "text": " I won't record it now."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 748.48,
+            "end": 749.48,
+            "text": " You have the time."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 749.48,
+            "end": 750.48,
+            "text": " Easy."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 750.48,
+            "end": 751.48,
+            "text": " You design this grid."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 751.48,
+            "end": 752.48,
+            "text": " And you will get shoutout."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 752.48,
+            "end": 754.48,
+            "text": " And many people were saying that the views have decreased."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 754.48,
+            "end": 755.48,
+            "text": " So you should be devoted."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 755.48,
+            "end": 758.48,
+            "text": " But I make videos by watching the views."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 758.48,
+            "end": 759.48,
+            "text": " To be very honest."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 759.48,
+            "end": 760.48,
+            "text": " I am making."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 760.48,
+            "end": 761.48,
+            "text": " I am making."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 761.48,
+            "end": 762.48,
+            "text": " I am making."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 762.48,
+            "end": 763.48,
+            "text": " This is a good tool."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 763.48,
+            "end": 764.48,
+            "text": " And I am very committed to this."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 764.48,
+            "end": 765.48,
+            "text": " So guys,"
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 765.48,
+            "end": 766.48,
+            "text": " see you in the next video."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 766.48,
+            "end": 767.48,
+            "text": " See you."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 767.48,
+            "end": 768.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 768.48,
+            "end": 769.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 769.48,
+            "end": 770.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 770.48,
+            "end": 771.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 771.48,
+            "end": 772.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 772.48,
+            "end": 773.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 773.48,
+            "end": 774.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 774.48,
+            "end": 775.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 775.48,
+            "end": 776.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 776.48,
+            "end": 777.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 777.48,
+            "end": 778.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 778.48,
+            "end": 779.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 779.48,
+            "end": 780.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 780.48,
+            "end": 781.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 781.48,
+            "end": 782.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 782.48,
+            "end": 783.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 783.48,
+            "end": 784.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 784.48,
+            "end": 785.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 785.48,
+            "end": 786.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 786.48,
+            "end": 787.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 787.48,
+            "end": 788.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 788.48,
+            "end": 789.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 789.48,
+            "end": 790.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 790.48,
+            "end": 791.48,
+            "text": " Bye."
+        },
+        {
+            "number": "45",
+            "title": "720p",
+            "start": 791.48,
+            "end": 812.48,
+            "text": " Thanks for watching"
+        }
+    ],
+    "text": " Let's say I have a website with a sidebar. Let's say I click on a button and the sidebar comes out from the left side. You tell me yourself whether you will like the sidebar coming out this way or this way. The smooth transition you just saw on your screen is made with the help of a transition property in CSS. That is, we say that from one property to another property, there should be a very smooth transition so that it looks appealing to the eyes. In today's video, we will learn to make such transitions. Like this video and do write Sigma Batch OP in the comment section below. Let's go to the computer screen. Let's roll the intro. So guys, I have come back to the computer screen and I will make a new folder named Video 45. Now, what is this transition? First of all, I will tell you this because if you don't know what a transition is, then you won't be able to understand this property so well. Transition means that you have to go very smoothly from one state to another state, okay? So what happens in CSS transition? It's exactly the same thing. You have to go very smoothly from one state to another state. Now, let's say I have a container, okay? And after that, I have a box in it. And let's say I write some styles here. So I will put a style here. Now, let's say I will put some styles in it. Here I will write .container and after that I will write .box here. What will I write in .container? I will write in .container. Let's write one color which is red. Okay? Now don't say why are you choosing red. It is my wish. Now I will write the background color here. Let us say Aqua Marine. If you do this then let us do Aqua. There is no such thing that it will be bad. I did this. I made it antique white. Now I will show you its preview. Now you will say that it's preview is seen. I know but I have not put its width and height so we shouldn't do it that fast. So I will do its width. Let us say 50W and I will do its height say 40VH, okay? And what do I do here? I will reduce its height by 10 times. Basically, I am showing you a very simple box. So, our structure has been created. Now, I want it to be translated to the front. So, if I put a class in it. Suppose, I write a class here, .tr which will translate. I will put its name here, translate. And what am I doing in this? I am saying that the transform, you do that, translateX. You have talked about it, translateX. And let us say, we do it 10%, okay? And along with that, I want to do translateY 10%, okay? So, if I do translateX, translateY, and as soon as I put a class named translate in it, what will happen? Suppose, I put a class named translate here. So, as soon as I put a class named translate in it, it will translate to 10%, okay? It will translate to 10% in X, 10% in Y. And the percentage will be the percentage of its width. Okay? So, let us say, if I make it a little more, or let me do one thing. Why don't I make it VWE? Why don't I make it VHE? So that, you can see that it is moving. So, it has come down, okay? Now, suppose, I remove one class from it. Let me show you by inspecting. We usually do this work with JavaScript. But, let me show you now. If I do it like this, and I put it, then see, it is coming suddenly. It is coming in a flash. Okay? So, what does it mean by coming in a flash? Coming in a flash means that, this transition is not smooth. It is not coming easily at all. No, it is not doing this. Now, because it is not coming easily, that is why we have to make it smooth. And that is what the transition property does. So, what will I simply do? I will say that, wherever dot translate is applied, or in this element, what will I do? I will say, put the transition property. Now, the transition property is made up of 4 properties. Never learn the transition property directly. Learn 4 properties. First of all, transition property. What is the transition property? Okay? After this, your transition, one is the timing function, then transition duration, on the second number, transition duration, then transition timing function, transition timing function, and after this, transition delay. Okay? So, remember these 4 functions. Which property do I want to transition? I want to transition the transform property. What is the duration? Let's say, I do it for 3 seconds. What will be the function? We have ease in and ease out. There are many more options. If you do this, you will get to see a lot of functions. I will tell you what it means. But for now, we do ease in out here. Ease in out, ease in, and what is the difference between ease in and ease out? I will tell you that. And for transition delay, let's say, I want it after 4 seconds. I want it after at least 1 second. Let me explain 4 properties. Which property should transition be in? First of all, let me show you its output. How will it be? See, I will reload it. As I reload it, you see here, as soon as I remove this transform from here, see, it went up. And how many seconds will it take to go from here to there? It will take 4 seconds. Whatever I had applied there. How much did I apply? I applied 3 seconds, transition duration. That is, how much duration do you want to transition? That is your transition duration. So, what did I apply there? I applied 3 seconds. What will happen with transition delay? As soon as this class is applied, how long will it take for it to work? So, that is transition delay. See, as soon as I tick, it will start working after 1 second. I have ticked this. See, it came down after 1 second. And it will run for 3 seconds. So, this is the difference between transition duration and transition delay. Transition duration means, how long will this animation run? Transition delay means, how long will this animation run? Now, I am using the word animation here. It doesn't mean that you get confused with animation properties. I will tell you that in the upcoming videos. But, it would have been animation altogether. But, the name of property is not animation. It is transition. So, we are doing this transition to transform property. The transform property in this will be transition. That is, instead of going from 1 to 100, you will go easily from 1, 2, 3, 4, 5, 6, 7, 8 to 100. Like, if you have ever applied petrol, then you must have seen that it doesn't go from 1 to 500 instantly. It is transition. It goes from 1 to 2. It keeps running. It is 2.33. Then, it is 3.88. After that, your petrol is added. It is 100 rupees. Some people also add 20 rupees. But, it is added altogether. How much do you add? Tell me in the comment section below. Now, what we will do here is, we will move ahead. And, we will learn to combine these four properties in one property. Now, what happens is, you can combine these four properties in one property. Who will write so long? Who has so much time? Here, we don't write lorem 59. Lorem 23 and lorem 34. Lorem 35. Lorem 34 and lorem 45. Where do we have so much time to write these four properties? So, there is a shorthand for this. Before telling you the shorthand, let me tell you that you can also do transition all. By doing transition all, it will apply to all the properties. Like, let's assume that I apply translate, change its background color, and make it blue. Okay? So, you see, as soon as I remove this property, I will remove translate class from this, suppose. I removed translate class. And, as soon as I apply translate class from here, I will make my face disappear. So, see, I removed translate class from here. I removed it. I hit enter. As soon as I remove translate class, see, it went up. Okay? And its color also changed. And, as soon as I apply translate class on it, I will hit enter. So, see, after one second, it will come down. And its color will change, it will transition and change. Because, I am also transitioning color property. Now, suppose, I want to transition two properties. So, I can use comma separated values. So, instead of saying all, I can say, brother, do color transition. And, with that, do transform transition. So, doing this will also help me. So, I had to do color and, sorry, background color. I will say, brother, do background color and do transform. So, if you come here, and after this, we will do this again. Suppose, you remove translate class from here. So, as soon as you remove it, see, after one second, it went up. So, you can also transition only two properties. But, you can use all, if you want to transition all properties. So, you can also use transform or multiple. As I have already told you, if you want to scale it, then, if I say, scale, and I say, suppose, two. Okay. So, it will also become big. Okay. So, you see, it has become big. And, if I remove this class from this, the translate class, suppose, I make it translated, then, it is not a class. So, it will go up again. See, it has become small. Now, I will tell you about timing function. So, see, timing functions are like this. Here, your dev tool is a very good friend. So, transition timing function, first of all, see, linear. What does linear mean? It goes from here to here, growing. Okay. Its speed keeps increasing. Then, after this, you have ease in out. Okay. What is ease in out? This is ease in out. And, if you see below, it is also written. This is ease in out. It works like this. By the way, it isayan in this way. Now, see, how will this animation work? It is looking like this. Okay. So, this animation works like this. Its speed will increase. Then it will be constant. Okay. So, see, this animation will work like this. If you want, it will come like this. So, this will work as this way. If you want, it will walk like this. So, it will grow. See, first, its speed will increase. Then, it will saturate. It will stop. You will do like this. If you do like this, If you want to use this function, copy it and bring it here. Bring it where I wrote ease in out. So this is the cubic bezier function. Don't remember this function. Make it yourself. There are other tools to make it. But according to me, this is the best tool for web development. If you do editing, you must know that this is also available in Premiere Pro. When you use scale or when you try to make smooth animations, you can do this by right clicking on your keyframes. You can select temporal interpolation, ease in out, all these options. But we will see Premiere Pro later. Now we are looking at CSS. So here is the function of ease out. This is how ease out works. I have spoiled ease out. This is our fast out, linear in. And here is ease in. There are many more functions. This is ease in. This is sign. This is in quadratic. There are so many functions. There are so many functions. Which one do you want? You can take that from here. Copy and paste it. Use it. As simple as that. So in total, this is all in transition. There is nothing more than this. But let me tell you one more thing. Short end property. Which unites these four. Like I had already told you that we are lazy people. We don't have so much time. So you write transition here. And after this, write these four properties. That I want to do all the properties. I want to do it for 3 seconds. I want to do ease in out. Or let's say I want to do ease in. Let's do ease in out. And one second delay. So these four properties are set. Even after that, if you need help, then you click on MDN reference. And you will go to its MDN reference. And here, in MDN reference, you get to see all this syntax with comments. So syntax data is never my priority. I understand the concept. And coming straight here from VS code, makes me feel good. Because you come to official documentation. And you can see things. Okay. So here you see that this is working. If I show you my page. So if I translate it, then after one second, it will go up. Okay. And if I translate it again, then it is a delay of one second. It will run for 3 seconds. That means everything is working. Ease in out is also working. Let's change this function and see. Let's make it a little like this. Let's make this function a little aggressive. Let's make it like this. It will go very fast. And it will go slow. I make it like this. It will go very fast. It will go very fast. And then it will go slow. Okay. It will go very fast. And then it will go like this. Okay. So I take this function by copying it there. So the cubic bezier function that I made just now, I keep it in the place of ease in out. And I reload the page here. And I translate it again. And you will see. It went like this. It took such an aggressive start. And then it slowed down. And if I translate it again, it will take an aggressive start. And then it will go slow. So you can make functions like this too. Whichever function you like, make it from here. And take its cubic bezier equivalent here. Your work will be done. Okay. That was all about transition property. I don't want to stretch this course too much. I want that we keep things short and to the point. If you haven't solved the exercise of the last video, then solve it. Because its solution is going to come very soon. And people are going to get shoutout. So there is time. I won't record it now. You have the time. Easy. You design this grid. And you will get shoutout. And many people were saying that the views have decreased. So you should be devoted. But I make videos by watching the views. To be very honest. I am making. I am making. I am making. This is a good tool. And I am very committed to this. So guys, see you in the next video. See you. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Thanks for watching"
+}

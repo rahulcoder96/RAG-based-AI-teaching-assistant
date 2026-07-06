@@ -1,0 +1,1804 @@
+{
+    "chunks": [
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Today's exercise will test your CSS grid skills"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 4.0,
+            "end": 7.6000000000000005,
+            "text": " I will give you an exercise in which you have to apply your CSS grid skills"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 7.6000000000000005,
+            "end": 8.8,
+            "text": " And make a layout"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 8.8,
+            "end": 10.8,
+            "text": " If you are going to solve this question"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 10.8,
+            "end": 13.6,
+            "text": " Then do write challenge accepted in the comment section below"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 13.6,
+            "end": 17.0,
+            "text": " This will tell me that you are going to solve this question"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 17.0,
+            "end": 18.400000000000002,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 18.400000000000002,
+            "end": 20.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 20.0,
+            "end": 30.6,
+            "text": " So guys I have come inside my computer screen"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 30.6,
+            "end": 32.6,
+            "text": " And now I am going to give you the exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 32.6,
+            "end": 34.6,
+            "text": " Our exercise number 7"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 34.6,
+            "end": 36.6,
+            "text": " That is going to be our"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 36.6,
+            "end": 40.2,
+            "text": " You have to design the bottom part of the ultra edit website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 40.2,
+            "end": 41.2,
+            "text": " So I will come here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 41.2,
+            "end": 43.6,
+            "text": " I will make a folder named video 44"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 43.6,
+            "end": 45.6,
+            "text": " Video 44"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 45.6,
+            "end": 48.6,
+            "text": " And I will open it in VS code by clicking shift right here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 48.6,
+            "end": 49.8,
+            "text": " A boilerplate template"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 49.800000000000004,
+            "end": 50.800000000000004,
+            "text": " I will put a template here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 50.800000000000004,
+            "end": 51.800000000000004,
+            "text": " Oops what did I do"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 51.800000000000004,
+            "end": 53.800000000000004,
+            "text": " index.html"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 53.800000000000004,
+            "end": 56.800000000000004,
+            "text": " And a boilerplate template will be put here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 56.800000000000004,
+            "end": 58.800000000000004,
+            "text": " And what I will do here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 58.800000000000004,
+            "end": 59.800000000000004,
+            "text": " That you guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 59.800000000000004,
+            "end": 60.800000000000004,
+            "text": " This website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 60.800000000000004,
+            "end": 62.800000000000004,
+            "text": " I will comment it out"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 62.800000000000004,
+            "end": 63.800000000000004,
+            "text": " And I will also write"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 63.800000000000004,
+            "end": 68.80000000000001,
+            "text": " That design the body of this website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 68.80000000000001,
+            "end": 70.80000000000001,
+            "text": " So you have to do this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 70.80000000000001,
+            "end": 72.80000000000001,
+            "text": " So I will open it and show you guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 72.80000000000001,
+            "end": 73.80000000000001,
+            "text": " So the ultra edit website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 73.80000000000001,
+            "end": 75.80000000000001,
+            "text": " Which we had made"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 75.80000000000001,
+            "end": 77.80000000000001,
+            "text": " Whose navbar we had made in the last exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 77.80000000000001,
+            "end": 78.80000000000001,
+            "text": " Now what you have to do"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 78.80000000000001,
+            "end": 79.80000000000001,
+            "text": " CSS grid"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 79.8,
+            "end": 80.8,
+            "text": " You have to use this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 80.8,
+            "end": 81.8,
+            "text": " You have to make this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 81.8,
+            "end": 82.8,
+            "text": " Ok"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 82.8,
+            "end": 83.8,
+            "text": " Now here is the catch"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 83.8,
+            "end": 84.8,
+            "text": " I want to tell you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 84.8,
+            "end": 85.8,
+            "text": " And the catch is that"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 85.8,
+            "end": 87.8,
+            "text": " You guys first download ultra edit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 87.8,
+            "end": 88.8,
+            "text": " And the downloaded file"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 88.8,
+            "end": 90.8,
+            "text": " You have to serve it to you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 90.8,
+            "end": 91.8,
+            "text": " Right from your computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 91.8,
+            "end": 93.8,
+            "text": " Now if you are in windows like me"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 93.8,
+            "end": 95.8,
+            "text": " You have to click on download 32 bit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 95.8,
+            "end": 97.8,
+            "text": " And as soon as you click on download 32 bit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 97.8,
+            "end": 99.8,
+            "text": " This ultra edit will be downloaded"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 99.8,
+            "end": 101.8,
+            "text": " And as soon as it is downloaded"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 101.8,
+            "end": 102.8,
+            "text": " I will do one thing"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 102.8,
+            "end": 103.8,
+            "text": " I will place it in my folder"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 103.8,
+            "end": 105.8,
+            "text": " So I have cut it from my download"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 105.8,
+            "end": 106.8,
+            "text": " And brought it here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 106.8,
+            "end": 107.8,
+            "text": " And the name of the file is ue underscore English"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 107.8,
+            "end": 108.8,
+            "text": " So I just want to tell you this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 108.8,
+            "end": 110.8,
+            "text": " That if I write here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 110.8,
+            "end": 112.8,
+            "text": " A href is equal to"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 112.8,
+            "end": 113.8,
+            "text": " ue English dot exe"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 113.8,
+            "end": 115.8,
+            "text": " And write download ultra edit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 115.8,
+            "end": 117.8,
+            "text": " Download ue"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 117.8,
+            "end": 118.8,
+            "text": " And if I show you guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 118.8,
+            "end": 119.8,
+            "text": " This website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 119.8,
+            "end": 120.8,
+            "text": " So you guys have to see"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 120.8,
+            "end": 121.8,
+            "text": " As soon as I click on download ue"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 121.8,
+            "end": 122.8,
+            "text": " It will be downloaded"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 122.8,
+            "end": 123.8,
+            "text": " And this time"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 123.8,
+            "end": 124.8,
+            "text": " What is being downloaded"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 124.8,
+            "end": 125.8,
+            "text": " It will come from here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 125.8,
+            "end": 126.8,
+            "text": " So on your server"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 126.8,
+            "end": 127.8,
+            "text": " That is your computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 127.8,
+            "end": 128.8,
+            "text": " What I am saying about the server"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 128.8,
+            "end": 130.8,
+            "text": " When you run your local website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 130.8,
+            "end": 132.8,
+            "text": " Your server is your local computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 132.8,
+            "end": 133.8,
+            "text": " So in your local computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 133.8,
+            "end": 134.8,
+            "text": " Ue underscore English dot exe"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 134.8,
+            "end": 135.8,
+            "text": " The file should be"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 135.8,
+            "end": 136.8,
+            "text": " And from here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 136.8,
+            "end": 137.8,
+            "text": " You will serve it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 137.8,
+            "end": 138.8,
+            "text": " That means"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 138.8,
+            "end": 140.8,
+            "text": " The links you are going to use"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 140.8,
+            "end": 142.8,
+            "text": " These links should come from here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 142.8,
+            "end": 143.8,
+            "text": " That means"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 143.8,
+            "end": 144.8,
+            "text": " As soon as you click on this link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 144.8,
+            "end": 146.8,
+            "text": " So this ue underscore English dot exe"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 146.8,
+            "end": 147.8,
+            "text": " Downloads"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 147.8,
+            "end": 148.8,
+            "text": " Okay"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 148.8,
+            "end": 150.8,
+            "text": " So you have to use this link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 150.8,
+            "end": 151.8,
+            "text": " In all these places"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 151.8,
+            "end": 152.8,
+            "text": " All these links"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 152.8,
+            "end": 153.8,
+            "text": " You can use the same link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 153.8,
+            "end": 154.8,
+            "text": " For the sake of convenience"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 154.8,
+            "end": 155.8,
+            "text": " And you guys have to design it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 155.8,
+            "end": 156.8,
+            "text": " With CSS grid"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 156.8,
+            "end": 157.8,
+            "text": " So you will design it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 157.8,
+            "end": 158.8,
+            "text": " With CSS grid"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 158.8,
+            "end": 159.8,
+            "text": " And the computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 159.8,
+            "end": 160.8,
+            "text": " Your big screen"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 160.8,
+            "end": 161.8,
+            "text": " Desktop"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 161.8,
+            "end": 162.8,
+            "text": " There should be three columns"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 162.8,
+            "end": 163.8,
+            "text": " And your phone"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 163.8,
+            "end": 164.8,
+            "text": " There should be one column"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 164.8,
+            "end": 165.8,
+            "text": " So if I see here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 165.8,
+            "end": 166.8,
+            "text": " Ultra edit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 166.8,
+            "end": 167.8,
+            "text": " See how ultra edit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 167.8,
+            "end": 168.8,
+            "text": " Does this thing"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 168.8,
+            "end": 169.8,
+            "text": " So I guess"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 169.8,
+            "end": 170.8,
+            "text": " Even here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 170.8,
+            "end": 171.8,
+            "text": " If you come to the phone"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 171.8,
+            "end": 172.8,
+            "text": " Then one column is visible"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 172.8,
+            "end": 173.8,
+            "text": " And if you do this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 173.8,
+            "end": 174.8,
+            "text": " Then three columns are visible"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 174.8,
+            "end": 175.8,
+            "text": " Okay"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 175.8,
+            "end": 176.8,
+            "text": " So you guys simply have to do this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 176.8,
+            "end": 177.8,
+            "text": " Design this portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 177.8,
+            "end": 178.8,
+            "text": " With CSS grid"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 178.8,
+            "end": 179.8,
+            "text": " We have designed the navbar"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 179.8,
+            "end": 180.8,
+            "text": " Already"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 180.8,
+            "end": 181.8,
+            "text": " In our last video"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 181.8,
+            "end": 182.8,
+            "text": " In the last exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 182.8,
+            "end": 183.8,
+            "text": " You can copy it from there"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 183.8,
+            "end": 184.8,
+            "text": " And bring it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 184.8,
+            "end": 185.8,
+            "text": " Simply copy"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 185.8,
+            "end": 186.8,
+            "text": " Pick up the navbar"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 186.8,
+            "end": 187.8,
+            "text": " And bring it here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 187.8,
+            "end": 188.8,
+            "text": " If you design this portion too"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 188.8,
+            "end": 189.8,
+            "text": " Then"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 189.8,
+            "end": 190.8,
+            "text": " It will look good"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 190.8,
+            "end": 191.8,
+            "text": " You guys too"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 191.8,
+            "end": 192.8,
+            "text": " But I"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 192.8,
+            "end": 193.8,
+            "text": " Don't keep this portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 193.8,
+            "end": 194.8,
+            "text": " As part of the exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 194.8,
+            "end": 195.8,
+            "text": " You can start directly from here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 195.8,
+            "end": 196.8,
+            "text": " You can delete this portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 196.8,
+            "end": 197.8,
+            "text": " Whole"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 197.8,
+            "end": 198.8,
+            "text": " And by the way"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 198.8,
+            "end": 199.8,
+            "text": " Let me tell you one thing"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 199.8,
+            "end": 200.8,
+            "text": " If you inspect here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 200.8,
+            "end": 201.8,
+            "text": " And let's say"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 201.8,
+            "end": 202.8,
+            "text": " This one"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 202.8,
+            "end": 203.8,
+            "text": " Which is our portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 203.8,
+            "end": 204.8,
+            "text": " Of this website"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 204.8,
+            "end": 205.8,
+            "text": " Which is this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 205.8,
+            "end": 206.8,
+            "text": " See"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 206.8,
+            "end": 207.8,
+            "text": " This is highlighted"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 207.8,
+            "end": 208.8,
+            "text": " I will press delete"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 208.8,
+            "end": 209.8,
+            "text": " By selecting it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 209.8,
+            "end": 210.8,
+            "text": " So it will be deleted"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 210.8,
+            "end": 211.8,
+            "text": " Here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 211.8,
+            "end": 212.8,
+            "text": " So if I just show you guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 212.8,
+            "end": 213.8,
+            "text": " So"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 213.8,
+            "end": 214.8,
+            "text": " Now see here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 214.8,
+            "end": 215.8,
+            "text": " I will reload it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 215.8,
+            "end": 216.8,
+            "text": " And show you again"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 216.8,
+            "end": 217.8,
+            "text": " That this portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 217.8,
+            "end": 218.8,
+            "text": " Which has download ultra edit"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 218.8,
+            "end": 219.8,
+            "text": " This is this portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 219.8,
+            "end": 220.8,
+            "text": " This portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 220.8,
+            "end": 221.8,
+            "text": " Pb row"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 221.8,
+            "end": 222.8,
+            "text": " This portion"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 222.8,
+            "end": 223.8,
+            "text": " Okay"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 223.8,
+            "end": 224.8,
+            "text": " This"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 224.8,
+            "end": 225.8,
+            "text": " If I select this"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 225.8,
+            "end": 226.8,
+            "text": " Then it will be deleted"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 226.8,
+            "end": 227.8,
+            "text": " So you can make it in this format"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 227.8,
+            "end": 228.8,
+            "text": " And all these links"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 228.8,
+            "end": 229.8,
+            "text": " Even these languages are different"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 229.8,
+            "end": 230.8,
+            "text": " But after that"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 230.8,
+            "end": 231.8,
+            "text": " You can use one simple link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 231.8,
+            "end": 232.8,
+            "text": " And use different links"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 232.8,
+            "end": 233.8,
+            "text": " You guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 233.8,
+            "end": 234.8,
+            "text": " Download different versions"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 234.8,
+            "end": 235.8,
+            "text": " And put all the links"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 235.8,
+            "end": 236.8,
+            "text": " Then it is a special shoutout"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 236.8,
+            "end": 237.8,
+            "text": " For you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 237.8,
+            "end": 238.8,
+            "text": " But again"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 238.8,
+            "end": 239.8,
+            "text": " I want to teach you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 239.8,
+            "end": 240.8,
+            "text": " CSS grid"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 240.8,
+            "end": 241.8,
+            "text": " And that's why"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 241.8,
+            "end": 242.8,
+            "text": " I want you guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 242.8,
+            "end": 243.8,
+            "text": " If you download it once"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 243.8,
+            "end": 244.8,
+            "text": " And put the same links"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 244.8,
+            "end": 245.8,
+            "text": " You guys"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 245.8,
+            "end": 246.8,
+            "text": " Can do that"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 246.8,
+            "end": 247.8,
+            "text": " But"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 247.8,
+            "end": 248.8,
+            "text": " One thing is"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 248.8,
+            "end": 249.8,
+            "text": " That it should be"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 249.8,
+            "end": 250.8,
+            "text": " Served from your local computer"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 250.8,
+            "end": 251.8,
+            "text": " This is a little"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 251.8,
+            "end": 252.8,
+            "text": " You have to keep in mind"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 252.8,
+            "end": 253.8,
+            "text": " So"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 253.8,
+            "end": 254.8,
+            "text": " All of you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 254.8,
+            "end": 255.8,
+            "text": " Will get a shoutout"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 255.8,
+            "end": 256.8,
+            "text": " I will give a shoutout to everyone"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 256.8,
+            "end": 257.8,
+            "text": " Do write challenge accepted"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 257.8,
+            "end": 258.8,
+            "text": " By liking the video"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 258.8,
+            "end": 259.8,
+            "text": " I know"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 259.8,
+            "end": 260.8,
+            "text": " Very few people like the video"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 260.8,
+            "end": 261.8,
+            "text": " But"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 261.8,
+            "end": 262.8,
+            "text": " If you do"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 262.8,
+            "end": 263.8,
+            "text": " I like it very much"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 263.8,
+            "end": 264.8,
+            "text": " So if you want to do"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 264.8,
+            "end": 265.8,
+            "text": " So you can hit the like button"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 265.8,
+            "end": 266.8,
+            "text": " Rest"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 266.8,
+            "end": 267.8,
+            "text": " In the upcoming videos"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 267.8,
+            "end": 268.8,
+            "text": " I will tell you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 268.8,
+            "end": 269.8,
+            "text": " A lot more things"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 269.8,
+            "end": 270.8,
+            "text": " In this exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 270.8,
+            "end": 271.8,
+            "text": " I had a lot of fun"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 271.8,
+            "end": 272.8,
+            "text": " Some of you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 272.8,
+            "end": 273.8,
+            "text": " I also analyzed the solution"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 273.8,
+            "end": 274.8,
+            "text": " I also analyzed the solution"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 274.8,
+            "end": 275.8,
+            "text": " I"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 275.8,
+            "end": 276.8,
+            "text": " I found your approach"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 276.8,
+            "end": 277.8,
+            "text": " Quite right"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 277.8,
+            "end": 278.8,
+            "text": " That you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 278.8,
+            "end": 279.8,
+            "text": " Did many things"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 279.8,
+            "end": 280.8,
+            "text": " In such a way"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 280.8,
+            "end": 281.8,
+            "text": " That I am also amazed"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 281.8,
+            "end": 282.8,
+            "text": " That yes"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 282.8,
+            "end": 283.8,
+            "text": " You are understanding"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 283.8,
+            "end": 284.8,
+            "text": " Where to use the link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 284.8,
+            "end": 285.8,
+            "text": " Where you have to use the link"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 285.8,
+            "end": 286.8,
+            "text": " So one thing"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 286.8,
+            "end": 287.8,
+            "text": " I am understanding here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 287.8,
+            "end": 288.8,
+            "text": " That"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 288.8,
+            "end": 289.8,
+            "text": " As we do coding"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 289.8,
+            "end": 290.8,
+            "text": " As we do"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 290.8,
+            "end": 291.8,
+            "text": " Our work"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 291.8,
+            "end": 292.8,
+            "text": " Our"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 292.8,
+            "end": 293.8,
+            "text": " Common sense is also built"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 293.8,
+            "end": 294.8,
+            "text": " We explore from ourselves"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 294.8,
+            "end": 295.8,
+            "text": " It is possible"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 295.8,
+            "end": 296.8,
+            "text": " You have explored something from yourself"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 296.8,
+            "end": 297.8,
+            "text": " Which I do not know"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 297.8,
+            "end": 298.8,
+            "text": " And"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 298.8,
+            "end": 299.8,
+            "text": " When you use it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 299.8,
+            "end": 300.8,
+            "text": " I also learn"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 300.8,
+            "end": 301.8,
+            "text": " We are all students"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 301.8,
+            "end": 302.8,
+            "text": " Learn in life"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 302.8,
+            "end": 303.8,
+            "text": " Okay"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 303.8,
+            "end": 304.8,
+            "text": " So"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 304.8,
+            "end": 305.8,
+            "text": " For now"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 305.8,
+            "end": 306.8,
+            "text": " I will apologize"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 306.8,
+            "end": 307.8,
+            "text": " For the solution of this exercise"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 307.8,
+            "end": 308.8,
+            "text": " If sigma web development"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 308.8,
+            "end": 309.8,
+            "text": " If you have not accessed the playlist"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 309.8,
+            "end": 310.8,
+            "text": " Then definitely access it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 310.8,
+            "end": 311.8,
+            "text": " Click here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 311.8,
+            "end": 312.8,
+            "text": " Bookmark it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 312.8,
+            "end": 313.8,
+            "text": " Click here"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 313.8,
+            "end": 314.8,
+            "text": " Save it"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 314.8,
+            "end": 315.8,
+            "text": " So"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 315.8,
+            "end": 316.8,
+            "text": " Thank you guys for watching this video"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 316.8,
+            "end": 317.8,
+            "text": " And"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 317.8,
+            "end": 318.8,
+            "text": " I will see you"
+        },
+        {
+            "number": "44",
+            "title": "720p",
+            "start": 318.8,
+            "end": 319.8,
+            "text": " Next time"
+        }
+    ],
+    "text": " Today's exercise will test your CSS grid skills I will give you an exercise in which you have to apply your CSS grid skills And make a layout If you are going to solve this question Then do write challenge accepted in the comment section below This will tell me that you are going to solve this question Let's go to the computer screen Let's roll the intro So guys I have come inside my computer screen And now I am going to give you the exercise Our exercise number 7 That is going to be our You have to design the bottom part of the ultra edit website So I will come here I will make a folder named video 44 Video 44 And I will open it in VS code by clicking shift right here A boilerplate template I will put a template here Oops what did I do index.html And a boilerplate template will be put here And what I will do here That you guys This website I will comment it out And I will also write That design the body of this website So you have to do this So I will open it and show you guys So the ultra edit website Which we had made Whose navbar we had made in the last exercise Now what you have to do CSS grid You have to use this You have to make this Ok Now here is the catch I want to tell you And the catch is that You guys first download ultra edit And the downloaded file You have to serve it to you Right from your computer Now if you are in windows like me You have to click on download 32 bit And as soon as you click on download 32 bit This ultra edit will be downloaded And as soon as it is downloaded I will do one thing I will place it in my folder So I have cut it from my download And brought it here And the name of the file is ue underscore English So I just want to tell you this That if I write here A href is equal to ue English dot exe And write download ultra edit Download ue And if I show you guys This website So you guys have to see As soon as I click on download ue It will be downloaded And this time What is being downloaded It will come from here So on your server That is your computer What I am saying about the server When you run your local website Your server is your local computer So in your local computer Ue underscore English dot exe The file should be And from here You will serve it That means The links you are going to use These links should come from here That means As soon as you click on this link So this ue underscore English dot exe Downloads Okay So you have to use this link In all these places All these links You can use the same link For the sake of convenience And you guys have to design it With CSS grid So you will design it With CSS grid And the computer Your big screen Desktop There should be three columns And your phone There should be one column So if I see here Ultra edit See how ultra edit Does this thing So I guess Even here If you come to the phone Then one column is visible And if you do this Then three columns are visible Okay So you guys simply have to do this Design this portion With CSS grid We have designed the navbar Already In our last video In the last exercise You can copy it from there And bring it Simply copy Pick up the navbar And bring it here If you design this portion too Then It will look good You guys too But I Don't keep this portion As part of the exercise You can start directly from here You can delete this portion Whole And by the way Let me tell you one thing If you inspect here And let's say This one Which is our portion Of this website Which is this See This is highlighted I will press delete By selecting it So it will be deleted Here So if I just show you guys So Now see here I will reload it And show you again That this portion Which has download ultra edit This is this portion This portion Pb row This portion Okay This If I select this Then it will be deleted So you can make it in this format And all these links Even these languages are different But after that You can use one simple link And use different links You guys Download different versions And put all the links Then it is a special shoutout For you But again I want to teach you CSS grid And that's why I want you guys If you download it once And put the same links You guys Can do that But One thing is That it should be Served from your local computer This is a little You have to keep in mind So All of you Will get a shoutout I will give a shoutout to everyone Do write challenge accepted By liking the video I know Very few people like the video But If you do I like it very much So if you want to do So you can hit the like button Rest In the upcoming videos I will tell you A lot more things In this exercise I had a lot of fun Some of you I also analyzed the solution I also analyzed the solution I I found your approach Quite right That you Did many things In such a way That I am also amazed That yes You are understanding Where to use the link Where you have to use the link So one thing I am understanding here That As we do coding As we do Our work Our Common sense is also built We explore from ourselves It is possible You have explored something from yourself Which I do not know And When you use it I also learn We are all students Learn in life Okay So For now I will apologize For the solution of this exercise If sigma web development If you have not accessed the playlist Then definitely access it Click here Bookmark it Click here Save it So Thank you guys for watching this video And I will see you Next time"
+}
