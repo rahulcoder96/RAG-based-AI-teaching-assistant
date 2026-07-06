@@ -1,0 +1,1258 @@
+{
+    "chunks": [
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 0.0,
+            "end": 3.5,
+            "text": " Guys, in exercise 8, I gave you guys to make a bounce animation."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 3.5,
+            "end": 6.8,
+            "text": " Some of you made it, some of you made it wrong."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 6.8,
+            "end": 9.6,
+            "text": " In today's video, I will give you its solution first."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 9.6,
+            "end": 14.5,
+            "text": " And after that, I will give shoutout to all those who solved it or wrote challenge accepted."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 14.5,
+            "end": 18.7,
+            "text": " You guys like this video and do write Sigma Batch O in the comment section below."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 18.7,
+            "end": 20.2,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 20.2,
+            "end": 21.6,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 21.6,
+            "end": 34.6,
+            "text": " So guys, I have come to my computer screen and I am going to make a new folder here."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 34.6,
+            "end": 39.6,
+            "text": " So I will go to the new folder and make a folder named video 51."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 39.6,
+            "end": 45.6,
+            "text": " So the exercise 8 that I gave you, I gave you in video number 48."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 45.6,
+            "end": 50.1,
+            "text": " So I will do one thing, I will bring the index.html of video number 48 here."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 50.1,
+            "end": 51.6,
+            "text": " And after that, shift right."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 51.6,
+            "end": 54.6,
+            "text": " And after that, I will open with code it here."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 54.6,
+            "end": 58.6,
+            "text": " And yes, I agree that somewhere or the other, there was a little mind-boggling exercise in this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 58.6,
+            "end": 65.6,
+            "text": " So yes, if you guys have solved it properly, then I know that you guys know very well about CSS HTML."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 65.6,
+            "end": 68.6,
+            "text": " But now see what we have to do, we have to make this ball bounce."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 68.6,
+            "end": 70.1,
+            "text": " Once like this, once like this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 70.1,
+            "end": 72.1,
+            "text": " So you will put two animations in it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 72.1,
+            "end": 78.1,
+            "text": " So I am going to make the first animation using keyframes named animateX."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 78.1,
+            "end": 81.1,
+            "text": " And the second one I will make, I will make it named animateY."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 81.10000000000001,
+            "end": 84.10000000000001,
+            "text": " Here also I will put from and here I will put to."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 84.10000000000001,
+            "end": 88.10000000000001,
+            "text": " So from where to where it is going, what all things I will write here."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 88.10000000000001,
+            "end": 90.10000000000001,
+            "text": " So I made one animation, animateX."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 90.10000000000001,
+            "end": 92.10000000000001,
+            "text": " One I made, animateY."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 92.10000000000001,
+            "end": 95.10000000000001,
+            "text": " In animateX, I did left 0 to left 100%."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 95.10000000000001,
+            "end": 100.10000000000001,
+            "text": " And in animateY, I will do bottom 0 to bottom 100%."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 100.10000000000001,
+            "end": 106.10000000000001,
+            "text": " So if I put animation here and I write here that I just want to see animateX."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 106.10000000000001,
+            "end": 109.10000000000001,
+            "text": " That how is it and suppose I write 3 seconds."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 109.10000000000001,
+            "end": 111.10000000000001,
+            "text": " That I want to put it for 3 seconds."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 111.10000000000001,
+            "end": 115.10000000000001,
+            "text": " So what I will do is that I will write it linear."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 115.10000000000001,
+            "end": 119.10000000000001,
+            "text": " And along with linear, I will want it to repeat infinite times."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 119.10000000000001,
+            "end": 121.10000000000001,
+            "text": " So now I will show you this animation."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 121.10000000000001,
+            "end": 123.10000000000001,
+            "text": " So see how it will keep repeating."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 123.10000000000001,
+            "end": 127.10000000000001,
+            "text": " So it will keep going like this and it will keep repeating."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 127.10000000000001,
+            "end": 129.10000000000002,
+            "text": " Now I will remove this animation."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 129.10000000000002,
+            "end": 134.10000000000002,
+            "text": " And I will say that now I want the same animation but I want it in Y."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 134.10000000000002,
+            "end": 138.10000000000002,
+            "text": " Now I will ease out the Y animation, I will not make it linear."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 138.10000000000002,
+            "end": 140.10000000000002,
+            "text": " Because when the ball goes, I will ease out."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 140.1,
+            "end": 144.1,
+            "text": " When you throw the ball upwards, it will ease out."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 144.1,
+            "end": 147.1,
+            "text": " And I will reduce its time so that the ball bounces."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 147.1,
+            "end": 150.1,
+            "text": " I did animateY, 1 second, ease out, infinite."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 150.1,
+            "end": 154.1,
+            "text": " And I will also alternate it so that it keeps going one after the other."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 154.1,
+            "end": 158.1,
+            "text": " And now I will see here that the ball is bouncing like this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 158.1,
+            "end": 160.1,
+            "text": " I have alternated it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 160.1,
+            "end": 162.1,
+            "text": " Once back, once forward, once back, once forward."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 162.1,
+            "end": 166.1,
+            "text": " And the function of ease out goes in the same way."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 166.1,
+            "end": 168.1,
+            "text": " What does ease out mean?"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 168.1,
+            "end": 169.1,
+            "text": " It slows down when it is outside."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 169.1,
+            "end": 171.1,
+            "text": " And by alternating it, what will happen?"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 171.1,
+            "end": 174.1,
+            "text": " It will come in the same way as it went."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 174.1,
+            "end": 176.1,
+            "text": " So the ball is bouncing like this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 176.1,
+            "end": 177.1,
+            "text": " Now I don't have to do anything."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 177.1,
+            "end": 179.1,
+            "text": " Now put both the animations together."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 179.1,
+            "end": 180.1,
+            "text": " That's about it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 180.1,
+            "end": 181.1,
+            "text": " So I will do uncomment."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 181.1,
+            "end": 183.1,
+            "text": " And here I will put a comma."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 183.1,
+            "end": 185.1,
+            "text": " By putting a comma, we can put multiple animations."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 185.1,
+            "end": 187.1,
+            "text": " And our ball has bounced."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 187.1,
+            "end": 189.1,
+            "text": " Do you see? It has become completely realistic."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 189.1,
+            "end": 190.1,
+            "text": " The ball is bouncing."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 190.1,
+            "end": 191.1,
+            "text": " Do you see this?"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 191.1,
+            "end": 192.1,
+            "text": " Look at this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 192.1,
+            "end": 195.1,
+            "text": " And look at this, the ball is bouncing."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 195.1,
+            "end": 196.1,
+            "text": " So we had to make this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 196.1,
+            "end": 198.1,
+            "text": " If you want it to bounce once, twice, how many times, you can do it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 198.1,
+            "end": 200.1,
+            "text": " If it bounces so many times, then you have to do some calculation."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 200.1,
+            "end": 202.1,
+            "text": " I have a video of projectile motion."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 202.1,
+            "end": 204.1,
+            "text": " Anyway, leave it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 204.1,
+            "end": 205.1,
+            "text": " You can watch it if you want."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 205.1,
+            "end": 206.1,
+            "text": " But leave it now."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 206.1,
+            "end": 208.1,
+            "text": " Let's leave projectile motion."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 208.1,
+            "end": 210.1,
+            "text": " And this is a very simple thing."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 210.1,
+            "end": 211.1,
+            "text": " If you know physics."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 211.1,
+            "end": 213.1,
+            "text": " So if you don't know physics,"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 213.1,
+            "end": 216.1,
+            "text": " then it can be a little complicated for you."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 216.1,
+            "end": 218.1,
+            "text": " But again, you learned animations."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 218.1,
+            "end": 219.1,
+            "text": " Ease out means learned."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 219.1,
+            "end": 220.1,
+            "text": " Alternate the animation."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 220.1,
+            "end": 221.1,
+            "text": " Put it separately in Y."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 221.1,
+            "end": 222.1,
+            "text": " Put it separately in X."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 222.1,
+            "end": 225.1,
+            "text": " I don't think you will have any problem even if you don't know physics."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 225.1,
+            "end": 226.1,
+            "text": " Now what will I do?"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 226.1,
+            "end": 227.1,
+            "text": " I will give you a shoutout."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 227.1,
+            "end": 228.1,
+            "text": " Shoutout."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 228.1,
+            "end": 230.1,
+            "text": " Whoever has solved this question,"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 230.1,
+            "end": 232.1,
+            "text": " I am going to give him a shoutout."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 232.1,
+            "end": 234.1,
+            "text": " And I will open the video for him."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 234.1,
+            "end": 236.1,
+            "text": " And whoever has commented on it,"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 236.1,
+            "end": 237.1,
+            "text": " I am going to give him a shoutout."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 237.1,
+            "end": 239.1,
+            "text": " And along with that,"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 239.1,
+            "end": 240.1,
+            "text": " I will do one thing."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 240.1,
+            "end": 242.1,
+            "text": " I will stop this."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 242.1,
+            "end": 244.1,
+            "text": " So that you can see the shoutout when I give it."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 244.1,
+            "end": 245.1,
+            "text": " Shoutout to Rishabh."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 245.1,
+            "end": 247.1,
+            "text": " But brother, you have to attempt it too."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 247.1,
+            "end": 248.1,
+            "text": " You don't just have to write the solution."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 248.1,
+            "end": 250.1,
+            "text": " After that, shoutout to Zubair Khan."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 250.1,
+            "end": 252.1,
+            "text": " Then Rishabh wrote the challenge accepted."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 252.1,
+            "end": 254.1,
+            "text": " Shoutout to Harry Dohale."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 254.1,
+            "end": 256.1,
+            "text": " Then shoutout to Yash Nagrale."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 256.1,
+            "end": 257.1,
+            "text": " Shoutout to Arpit."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 257.1,
+            "end": 258.1,
+            "text": " Shoutout to Amish."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 258.1,
+            "end": 259.1,
+            "text": " Shoutout to Hina Naaz."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 259.1,
+            "end": 264.1,
+            "text": " Shoutout to Vivaan Yadav."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 264.1,
+            "end": 265.1,
+            "text": " Shoutout to Navneet."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 265.1,
+            "end": 267.1,
+            "text": " Actually, there are no spaces in the user names."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 267.1,
+            "end": 270.1,
+            "text": " That's why I am having a problem in reading."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 270.1,
+            "end": 271.1,
+            "text": " But that's fine."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 271.1,
+            "end": 272.1,
+            "text": " Shoutout to everyone."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 272.1,
+            "end": 273.1,
+            "text": " Shoutout to Jameel."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 273.1,
+            "end": 274.1,
+            "text": " Shoutout to Ujwal."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 274.1,
+            "end": 275.1,
+            "text": " Shoutout to Solo."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 275.1,
+            "end": 276.1,
+            "text": " Shoutout to Storm."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 276.1,
+            "end": 277.1,
+            "text": " Shoutout to TheGreatNavid."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 277.1,
+            "end": 279.1,
+            "text": " Shoutout to Sarex."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 279.1,
+            "end": 280.1,
+            "text": " Shoutout to Jai."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 280.1,
+            "end": 282.1,
+            "text": " Shoutout to Kodwit Krish."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 282.1,
+            "end": 283.1,
+            "text": " Shoutout to Harhar Mahadev."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 283.1,
+            "end": 284.1,
+            "text": " Shoutout to Jameel."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 284.1,
+            "end": 285.1,
+            "text": " Shoutout to TheGreatNavid."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 285.1,
+            "end": 286.1,
+            "text": " Shoutout to Harhar Mahadev."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 286.1,
+            "end": 287.1,
+            "text": " Shoutout to Grantarit Navid Khan."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 287.1,
+            "end": 288.1,
+            "text": " Shoutout to Ali Hamza."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 288.1,
+            "end": 289.1,
+            "text": " Shoutout to StormxPlays."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 289.1,
+            "end": 290.1,
+            "text": " Shoutout to Cosmo db-photo."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 290.1,
+            "end": 311.34000000000003,
+            "text": " Shoutout to D..."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 311.34000000000003,
+            "end": 312.34000000000003,
+            "text": " and so on."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 312.34000000000003,
+            "end": 313.34000000000003,
+            "text": " Shoutout to Tech Gaming with Nitin."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 313.34000000000003,
+            "end": 314.34000000000003,
+            "text": " Shoutout to Madhav."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 314.34000000000003,
+            "end": 315.34000000000003,
+            "text": " Shoutout to Aamish."
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 315.34000000000003,
+            "end": 317.96000000000004,
+            "text": " understand its solution and reattempt it again"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 317.96000000000004,
+            "end": 322.24,
+            "text": " you try to make similar animations of different types"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 322.24,
+            "end": 323.96000000000004,
+            "text": " many things can be done"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 323.96000000000004,
+            "end": 325.96000000000004,
+            "text": " you can do it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 325.96000000000004,
+            "end": 327.96000000000004,
+            "text": " and your skills will only increase if you do it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 327.96000000000004,
+            "end": 330.24,
+            "text": " so I hope you understood this question"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 330.24,
+            "end": 331.74,
+            "text": " and you clearly understood"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 331.74,
+            "end": 334.24,
+            "text": " how to put animations in X and Y together"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 334.24,
+            "end": 336.24,
+            "text": " and achieve this kind of animation"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 336.24,
+            "end": 340.24,
+            "text": " so if you haven't accessed the playlist of sigma web development course"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 340.24,
+            "end": 341.62,
+            "text": " then do access it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 341.62,
+            "end": 343.62,
+            "text": " there are already 1 million views in the playlist"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 343.62,
+            "end": 345.62,
+            "text": " which is a very good thing"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 345.62,
+            "end": 347.62,
+            "text": " you can click here and bookmark it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 347.62,
+            "end": 349.62,
+            "text": " and as your feedback is coming"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 349.62,
+            "end": 351.62,
+            "text": " many people are saying that why didn't we get sigma course before"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 351.62,
+            "end": 353.62,
+            "text": " we bought this and that"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 353.62,
+            "end": 355.62,
+            "text": " so let me tell you"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 355.62,
+            "end": 357.62,
+            "text": " I have made this thing in my mind"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 357.62,
+            "end": 359.62,
+            "text": " that this is going to be the best course for web development"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 359.62,
+            "end": 363.62,
+            "text": " even if you don't see it after years"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 363.62,
+            "end": 365.62,
+            "text": " I don't think the front end will change that much"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 365.62,
+            "end": 367.62,
+            "text": " and this is going to be the best course out there"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 367.62,
+            "end": 369.62,
+            "text": " and I am not saying this, these are the people who gave feedback"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 369.62,
+            "end": 371.62,
+            "text": " who did this course"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 371.62,
+            "end": 373.62,
+            "text": " and let me tell you one more thing"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 373.62,
+            "end": 375.62,
+            "text": " because the course speaks for itself"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 375.62,
+            "end": 377.62,
+            "text": " and the best is yet to come"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 377.62,
+            "end": 379.62,
+            "text": " there are still a lot of things"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 379.62,
+            "end": 381.62,
+            "text": " which I am going to put in it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 381.62,
+            "end": 383.62,
+            "text": " which will tell you the worth of this course"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 383.62,
+            "end": 385.62,
+            "text": " it is a free course so don't take it lightly"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 385.62,
+            "end": 387.62,
+            "text": " I will add a lot of things in it"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 387.62,
+            "end": 389.62,
+            "text": " and I know in the last videos"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 389.62,
+            "end": 391.62,
+            "text": " the views are very low"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 391.62,
+            "end": 393.62,
+            "text": " but it doesn't matter to me"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 393.62,
+            "end": 395.62,
+            "text": " I will put the same energy"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 395.62,
+            "end": 397.62,
+            "text": " in fact I will put more energy"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 397.62,
+            "end": 399.62,
+            "text": " and make this course the best course"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 399.62,
+            "end": 401.62,
+            "text": " so remember this thing"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 401.62,
+            "end": 403.62,
+            "text": " I don't want to say much about this"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 403.62,
+            "end": 405.62,
+            "text": " because time will tell"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 405.62,
+            "end": 407.62,
+            "text": " how good this course is"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 407.62,
+            "end": 409.62,
+            "text": " and my goal is to make you job ready"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 409.62,
+            "end": 411.62,
+            "text": " and I want more and more people to access this"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 411.62,
+            "end": 413.62,
+            "text": " and become job ready for free"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 413.62,
+            "end": 415.62,
+            "text": " with that said thank you so much guys for watching this video"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 415.62,
+            "end": 417.62,
+            "text": " and I will see you next time"
+        },
+        {
+            "number": "51",
+            "title": "720p",
+            "start": 433.62,
+            "end": 435.62,
+            "text": " bye bye"
+        }
+    ],
+    "text": " Guys, in exercise 8, I gave you guys to make a bounce animation. Some of you made it, some of you made it wrong. In today's video, I will give you its solution first. And after that, I will give shoutout to all those who solved it or wrote challenge accepted. You guys like this video and do write Sigma Batch O in the comment section below. Let's go to the computer screen. Let's roll the intro. So guys, I have come to my computer screen and I am going to make a new folder here. So I will go to the new folder and make a folder named video 51. So the exercise 8 that I gave you, I gave you in video number 48. So I will do one thing, I will bring the index.html of video number 48 here. And after that, shift right. And after that, I will open with code it here. And yes, I agree that somewhere or the other, there was a little mind-boggling exercise in this. So yes, if you guys have solved it properly, then I know that you guys know very well about CSS HTML. But now see what we have to do, we have to make this ball bounce. Once like this, once like this. So you will put two animations in it. So I am going to make the first animation using keyframes named animateX. And the second one I will make, I will make it named animateY. Here also I will put from and here I will put to. So from where to where it is going, what all things I will write here. So I made one animation, animateX. One I made, animateY. In animateX, I did left 0 to left 100%. And in animateY, I will do bottom 0 to bottom 100%. So if I put animation here and I write here that I just want to see animateX. That how is it and suppose I write 3 seconds. That I want to put it for 3 seconds. So what I will do is that I will write it linear. And along with linear, I will want it to repeat infinite times. So now I will show you this animation. So see how it will keep repeating. So it will keep going like this and it will keep repeating. Now I will remove this animation. And I will say that now I want the same animation but I want it in Y. Now I will ease out the Y animation, I will not make it linear. Because when the ball goes, I will ease out. When you throw the ball upwards, it will ease out. And I will reduce its time so that the ball bounces. I did animateY, 1 second, ease out, infinite. And I will also alternate it so that it keeps going one after the other. And now I will see here that the ball is bouncing like this. I have alternated it. Once back, once forward, once back, once forward. And the function of ease out goes in the same way. What does ease out mean? It slows down when it is outside. And by alternating it, what will happen? It will come in the same way as it went. So the ball is bouncing like this. Now I don't have to do anything. Now put both the animations together. That's about it. So I will do uncomment. And here I will put a comma. By putting a comma, we can put multiple animations. And our ball has bounced. Do you see? It has become completely realistic. The ball is bouncing. Do you see this? Look at this. And look at this, the ball is bouncing. So we had to make this. If you want it to bounce once, twice, how many times, you can do it. If it bounces so many times, then you have to do some calculation. I have a video of projectile motion. Anyway, leave it. You can watch it if you want. But leave it now. Let's leave projectile motion. And this is a very simple thing. If you know physics. So if you don't know physics, then it can be a little complicated for you. But again, you learned animations. Ease out means learned. Alternate the animation. Put it separately in Y. Put it separately in X. I don't think you will have any problem even if you don't know physics. Now what will I do? I will give you a shoutout. Shoutout. Whoever has solved this question, I am going to give him a shoutout. And I will open the video for him. And whoever has commented on it, I am going to give him a shoutout. And along with that, I will do one thing. I will stop this. So that you can see the shoutout when I give it. Shoutout to Rishabh. But brother, you have to attempt it too. You don't just have to write the solution. After that, shoutout to Zubair Khan. Then Rishabh wrote the challenge accepted. Shoutout to Harry Dohale. Then shoutout to Yash Nagrale. Shoutout to Arpit. Shoutout to Amish. Shoutout to Hina Naaz. Shoutout to Vivaan Yadav. Shoutout to Navneet. Actually, there are no spaces in the user names. That's why I am having a problem in reading. But that's fine. Shoutout to everyone. Shoutout to Jameel. Shoutout to Ujwal. Shoutout to Solo. Shoutout to Storm. Shoutout to TheGreatNavid. Shoutout to Sarex. Shoutout to Jai. Shoutout to Kodwit Krish. Shoutout to Harhar Mahadev. Shoutout to Jameel. Shoutout to TheGreatNavid. Shoutout to Harhar Mahadev. Shoutout to Grantarit Navid Khan. Shoutout to Ali Hamza. Shoutout to StormxPlays. Shoutout to Cosmo db-photo. Shoutout to D... and so on. Shoutout to Tech Gaming with Nitin. Shoutout to Madhav. Shoutout to Aamish. understand its solution and reattempt it again you try to make similar animations of different types many things can be done you can do it and your skills will only increase if you do it so I hope you understood this question and you clearly understood how to put animations in X and Y together and achieve this kind of animation so if you haven't accessed the playlist of sigma web development course then do access it there are already 1 million views in the playlist which is a very good thing you can click here and bookmark it and as your feedback is coming many people are saying that why didn't we get sigma course before we bought this and that so let me tell you I have made this thing in my mind that this is going to be the best course for web development even if you don't see it after years I don't think the front end will change that much and this is going to be the best course out there and I am not saying this, these are the people who gave feedback who did this course and let me tell you one more thing because the course speaks for itself and the best is yet to come there are still a lot of things which I am going to put in it which will tell you the worth of this course it is a free course so don't take it lightly I will add a lot of things in it and I know in the last videos the views are very low but it doesn't matter to me I will put the same energy in fact I will put more energy and make this course the best course so remember this thing I don't want to say much about this because time will tell how good this course is and my goal is to make you job ready and I want more and more people to access this and become job ready for free with that said thank you so much guys for watching this video and I will see you next time bye bye"
+}

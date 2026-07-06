@@ -1,0 +1,1069 @@
+{
+    "chunks": [
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " We have learned Transition and Animation very well"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 3.0,
+            "end": 6.5,
+            "text": " Now it's time to check your Transition and Animation skills"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 6.5,
+            "end": 9.5,
+            "text": " I will give you a question which you all have to solve"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 9.5,
+            "end": 13.5,
+            "text": " Like the video and write Sigma Bajo in the comment section below"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 13.5,
+            "end": 15.0,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 15.0,
+            "end": 16.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 25.0,
+            "end": 27.5,
+            "text": " Now the exercise I want to give you is"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 27.5,
+            "end": 29.5,
+            "text": " About Transition and Animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 29.5,
+            "end": 33.0,
+            "text": " So I am going to create a folder in the name of Video48"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 33.0,
+            "end": 37.0,
+            "text": " And after creating this folder I am going to open it in VS Code"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 37.0,
+            "end": 41.0,
+            "text": " Here I will create a file in the name of index.html and put a comment"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 41.0,
+            "end": 43.0,
+            "text": " And what I will do is"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 43.0,
+            "end": 45.0,
+            "text": " I will give you a question in the comment section below"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 45.0,
+            "end": 47.5,
+            "text": " And because this is going to be done with Transition and Animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 47.5,
+            "end": 49.5,
+            "text": " So we will use Transition and Animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 49.5,
+            "end": 51.5,
+            "text": " That was very easy to predict"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 51.5,
+            "end": 54.0,
+            "text": " So now comes the problem which you all have to solve"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 54.0,
+            "end": 56.5,
+            "text": " You all are given this cube"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 56.5,
+            "end": 59.5,
+            "text": " And here you are given a background"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 59.5,
+            "end": 60.5,
+            "text": " What you have to do is"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 60.5,
+            "end": 63.5,
+            "text": " You have to bounce this cube here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 63.5,
+            "end": 64.5,
+            "text": " Like a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 64.5,
+            "end": 67.5,
+            "text": " And I make it a ball by giving it a border radius"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 67.5,
+            "end": 70.5,
+            "text": " So I will give it a border radius to make a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 70.5,
+            "end": 71.5,
+            "text": " So let's do it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 71.5,
+            "end": 72.5,
+            "text": " So I will come here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 72.5,
+            "end": 74.5,
+            "text": " And by inspecting here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 74.5,
+            "end": 75.5,
+            "text": " This is my box"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 75.5,
+            "end": 77.5,
+            "text": " I have put some CSS on it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 77.5,
+            "end": 79.5,
+            "text": " I will give it a border radius"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 79.5,
+            "end": 80.5,
+            "text": " Okay"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 80.5,
+            "end": 82.0,
+            "text": " Border radius"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 82.0,
+            "end": 84.5,
+            "text": " And here I will give it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 84.5,
+            "end": 86.0,
+            "text": " Something like this"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 86.0,
+            "end": 87.5,
+            "text": " Such that it becomes a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 87.5,
+            "end": 88.5,
+            "text": " It became a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 88.5,
+            "end": 89.5,
+            "text": " 58 pixels"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 89.5,
+            "end": 91.5,
+            "text": " After 69 pixels it became a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 91.5,
+            "end": 93.5,
+            "text": " So I will make it 70 pixels"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 93.5,
+            "end": 94.5,
+            "text": " Its border radius"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 94.5,
+            "end": 95.5,
+            "text": " Let's go"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 95.5,
+            "end": 97.5,
+            "text": " And after doing this"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 97.5,
+            "end": 100.5,
+            "text": " This box has become a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 100.5,
+            "end": 101.5,
+            "text": " Okay"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 101.5,
+            "end": 103.5,
+            "text": " And here I will put a semicolon"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 103.5,
+            "end": 105.5,
+            "text": " And you all see it has become a ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 105.5,
+            "end": 106.5,
+            "text": " What you have to do is"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 106.5,
+            "end": 109.5,
+            "text": " You have to make this ball here in a way"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 109.5,
+            "end": 112.5,
+            "text": " That it bounces like a real ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 112.5,
+            "end": 114.5,
+            "text": " This is a physics simulation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 114.5,
+            "end": 116.5,
+            "text": " And some of you will find it difficult"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 116.5,
+            "end": 117.5,
+            "text": " But I will give you some hints on it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 117.5,
+            "end": 118.5,
+            "text": " Because I know that"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 118.5,
+            "end": 120.5,
+            "text": " It can be a little difficult for you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 120.5,
+            "end": 122.5,
+            "text": " Now you either do this question with transition"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 122.5,
+            "end": 123.5,
+            "text": " Or do it with animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 123.5,
+            "end": 124.5,
+            "text": " I don't have any problem with it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 124.5,
+            "end": 125.5,
+            "text": " Your choice will be"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 125.5,
+            "end": 127.5,
+            "text": " Do you want to do it with transition"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 127.5,
+            "end": 128.5,
+            "text": " Or do you want to do it with animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 128.5,
+            "end": 130.5,
+            "text": " But I want to give you a hint"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 130.5,
+            "end": 131.5,
+            "text": " If you find it difficult"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 131.5,
+            "end": 133.5,
+            "text": " The first hint that I want to give you is"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 133.5,
+            "end": 136.5,
+            "text": " That you have to make a different animation in X"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 136.5,
+            "end": 138.5,
+            "text": " Make a different animation in Y"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 138.5,
+            "end": 140.5,
+            "text": " At least I will solve it like this"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 140.5,
+            "end": 141.5,
+            "text": " Make two different animations"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 141.5,
+            "end": 143.5,
+            "text": " If you want to bounce any ball"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 143.5,
+            "end": 146.5,
+            "text": " Then its trajectory in Y axis"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 146.5,
+            "end": 147.5,
+            "text": " It is something like this"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 147.5,
+            "end": 149.5,
+            "text": " That its speed decreases"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 149.5,
+            "end": 151.5,
+            "text": " So think about such an animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 151.5,
+            "end": 153.5,
+            "text": " That its speed decreases"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 153.5,
+            "end": 155.5,
+            "text": " First make an animation of Y"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 155.5,
+            "end": 157.5,
+            "text": " Then make an animation of X"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 157.5,
+            "end": 159.5,
+            "text": " And how will the animation of X be?"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 159.5,
+            "end": 160.5,
+            "text": " It will be linear"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 160.5,
+            "end": 163.5,
+            "text": " Because your speed in X does not decrease"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 163.5,
+            "end": 165.5,
+            "text": " And if you are not able to understand"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 165.5,
+            "end": 166.5,
+            "text": " How to do it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 166.5,
+            "end": 167.5,
+            "text": " Then you try it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 167.5,
+            "end": 169.5,
+            "text": " See what you have to do in X axis"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 169.5,
+            "end": 171.5,
+            "text": " From here to here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 171.5,
+            "end": 173.5,
+            "text": " And what you have to do in Y axis"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 173.5,
+            "end": 174.5,
+            "text": " From here to here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 174.5,
+            "end": 175.5,
+            "text": " And from here to here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 175.5,
+            "end": 176.5,
+            "text": " Such that"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 176.5,
+            "end": 178.5,
+            "text": " When it is coming from here to here"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 178.5,
+            "end": 180.5,
+            "text": " Then its speed is decreasing to zero"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 180.5,
+            "end": 182.5,
+            "text": " And you have to repeat that animation backwards"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 182.5,
+            "end": 183.5,
+            "text": " How to do that?"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 183.5,
+            "end": 184.5,
+            "text": " I told you in the animation video"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 184.5,
+            "end": 186.5,
+            "text": " And you have to stick both the animations together"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 186.5,
+            "end": 187.5,
+            "text": " That's it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 187.5,
+            "end": 188.5,
+            "text": " One linear animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 188.5,
+            "end": 190.5,
+            "text": " And one constant animation"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 190.5,
+            "end": 191.5,
+            "text": " You have to decide"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 191.5,
+            "end": 193.5,
+            "text": " And if you want to do it with transform"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 193.5,
+            "end": 194.5,
+            "text": " Sorry"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 194.5,
+            "end": 195.5,
+            "text": " If you want to do it with transition"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 195.5,
+            "end": 197.5,
+            "text": " Then you can also do it with transition"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 197.5,
+            "end": 199.5,
+            "text": " So it will be up to you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 199.5,
+            "end": 200.5,
+            "text": " I will not say anything to you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 200.5,
+            "end": 202.5,
+            "text": " And it is found in the solution"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 202.5,
+            "end": 204.5,
+            "text": " Yes I know it is a little advanced exercise"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 204.5,
+            "end": 206.5,
+            "text": " But I want all of you to attempt it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 206.5,
+            "end": 208.5,
+            "text": " At least attempt it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 208.5,
+            "end": 209.5,
+            "text": " And it doesn't happen"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 209.5,
+            "end": 210.5,
+            "text": " It doesn't matter"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 210.5,
+            "end": 211.5,
+            "text": " Come to the solution"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 211.5,
+            "end": 212.5,
+            "text": " Listen to me"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 212.5,
+            "end": 213.5,
+            "text": " There is no problem"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 213.5,
+            "end": 214.5,
+            "text": " It doesn't happen"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 214.5,
+            "end": 215.5,
+            "text": " There is no tension"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 215.5,
+            "end": 216.5,
+            "text": " Don't think of yourself as useless"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 216.5,
+            "end": 218.5,
+            "text": " Don't think of these exercises as"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 218.5,
+            "end": 219.5,
+            "text": " If it doesn't happen then you are useless"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 219.5,
+            "end": 221.5,
+            "text": " Many people think of exercise as"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 221.5,
+            "end": 222.5,
+            "text": " Exercise means"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 222.5,
+            "end": 224.5,
+            "text": " That if you can't do it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 224.5,
+            "end": 225.5,
+            "text": " Then you don't understand"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 225.5,
+            "end": 226.5,
+            "text": " No"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 226.5,
+            "end": 227.5,
+            "text": " Actually I will tell you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 227.5,
+            "end": 229.5,
+            "text": " How to do complex animations with exercise"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 229.5,
+            "end": 231.5,
+            "text": " Then simple animations will be helpful"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 231.5,
+            "end": 233.5,
+            "text": " Your confidence will go up"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 233.5,
+            "end": 234.5,
+            "text": " After doing this course"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 234.5,
+            "end": 235.5,
+            "text": " I will tell you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 235.5,
+            "end": 237.5,
+            "text": " I want to make a very successful web developer"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 237.5,
+            "end": 239.5,
+            "text": " That you won't get stuck anywhere"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 239.5,
+            "end": 240.5,
+            "text": " So we won't do this kind of work"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 240.5,
+            "end": 241.5,
+            "text": " This won't happen in the course"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 241.5,
+            "end": 243.5,
+            "text": " I will have to do this"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 243.5,
+            "end": 244.5,
+            "text": " And"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 244.5,
+            "end": 245.5,
+            "text": " Let's meet in its solution video"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 245.5,
+            "end": 246.5,
+            "text": " It's going to be very interesting"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 246.5,
+            "end": 247.5,
+            "text": " Be sure to watch that"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 247.5,
+            "end": 248.5,
+            "text": " Okay"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 248.5,
+            "end": 249.5,
+            "text": " If you haven't accessed the playlist"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 249.5,
+            "end": 250.5,
+            "text": " Then be sure to access it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 250.5,
+            "end": 251.5,
+            "text": " Click on it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 251.5,
+            "end": 252.5,
+            "text": " Bookmark it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 252.5,
+            "end": 253.5,
+            "text": " Click on it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 253.5,
+            "end": 254.5,
+            "text": " Save it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 254.5,
+            "end": 255.5,
+            "text": " And the code has also been uploaded on the GitHub"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 255.5,
+            "end": 256.5,
+            "text": " So be sure to access it"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 256.5,
+            "end": 257.5,
+            "text": " That's it in this video guys"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 257.5,
+            "end": 258.5,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 258.5,
+            "end": 259.5,
+            "text": " For watching this video"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 259.5,
+            "end": 260.5,
+            "text": " And I will see you"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 260.5,
+            "end": 261.5,
+            "text": " Next time"
+        },
+        {
+            "number": "48",
+            "title": "720p",
+            "start": 265.5,
+            "end": 266.5,
+            "text": " Bye Bye"
+        }
+    ],
+    "text": " We have learned Transition and Animation very well Now it's time to check your Transition and Animation skills I will give you a question which you all have to solve Like the video and write Sigma Bajo in the comment section below Let's go to the computer screen Let's roll the intro Now the exercise I want to give you is About Transition and Animation So I am going to create a folder in the name of Video48 And after creating this folder I am going to open it in VS Code Here I will create a file in the name of index.html and put a comment And what I will do is I will give you a question in the comment section below And because this is going to be done with Transition and Animation So we will use Transition and Animation That was very easy to predict So now comes the problem which you all have to solve You all are given this cube And here you are given a background What you have to do is You have to bounce this cube here Like a ball And I make it a ball by giving it a border radius So I will give it a border radius to make a ball So let's do it So I will come here And by inspecting here This is my box I have put some CSS on it I will give it a border radius Okay Border radius And here I will give it Something like this Such that it becomes a ball It became a ball 58 pixels After 69 pixels it became a ball So I will make it 70 pixels Its border radius Let's go And after doing this This box has become a ball Okay And here I will put a semicolon And you all see it has become a ball What you have to do is You have to make this ball here in a way That it bounces like a real ball This is a physics simulation And some of you will find it difficult But I will give you some hints on it Because I know that It can be a little difficult for you Now you either do this question with transition Or do it with animation I don't have any problem with it Your choice will be Do you want to do it with transition Or do you want to do it with animation But I want to give you a hint If you find it difficult The first hint that I want to give you is That you have to make a different animation in X Make a different animation in Y At least I will solve it like this Make two different animations If you want to bounce any ball Then its trajectory in Y axis It is something like this That its speed decreases So think about such an animation That its speed decreases First make an animation of Y Then make an animation of X And how will the animation of X be? It will be linear Because your speed in X does not decrease And if you are not able to understand How to do it Then you try it See what you have to do in X axis From here to here And what you have to do in Y axis From here to here And from here to here Such that When it is coming from here to here Then its speed is decreasing to zero And you have to repeat that animation backwards How to do that? I told you in the animation video And you have to stick both the animations together That's it One linear animation And one constant animation You have to decide And if you want to do it with transform Sorry If you want to do it with transition Then you can also do it with transition So it will be up to you I will not say anything to you And it is found in the solution Yes I know it is a little advanced exercise But I want all of you to attempt it At least attempt it And it doesn't happen It doesn't matter Come to the solution Listen to me There is no problem It doesn't happen There is no tension Don't think of yourself as useless Don't think of these exercises as If it doesn't happen then you are useless Many people think of exercise as Exercise means That if you can't do it Then you don't understand No Actually I will tell you How to do complex animations with exercise Then simple animations will be helpful Your confidence will go up After doing this course I will tell you I want to make a very successful web developer That you won't get stuck anywhere So we won't do this kind of work This won't happen in the course I will have to do this And Let's meet in its solution video It's going to be very interesting Be sure to watch that Okay If you haven't accessed the playlist Then be sure to access it Click on it Bookmark it Click on it Save it And the code has also been uploaded on the GitHub So be sure to access it That's it in this video guys Thank you so much guys For watching this video And I will see you Next time Bye Bye"
+}

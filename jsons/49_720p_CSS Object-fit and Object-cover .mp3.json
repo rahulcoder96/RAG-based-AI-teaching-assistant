@@ -1,0 +1,3498 @@
+{
+    "chunks": [
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Today we will talk about object fit and object position properties."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 4.0,
+            "end": 7.3,
+            "text": " Sometimes in a container, we have to keep an image in such a way"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 7.3,
+            "end": 10.1,
+            "text": " such that it is fully covered in its width"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 10.1,
+            "end": 14.700000000000001,
+            "text": " or it is fully fit while maintaining its aspect ratio in that container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 14.700000000000001,
+            "end": 17.8,
+            "text": " To do such things, we use object fit property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 17.8,
+            "end": 21.3,
+            "text": " And I will also cover the object cover property in detail in this video."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 21.3,
+            "end": 25.0,
+            "text": " You guys do like this video and do write sigma batch op in the comment section below."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 25.0,
+            "end": 26.3,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 26.3,
+            "end": 27.8,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 30.0,
+            "end": 40.0,
+            "text": " This object fit property and object position property"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 40.0,
+            "end": 44.5,
+            "text": " solves a very big problem in CSS and web development."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 44.5,
+            "end": 46.2,
+            "text": " Let me show you what it is."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 46.2,
+            "end": 50.2,
+            "text": " First of all, I have already made index.html in video 49."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 50.2,
+            "end": 52.0,
+            "text": " I will add boilerplate template."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 52.0,
+            "end": 59.2,
+            "text": " And I will tell you about CSS object fit and position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 59.2,
+            "end": 59.7,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 59.7,
+            "end": 62.1,
+            "text": " And after that, we will talk about background position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 62.1,
+            "end": 62.7,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 62.7,
+            "end": 65.7,
+            "text": " So, what I will do now is I will make a container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 65.7,
+            "end": 66.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 66.2,
+            "end": 67.0,
+            "text": " I have made a container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 67.0,
+            "end": 68.4,
+            "text": " I said, this is a container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 68.4,
+            "end": 69.7,
+            "text": " I will write some styles."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 69.7,
+            "end": 76.1,
+            "text": " And in style, I will write that the height of the container is 34 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 76.1,
+            "end": 79.9,
+            "text": " And the width of it is 88 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 79.9,
+            "end": 82.2,
+            "text": " And I will add a border here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 82.2,
+            "end": 85.2,
+            "text": " I will say border 2 pixels solid black."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 85.2,
+            "end": 87.60000000000001,
+            "text": " Or maybe I will add a background color too."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 87.60000000000001,
+            "end": 89.4,
+            "text": " And this time, I will add your favorite color."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 89.7,
+            "end": 90.7,
+            "text": " So, this is a container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 90.7,
+            "end": 91.7,
+            "text": " It is not a big deal."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 91.7,
+            "end": 92.7,
+            "text": " I have just made a container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 92.7,
+            "end": 93.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 93.2,
+            "end": 96.2,
+            "text": " So, after making this container, I will put an image in it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 96.2,
+            "end": 98.2,
+            "text": " And I will write image here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 98.2,
+            "end": 99.2,
+            "text": " And I will get an image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 99.2,
+            "end": 99.7,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 99.7,
+            "end": 100.7,
+            "text": " So, I will do one thing."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 100.7,
+            "end": 102.2,
+            "text": " I will tap open image in new."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 102.2,
+            "end": 105.2,
+            "text": " And here I have got an image which I will copy."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 105.2,
+            "end": 110.2,
+            "text": " And after copying, I will use the img tag here and put it here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 110.2,
+            "end": 110.7,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 110.7,
+            "end": 116.2,
+            "text": " And I will quickly do word wrap and along with that toggle screen cast mode."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 116.2,
+            "end": 117.7,
+            "text": " So that you can see what I am doing."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 117.7,
+            "end": 118.2,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 118.2,
+            "end": 119.2,
+            "text": " Now I will show you its preview."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 119.7,
+            "end": 121.2,
+            "text": " So, see it looks like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 121.2,
+            "end": 125.2,
+            "text": " So, you are seeing this image coming out of our container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 125.2,
+            "end": 125.7,
+            "text": " Why is it coming out?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 125.7,
+            "end": 127.2,
+            "text": " Because the image is big and the container is small."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 127.2,
+            "end": 128.2,
+            "text": " As simple as that."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 128.2,
+            "end": 129.7,
+            "text": " There is no rocket science in it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 129.7,
+            "end": 131.2,
+            "text": " So, what can I do?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 131.2,
+            "end": 132.2,
+            "text": " I can give width to this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 132.2,
+            "end": 134.2,
+            "text": " I can say, let's do one thing."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 134.2,
+            "end": 135.2,
+            "text": " It is simple."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 135.2,
+            "end": 136.2,
+            "text": " Why are you taking tension?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 136.2,
+            "end": 137.2,
+            "text": " Let's give width."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 137.2,
+            "end": 138.7,
+            "text": " If I want it to be inside this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 138.7,
+            "end": 139.7,
+            "text": " Let's give width."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 139.7,
+            "end": 141.7,
+            "text": " Suppose I give 66 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 142.7,
+            "end": 144.7,
+            "text": " And suppose I give height."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 144.7,
+            "end": 146.2,
+            "text": " 88 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 146.2,
+            "end": 147.7,
+            "text": " I have given height and width with my mind."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 147.7,
+            "end": 148.7,
+            "text": " But you know what?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 148.70000000000002,
+            "end": 150.70000000000002,
+            "text": " This image is spoiled."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 150.70000000000002,
+            "end": 154.20000000000002,
+            "text": " So, I am worried about finding its aspect ratio."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 154.20000000000002,
+            "end": 156.20000000000002,
+            "text": " What will I do better than this?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 156.20000000000002,
+            "end": 158.70000000000002,
+            "text": " Suppose I have given 466 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 158.70000000000002,
+            "end": 160.20000000000002,
+            "text": " I have given 488 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 160.20000000000002,
+            "end": 162.20000000000002,
+            "text": " Now, see this image is a little small."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 162.20000000000002,
+            "end": 163.20000000000002,
+            "text": " Its aspect ratio is not maintained."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 163.20000000000002,
+            "end": 164.20000000000002,
+            "text": " Listen carefully."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 164.20000000000002,
+            "end": 166.70000000000002,
+            "text": " What can I do to correct it?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 166.70000000000002,
+            "end": 168.70000000000002,
+            "text": " Now, either I will find its aspect ratio."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 168.70000000000002,
+            "end": 170.20000000000002,
+            "text": " That its height is this much."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 170.20000000000002,
+            "end": 171.70000000000002,
+            "text": " This is a 2 to 1 image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 171.70000000000002,
+            "end": 174.70000000000002,
+            "text": " So, if its height is 20."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 174.70000000000002,
+            "end": 175.70000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 175.70000000000002,
+            "end": 177.70000000000002,
+            "text": " So, I will calculate its width accordingly."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 177.70000000000002,
+            "end": 178.70000000000002,
+            "text": " So, in all that, I will not do anything."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 178.70000000000002,
+            "end": 181.70000000000002,
+            "text": " I will just use one property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 181.70000000000002,
+            "end": 183.70000000000002,
+            "text": " Which CSS has given me."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 183.70000000000002,
+            "end": 185.70000000000002,
+            "text": " And I respect that property a lot."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 185.70000000000002,
+            "end": 187.70000000000002,
+            "text": " And that is object fit property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 187.70000000000002,
+            "end": 189.70000000000002,
+            "text": " I will put object fit in it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 189.70000000000002,
+            "end": 191.70000000000002,
+            "text": " And listen to this carefully."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 191.70000000000002,
+            "end": 192.70000000000002,
+            "text": " Listen carefully."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 192.70000000000002,
+            "end": 193.70000000000002,
+            "text": " I am saying this with my finger."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 193.70000000000002,
+            "end": 195.70000000000002,
+            "text": " Because you won't understand."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 195.70000000000002,
+            "end": 197.70000000000002,
+            "text": " Suppose I write object fit here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 197.70000000000002,
+            "end": 198.70000000000002,
+            "text": " Cover."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 198.70000000000002,
+            "end": 200.70000000000002,
+            "text": " I will say cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 200.70000000000002,
+            "end": 201.70000000000002,
+            "text": " Not this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 201.70000000000002,
+            "end": 203.70000000000002,
+            "text": " This width and height."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 203.70000000000002,
+            "end": 205.70000000000002,
+            "text": " I am talking about this width and height."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 205.70000000000002,
+            "end": 207.70000000000002,
+            "text": " The width and height I have written in this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 207.70000000000002,
+            "end": 209.70000000000002,
+            "text": " Look, cover this much position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 209.70000000000002,
+            "end": 212.70000000000002,
+            "text": " That is, cover 466 pixels and 488 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 212.70000000000002,
+            "end": 214.70000000000002,
+            "text": " Because you won't be able to fit the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 214.70000000000002,
+            "end": 215.70000000000002,
+            "text": " So, I am saying this to the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 215.70000000000002,
+            "end": 216.70000000000002,
+            "text": " Look, the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 216.70000000000002,
+            "end": 218.70000000000002,
+            "text": " You can't fit in this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 218.70000000000002,
+            "end": 220.70000000000002,
+            "text": " Because your aspect ratio is getting spoiled."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 220.70000000000002,
+            "end": 222.70000000000002,
+            "text": " So, why don't you cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 222.70000000000002,
+            "end": 224.70000000000002,
+            "text": " Such that your aspect ratio is maintained."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 224.70000000000002,
+            "end": 226.70000000000002,
+            "text": " Cover it by doing anything."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 226.70000000000002,
+            "end": 228.70000000000002,
+            "text": " Width 466."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 228.70000000000002,
+            "end": 230.70000000000002,
+            "text": " And height 488."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 230.70000000000002,
+            "end": 231.70000000000002,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 231.70000000000002,
+            "end": 232.70000000000002,
+            "text": " So, here you see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 232.70000000000002,
+            "end": 235.70000000000002,
+            "text": " It has covered this portion by maintaining aspect ratio."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 235.70000000000002,
+            "end": 236.70000000000002,
+            "text": " Now, how will I know."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 236.70000000000002,
+            "end": 238.70000000000002,
+            "text": " It has covered this much aspect ratio."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 238.70000000000002,
+            "end": 239.70000000000002,
+            "text": " So, I will do one thing."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 239.70000000000002,
+            "end": 241.70000000000002,
+            "text": " I will make the width and height of the parent the same."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 241.70000000000002,
+            "end": 242.70000000000002,
+            "text": " See, it doesn't matter to the parent."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 242.70000000000002,
+            "end": 244.70000000000002,
+            "text": " What width and height I have given in this container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 244.70000000000002,
+            "end": 245.70000000000002,
+            "text": " It doesn't matter to that."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 245.70000000000002,
+            "end": 247.70000000000002,
+            "text": " The width and height I have given here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 247.70000000000002,
+            "end": 248.70000000000002,
+            "text": " It will be covered."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 248.70000000000002,
+            "end": 249.70000000000002,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 249.70000000000002,
+            "end": 251.70000000000002,
+            "text": " That is, by covering the object fit."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 251.70000000000002,
+            "end": 253.70000000000002,
+            "text": " It will only see its height and width."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 253.70000000000002,
+            "end": 255.70000000000002,
+            "text": " It doesn't matter to the height and width of its parent."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 255.70000000000002,
+            "end": 257.70000000000005,
+            "text": " But still, to show you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 257.70000000000005,
+            "end": 259.70000000000005,
+            "text": " I will make its width and height the same."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 259.70000000000005,
+            "end": 260.70000000000005,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 260.70000000000005,
+            "end": 261.70000000000005,
+            "text": " And I will make the height 488."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 261.70000000000005,
+            "end": 263.70000000000005,
+            "text": " So, 488."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 263.70000000000005,
+            "end": 264.70000000000005,
+            "text": " And now you see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 264.70000000000005,
+            "end": 265.70000000000005,
+            "text": " What happened by covering?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 265.7,
+            "end": 266.7,
+            "text": " It has covered it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 266.7,
+            "end": 269.7,
+            "text": " Such that aspect ratio is maintained."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 269.7,
+            "end": 271.7,
+            "text": " If I show you after inspecting."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 271.7,
+            "end": 273.7,
+            "text": " Then you see here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 273.7,
+            "end": 274.7,
+            "text": " This container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 274.7,
+            "end": 276.7,
+            "text": " See, it has covered the container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 276.7,
+            "end": 278.7,
+            "text": " And it has kept the image in such a way."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 278.7,
+            "end": 280.7,
+            "text": " That it has covered this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 280.7,
+            "end": 281.7,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 281.7,
+            "end": 282.7,
+            "text": " If I show you this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 282.7,
+            "end": 283.7,
+            "text": " Then it is like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 283.7,
+            "end": 284.7,
+            "text": " Here, it is like this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 284.7,
+            "end": 285.7,
+            "text": " Okay?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 285.7,
+            "end": 287.7,
+            "text": " But it has shown only this portion of the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 287.7,
+            "end": 288.7,
+            "text": " Now, I want."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 288.7,
+            "end": 289.7,
+            "text": " You have cut the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 289.7,
+            "end": 290.7,
+            "text": " I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 290.7,
+            "end": 291.7,
+            "text": " You have cut this portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 291.7,
+            "end": 292.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 292.7,
+            "end": 293.7,
+            "text": " See."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 293.7,
+            "end": 294.7,
+            "text": " This portion is cut."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 294.7,
+            "end": 295.7,
+            "text": " So, CSS will say to you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 295.7,
+            "end": 296.7,
+            "text": " Or browser will say to you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 296.7,
+            "end": 297.7,
+            "text": " You only said."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 297.7,
+            "end": 298.7,
+            "text": " Cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 298.7,
+            "end": 299.7,
+            "text": " I had to cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 299.7,
+            "end": 300.7,
+            "text": " To cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 300.7,
+            "end": 302.7,
+            "text": " I will have to cut from somewhere."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 302.7,
+            "end": 303.7,
+            "text": " Yes, I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 303.7,
+            "end": 304.7,
+            "text": " You will have to cut."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 304.7,
+            "end": 306.7,
+            "text": " Only then you will be able to cover this box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 306.7,
+            "end": 307.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 307.7,
+            "end": 308.7,
+            "text": " No problem."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 308.7,
+            "end": 309.7,
+            "text": " I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 309.7,
+            "end": 310.7,
+            "text": " You do one thing."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 310.7,
+            "end": 311.7,
+            "text": " Show the whole image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 311.7,
+            "end": 312.7,
+            "text": " And let space be saved."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 312.7,
+            "end": 313.7,
+            "text": " So, for that we use."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 313.7,
+            "end": 314.7,
+            "text": " Object fit contain."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 314.7,
+            "end": 316.7,
+            "text": " So, if I will contain it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 316.7,
+            "end": 318.7,
+            "text": " Then in this width and height."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 318.7,
+            "end": 319.7,
+            "text": " This object will contain."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 319.7,
+            "end": 320.7,
+            "text": " Means this image will contain."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 320.7,
+            "end": 321.7,
+            "text": " I will see the whole."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 321.7,
+            "end": 322.7,
+            "text": " And see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 322.7,
+            "end": 323.7,
+            "text": " It is showing the whole this time."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 323.7,
+            "end": 324.7,
+            "text": " But see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 324.7,
+            "end": 325.7,
+            "text": " When it will show the whole."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 325.7,
+            "end": 327.7,
+            "text": " And I have to maintain the aspect ratio."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 327.7,
+            "end": 328.7,
+            "text": " So, from here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 328.7,
+            "end": 329.7,
+            "text": " And from here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 329.7,
+            "end": 330.7,
+            "text": " Space will be saved."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 330.7,
+            "end": 331.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 331.7,
+            "end": 332.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 332.7,
+            "end": 333.7,
+            "text": " Great."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 333.7,
+            "end": 334.7,
+            "text": " So, I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 334.7,
+            "end": 335.7,
+            "text": " I don't like this space."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 335.7,
+            "end": 336.7,
+            "text": " You know."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 336.7,
+            "end": 337.7,
+            "text": " Let's revert back to."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 337.7,
+            "end": 338.7,
+            "text": " Object fit cover."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 338.7,
+            "end": 339.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 339.7,
+            "end": 340.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 340.7,
+            "end": 341.7,
+            "text": " Great."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 341.7,
+            "end": 342.7,
+            "text": " But I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 342.7,
+            "end": 343.7,
+            "text": " I like this space."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 343.7,
+            "end": 344.7,
+            "text": " Even if this portion is cut."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 344.7,
+            "end": 345.7,
+            "text": " But this one should not be cut."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 345.7,
+            "end": 346.7,
+            "text": " So, you can tell."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 346.7,
+            "end": 347.7,
+            "text": " That when it is cut."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 347.7,
+            "end": 348.7,
+            "text": " Which portion you have to show the whole."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 348.7,
+            "end": 349.7,
+            "text": " You have to show."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 349.7,
+            "end": 350.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 350.7,
+            "end": 351.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 351.7,
+            "end": 352.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 352.7,
+            "end": 353.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 353.7,
+            "end": 354.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 354.7,
+            "end": 355.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 355.7,
+            "end": 356.7,
+            "text": " This portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 356.7,
+            "end": 357.7,
+            "text": " So, you have to show."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 357.7,
+            "end": 358.7,
+            "text": " Top right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 358.7,
+            "end": 359.7,
+            "text": " You have to show."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 359.7,
+            "end": 360.7,
+            "text": " Bottom right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 360.7,
+            "end": 361.7,
+            "text": " You have to show."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 361.7,
+            "end": 362.7,
+            "text": " Left."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 362.7,
+            "end": 363.7,
+            "text": " And bottom."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 363.7,
+            "end": 364.7,
+            "text": " Left."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 364.7,
+            "end": 365.7,
+            "text": " Or you can decide."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 365.7,
+            "end": 366.7,
+            "text": " Which one you have to show."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 366.7,
+            "end": 367.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 367.7,
+            "end": 368.7,
+            "text": " So, for that."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 368.7,
+            "end": 369.7,
+            "text": " Property is."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 369.7,
+            "end": 370.7,
+            "text": " Object position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 370.7,
+            "end": 371.7,
+            "text": " So, I will say."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 371.7,
+            "end": 372.7,
+            "text": " Object position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 372.7,
+            "end": 373.7,
+            "text": " You do."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 373.7,
+            "end": 374.7,
+            "text": " Top right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 374.7,
+            "end": 375.7,
+            "text": " So, I will do."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 375.7,
+            "end": 376.7,
+            "text": " Top right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 376.7,
+            "end": 377.7,
+            "text": " Now you see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 377.7,
+            "end": 378.7,
+            "text": " It showed me the whole top right portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 378.7,
+            "end": 379.7,
+            "text": " And it cut here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 379.7,
+            "end": 380.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 380.7,
+            "end": 381.7,
+            "text": " If I say bottom right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 381.7,
+            "end": 382.7,
+            "text": " So, I will see."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 382.7,
+            "end": 383.7,
+            "text": " Bottom right."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 383.7,
+            "end": 384.7,
+            "text": " Okay."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 384.7,
+            "end": 386.7,
+            "text": " It's very simple."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 386.7,
+            "end": 388.7,
+            "text": " The bottom one is visible, the right one is visible,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 388.7,
+            "end": 390.7,
+            "text": " and the rest, I'll have to cut the image,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 390.7,
+            "end": 392.7,
+            "text": " only then I'll be able to show the whole image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 392.7,
+            "end": 394.7,
+            "text": " So this is how the object fit property works."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 394.7,
+            "end": 396.7,
+            "text": " It's a very simple property, a simple property,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 396.7,
+            "end": 398.7,
+            "text": " no problem."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 398.7,
+            "end": 400.7,
+            "text": " I hope no one has any problem till here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 400.7,
+            "end": 402.7,
+            "text": " And by learning about object fit and object cover,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 402.7,
+            "end": 404.7,
+            "text": " sorry,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 404.7,
+            "end": 406.7,
+            "text": " by learning about object position and object fit,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 406.7,
+            "end": 408.7,
+            "text": " your life will be so easy."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 408.7,
+            "end": 410.7,
+            "text": " When you see, we'll make projects,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 410.7,
+            "end": 412.7,
+            "text": " then how much we'll use this property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 412.7,
+            "end": 414.7,
+            "text": " Your life will be very easy."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 414.7,
+            "end": 416.7,
+            "text": " If you've learned this much."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 416.7,
+            "end": 418.7,
+            "text": " Now I'll move forward and tell you more."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 418.7,
+            "end": 420.7,
+            "text": " So the object fit's by default property"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 420.7,
+            "end": 422.7,
+            "text": " is fill."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 422.7,
+            "end": 424.7,
+            "text": " So if I remove this and fill it,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 424.7,
+            "end": 426.7,
+            "text": " object fit,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 426.7,
+            "end": 428.7,
+            "text": " fill it, what will happen? It'll look like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 428.7,
+            "end": 430.7,
+            "text": " Because the width I've given,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 430.7,
+            "end": 432.7,
+            "text": " and the height I've given,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 432.7,
+            "end": 434.7,
+            "text": " will be applied on the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 434.7,
+            "end": 436.7,
+            "text": " So it'll fill like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 436.7,
+            "end": 438.7,
+            "text": " The whole image will be visible but distorted."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 438.7,
+            "end": 440.7,
+            "text": " After this, one property,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 440.7,
+            "end": 442.7,
+            "text": " one value of object fit is,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 442.7,
+            "end": 444.7,
+            "text": " I'll show you, scale down."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 444.7,
+            "end": 446.7,
+            "text": " So if I scale down, it'll be smaller."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 446.7,
+            "end": 448.7,
+            "text": " The image will be scaled down."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 448.7,
+            "end": 450.7,
+            "text": " And mostly,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 450.7,
+            "end": 452.7,
+            "text": " we use object fit's contain"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 452.7,
+            "end": 454.7,
+            "text": " and cover, fill by default."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 454.7,
+            "end": 456.7,
+            "text": " If you want to reset, you can do none."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 456.7,
+            "end": 458.7,
+            "text": " So it'll be reset. I've applied object position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 458.7,
+            "end": 460.7,
+            "text": " Because of that, it looks like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 460.7,
+            "end": 462.7,
+            "text": " But if I apply scale down now,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 462.7,
+            "end": 464.7,
+            "text": " I'll show you by applying scale down,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 464.7,
+            "end": 466.7,
+            "text": " I'll remove this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 466.7,
+            "end": 468.7,
+            "text": " It'll look something like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 468.7,
+            "end": 470.7,
+            "text": " I hope you've understood this thing"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 470.7,
+            "end": 472.7,
+            "text": " and you've understood object fit."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 472.7,
+            "end": 474.7,
+            "text": " And object position property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 474.7,
+            "end": 476.7,
+            "text": " You can also specify in object fit property"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 476.7,
+            "end": 478.7,
+            "text": " how much distance you want to see the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 478.7,
+            "end": 480.7,
+            "text": " So if I don't write object position here,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 480.7,
+            "end": 482.7,
+            "text": " something like this,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 482.7,
+            "end": 484.7,
+            "text": " that I want 10 pixels,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 484.7,
+            "end": 486.7,
+            "text": " and from here,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 486.7,
+            "end": 488.7,
+            "text": " say 20 pixels."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 488.7,
+            "end": 490.7,
+            "text": " So it'll obey."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 490.7,
+            "end": 492.7,
+            "text": " I'll show you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 492.7,
+            "end": 494.7,
+            "text": " I'll cover it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 494.7,
+            "end": 496.7,
+            "text": " So if I cover it,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 496.7,
+            "end": 498.7,
+            "text": " see it increased the distance from here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 498.7,
+            "end": 500.7,
+            "text": " After covering, it took this distance from here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 500.7,
+            "end": 502.7,
+            "text": " If I tell it to contain,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 502.7,
+            "end": 504.7,
+            "text": " see it shifted the image accordingly."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 504.7,
+            "end": 506.7,
+            "text": " So you can change your object position"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 506.7,
+            "end": 508.7,
+            "text": " by doing this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 508.7,
+            "end": 510.7,
+            "text": " By using this,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 510.7,
+            "end": 512.7,
+            "text": " you can easily bring the image"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 512.7,
+            "end": 514.7,
+            "text": " wherever you want."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 514.7,
+            "end": 516.7,
+            "text": " So see, you can do something like this too."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 516.7,
+            "end": 518.7,
+            "text": " As you wish, you can use object position"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 518.7,
+            "end": 520.7,
+            "text": " or these values here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 520.7,
+            "end": 522.7,
+            "text": " You can also use percentage values."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 522.7,
+            "end": 524.7,
+            "text": " If I make it 50%,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 524.7,
+            "end": 526.7,
+            "text": " and make it 50% too,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 526.7,
+            "end": 528.7,
+            "text": " see, it'll look something like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 528.7,
+            "end": 530.7,
+            "text": " And if I make object fit here,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 530.7,
+            "end": 532.7,
+            "text": " say, cover,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 532.7,
+            "end": 534.7,
+            "text": " so see,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 534.7,
+            "end": 536.7,
+            "text": " 50% 50% means"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 536.7,
+            "end": 538.7,
+            "text": " it's showing me the center portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 538.7,
+            "end": 540.7,
+            "text": " I hope it's clear to everyone."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 540.7,
+            "end": 542.7,
+            "text": " And we're going to use it a lot in the coming videos."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 542.7,
+            "end": 544.7,
+            "text": " Now I want to tell you"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 544.7,
+            "end": 546.7,
+            "text": " about background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 546.7,
+            "end": 548.7,
+            "text": " One way is to keep an image,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 548.7,
+            "end": 550.7,
+            "text": " an image element and do all this work."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 550.7,
+            "end": 552.7,
+            "text": " But there's another way"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 552.7,
+            "end": 554.7,
+            "text": " by which we can use this image as URL"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 554.7,
+            "end": 556.7,
+            "text": " and give background to this container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 556.7,
+            "end": 558.7,
+            "text": " So I commented this out."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 558.7,
+            "end": 560.7,
+            "text": " And this image is not existing right now."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 560.7,
+            "end": 562.7,
+            "text": " So what I'll do is,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 562.7,
+            "end": 564.7,
+            "text": " instead of giving background color,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 564.7,
+            "end": 566.7,
+            "text": " I'll say,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 566.7,
+            "end": 568.7,
+            "text": " I want to give a background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 568.7,
+            "end": 570.7,
+            "text": " And I'll give"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 570.7,
+            "end": 572.7,
+            "text": " background image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 572.7,
+            "end": 574.7,
+            "text": " And I'll use the URL"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 574.7,
+            "end": 576.7,
+            "text": " and I'll put this URL in double quotes."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 576.7,
+            "end": 578.7,
+            "text": " So I'll say,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 578.7,
+            "end": 580.7,
+            "text": " set this background in this container."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 580.7,
+            "end": 582.7,
+            "text": " Now you can see this alt is equal to here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 582.7,
+            "end": 584.7,
+            "text": " I guess I've made some mistakes."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 584.7,
+            "end": 586.7,
+            "text": " I've made some mistakes in the time of commenting,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 586.7,
+            "end": 588.7,
+            "text": " which is fine."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 588.7,
+            "end": 590.7,
+            "text": " Now it's looking right here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 590.7,
+            "end": 592.7,
+            "text": " And I'll put alt is equal to here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 592.7,
+            "end": 594.7,
+            "text": " Now it's fine."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 594.7,
+            "end": 596.7,
+            "text": " So you can see here,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 596.7,
+            "end": 598.7,
+            "text": " when I give background image as URL,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 598.7,
+            "end": 600.7,
+            "text": " it's not an element but a background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 600.7,
+            "end": 602.7,
+            "text": " Now suppose I want to see the center portion"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 602.7,
+            "end": 604.7,
+            "text": " of this image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 604.7,
+            "end": 606.7,
+            "text": " So I want the background to be in this container"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 606.7,
+            "end": 608.7,
+            "text": " such that I can see the center part of the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 608.7,
+            "end": 610.7,
+            "text": " Or let us say,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 610.7,
+            "end": 612.7,
+            "text": " I can see the top right part of the image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 612.7,
+            "end": 614.7,
+            "text": " So what I can do is,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 614.7,
+            "end": 616.7,
+            "text": " I can use background position property."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 616.7,
+            "end": 618.7,
+            "text": " Suppose I say top right,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 618.7,
+            "end": 620.7,
+            "text": " I can change it to 50%"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 620.7,
+            "end": 622.7,
+            "text": " or I can also call it center center."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 622.7,
+            "end": 624.7,
+            "text": " Center center."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 624.7,
+            "end": 626.7,
+            "text": " So now I can see the center portion."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 626.7,
+            "end": 628.7,
+            "text": " Without image aspect ratio change."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 628.7,
+            "end": 630.7,
+            "text": " Now this is not an image,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 630.7,
+            "end": 632.7,
+            "text": " this is a background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 632.7,
+            "end": 634.7,
+            "text": " Sometimes many people want their images"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 634.7,
+            "end": 636.7,
+            "text": " to not be downloaded by inspect element"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 636.7,
+            "end": 638.7,
+            "text": " and noobs can't download their images."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 638.7,
+            "end": 640.7,
+            "text": " So they put the background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 640.7,
+            "end": 642.7,
+            "text": " But that also gets downloaded from here,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 642.7,
+            "end": 644.7,
+            "text": " from background image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 644.7,
+            "end": 646.7,
+            "text": " But I'm just telling you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 646.7,
+            "end": 648.7,
+            "text": " Let's put background so that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 648.7,
+            "end": 650.7,
+            "text": " the image doesn't get downloaded."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 650.7,
+            "end": 652.7,
+            "text": " And by right clicking,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 652.7,
+            "end": 654.7,
+            "text": " open image in new tab doesn't come."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 654.7,
+            "end": 656.7,
+            "text": " When you put background,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 656.7,
+            "end": 658.7,
+            "text": " there is no option of open image in new tab."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 658.7,
+            "end": 660.7,
+            "text": " So you have to save the image from downloading."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 660.7,
+            "end": 662.7,
+            "text": " You can't save it from noobs."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 662.7,
+            "end": 664.7,
+            "text": " If you want to save it from script kiddies,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 664.7,
+            "end": 666.7,
+            "text": " then you can save it from this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 666.7,
+            "end": 668.7,
+            "text": " So this was about background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 668.7,
+            "end": 670.7,
+            "text": " Now I told you about background position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 670.7,
+            "end": 672.7,
+            "text": " I told you about background image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 672.7,
+            "end": 674.7,
+            "text": " Then what happens is,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 674.7,
+            "end": 676.7,
+            "text": " that if you put a small image"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 676.7,
+            "end": 678.7,
+            "text": " in background,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 678.7,
+            "end": 680.7,
+            "text": " I didn't put background position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 680.7,
+            "end": 682.7,
+            "text": " And I put a background image"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 682.7,
+            "end": 684.7,
+            "text": " which is a small image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 684.7,
+            "end": 686.7,
+            "text": " So let me give you an example of a small image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 686.7,
+            "end": 688.7,
+            "text": " I just want a small image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 688.7,
+            "end": 690.7,
+            "text": " Let me open a website."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 690.7,
+            "end": 692.7,
+            "text": " I don't know which website is opening."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 692.7,
+            "end": 694.7,
+            "text": " Let me open this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 694.7,
+            "end": 696.7,
+            "text": " And I just want a small image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 696.7,
+            "end": 698.7,
+            "text": " Open image in new tab."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 698.7,
+            "end": 700.7,
+            "text": " Now see they have put background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 700.7,
+            "end": 702.7,
+            "text": " No, this is their image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 702.7,
+            "end": 704.7,
+            "text": " This is a small image."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 704.7,
+            "end": 706.7,
+            "text": " Let's copy this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 706.7,
+            "end": 708.7,
+            "text": " I just want to show you that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 708.7,
+            "end": 710.7,
+            "text": " this image is repeated."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 710.7,
+            "end": 712.7,
+            "text": " This image is repeated in y."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 712.7,
+            "end": 714.7,
+            "text": " If it was small in x, then it would have been repeated."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 714.7,
+            "end": 716.7,
+            "text": " So if you put background,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 716.7,
+            "end": 718.7,
+            "text": " then by default it is repeated."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 718.7,
+            "end": 720.7,
+            "text": " To remove this repeat property,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 720.7,
+            "end": 722.7,
+            "text": " you use background repeat."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 722.7,
+            "end": 724.7,
+            "text": " If you write no repeat,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 724.7,
+            "end": 726.7,
+            "text": " then it will be repeated in x and y."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 726.7,
+            "end": 728.7,
+            "text": " If you write repeat x,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 728.7,
+            "end": 730.7,
+            "text": " then if it is small,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 730.7,
+            "end": 732.7,
+            "text": " if the width of the background image is small,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 732.7,
+            "end": 734.7,
+            "text": " then it will be repeated in x."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 734.7,
+            "end": 736.7,
+            "text": " It will not be repeated in y."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 736.7,
+            "end": 738.7,
+            "text": " It will be repeated in x and not in y."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 738.7,
+            "end": 740.7,
+            "text": " It doesn't need to be repeated in x."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 740.7,
+            "end": 742.7,
+            "text": " By the way, it is getting repeated."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 742.7,
+            "end": 744.7,
+            "text": " Let me zoom in and show you."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 744.7,
+            "end": 746.7,
+            "text": " It is getting repeated from here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 746.7,
+            "end": 748.7,
+            "text": " Its width was almost covered."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 748.7,
+            "end": 750.7,
+            "text": " But it was getting repeated in y."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 750.7,
+            "end": 752.7,
+            "text": " If you don't want it to be repeated,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 752.7,
+            "end": 754.7,
+            "text": " then write no repeat."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 754.7,
+            "end": 756.7,
+            "text": " In most of the cases,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 756.7,
+            "end": 758.7,
+            "text": " if you write no repeat,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 758.7,
+            "end": 760.7,
+            "text": " then it will look like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 760.7,
+            "end": 762.7,
+            "text": " If you want it to be in the center,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 762.7,
+            "end": 764.7,
+            "text": " then you can use background position."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 764.7,
+            "end": 766.7,
+            "text": " Sometimes it happens that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 766.7,
+            "end": 768.7,
+            "text": " our background image is very big"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 768.7,
+            "end": 770.7,
+            "text": " and you just want to show the center part,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 770.7,
+            "end": 772.7,
+            "text": " top right part or top left part."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 772.7,
+            "end": 774.7,
+            "text": " Then you can use these properties."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 774.7,
+            "end": 776.7,
+            "text": " So these were some properties related to background."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 776.7,
+            "end": 778.7,
+            "text": " I hope you understood."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 778.7,
+            "end": 780.7,
+            "text": " Then we have"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 780.7,
+            "end": 782.7,
+            "text": " background repeat here."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 782.7,
+            "end": 784.7,
+            "text": " Let me tell you about background clip."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 784.7,
+            "end": 786.7,
+            "text": " In background clip,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 786.7,
+            "end": 788.7,
+            "text": " you can write border box or padding box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 788.7,
+            "end": 790.7,
+            "text": " I will show you what it means"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 790.7,
+            "end": 792.7,
+            "text": " by going to MDN reference."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 792.7,
+            "end": 794.7,
+            "text": " You will understand it clearly."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 794.7,
+            "end": 796.7,
+            "text": " Background clip is border box."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 796.7,
+            "end": 798.7,
+            "text": " So this is your content."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 798.7,
+            "end": 800.7,
+            "text": " If you do padding box,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 800.7,
+            "end": 802.7,
+            "text": " then your content comes after padding."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 802.7,
+            "end": 804.7,
+            "text": " If you do content box,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 804.7,
+            "end": 806.7,
+            "text": " then your content comes inside."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 806.7,
+            "end": 808.7,
+            "text": " This padding does not come in the count."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 808.7,
+            "end": 810.7,
+            "text": " To be honest, this background clip property"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 810.7,
+            "end": 812.7,
+            "text": " is rarely used."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 812.7,
+            "end": 814.7,
+            "text": " But it is good to know."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 814.7,
+            "end": 816.7,
+            "text": " I would like to say one more thing in this video."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 816.7,
+            "end": 818.7,
+            "text": " There will be many properties"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 818.7,
+            "end": 820.7,
+            "text": " which you will explore yourself."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 820.7,
+            "end": 822.7,
+            "text": " But what I am teaching in this course,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 822.7,
+            "end": 824.7,
+            "text": " I have told you 99.9% of everything."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 824.7,
+            "end": 826.7,
+            "text": " So you don't need to take tension."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 826.7,
+            "end": 828.7,
+            "text": " So I hope you liked all these properties."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 828.7,
+            "end": 830.7,
+            "text": " I will put the code"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 830.7,
+            "end": 832.7,
+            "text": " on GitHub."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 832.7,
+            "end": 834.7,
+            "text": " It is getting updated."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 834.7,
+            "end": 836.7,
+            "text": " If you have not accessed the playlist,"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 836.7,
+            "end": 838.7,
+            "text": " then click here and bookmark and save it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 838.7,
+            "end": 840.7,
+            "text": " I have a request in this video."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 840.7,
+            "end": 842.7,
+            "text": " Go to the first video"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 842.7,
+            "end": 844.7,
+            "text": " and review this course."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 844.7,
+            "end": 846.7,
+            "text": " How many stars do you want to give"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 846.7,
+            "end": 848.7,
+            "text": " to this free course?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 848.7,
+            "end": 850.7,
+            "text": " Please tell me in the comments."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 850.7,
+            "end": 852.7,
+            "text": " This is a free course."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 852.7,
+            "end": 854.7,
+            "text": " This course is taken very lightly."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 854.7,
+            "end": 856.7,
+            "text": " I will tell you that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 856.7,
+            "end": 858.7,
+            "text": " I have put all those things in this course."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 858.7,
+            "end": 860.7,
+            "text": " I will say that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 860.7,
+            "end": 862.7,
+            "text": " no one has given in any paid course."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 862.7,
+            "end": 864.7,
+            "text": " I will not say that I can't give."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 864.7,
+            "end": 866.7,
+            "text": " I don't talk like this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 866.7,
+            "end": 868.7,
+            "text": " Everyone can do everything."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 868.7,
+            "end": 870.7,
+            "text": " And only one of you can make a better course."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 870.7,
+            "end": 872.7,
+            "text": " I don't talk about capabilities."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 872.7,
+            "end": 874.7,
+            "text": " No one can do this."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 874.7,
+            "end": 876.7,
+            "text": " But this is the best course"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 876.7,
+            "end": 878.7,
+            "text": " of web development."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 878.7,
+            "end": 880.7,
+            "text": " I want you to access it."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 880.7,
+            "end": 882.7,
+            "text": " I have made it with so much effort."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 882.7,
+            "end": 884.7,
+            "text": " Go to the first video and tell me that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 884.7,
+            "end": 886.7,
+            "text": " how much knowledge is there in this course?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 886.7,
+            "end": 888.7,
+            "text": " What kind of teaching is there?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 888.7,
+            "end": 890.7,
+            "text": " What kind of learning is there?"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 890.7,
+            "end": 892.7,
+            "text": " Best is yet to come."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 892.7,
+            "end": 894.7,
+            "text": " We are going to make very good projects."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 894.7,
+            "end": 896.7,
+            "text": " My request is that"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 896.7,
+            "end": 898.7,
+            "text": " you go to the first video"
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 898.7,
+            "end": 900.7,
+            "text": " and put your review."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 900.7,
+            "end": 902.7,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 902.7,
+            "end": 904.7,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "49",
+            "title": "720p",
+            "start": 914.7,
+            "end": 916.7,
+            "text": " Bye."
+        }
+    ],
+    "text": " Today we will talk about object fit and object position properties. Sometimes in a container, we have to keep an image in such a way such that it is fully covered in its width or it is fully fit while maintaining its aspect ratio in that container. To do such things, we use object fit property. And I will also cover the object cover property in detail in this video. You guys do like this video and do write sigma batch op in the comment section below. Let's go to the computer screen. Let's roll the intro. This object fit property and object position property solves a very big problem in CSS and web development. Let me show you what it is. First of all, I have already made index.html in video 49. I will add boilerplate template. And I will tell you about CSS object fit and position. Okay? And after that, we will talk about background position. Okay? So, what I will do now is I will make a container. Okay? I have made a container. I said, this is a container. I will write some styles. And in style, I will write that the height of the container is 34 pixels. And the width of it is 88 pixels. And I will add a border here. I will say border 2 pixels solid black. Or maybe I will add a background color too. And this time, I will add your favorite color. So, this is a container. It is not a big deal. I have just made a container. Okay? So, after making this container, I will put an image in it. And I will write image here. And I will get an image. Okay? So, I will do one thing. I will tap open image in new. And here I have got an image which I will copy. And after copying, I will use the img tag here and put it here. Okay? And I will quickly do word wrap and along with that toggle screen cast mode. So that you can see what I am doing. Okay? Now I will show you its preview. So, see it looks like this. So, you are seeing this image coming out of our container. Why is it coming out? Because the image is big and the container is small. As simple as that. There is no rocket science in it. So, what can I do? I can give width to this image. I can say, let's do one thing. It is simple. Why are you taking tension? Let's give width. If I want it to be inside this. Let's give width. Suppose I give 66 pixels. And suppose I give height. 88 pixels. I have given height and width with my mind. But you know what? This image is spoiled. So, I am worried about finding its aspect ratio. What will I do better than this? Suppose I have given 466 pixels. I have given 488 pixels. Now, see this image is a little small. Its aspect ratio is not maintained. Listen carefully. What can I do to correct it? Now, either I will find its aspect ratio. That its height is this much. This is a 2 to 1 image. So, if its height is 20. Okay? So, I will calculate its width accordingly. So, in all that, I will not do anything. I will just use one property. Which CSS has given me. And I respect that property a lot. And that is object fit property. I will put object fit in it. And listen to this carefully. Listen carefully. I am saying this with my finger. Because you won't understand. Suppose I write object fit here. Cover. I will say cover this box. Not this box. This width and height. I am talking about this width and height. The width and height I have written in this image. Look, cover this much position. That is, cover 466 pixels and 488 pixels. Because you won't be able to fit the image. So, I am saying this to the image. Look, the image. You can't fit in this box. Because your aspect ratio is getting spoiled. So, why don't you cover this box. Such that your aspect ratio is maintained. Cover it by doing anything. Width 466. And height 488. Okay? So, here you see. It has covered this portion by maintaining aspect ratio. Now, how will I know. It has covered this much aspect ratio. So, I will do one thing. I will make the width and height of the parent the same. See, it doesn't matter to the parent. What width and height I have given in this container. It doesn't matter to that. The width and height I have given here. It will be covered. Do you understand? That is, by covering the object fit. It will only see its height and width. It doesn't matter to the height and width of its parent. But still, to show you. I will make its width and height the same. Okay? And I will make the height 488. So, 488. And now you see. What happened by covering? It has covered it. Such that aspect ratio is maintained. If I show you after inspecting. Then you see here. This container. See, it has covered the container. And it has kept the image in such a way. That it has covered this image. Do you understand? If I show you this image. Then it is like this. Here, it is like this image. Okay? But it has shown only this portion of the image. Now, I want. You have cut the image. I will say. You have cut this portion. This portion. See. This portion is cut. So, CSS will say to you. Or browser will say to you. You only said. Cover this box. I had to cover this box. To cover this box. I will have to cut from somewhere. Yes, I will say. You will have to cut. Only then you will be able to cover this box. Okay. No problem. I will say. You do one thing. Show the whole image. And let space be saved. So, for that we use. Object fit contain. So, if I will contain it. Then in this width and height. This object will contain. Means this image will contain. I will see the whole. And see. It is showing the whole this time. But see. When it will show the whole. And I have to maintain the aspect ratio. So, from here. And from here. Space will be saved. Okay. Okay. Great. So, I will say. I don't like this space. You know. Let's revert back to. Object fit cover. Okay. Okay. Great. But I will say. I like this space. Even if this portion is cut. But this one should not be cut. So, you can tell. That when it is cut. Which portion you have to show the whole. You have to show. This portion. This portion. This portion. This portion. This portion. This portion. This portion. So, you have to show. Top right. You have to show. Bottom right. You have to show. Left. And bottom. Left. Or you can decide. Which one you have to show. Okay. So, for that. Property is. Object position. So, I will say. Object position. You do. Top right. So, I will do. Top right. Now you see. It showed me the whole top right portion. And it cut here. Okay. If I say bottom right. So, I will see. Bottom right. Okay. It's very simple. The bottom one is visible, the right one is visible, and the rest, I'll have to cut the image, only then I'll be able to show the whole image. So this is how the object fit property works. It's a very simple property, a simple property, no problem. I hope no one has any problem till here. And by learning about object fit and object cover, sorry, by learning about object position and object fit, your life will be so easy. When you see, we'll make projects, then how much we'll use this property. Your life will be very easy. If you've learned this much. Now I'll move forward and tell you more. So the object fit's by default property is fill. So if I remove this and fill it, object fit, fill it, what will happen? It'll look like this. Because the width I've given, and the height I've given, will be applied on the image. So it'll fill like this. The whole image will be visible but distorted. After this, one property, one value of object fit is, I'll show you, scale down. So if I scale down, it'll be smaller. The image will be scaled down. And mostly, we use object fit's contain and cover, fill by default. If you want to reset, you can do none. So it'll be reset. I've applied object position. Because of that, it looks like this. But if I apply scale down now, I'll show you by applying scale down, I'll remove this. It'll look something like this. I hope you've understood this thing and you've understood object fit. And object position property. You can also specify in object fit property how much distance you want to see the image. So if I don't write object position here, something like this, that I want 10 pixels, and from here, say 20 pixels. So it'll obey. I'll show you. I'll cover it. So if I cover it, see it increased the distance from here. After covering, it took this distance from here. If I tell it to contain, see it shifted the image accordingly. So you can change your object position by doing this. By using this, you can easily bring the image wherever you want. So see, you can do something like this too. As you wish, you can use object position or these values here. You can also use percentage values. If I make it 50%, and make it 50% too, see, it'll look something like this. And if I make object fit here, say, cover, so see, 50% 50% means it's showing me the center portion. I hope it's clear to everyone. And we're going to use it a lot in the coming videos. Now I want to tell you about background. One way is to keep an image, an image element and do all this work. But there's another way by which we can use this image as URL and give background to this container. So I commented this out. And this image is not existing right now. So what I'll do is, instead of giving background color, I'll say, I want to give a background. And I'll give background image. And I'll use the URL and I'll put this URL in double quotes. So I'll say, set this background in this container. Now you can see this alt is equal to here. I guess I've made some mistakes. I've made some mistakes in the time of commenting, which is fine. Now it's looking right here. And I'll put alt is equal to here. Now it's fine. So you can see here, when I give background image as URL, it's not an element but a background. Now suppose I want to see the center portion of this image. So I want the background to be in this container such that I can see the center part of the image. Or let us say, I can see the top right part of the image. So what I can do is, I can use background position property. Suppose I say top right, I can change it to 50% or I can also call it center center. Center center. So now I can see the center portion. Without image aspect ratio change. Now this is not an image, this is a background. Sometimes many people want their images to not be downloaded by inspect element and noobs can't download their images. So they put the background. But that also gets downloaded from here, from background image. But I'm just telling you. Let's put background so that the image doesn't get downloaded. And by right clicking, open image in new tab doesn't come. When you put background, there is no option of open image in new tab. So you have to save the image from downloading. You can't save it from noobs. If you want to save it from script kiddies, then you can save it from this. So this was about background. Now I told you about background position. I told you about background image. Then what happens is, that if you put a small image in background, I didn't put background position. And I put a background image which is a small image. So let me give you an example of a small image. I just want a small image. Let me open a website. I don't know which website is opening. Let me open this. And I just want a small image. Open image in new tab. Now see they have put background. No, this is their image. This is a small image. Let's copy this. I just want to show you that this image is repeated. This image is repeated in y. If it was small in x, then it would have been repeated. So if you put background, then by default it is repeated. To remove this repeat property, you use background repeat. If you write no repeat, then it will be repeated in x and y. If you write repeat x, then if it is small, if the width of the background image is small, then it will be repeated in x. It will not be repeated in y. It will be repeated in x and not in y. It doesn't need to be repeated in x. By the way, it is getting repeated. Let me zoom in and show you. It is getting repeated from here. Its width was almost covered. But it was getting repeated in y. If you don't want it to be repeated, then write no repeat. In most of the cases, if you write no repeat, then it will look like this. If you want it to be in the center, then you can use background position. Sometimes it happens that our background image is very big and you just want to show the center part, top right part or top left part. Then you can use these properties. So these were some properties related to background. I hope you understood. Then we have background repeat here. Let me tell you about background clip. In background clip, you can write border box or padding box. I will show you what it means by going to MDN reference. You will understand it clearly. Background clip is border box. So this is your content. If you do padding box, then your content comes after padding. If you do content box, then your content comes inside. This padding does not come in the count. To be honest, this background clip property is rarely used. But it is good to know. I would like to say one more thing in this video. There will be many properties which you will explore yourself. But what I am teaching in this course, I have told you 99.9% of everything. So you don't need to take tension. So I hope you liked all these properties. I will put the code on GitHub. It is getting updated. If you have not accessed the playlist, then click here and bookmark and save it. I have a request in this video. Go to the first video and review this course. How many stars do you want to give to this free course? Please tell me in the comments. This is a free course. This course is taken very lightly. I will tell you that I have put all those things in this course. I will say that no one has given in any paid course. I will not say that I can't give. I don't talk like this. Everyone can do everything. And only one of you can make a better course. I don't talk about capabilities. No one can do this. But this is the best course of web development. I want you to access it. I have made it with so much effort. Go to the first video and tell me that how much knowledge is there in this course? What kind of teaching is there? What kind of learning is there? Best is yet to come. We are going to make very good projects. My request is that you go to the first video and put your review. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}
